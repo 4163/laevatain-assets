@@ -1,0 +1,46 @@
+{
+  "source_asset_path": "assets/beyond/dynamicassets/gameplay/effects/prefabs/p_laevat_ui_overview_start_01_huoxing_right.prefab",
+  "bundle_container": "main/4e2f65e8de78666ac198b712.ab",
+  "objects": [
+    {
+      "type": "GameObject",
+      "name": "huoxing_right",
+      "path_id": -7915064706392364885
+    },
+    {
+      "type": "GameObject",
+      "name": "P_laevat_ui_overview_start_01_huoxing_right",
+      "path_id": -7898064163261028181
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -951323012066875221
+    },
+    {
+      "type": "AssetBundle",
+      "name": "main/4e2f65e8de78666ac198b712.ab",
+      "path_id": 1
+    },
+    {
+      "type": "ParticleSystem",
+      "name": "",
+      "path_id": 4268289075241380011
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 5430640238392141995
+    },
+    {
+      "type": "ParticleSystemRenderer",
+      "name": "",
+      "path_id": 8369238897975191723
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 8520797852576409771
+    }
+  ]
+}

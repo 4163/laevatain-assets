@@ -1,0 +1,26 @@
+{
+  "source_asset_path": "assets/beyond/dynamicassets/gameplay/effects/prefabs/p_laevat_ui_overview_start_01_asset.prefab",
+  "bundle_container": "main/3ef00da02382dd3a21c7219a.ab",
+  "objects": [
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -6205797005089390841
+    },
+    {
+      "type": "AssetBundle",
+      "name": "main/3ef00da02382dd3a21c7219a.ab",
+      "path_id": 1
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 3431794784681180935
+    },
+    {
+      "type": "GameObject",
+      "name": "P_laevat_ui_overview_start_01_asset",
+      "path_id": 5937852578507112199
+    }
+  ]
+}

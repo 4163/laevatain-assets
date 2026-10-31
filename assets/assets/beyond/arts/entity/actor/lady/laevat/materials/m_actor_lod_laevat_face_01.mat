@@ -1,0 +1,16 @@
+{
+  "source_asset_path": "assets/beyond/arts/entity/actor/lady/laevat/materials/m_actor_lod_laevat_face_01.mat",
+  "bundle_container": "main/39f1ac79b066a7be7fb400e8.ab",
+  "objects": [
+    {
+      "type": "Material",
+      "name": "M_actor_lod_laevat_face_01",
+      "path_id": -6130996992293234141
+    },
+    {
+      "type": "AssetBundle",
+      "name": "main/39f1ac79b066a7be7fb400e8.ab",
+      "path_id": 1
+    }
+  ]
+}

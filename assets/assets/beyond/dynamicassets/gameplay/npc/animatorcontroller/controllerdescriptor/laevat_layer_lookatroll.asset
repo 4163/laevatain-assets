@@ -1,0 +1,16 @@
+{
+  "source_asset_path": "assets/beyond/dynamicassets/gameplay/npc/animatorcontroller/controllerdescriptor/laevat_layer_lookatroll.asset",
+  "bundle_container": "main/deff2f3a9d4c4039eb3956c2.ab",
+  "objects": [
+    {
+      "type": "AssetBundle",
+      "name": "main/deff2f3a9d4c4039eb3956c2.ab",
+      "path_id": 1
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "laevat_layer_lookatRoll",
+      "path_id": 671962356166461893
+    }
+  ]
+}

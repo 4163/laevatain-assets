@@ -1,0 +1,16 @@
+{
+  "source_asset_path": "assets/beyond/dynamicassets/gameplay/guide/guide_laevat_chartrain01_04.asset",
+  "bundle_container": "main/f5273f07d652831d40aebb06.ab",
+  "objects": [
+    {
+      "type": "AssetBundle",
+      "name": "main/f5273f07d652831d40aebb06.ab",
+      "path_id": 1
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "guide_laevat_chartrain01_04",
+      "path_id": 6396705975156102229
+    }
+  ]
+}

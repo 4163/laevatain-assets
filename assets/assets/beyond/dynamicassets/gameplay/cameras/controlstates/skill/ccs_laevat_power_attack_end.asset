@@ -1,0 +1,16 @@
+{
+  "source_asset_path": "assets/beyond/dynamicassets/gameplay/cameras/controlstates/skill/ccs_laevat_power_attack_end.asset",
+  "bundle_container": "main/d907525d986fc0fb5e5b10e6.ab",
+  "objects": [
+    {
+      "type": "AssetBundle",
+      "name": "main/d907525d986fc0fb5e5b10e6.ab",
+      "path_id": 1
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "CCS_laevat_power_attack_end",
+      "path_id": 4256794420837952274
+    }
+  ]
+}

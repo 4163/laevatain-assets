@@ -1,0 +1,26 @@
+{
+  "source_asset_path": "assets/beyond/arts/entity/actor/lady/laevat/animations/dialog/a_actor_laevat_dialog_state_pointsword.fbx",
+  "bundle_container": "main/2f79649099fccad4fd137f7a.ab",
+  "objects": [
+    {
+      "type": "AnimationClip",
+      "name": "A_actor_laevat_dialog_state_pointsword_start",
+      "path_id": -8328541079458743783
+    },
+    {
+      "type": "AssetBundle",
+      "name": "main/2f79649099fccad4fd137f7a.ab",
+      "path_id": 1
+    },
+    {
+      "type": "AnimationClip",
+      "name": "A_actor_laevat_dialog_state_pointsword_end",
+      "path_id": 3176142562800630297
+    },
+    {
+      "type": "AnimationClip",
+      "name": "A_actor_laevat_dialog_state_pointsword_loop",
+      "path_id": 8576582806604085785
+    }
+  ]
+}

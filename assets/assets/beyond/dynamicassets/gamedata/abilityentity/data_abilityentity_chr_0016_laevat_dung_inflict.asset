@@ -1,0 +1,16 @@
+{
+  "source_asset_path": "assets/beyond/dynamicassets/gamedata/abilityentity/data_abilityentity_chr_0016_laevat_dung_inflict.asset",
+  "bundle_container": "main/aadb9ae3483ceff28c20c698.ab",
+  "objects": [
+    {
+      "type": "MonoBehaviour",
+      "name": "data_abilityentity_chr_0016_laevat_dung_inflict",
+      "path_id": -7385169245905912835
+    },
+    {
+      "type": "AssetBundle",
+      "name": "main/aadb9ae3483ceff28c20c698.ab",
+      "path_id": 1
+    }
+  ]
+}

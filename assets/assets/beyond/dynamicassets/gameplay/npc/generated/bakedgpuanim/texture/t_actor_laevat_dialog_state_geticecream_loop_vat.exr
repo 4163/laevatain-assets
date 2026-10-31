@@ -1,0 +1,16 @@
+{
+  "source_asset_path": "assets/beyond/dynamicassets/gameplay/npc/generated/bakedgpuanim/texture/t_actor_laevat_dialog_state_geticecream_loop_vat.exr",
+  "bundle_container": "main/e52c9e0720013887f2904893.ab",
+  "objects": [
+    {
+      "type": "AssetBundle",
+      "name": "main/e52c9e0720013887f2904893.ab",
+      "path_id": 1
+    },
+    {
+      "type": "Texture2D",
+      "name": "T_actor_laevat_dialog_state_geticecream_loop_VAT",
+      "path_id": 4987886706209163422
+    }
+  ]
+}

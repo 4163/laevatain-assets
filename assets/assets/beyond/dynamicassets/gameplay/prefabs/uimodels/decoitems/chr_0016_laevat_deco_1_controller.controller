@@ -1,0 +1,16 @@
+{
+  "source_asset_path": "assets/beyond/dynamicassets/gameplay/prefabs/uimodels/decoitems/chr_0016_laevat_deco_1_controller.controller",
+  "bundle_container": "main/7dd3610aa57c11cbf5053b88.ab",
+  "objects": [
+    {
+      "type": "AnimatorController",
+      "name": "chr_0016_laevat_deco_1_controller",
+      "path_id": -8982468630784852873
+    },
+    {
+      "type": "AssetBundle",
+      "name": "main/7dd3610aa57c11cbf5053b88.ab",
+      "path_id": 1
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "source_asset_path": "assets/beyond/dynamicassets/gameplay/effects/prefabs/p_laevat_skill_ult_cloth_02_start_asset.prefab",
+  "bundle_container": "main/b87d5d6b6d4aac9d71862b44.ab",
+  "objects": [
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -5307256406365394448
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -4285271753115719184
+    },
+    {
+      "type": "GameObject",
+      "name": "P_laevat_skill_ult_cloth_02_start_asset",
+      "path_id": -2772535737042425360
+    },
+    {
+      "type": "AssetBundle",
+      "name": "main/b87d5d6b6d4aac9d71862b44.ab",
+      "path_id": 1
+    }
+  ]
+}

@@ -1,0 +1,196 @@
+{
+  "source_asset_path": "assets/beyond/dynamicassets/gameplay/effects/prefabs/p_fxbat_laevat_attack_02_crack_02.prefab",
+  "bundle_container": "main/a5300624c8a81373686394b9.ab",
+  "objects": [
+    {
+      "type": "ParticleSystem",
+      "name": "",
+      "path_id": -8916033825990541158
+    },
+    {
+      "type": "Animator",
+      "name": "",
+      "path_id": -7772923823262302054
+    },
+    {
+      "type": "GameObject",
+      "name": "Smoke_02 (3)",
+      "path_id": -7720809528303583078
+    },
+    {
+      "type": "ParticleSystemRenderer",
+      "name": "",
+      "path_id": -7102721906208767846
+    },
+    {
+      "type": "GameObject",
+      "name": "dilie",
+      "path_id": -5226037323964907366
+    },
+    {
+      "type": "GameObject",
+      "name": "PC",
+      "path_id": -4862495455156207462
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -4645163406937980774
+    },
+    {
+      "type": "MeshFilter",
+      "name": "",
+      "path_id": -4002908299263967078
+    },
+    {
+      "type": "ParticleSystemRenderer",
+      "name": "",
+      "path_id": -3911914286808268646
+    },
+    {
+      "type": "GameObject",
+      "name": "dilie",
+      "path_id": -3297157917810982758
+    },
+    {
+      "type": "MeshRenderer",
+      "name": "",
+      "path_id": -3149094946786606950
+    },
+    {
+      "type": "ParticleSystem",
+      "name": "",
+      "path_id": -3047264635864186726
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -2713204239627288422
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -2676741827070623590
+    },
+    {
+      "type": "GameObject",
+      "name": "lizi (1)",
+      "path_id": -2288221612939902822
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -1414164097280933734
+    },
+    {
+      "type": "ParticleSystem",
+      "name": "",
+      "path_id": -1341431560193867622
+    },
+    {
+      "type": "GameObject",
+      "name": "P_fxbat_laevat_attack_02_crack_02",
+      "path_id": -362490903655579494
+    },
+    {
+      "type": "GameObject",
+      "name": "guangci002 (5)",
+      "path_id": -265321453904428902
+    },
+    {
+      "type": "ParticleSystem",
+      "name": "",
+      "path_id": -257961427044237158
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -71323670661594982
+    },
+    {
+      "type": "AssetBundle",
+      "name": "main/a5300624c8a81373686394b9.ab",
+      "path_id": 1
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 1046556292807557274
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 1610201889862287514
+    },
+    {
+      "type": "GameObject",
+      "name": "blur",
+      "path_id": 1918265092982079642
+    },
+    {
+      "type": "ParticleSystemRenderer",
+      "name": "",
+      "path_id": 2094791592682750106
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 2116730712702091418
+    },
+    {
+      "type": "ParticleSystem",
+      "name": "",
+      "path_id": 3121014883547447450
+    },
+    {
+      "type": "GameObject",
+      "name": "smoke2 (1)",
+      "path_id": 3630203444496269466
+    },
+    {
+      "type": "ParticleSystem",
+      "name": "",
+      "path_id": 4222719981901873306
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 5228572619709841562
+    },
+    {
+      "type": "ParticleSystemRenderer",
+      "name": "",
+      "path_id": 5676648832869630106
+    },
+    {
+      "type": "GameObject",
+      "name": "p_flash01 (1)",
+      "path_id": 7445897841479352474
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 7691337348180639898
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 7857451701899395226
+    },
+    {
+      "type": "ParticleSystemRenderer",
+      "name": "",
+      "path_id": 8538926030005305498
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 8971775337952149658
+    },
+    {
+      "type": "ParticleSystemRenderer",
+      "name": "",
+      "path_id": 9048348926210900122
+    }
+  ]
+}

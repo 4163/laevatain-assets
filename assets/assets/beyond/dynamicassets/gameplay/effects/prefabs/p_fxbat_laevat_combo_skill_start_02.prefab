@@ -1,0 +1,86 @@
+{
+  "source_asset_path": "assets/beyond/dynamicassets/gameplay/effects/prefabs/p_fxbat_laevat_combo_skill_start_02.prefab",
+  "bundle_container": "main/15c2014cab1fad8903fbbfce.ab",
+  "objects": [
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -9076132143304201950
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -8805783981347100382
+    },
+    {
+      "type": "ParticleSystemRenderer",
+      "name": "",
+      "path_id": -8473001376333092574
+    },
+    {
+      "type": "GameObject",
+      "name": "fire_quan001",
+      "path_id": -8043812323081246430
+    },
+    {
+      "type": "GameObject",
+      "name": "xuli001",
+      "path_id": -7138176996716500702
+    },
+    {
+      "type": "GameObject",
+      "name": "P_fxbat_laevat_combo_skill_start_02",
+      "path_id": -6824255971469940446
+    },
+    {
+      "type": "ParticleSystemRenderer",
+      "name": "",
+      "path_id": -6431424314218305246
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -6256598873080911582
+    },
+    {
+      "type": "ParticleSystem",
+      "name": "",
+      "path_id": -4191239986288645854
+    },
+    {
+      "type": "AssetBundle",
+      "name": "main/15c2014cab1fad8903fbbfce.ab",
+      "path_id": 1
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 1224116934200535330
+    },
+    {
+      "type": "ParticleSystem",
+      "name": "",
+      "path_id": 1651629512890263842
+    },
+    {
+      "type": "GameObject",
+      "name": "fire001",
+      "path_id": 3688897586950252834
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 4056838677134584098
+    },
+    {
+      "type": "GameObject",
+      "name": "internal",
+      "path_id": 4399231722637437218
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 7033529302494685474
+    }
+  ]
+}

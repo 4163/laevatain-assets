@@ -1,0 +1,16 @@
+{
+  "source_asset_path": "assets/beyond/dynamicassets/gameplay/npc/montagenew/humanoid/particular/lady/laevat/data_npc_montage_lady_laevat_memory04.asset",
+  "bundle_container": "main/098b82c4a3bdbf3400f61a36.ab",
+  "objects": [
+    {
+      "type": "MonoBehaviour",
+      "name": "data_npc_montage_lady_laevat_memory04",
+      "path_id": -1173750877967297623
+    },
+    {
+      "type": "AssetBundle",
+      "name": "main/098b82c4a3bdbf3400f61a36.ab",
+      "path_id": 1
+    }
+  ]
+}

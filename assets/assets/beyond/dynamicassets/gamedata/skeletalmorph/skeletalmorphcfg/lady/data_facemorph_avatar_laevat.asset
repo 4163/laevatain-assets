@@ -1,0 +1,16 @@
+{
+  "source_asset_path": "assets/beyond/dynamicassets/gamedata/skeletalmorph/skeletalmorphcfg/lady/data_facemorph_avatar_laevat.asset",
+  "bundle_container": "main/767adb4d29f3d1dcb104e250.ab",
+  "objects": [
+    {
+      "type": "AssetBundle",
+      "name": "main/767adb4d29f3d1dcb104e250.ab",
+      "path_id": 1
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "data_facemorph_avatar_laevat",
+      "path_id": 5723910830134522356
+    }
+  ]
+}

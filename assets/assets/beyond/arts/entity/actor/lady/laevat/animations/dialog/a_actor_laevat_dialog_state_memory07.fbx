@@ -1,0 +1,16 @@
+{
+  "source_asset_path": "assets/beyond/arts/entity/actor/lady/laevat/animations/dialog/a_actor_laevat_dialog_state_memory07.fbx",
+  "bundle_container": "main/dbfab6f6347214769ffd43de.ab",
+  "objects": [
+    {
+      "type": "AnimationClip",
+      "name": "A_actor_laevat_dialog_state_memory07_loop",
+      "path_id": -7686029209477797749
+    },
+    {
+      "type": "AssetBundle",
+      "name": "main/dbfab6f6347214769ffd43de.ab",
+      "path_id": 1
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "source_asset_path": "assets/beyond/dynamicassets/gameplay/npc/montagenew/humanoid/particular/lady/laevat/data_npc_montage_lady_laevat_wavewalk.asset",
+  "bundle_container": "main/ee5935d2a4465391e61ce8f4.ab",
+  "objects": [
+    {
+      "type": "MonoBehaviour",
+      "name": "data_npc_montage_lady_laevat_wavewalk",
+      "path_id": -2022850525920923372
+    },
+    {
+      "type": "AssetBundle",
+      "name": "main/ee5935d2a4465391e61ce8f4.ab",
+      "path_id": 1
+    }
+  ]
+}

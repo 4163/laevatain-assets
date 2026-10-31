@@ -1,0 +1,16 @@
+{
+  "source_asset_path": "assets/beyond/dynamicassets/gamedata/gameplayconfig/vfxconfig/enemy/vfx_character_laevat_wep_fire_asset.asset",
+  "bundle_container": "main/d09a3c22934dfc476fced67b.ab",
+  "objects": [
+    {
+      "type": "MonoBehaviour",
+      "name": "VFX_character_laevat_wep_fire_asset",
+      "path_id": -5093946607959714501
+    },
+    {
+      "type": "AssetBundle",
+      "name": "main/d09a3c22934dfc476fced67b.ab",
+      "path_id": 1
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "source_asset_path": "assets/beyond/dynamicassets/gameplay/cameras/controlstates/skill/ccs_laevat_combo_skill_teammate_2.asset",
+  "bundle_container": "main/cc4d9edfa77b899d41d9546c.ab",
+  "objects": [
+    {
+      "type": "MonoBehaviour",
+      "name": "CCS_laevat_combo_skill_teammate_2",
+      "path_id": -3290626079163829439
+    },
+    {
+      "type": "AssetBundle",
+      "name": "main/cc4d9edfa77b899d41d9546c.ab",
+      "path_id": 1
+    }
+  ]
+}

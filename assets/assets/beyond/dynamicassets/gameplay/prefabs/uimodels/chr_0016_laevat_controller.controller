@@ -1,0 +1,46 @@
+{
+  "source_asset_path": "assets/beyond/dynamicassets/gameplay/prefabs/uimodels/chr_0016_laevat_controller.controller",
+  "bundle_container": "main/3611cff1e5bddafbce045d4f.ab",
+  "objects": [
+    {
+      "type": "AnimatorController",
+      "name": "chr_0016_laevat_controller",
+      "path_id": -6881529587843416872
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -6520539247710389032
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -6263470916452303656
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -4642107010962637608
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -912696417928889128
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -161920386018984744
+    },
+    {
+      "type": "AssetBundle",
+      "name": "main/3611cff1e5bddafbce045d4f.ab",
+      "path_id": 1
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 7310704282507918552
+    }
+  ]
+}

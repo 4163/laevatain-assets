@@ -1,0 +1,46 @@
+{
+  "source_asset_path": "assets/beyond/dynamicassets/gameplay/effects/prefabs/p_laevat_ui_overview_start_01_04_gacha.prefab",
+  "bundle_container": "main/077f1ddafa50c789bee58c16.ab",
+  "objects": [
+    {
+      "type": "GameObject",
+      "name": "glow (2)",
+      "path_id": -6692371569575430776
+    },
+    {
+      "type": "AssetBundle",
+      "name": "main/077f1ddafa50c789bee58c16.ab",
+      "path_id": 1
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 1182357547422807432
+    },
+    {
+      "type": "ParticleSystem",
+      "name": "",
+      "path_id": 2957309775736501640
+    },
+    {
+      "type": "ParticleSystemRenderer",
+      "name": "",
+      "path_id": 3143601463288296840
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 5394608549825967496
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 8920062888964486536
+    },
+    {
+      "type": "GameObject",
+      "name": "P_laevat_ui_overview_start_01_04_gacha",
+      "path_id": 8961432529703630216
+    }
+  ]
+}

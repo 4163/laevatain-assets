@@ -1,0 +1,16 @@
+{
+  "source_asset_path": "assets/beyond/dynamicassets/gameplay/npc/animatorcontroller/downgrade/ac_npc_human_laevat_downgrade.controller",
+  "bundle_container": "main/eff0dfb2162572cf9809b0d4.ab",
+  "objects": [
+    {
+      "type": "AssetBundle",
+      "name": "main/eff0dfb2162572cf9809b0d4.ab",
+      "path_id": 1
+    },
+    {
+      "type": "AnimatorController",
+      "name": "AC_npc_human_laevat_downgrade",
+      "path_id": 8950080353635194520
+    }
+  ]
+}

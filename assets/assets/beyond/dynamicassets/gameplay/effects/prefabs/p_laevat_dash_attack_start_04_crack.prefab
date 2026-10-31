@@ -1,0 +1,191 @@
+{
+  "source_asset_path": "assets/beyond/dynamicassets/gameplay/effects/prefabs/p_laevat_dash_attack_start_04_crack.prefab",
+  "bundle_container": "main/830151087d6d82008f9ed42e.ab",
+  "objects": [
+    {
+      "type": "ParticleSystemRenderer",
+      "name": "",
+      "path_id": -8326777110078460088
+    },
+    {
+      "type": "GameObject",
+      "name": "guangci002",
+      "path_id": -7210047907788787896
+    },
+    {
+      "type": "GameObject",
+      "name": "diban001",
+      "path_id": -6354091612175569080
+    },
+    {
+      "type": "GameObject",
+      "name": "guangci001",
+      "path_id": -4769469722296029368
+    },
+    {
+      "type": "ParticleSystem",
+      "name": "",
+      "path_id": -4723842337394757816
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -3590504541088026808
+    },
+    {
+      "type": "AnimationClip",
+      "name": "P_laevat_dash_attack_start_04_crack",
+      "path_id": -2815683788203598234
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -2759295661085003960
+    },
+    {
+      "type": "ParticleSystemRenderer",
+      "name": "",
+      "path_id": -2661287158372339896
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -2027764480651530424
+    },
+    {
+      "type": "Animator",
+      "name": "",
+      "path_id": -1930874619912294584
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -1929597918791569592
+    },
+    {
+      "type": "GameObject",
+      "name": "lizi001",
+      "path_id": -1760047911736676536
+    },
+    {
+      "type": "GameObject",
+      "name": "lizi002",
+      "path_id": -985908795705757880
+    },
+    {
+      "type": "ParticleSystemRenderer",
+      "name": "",
+      "path_id": -673135710313091256
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -271014820410134712
+    },
+    {
+      "type": "AssetBundle",
+      "name": "main/830151087d6d82008f9ed42e.ab",
+      "path_id": 1
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 367684320382381896
+    },
+    {
+      "type": "Material",
+      "name": "M_laevat_521",
+      "path_id": 1721209438121632226
+    },
+    {
+      "type": "GameObject",
+      "name": "Internal",
+      "path_id": 1771952430657072968
+    },
+    {
+      "type": "Material",
+      "name": "M_fx_laevat_515_002",
+      "path_id": 1938301179439160625
+    },
+    {
+      "type": "GameObject",
+      "name": "fire002_huan",
+      "path_id": 1984438369781641032
+    },
+    {
+      "type": "ParticleSystem",
+      "name": "",
+      "path_id": 2303230430037307208
+    },
+    {
+      "type": "Material",
+      "name": "M_fx_laevat_515_001",
+      "path_id": 2719333701827110689
+    },
+    {
+      "type": "ParticleSystemRenderer",
+      "name": "",
+      "path_id": 3810866663099232072
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 4496202376935534408
+    },
+    {
+      "type": "MeshRenderer",
+      "name": "",
+      "path_id": 5323571524714458952
+    },
+    {
+      "type": "AnimatorController",
+      "name": "P_laevat_dash_attack_start_04_crack",
+      "path_id": 5403579295511214844
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 5676164845032468296
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 6141842746341093192
+    },
+    {
+      "type": "ParticleSystemRenderer",
+      "name": "",
+      "path_id": 6671956984489340744
+    },
+    {
+      "type": "ParticleSystem",
+      "name": "",
+      "path_id": 7004042420192833352
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 7291997749800365896
+    },
+    {
+      "type": "MeshFilter",
+      "name": "",
+      "path_id": 7730151034589441864
+    },
+    {
+      "type": "ParticleSystem",
+      "name": "",
+      "path_id": 8456710072306921288
+    },
+    {
+      "type": "GameObject",
+      "name": "P_laevat_dash_attack_start_04_crack",
+      "path_id": 8531312107287637832
+    },
+    {
+      "type": "ParticleSystem",
+      "name": "",
+      "path_id": 8817128765824593736
+    }
+  ]
+}

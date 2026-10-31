@@ -1,0 +1,16 @@
+{
+  "source_asset_path": "assets/beyond/dynamicassets/gameplay/cameras/controlstates/skill/ccs_laevat_ult_normal_final_right.asset",
+  "bundle_container": "main/dd6928cfd8065bd3ef162399.ab",
+  "objects": [
+    {
+      "type": "MonoBehaviour",
+      "name": "CCS_laevat_ult_normal_final_right",
+      "path_id": -2030491087894010633
+    },
+    {
+      "type": "AssetBundle",
+      "name": "main/dd6928cfd8065bd3ef162399.ab",
+      "path_id": 1
+    }
+  ]
+}

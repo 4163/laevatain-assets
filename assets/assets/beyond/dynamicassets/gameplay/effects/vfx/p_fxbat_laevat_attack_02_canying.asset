@@ -1,0 +1,16 @@
+{
+  "source_asset_path": "assets/beyond/dynamicassets/gameplay/effects/vfx/p_fxbat_laevat_attack_02_canying.asset",
+  "bundle_container": "main/45084ca9224b74f9781973b9.ab",
+  "objects": [
+    {
+      "type": "AssetBundle",
+      "name": "main/45084ca9224b74f9781973b9.ab",
+      "path_id": 1
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "P_fxbat_laevat_attack_02_canying",
+      "path_id": 7949737071463244274
+    }
+  ]
+}

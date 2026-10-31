@@ -1,0 +1,21 @@
+{
+  "source_asset_path": "assets/beyond/arts/entity/actor/lady/laevat/animations/dialog/a_actor_laevat_dialog_state_drawsword.fbx##a_actor_laevat_dialog_state_drawsword_loop",
+  "bundle_container": "main/993ec26a370c073989f08714.ab",
+  "objects": [
+    {
+      "type": "AssetBundle",
+      "name": "main/993ec26a370c073989f08714.ab",
+      "path_id": 1
+    },
+    {
+      "type": "AnimationClip",
+      "name": "A_actor_laevat_dialog_state_drawsword_start",
+      "path_id": 877606655709876510
+    },
+    {
+      "type": "AnimationClip",
+      "name": "A_actor_laevat_dialog_state_drawsword_loop",
+      "path_id": 7027207523644412190
+    }
+  ]
+}

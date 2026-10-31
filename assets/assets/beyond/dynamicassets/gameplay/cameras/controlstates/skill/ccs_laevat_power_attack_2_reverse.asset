@@ -1,0 +1,16 @@
+{
+  "source_asset_path": "assets/beyond/dynamicassets/gameplay/cameras/controlstates/skill/ccs_laevat_power_attack_2_reverse.asset",
+  "bundle_container": "main/4eec2de1ab01a3a72b52106e.ab",
+  "objects": [
+    {
+      "type": "AssetBundle",
+      "name": "main/4eec2de1ab01a3a72b52106e.ab",
+      "path_id": 1
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "CCS_laevat_power_attack_2_reverse",
+      "path_id": 9165098014862673336
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "source_asset_path": "assets/beyond/arts/entity/actor/lady/laevat/animations/dialog/a_actor_laevat_dialog_single_restwalk.fbx",
+  "bundle_container": "main/50538d3e95186836b78454c2.ab",
+  "objects": [
+    {
+      "type": "AnimationClip",
+      "name": "A_actor_laevat_dialog_single_restwalk",
+      "path_id": -5960599348310040341
+    },
+    {
+      "type": "AssetBundle",
+      "name": "main/50538d3e95186836b78454c2.ab",
+      "path_id": 1
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "source_asset_path": "assets/beyond/arts/entity/actor/lady/laevat/animations/dialog/a_actor_laevat_dialog_state_reminder.fbx##a_actor_laevat_dialog_state_reminder_loop",
+  "bundle_container": "main/af8fa95f8fddf342888edc6a.ab",
+  "objects": [
+    {
+      "type": "AnimationClip",
+      "name": "A_actor_laevat_dialog_state_reminder_loop",
+      "path_id": -7932819198247599433
+    },
+    {
+      "type": "AnimationClip",
+      "name": "A_actor_laevat_dialog_state_reminder_start",
+      "path_id": -6691474516451818825
+    },
+    {
+      "type": "AssetBundle",
+      "name": "main/af8fa95f8fddf342888edc6a.ab",
+      "path_id": 1
+    },
+    {
+      "type": "AnimationClip",
+      "name": "A_actor_laevat_dialog_state_reminder_end",
+      "path_id": 2915161408699204279
+    }
+  ]
+}

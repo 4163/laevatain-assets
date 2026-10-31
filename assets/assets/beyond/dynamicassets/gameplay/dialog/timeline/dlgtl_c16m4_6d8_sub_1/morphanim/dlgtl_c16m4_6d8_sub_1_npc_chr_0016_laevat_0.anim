@@ -1,0 +1,16 @@
+{
+  "source_asset_path": "assets/beyond/dynamicassets/gameplay/dialog/timeline/dlgtl_c16m4_6d8_sub_1/morphanim/dlgtl_c16m4_6d8_sub_1_npc_chr_0016_laevat_0.anim",
+  "bundle_container": "main/6a65d51818184fd3fb0d4ae7.ab",
+  "objects": [
+    {
+      "type": "AnimationClip",
+      "name": "dlgtl_c16m4_6d8_sub_1_npc_chr_0016_laevat_0",
+      "path_id": -6835764448480053170
+    },
+    {
+      "type": "AssetBundle",
+      "name": "main/6a65d51818184fd3fb0d4ae7.ab",
+      "path_id": 1
+    }
+  ]
+}

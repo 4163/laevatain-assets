@@ -1,0 +1,16 @@
+{
+  "source_asset_path": "assets/beyond/dynamicassets/gameplay/npc/montagenew/humanoid/particular/lady/laevat/data_npc_montage_lady_laevat_taparm.asset",
+  "bundle_container": "main/22406dd4885707c3e6f9dbf0.ab",
+  "objects": [
+    {
+      "type": "AssetBundle",
+      "name": "main/22406dd4885707c3e6f9dbf0.ab",
+      "path_id": 1
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "data_npc_montage_lady_laevat_taparm",
+      "path_id": 6176893187957139979
+    }
+  ]
+}

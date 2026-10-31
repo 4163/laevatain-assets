@@ -1,0 +1,101 @@
+{
+  "source_asset_path": "assets/beyond/dynamicassets/gameplay/effects/prefabs/p_laevat_dash_attack_start_03.prefab",
+  "bundle_container": "main/754e2c0a94ea67e7b3081ee4.ab",
+  "objects": [
+    {
+      "type": "GameObject",
+      "name": "chongji001",
+      "path_id": -7377240931307592790
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -6739521264912669782
+    },
+    {
+      "type": "ParticleSystemRenderer",
+      "name": "",
+      "path_id": -6316245320810077270
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -6264224154452925526
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -1273679971487161430
+    },
+    {
+      "type": "ParticleSystem",
+      "name": "",
+      "path_id": -450594500804516950
+    },
+    {
+      "type": "AssetBundle",
+      "name": "main/754e2c0a94ea67e7b3081ee4.ab",
+      "path_id": 1
+    },
+    {
+      "type": "GameObject",
+      "name": "Internal",
+      "path_id": 279669128266212266
+    },
+    {
+      "type": "Material",
+      "name": "M_fx_laevat_520_001",
+      "path_id": 357179823994222665
+    },
+    {
+      "type": "GameObject",
+      "name": "blur_001",
+      "path_id": 802710715041604522
+    },
+    {
+      "type": "ParticleSystem",
+      "name": "",
+      "path_id": 2374348383724659626
+    },
+    {
+      "type": "ParticleSystemRenderer",
+      "name": "",
+      "path_id": 3275306562469782442
+    },
+    {
+      "type": "ParticleSystemRenderer",
+      "name": "",
+      "path_id": 4066203424675619754
+    },
+    {
+      "type": "GameObject",
+      "name": "P_laevat_dash_attack_start_03",
+      "path_id": 5162183141018919850
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 7145224150708872106
+    },
+    {
+      "type": "ParticleSystem",
+      "name": "",
+      "path_id": 7467544655117444010
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 7595618351144723370
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 8380498183567336362
+    },
+    {
+      "type": "GameObject",
+      "name": "shou004_piaodai",
+      "path_id": 9186380691214394282
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "source_asset_path": "assets/beyond/dynamicassets/gameplay/npc/generated/bakedgpuanim/texture/t_actor_laevat_dialog_state_halfkneeldown_loop_vat.exr",
+  "bundle_container": "main/ca265cb03bd7792d3cf0dff7.ab",
+  "objects": [
+    {
+      "type": "Texture2D",
+      "name": "T_actor_laevat_dialog_state_halfkneeldown_loop_VAT",
+      "path_id": -6058020592560630927
+    },
+    {
+      "type": "AssetBundle",
+      "name": "main/ca265cb03bd7792d3cf0dff7.ab",
+      "path_id": 1
+    }
+  ]
+}

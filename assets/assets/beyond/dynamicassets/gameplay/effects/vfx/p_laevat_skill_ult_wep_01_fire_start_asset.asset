@@ -1,0 +1,16 @@
+{
+  "source_asset_path": "assets/beyond/dynamicassets/gameplay/effects/vfx/p_laevat_skill_ult_wep_01_fire_start_asset.asset",
+  "bundle_container": "main/d9631c953e624956cfc91257.ab",
+  "objects": [
+    {
+      "type": "MonoBehaviour",
+      "name": "P_laevat_skill_ult_wep_01_fire_start_asset",
+      "path_id": -7865189346485444138
+    },
+    {
+      "type": "AssetBundle",
+      "name": "main/d9631c953e624956cfc91257.ab",
+      "path_id": 1
+    }
+  ]
+}

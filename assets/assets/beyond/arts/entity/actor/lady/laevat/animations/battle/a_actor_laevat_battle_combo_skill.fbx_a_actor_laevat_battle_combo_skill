@@ -1,0 +1,16 @@
+{
+  "source_asset_path": "assets/beyond/arts/entity/actor/lady/laevat/animations/battle/a_actor_laevat_battle_combo_skill.fbx##a_actor_laevat_battle_combo_skill",
+  "bundle_container": "main/2a11873c1296317771229f81.ab",
+  "objects": [
+    {
+      "type": "AssetBundle",
+      "name": "main/2a11873c1296317771229f81.ab",
+      "path_id": 1
+    },
+    {
+      "type": "AnimationClip",
+      "name": "A_actor_laevat_battle_combo_skill",
+      "path_id": 8184009945114159394
+    }
+  ]
+}

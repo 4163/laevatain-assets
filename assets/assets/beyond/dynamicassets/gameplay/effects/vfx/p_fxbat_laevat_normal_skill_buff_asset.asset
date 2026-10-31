@@ -1,0 +1,21 @@
+{
+  "source_asset_path": "assets/beyond/dynamicassets/gameplay/effects/vfx/p_fxbat_laevat_normal_skill_buff_asset.asset",
+  "bundle_container": "main/d749216ac7947ff4da48d834.ab",
+  "objects": [
+    {
+      "type": "MonoBehaviour",
+      "name": "P_fxbat_laevat_normal_skill_buff_asset",
+      "path_id": -4053984267127716971
+    },
+    {
+      "type": "AssetBundle",
+      "name": "main/d749216ac7947ff4da48d834.ab",
+      "path_id": 1
+    },
+    {
+      "type": "Material",
+      "name": "M_fx_laevat_hx_439",
+      "path_id": 945197077179748448
+    }
+  ]
+}

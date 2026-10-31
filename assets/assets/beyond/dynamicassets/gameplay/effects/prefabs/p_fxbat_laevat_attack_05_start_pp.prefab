@@ -1,0 +1,61 @@
+{
+  "source_asset_path": "assets/beyond/dynamicassets/gameplay/effects/prefabs/p_fxbat_laevat_attack_05_start_pp.prefab",
+  "bundle_container": "main/7bbb70c50e3b9faa2e9bd253.ab",
+  "objects": [
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -7595462421408821896
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -705211193229750920
+    },
+    {
+      "type": "AssetBundle",
+      "name": "main/7bbb70c50e3b9faa2e9bd253.ab",
+      "path_id": 1
+    },
+    {
+      "type": "GameObject",
+      "name": "PP",
+      "path_id": 1170039363191590264
+    },
+    {
+      "type": "AnimationClip",
+      "name": "A_fxbat_laevat_attack_05_start_PP",
+      "path_id": 1615009848232959627
+    },
+    {
+      "type": "Animator",
+      "name": "",
+      "path_id": 2587631366856985976
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 2813541192608206200
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 3618595256374152568
+    },
+    {
+      "type": "GameObject",
+      "name": "P_fxbat_laevat_attack_05_start_PP",
+      "path_id": 7179081816548986232
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 8366960305710517624
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 8775695131750976888
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+# Normalize line endings
+* text=auto
+
+# Binary assets
+*.png binary
+*.wem binary
+*.fbx binary
+*.obj binary
+*.bytes binary
+*.usm binary
+*.mp4 binary
+*.zip binary
+*.mat binary
+*.asset binary
+*.controller binary
+*.playable binary

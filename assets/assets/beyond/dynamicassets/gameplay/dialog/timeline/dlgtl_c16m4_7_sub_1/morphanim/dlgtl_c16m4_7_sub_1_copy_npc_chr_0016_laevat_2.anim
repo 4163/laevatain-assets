@@ -1,0 +1,16 @@
+{
+  "source_asset_path": "assets/beyond/dynamicassets/gameplay/dialog/timeline/dlgtl_c16m4_7_sub_1/morphanim/dlgtl_c16m4_7_sub_1_copy_npc_chr_0016_laevat_2.anim",
+  "bundle_container": "main/5ab061e06531bf36c96720c6.ab",
+  "objects": [
+    {
+      "type": "AnimationClip",
+      "name": "dlgtl_c16m4_7_sub_1_copy_npc_chr_0016_laevat_2",
+      "path_id": -3674061709062498025
+    },
+    {
+      "type": "AssetBundle",
+      "name": "main/5ab061e06531bf36c96720c6.ab",
+      "path_id": 1
+    }
+  ]
+}

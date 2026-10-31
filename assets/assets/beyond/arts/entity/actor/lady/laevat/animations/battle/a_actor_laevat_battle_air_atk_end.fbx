@@ -1,0 +1,16 @@
+{
+  "source_asset_path": "assets/beyond/arts/entity/actor/lady/laevat/animations/battle/a_actor_laevat_battle_air_atk_end.fbx",
+  "bundle_container": "main/98bc257ee53f0d0bdb03b5a0.ab",
+  "objects": [
+    {
+      "type": "AssetBundle",
+      "name": "main/98bc257ee53f0d0bdb03b5a0.ab",
+      "path_id": 1
+    },
+    {
+      "type": "AnimationClip",
+      "name": "A_actor_laevat_battle_air_atk_end",
+      "path_id": 180027817617314531
+    }
+  ]
+}

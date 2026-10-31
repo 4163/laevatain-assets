@@ -1,0 +1,16 @@
+{
+  "source_asset_path": "assets/beyond/dynamicassets/gameplay/npc/montagenew/humanoid/particular/lady/laevat/data_npc_montage_lady_laevat_touchpaper.asset",
+  "bundle_container": "main/ddfc47f273940a8177611be2.ab",
+  "objects": [
+    {
+      "type": "AssetBundle",
+      "name": "main/ddfc47f273940a8177611be2.ab",
+      "path_id": 1
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "data_npc_montage_lady_laevat_touchpaper",
+      "path_id": 4690473079069172496
+    }
+  ]
+}

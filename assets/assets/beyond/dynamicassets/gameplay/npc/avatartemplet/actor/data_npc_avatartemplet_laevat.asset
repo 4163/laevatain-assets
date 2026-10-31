@@ -1,0 +1,16 @@
+{
+  "source_asset_path": "assets/beyond/dynamicassets/gameplay/npc/avatartemplet/actor/data_npc_avatartemplet_laevat.asset",
+  "bundle_container": "main/a3ab9fa73533f4bde677ee7b.ab",
+  "objects": [
+    {
+      "type": "AssetBundle",
+      "name": "main/a3ab9fa73533f4bde677ee7b.ab",
+      "path_id": 1
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "data_npc_avatartemplet_laevat",
+      "path_id": 2892809912794443823
+    }
+  ]
+}

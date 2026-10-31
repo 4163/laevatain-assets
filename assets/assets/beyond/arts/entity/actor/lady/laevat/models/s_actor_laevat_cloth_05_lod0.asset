@@ -1,0 +1,16 @@
+{
+  "source_asset_path": "assets/beyond/arts/entity/actor/lady/laevat/models/s_actor_laevat_cloth_05_lod0.asset",
+  "bundle_container": "main/0030483bbb54adbc4edaa129.ab",
+  "objects": [
+    {
+      "type": "AssetBundle",
+      "name": "main/0030483bbb54adbc4edaa129.ab",
+      "path_id": 1
+    },
+    {
+      "type": "Mesh",
+      "name": "S_actor_laevat_cloth_05_lod0",
+      "path_id": 4597353990097252417
+    }
+  ]
+}

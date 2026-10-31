@@ -1,0 +1,31 @@
+{
+  "source_asset_path": "assets/beyond/dynamicassets/gameplay/gacha/gacha_char_laevat/prefab/gacha_char_laevat_audio.prefab",
+  "bundle_container": "main/88aa2e911c32b35397d043bc.ab",
+  "objects": [
+    {
+      "type": "GameObject",
+      "name": "gacha_char_laevat_Audio",
+      "path_id": -7862559726494104643
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -1928013333189180483
+    },
+    {
+      "type": "Animator",
+      "name": "",
+      "path_id": -404137834141400131
+    },
+    {
+      "type": "AssetBundle",
+      "name": "main/88aa2e911c32b35397d043bc.ab",
+      "path_id": 1
+    },
+    {
+      "type": "PlayableDirector",
+      "name": "",
+      "path_id": 4885853831006110653
+    }
+  ]
+}

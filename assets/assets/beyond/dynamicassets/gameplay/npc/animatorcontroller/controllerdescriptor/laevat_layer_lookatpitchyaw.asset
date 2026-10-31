@@ -1,0 +1,16 @@
+{
+  "source_asset_path": "assets/beyond/dynamicassets/gameplay/npc/animatorcontroller/controllerdescriptor/laevat_layer_lookatpitchyaw.asset",
+  "bundle_container": "main/01f490931ed7ebdc9ad37110.ab",
+  "objects": [
+    {
+      "type": "MonoBehaviour",
+      "name": "laevat_layer_lookatPitchYaw",
+      "path_id": -4213053671641929800
+    },
+    {
+      "type": "AssetBundle",
+      "name": "main/01f490931ed7ebdc9ad37110.ab",
+      "path_id": 1
+    }
+  ]
+}

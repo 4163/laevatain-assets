@@ -1,0 +1,26 @@
+{
+  "source_asset_path": "assets/beyond/arts/entity/actor/lady/laevat/animations/dialog/a_actor_laevat_dialog_state_halfkneeldown_derived_serious.fbx",
+  "bundle_container": "main/04c5b2878313f836415614cf.ab",
+  "objects": [
+    {
+      "type": "AnimationClip",
+      "name": "A_actor_laevat_dialog_state_halfkneeldown_derived_serious_end",
+      "path_id": -7270128850427212249
+    },
+    {
+      "type": "AssetBundle",
+      "name": "main/04c5b2878313f836415614cf.ab",
+      "path_id": 1
+    },
+    {
+      "type": "AnimationClip",
+      "name": "A_actor_laevat_dialog_state_halfkneeldown_derived_serious_loop",
+      "path_id": 7453545838284803623
+    },
+    {
+      "type": "AnimationClip",
+      "name": "A_actor_laevat_dialog_state_halfkneeldown_derived_serious_start",
+      "path_id": 7909497772251254311
+    }
+  ]
+}

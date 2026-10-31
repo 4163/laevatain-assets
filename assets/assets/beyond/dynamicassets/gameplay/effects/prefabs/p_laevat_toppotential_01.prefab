@@ -1,0 +1,206 @@
+{
+  "source_asset_path": "assets/beyond/dynamicassets/gameplay/effects/prefabs/p_laevat_toppotential_01.prefab",
+  "bundle_container": "main/177d9b293105f877c1f7b5c1.ab",
+  "objects": [
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -8910897118745302481
+    },
+    {
+      "type": "ParticleSystem",
+      "name": "",
+      "path_id": -8249244300329326033
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -7375771557891904977
+    },
+    {
+      "type": "ParticleSystemRenderer",
+      "name": "",
+      "path_id": -7067347374496912849
+    },
+    {
+      "type": "ParticleSystem",
+      "name": "",
+      "path_id": -6503083424447370705
+    },
+    {
+      "type": "ParticleSystem",
+      "name": "",
+      "path_id": -5297906003176822225
+    },
+    {
+      "type": "ParticleSystemRenderer",
+      "name": "",
+      "path_id": -5202540867153401297
+    },
+    {
+      "type": "GameObject",
+      "name": "ray1",
+      "path_id": -4819757153188615633
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -4249900322136954321
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -4075457449728120273
+    },
+    {
+      "type": "ParticleSystemRenderer",
+      "name": "",
+      "path_id": -3866145694824764881
+    },
+    {
+      "type": "ParticleSystemRenderer",
+      "name": "",
+      "path_id": -3814949369106503121
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -2472969883241584081
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -2252850619234227665
+    },
+    {
+      "type": "ParticleSystemRenderer",
+      "name": "",
+      "path_id": -2115532580916794833
+    },
+    {
+      "type": "ParticleSystemRenderer",
+      "name": "",
+      "path_id": -2014768798674621905
+    },
+    {
+      "type": "ParticleSystem",
+      "name": "",
+      "path_id": -1623686528045848017
+    },
+    {
+      "type": "GameObject",
+      "name": "star",
+      "path_id": -142443899625903569
+    },
+    {
+      "type": "GameObject",
+      "name": "guangban03",
+      "path_id": -32369424152303057
+    },
+    {
+      "type": "AssetBundle",
+      "name": "main/177d9b293105f877c1f7b5c1.ab",
+      "path_id": 1
+    },
+    {
+      "type": "ParticleSystemRenderer",
+      "name": "",
+      "path_id": 630123690726287919
+    },
+    {
+      "type": "GameObject",
+      "name": "root",
+      "path_id": 803650365755910703
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 876839827020278319
+    },
+    {
+      "type": "ParticleSystem",
+      "name": "",
+      "path_id": 1286536540920572463
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 1752377830151776815
+    },
+    {
+      "type": "ParticleSystem",
+      "name": "",
+      "path_id": 2305353676494760495
+    },
+    {
+      "type": "GameObject",
+      "name": "P_laevat_toppotential_01",
+      "path_id": 2711381256968563247
+    },
+    {
+      "type": "GameObject",
+      "name": "lizi",
+      "path_id": 2992051301424458287
+    },
+    {
+      "type": "ParticleSystem",
+      "name": "",
+      "path_id": 2998525230894246447
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 3167842193281280559
+    },
+    {
+      "type": "GameObject",
+      "name": "guangban02",
+      "path_id": 3924683762451835439
+    },
+    {
+      "type": "ParticleSystemRenderer",
+      "name": "",
+      "path_id": 4631594469654096431
+    },
+    {
+      "type": "GameObject",
+      "name": "lizi02",
+      "path_id": 5585964162353424943
+    },
+    {
+      "type": "GameObject",
+      "name": "glow",
+      "path_id": 7011516650545375791
+    },
+    {
+      "type": "ParticleSystem",
+      "name": "",
+      "path_id": 7219138548588636719
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 7429973972079045167
+    },
+    {
+      "type": "GameObject",
+      "name": "guangban",
+      "path_id": 7482975762650327599
+    },
+    {
+      "type": "Animator",
+      "name": "",
+      "path_id": 7675784399556602415
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 7805963236071205423
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 8048423411691973167
+    }
+  ]
+}

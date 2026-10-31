@@ -1,0 +1,16 @@
+{
+  "source_asset_path": "assets/beyond/arts/entity/actor/lady/laevat/animations/dialog/a_actor_laevat_dialog_state_idle.fbx",
+  "bundle_container": "main/a0f37550bdc635d2ce1b42da.ab",
+  "objects": [
+    {
+      "type": "AnimationClip",
+      "name": "A_actor_laevat_dialog_state_idle_loop",
+      "path_id": -9175925137216924215
+    },
+    {
+      "type": "AssetBundle",
+      "name": "main/a0f37550bdc635d2ce1b42da.ab",
+      "path_id": 1
+    }
+  ]
+}

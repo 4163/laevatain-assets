@@ -1,0 +1,16 @@
+{
+  "source_asset_path": "assets/beyond/arts/entity/actor/lady/laevat/animations/dialog/a_actor_laevat_dialog_state_sitsword.fbx##a_actor_laevat_dialog_state_sitsword_loop",
+  "bundle_container": "main/d7a2aca7f6ea1fd091a4d99e.ab",
+  "objects": [
+    {
+      "type": "AssetBundle",
+      "name": "main/d7a2aca7f6ea1fd091a4d99e.ab",
+      "path_id": 1
+    },
+    {
+      "type": "AnimationClip",
+      "name": "A_actor_laevat_dialog_state_sitsword_loop",
+      "path_id": 3342900337608084946
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "source_asset_path": "assets/beyond/arts/entity/actor/lady/laevat/animations/dialog/a_actor_laevat_dialog_single_taparm.fbx",
+  "bundle_container": "main/2a5e766eb48a316c283bc69f.ab",
+  "objects": [
+    {
+      "type": "AnimationClip",
+      "name": "A_actor_laevat_dialog_single_taparm",
+      "path_id": -615487794195721281
+    },
+    {
+      "type": "AssetBundle",
+      "name": "main/2a5e766eb48a316c283bc69f.ab",
+      "path_id": 1
+    }
+  ]
+}

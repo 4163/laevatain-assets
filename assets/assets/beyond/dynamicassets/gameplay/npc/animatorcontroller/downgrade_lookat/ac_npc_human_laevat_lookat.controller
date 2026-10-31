@@ -1,0 +1,16 @@
+{
+  "source_asset_path": "assets/beyond/dynamicassets/gameplay/npc/animatorcontroller/downgrade_lookat/ac_npc_human_laevat_lookat.controller",
+  "bundle_container": "main/f6cec2c8a6dd068f1f59c3d9.ab",
+  "objects": [
+    {
+      "type": "AssetBundle",
+      "name": "main/f6cec2c8a6dd068f1f59c3d9.ab",
+      "path_id": 1
+    },
+    {
+      "type": "AnimatorController",
+      "name": "AC_npc_human_laevat_lookAt",
+      "path_id": 3550260243424332460
+    }
+  ]
+}

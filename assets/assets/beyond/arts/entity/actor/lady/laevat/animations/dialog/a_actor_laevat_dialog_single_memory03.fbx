@@ -1,0 +1,16 @@
+{
+  "source_asset_path": "assets/beyond/arts/entity/actor/lady/laevat/animations/dialog/a_actor_laevat_dialog_single_memory03.fbx",
+  "bundle_container": "main/68c248541d53380da2cc2770.ab",
+  "objects": [
+    {
+      "type": "AnimationClip",
+      "name": "A_actor_laevat_dialog_single_memory03",
+      "path_id": -3899396264313957719
+    },
+    {
+      "type": "AssetBundle",
+      "name": "main/68c248541d53380da2cc2770.ab",
+      "path_id": 1
+    }
+  ]
+}

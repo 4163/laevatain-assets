@@ -1,0 +1,16 @@
+{
+  "source_asset_path": "assets/beyond/dynamicassets/gameplay/npc/montagenew/humanoid/particular/lady/laevat/data_npc_montage_lady_laevat_geticecream.asset",
+  "bundle_container": "main/01aa0954be5829ebfe89663e.ab",
+  "objects": [
+    {
+      "type": "MonoBehaviour",
+      "name": "data_npc_montage_lady_laevat_geticecream",
+      "path_id": -114148558567879616
+    },
+    {
+      "type": "AssetBundle",
+      "name": "main/01aa0954be5829ebfe89663e.ab",
+      "path_id": 1
+    }
+  ]
+}

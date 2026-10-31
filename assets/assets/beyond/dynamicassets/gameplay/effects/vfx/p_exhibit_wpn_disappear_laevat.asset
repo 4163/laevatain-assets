@@ -1,0 +1,16 @@
+{
+  "source_asset_path": "assets/beyond/dynamicassets/gameplay/effects/vfx/p_exhibit_wpn_disappear_laevat.asset",
+  "bundle_container": "main/25104e295cbc57387e6f2129.ab",
+  "objects": [
+    {
+      "type": "AssetBundle",
+      "name": "main/25104e295cbc57387e6f2129.ab",
+      "path_id": 1
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "P_exhibit_wpn_disappear_laevat",
+      "path_id": 8404052027827202736
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "source_asset_path": "assets/beyond/dynamicassets/gameplay/npc/animatorcontroller/controllerdescriptor/laevat_layer_clothik.asset",
+  "bundle_container": "main/fdf3636f3a88d4721f3083be.ab",
+  "objects": [
+    {
+      "type": "MonoBehaviour",
+      "name": "laevat_layer_ClothIK",
+      "path_id": -2086732010476619164
+    },
+    {
+      "type": "AssetBundle",
+      "name": "main/fdf3636f3a88d4721f3083be.ab",
+      "path_id": 1
+    }
+  ]
+}

@@ -1,0 +1,188 @@
+{
+  "pipeline_stage": "Stage 4: Presentation & visualization specification",
+  "stage_status": "Stage 4 presentation and visualization specification complete. Specs documented in specs/visualization-spec.md.",
+  "scope_specification": {
+    "target": "Laevatain",
+    "alter_ego": "Surtr",
+    "character_id": "chr_0016_laevat",
+    "in_scope_audio": "Japanese (Horie Yui / 堀江由衣)",
+    "out_of_scope_audio": "English (Kira Buckland), Chinese (Yan Meme / 阎么么), Korean (Kum You-rim / 金愈琳) - Cataloged and documented"
+  },
+  "identity_registry": {
+    "entity_name": "Laevatain",
+    "alter_ego_name": "Surtr",
+    "localized_names": {
+      "en": "Laevatain / Surtr",
+      "ja": "レーヴァテイン / スルト",
+      "zh-cn": "莱万汀 / 史尔特尔",
+      "zh-tw": "萊萬汀 / 史爾特爾",
+      "ko": "레바테인 / 수르트"
+    },
+    "assigned_alias": "Olga Randall (UWST Beacon DAU.14)",
+    "character_id": "chr_0016_laevat",
+    "short_slug": "laevat",
+    "chapter_code": "c16",
+    "phantom_forms": [
+      "npc_chr_0016_laevat_phantom",
+      "npc_chr_0016_laevat_phantom_a_01",
+      "npc_chr_0016_laevat_phantom_a_02",
+      "npc_chr_0016_laevat_phantom_a_03",
+      "npc_chr_0016_laevat_phantom_a_04",
+      "npc_chr_0016_laevat_red_a_01"
+    ],
+    "rarity": 6,
+    "weapon_type": "Sword",
+    "element": "Fire",
+    "affiliation": "Rhodes Island / Endfield Industries",
+    "voice_actors": {
+      "ja": {
+        "name": "Horie Yui",
+        "native": "堀江由衣",
+        "scope": "in_scope"
+      },
+      "en": {
+        "name": "Kira Buckland",
+        "scope": "out_of_scope"
+      },
+      "zh": {
+        "name": "Yan Meme",
+        "native": "阎么么",
+        "scope": "out_of_scope"
+      },
+      "ko": {
+        "name": "Kum You-rim",
+        "native": "金愈琳",
+        "scope": "out_of_scope"
+      }
+    }
+  },
+  "verification_metrics": {
+    "identity_resolution_verified": true,
+    "catalog_coverage_verified": true,
+    "reference_graph_traversal_verified": true,
+    "peripheral_domain_scan_verified": true,
+    "negative_search_boundary_verified": true,
+    "total_in_scope_cataloged": 2626,
+    "total_out_of_scope_documented": 630,
+    "japanese_voicelines_in_scope": 902,
+    "japanese_lip_sync_in_scope": 50,
+    "json_configuration_in_scope": 170,
+    "video_usm_in_scope": 8,
+    "total_in_scope_extracted_on_disk": 2626,
+    "assetbundle_assets_extracted": 1439,
+    "parity_gate_passed": true
+  },
+  "stage_2_metrics": {
+    "total_extracted_files": 2622,
+    "total_extracted_bytes": 80778809,
+    "category_summary": {
+      "audio_jp": 902,
+      "lip_sync_jp": 50,
+      "json_data": 170,
+      "video_usm": 8,
+      "tables": 10,
+      "total_bytes": 80778809,
+      "divergence_prefabs": 53
+    }
+  },
+  "stage_2_review": {
+    "status": "ready_for_user_review",
+    "total_extracted_files": 2622,
+    "total_extracted_bytes": 80778809,
+    "divergence_count": 0,
+    "server_url": "https://4163.github.io/laevatain-assets",
+    "audio_streaming_url": "assets/audio/",
+    "breakdown": {
+      "audio_jp_wem": 902,
+      "lip_sync_jp_json": 50,
+      "json_config": 170,
+      "video_usm": 8,
+      "table_bytes": 10
+    },
+    "bundle_discovery": {
+      "catalog_source": "Data/Bundles/Windows/manifest.hgmmap",
+      "bundle_records_mapped": 1547,
+      "fbx_models": 201,
+      "png_textures": 142,
+      "anim_clips": 232,
+      "prefabs": 204,
+      "materials": 20,
+      "unity_assets": 457
+    }
+  },
+  "divergence_audit": {
+    "historical_version_audited": "Arknights: Endfield v1.3 / Beta Index (beyond.map)",
+    "purged_assets_count": 33,
+    "purged_assets_list": [
+      "chr_0016_laevat_combat_attack01_sv",
+      "chr_0016_laevat_combat_attack02_sv",
+      "chr_0016_laevat_combat_attack03_sv",
+      "chr_0016_laevat_combat_attack04_sv",
+      "chr_0016_laevat_combat_attack_backup01_sv",
+      "chr_0016_laevat_combat_attack_backup02_sv",
+      "chr_0016_laevat_combat_attack_backup03_sv",
+      "chr_0016_laevat_combat_attack_fall_sv",
+      "chr_0016_laevat_combat_attack_last_sv",
+      "chr_0016_laevat_combat_attack_rise_sv",
+      "chr_0016_laevat_combat_attack_sv_heavy",
+      "chr_0016_laevat_combat_attack_sv_light",
+      "chr_0016_laevat_combat_attack_sv_medium",
+      "chr_0016_laevat_combat_hurt_sv_heavy",
+      "chr_0016_laevat_combat_hurt_sv_light",
+      "chr_0016_laevat_combat_hurt_sv_nor",
+      "chr_0016_laevat_combat_skill_nor_extra_sv",
+      "chr_0016_laevat_combat_skill_nor_sv",
+      "chr_0016_laevat_combat_ult_attack01_sv",
+      "chr_0016_laevat_combat_ult_attack02_sv",
+      "chr_0016_laevat_combat_ult_attack03_sv",
+      "chr_0016_laevat_combat_ult_attack_last_sv",
+      "chr_0016_laevat_explocomm_switch_sv",
+      "chr_0016_laevat_idlespecial_react01_sv",
+      "chr_0016_laevat_idlespecial_relax01_sv",
+      "chr_0016_laevat_idlespecial_relax02_sv",
+      "chr_0016_laevat_action_dash_start_sv",
+      "chr_0016_laevat_action_dodge_sv",
+      "chr_0016_laevat_action_jump_nor_sv",
+      "chr_0016_laevat_action_jump_running_sv",
+      "chr_0016_laevat_action_land_high_sv",
+      "chr_0016_laevat_action_land_nor_sv",
+      "chr_0016_laevat_action_throw_sv"
+    ],
+    "cause": "Legacy Technical Test / Beta vocalizations purged by Gryphline in production distribution; verified absent from all 1,298 chunk packages on disk."
+  },
+  "stage_3_metrics": {
+    "category_a_standalone_files": 1061,
+    "category_b_compound_files": 1591,
+    "total_inventory_files": 2652,
+    "relocated_standalone_files": 1057,
+    "standalone_breakdown": {
+      "audio_wem": 902,
+      "ui_textures_png": 131,
+      "videos_usm_mp4_png": 24,
+      "structured_text_json": 4
+    },
+    "compound_breakdown": {
+      "meshes_models": 142,
+      "animations_tracks": 328,
+      "gameplay_prefabs": 257,
+      "scriptable_objects": 457,
+      "behavior_configs": 226,
+      "model_vfx_textures": 38,
+      "cubemaps_lightmaps": 39,
+      "materials": 20,
+      "controllers": 10,
+      "tables": 10,
+      "playables": 6
+    }
+  },
+  "stage_4_metrics": {
+    "compound_clusters_documented": 8,
+    "pbr_shading_channels_specified": 4,
+    "supported_runtimes": [
+      "Three.js WebGL/WebGPU",
+      "Unity 2022.3 LTS URP",
+      "Godot 4"
+    ],
+    "spec_path": "specs/visualization-spec.md"
+  }
+}

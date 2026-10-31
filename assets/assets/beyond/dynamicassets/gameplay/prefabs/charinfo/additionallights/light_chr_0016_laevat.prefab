@@ -1,0 +1,1286 @@
+{
+  "source_asset_path": "assets/beyond/dynamicassets/gameplay/prefabs/charinfo/additionallights/light_chr_0016_laevat.prefab",
+  "bundle_container": "main/29e986bdf112078f9bcdc3f8.ab",
+  "objects": [
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -8839915582412884826
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -8832649448880409434
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -8734912333137316698
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -8577866998751169370
+    },
+    {
+      "type": "Light",
+      "name": "",
+      "path_id": -8500841812589480794
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -8300478493579414362
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -8274915558670928730
+    },
+    {
+      "type": "GameObject",
+      "name": "RimLight_2 (6)",
+      "path_id": -8273612407615589210
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -8219753259433724762
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -8200769406942907226
+    },
+    {
+      "type": "GameObject",
+      "name": "SpecLight_1 (13)",
+      "path_id": -8131534526142745434
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -8097551323913390938
+    },
+    {
+      "type": "Light",
+      "name": "",
+      "path_id": -8096671008753322842
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -8093712084619823962
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -8092907286121417562
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -8057529556333300570
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -8036063214622804826
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -8026047354910083930
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -8009713621373160282
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -7969914871010954074
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -7748836246845721434
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -7702920052650412890
+    },
+    {
+      "type": "Light",
+      "name": "",
+      "path_id": -7653354905363090266
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -7582107337763720026
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -7548353578333965146
+    },
+    {
+      "type": "GameObject",
+      "name": "RimLight_1 (5)",
+      "path_id": -7542875486502652762
+    },
+    {
+      "type": "Light",
+      "name": "",
+      "path_id": -7496510485894663002
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -7481438134746155866
+    },
+    {
+      "type": "GameObject",
+      "name": "RimLight_1",
+      "path_id": -7479022274691926874
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -7435484798330538842
+    },
+    {
+      "type": "GameObject",
+      "name": "light_skill",
+      "path_id": -7221523032161192794
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -7198806868455918426
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -7147205470818208602
+    },
+    {
+      "type": "GameObject",
+      "name": "RimLight_2 (7)",
+      "path_id": -7012048559161740122
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -6988104064868682586
+    },
+    {
+      "type": "Light",
+      "name": "",
+      "path_id": -6941971622279056218
+    },
+    {
+      "type": "Light",
+      "name": "",
+      "path_id": -6832879352603806554
+    },
+    {
+      "type": "GameObject",
+      "name": "SpecLight_1 (11)",
+      "path_id": -6730384460796463962
+    },
+    {
+      "type": "Light",
+      "name": "",
+      "path_id": -6606381926892243802
+    },
+    {
+      "type": "Light",
+      "name": "",
+      "path_id": -6591127285337885530
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -6497059432972028762
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -6308146392224631642
+    },
+    {
+      "type": "GameObject",
+      "name": "Point Light_1 (17)",
+      "path_id": -6246714179674573658
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -6173291740640119642
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -5994716898240826202
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -5939365341356493658
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -5926563086716701530
+    },
+    {
+      "type": "Light",
+      "name": "",
+      "path_id": -5888810563341519706
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -5863461648498821978
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -5846365951743626074
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -5814342043609271130
+    },
+    {
+      "type": "GameObject",
+      "name": "RimLight_2 (7)",
+      "path_id": -5731063746999356250
+    },
+    {
+      "type": "Light",
+      "name": "",
+      "path_id": -5696949304483056474
+    },
+    {
+      "type": "Light",
+      "name": "",
+      "path_id": -5580662495766448986
+    },
+    {
+      "type": "Light",
+      "name": "",
+      "path_id": -5533096948142771034
+    },
+    {
+      "type": "GameObject",
+      "name": "RimLight_1 (4)",
+      "path_id": -5383861706229615450
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -5330641693503851354
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -5328222549267123034
+    },
+    {
+      "type": "Light",
+      "name": "",
+      "path_id": -5212158037812185946
+    },
+    {
+      "type": "GameObject",
+      "name": "Point Light_1 (16)",
+      "path_id": -5166455977856928602
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -5144213243150732122
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -5093645480064453466
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -4998978547638602586
+    },
+    {
+      "type": "Light",
+      "name": "",
+      "path_id": -4887113073734781786
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -4831715136139692890
+    },
+    {
+      "type": "GameObject",
+      "name": "FogLight_1 (1)",
+      "path_id": -4817905077303249754
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -4717712989661432666
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -4699492690149968730
+    },
+    {
+      "type": "Light",
+      "name": "",
+      "path_id": -4671152213991820122
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -4600080623892433754
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -4503203179118594906
+    },
+    {
+      "type": "GameObject",
+      "name": "RimLight_2 (8)",
+      "path_id": -4478180300229643098
+    },
+    {
+      "type": "Light",
+      "name": "",
+      "path_id": -4404167054723517274
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -4393529731443854170
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -4349845417127185242
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -4310738497102809946
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -4272566741710277466
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -4182052834060471130
+    },
+    {
+      "type": "GameObject",
+      "name": "Point Light_overview (1)",
+      "path_id": -4176989217184156506
+    },
+    {
+      "type": "Light",
+      "name": "",
+      "path_id": -4151945034883402586
+    },
+    {
+      "type": "GameObject",
+      "name": "SpecLight_1 (9)",
+      "path_id": -4102882381210651482
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -4070469901771606874
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -3962702618101943130
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -3830764096319982426
+    },
+    {
+      "type": "Light",
+      "name": "",
+      "path_id": -3827055395166554970
+    },
+    {
+      "type": "GameObject",
+      "name": "Point Light_overview (2)",
+      "path_id": -3646172463301069658
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -3423402246973819738
+    },
+    {
+      "type": "GameObject",
+      "name": "light_chr_0016_laevat",
+      "path_id": -3259021290827680602
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -3244726493873048410
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -3091955656324287322
+    },
+    {
+      "type": "Light",
+      "name": "",
+      "path_id": -3085437368182639450
+    },
+    {
+      "type": "GameObject",
+      "name": "RimLight_1 (5)",
+      "path_id": -3045784559851801434
+    },
+    {
+      "type": "Light",
+      "name": "",
+      "path_id": -3013589930963045210
+    },
+    {
+      "type": "Light",
+      "name": "",
+      "path_id": -2872726437154065242
+    },
+    {
+      "type": "Light",
+      "name": "",
+      "path_id": -2872445433790139226
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -2854360436411992922
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -2812960691625134938
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -2720159944749026138
+    },
+    {
+      "type": "GameObject",
+      "name": "SpecLight_1 (10)",
+      "path_id": -2652024784707128154
+    },
+    {
+      "type": "GameObject",
+      "name": "SpecLight_1 (19)",
+      "path_id": -2462257988408576858
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -2392368404684278618
+    },
+    {
+      "type": "GameObject",
+      "name": "Point Light_1 (17)",
+      "path_id": -2361407417915345754
+    },
+    {
+      "type": "GameObject",
+      "name": "Point Light_1",
+      "path_id": -2331981051125631834
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -2096804712267975514
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -2037322045301787482
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -2022360185382177626
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -1990850105867176794
+    },
+    {
+      "type": "Light",
+      "name": "",
+      "path_id": -1983890187870997338
+    },
+    {
+      "type": "GameObject",
+      "name": "Point Light_1 (15)",
+      "path_id": -1938541140962118490
+    },
+    {
+      "type": "GameObject",
+      "name": "SpecLight_1 (12)",
+      "path_id": -1857736741418437466
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -1855007846949194586
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -1707842969613896538
+    },
+    {
+      "type": "GameObject",
+      "name": "Point Light_2",
+      "path_id": -1673834615238429530
+    },
+    {
+      "type": "Light",
+      "name": "",
+      "path_id": -1535454520552524634
+    },
+    {
+      "type": "Light",
+      "name": "",
+      "path_id": -1492431036970896218
+    },
+    {
+      "type": "GameObject",
+      "name": "Point Light_1",
+      "path_id": -1415691632894020442
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -1327054974199728986
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -1268228841054866266
+    },
+    {
+      "type": "GameObject",
+      "name": "Point Light_1 (16)",
+      "path_id": -1120548846017186650
+    },
+    {
+      "type": "Light",
+      "name": "",
+      "path_id": -1008362831470201690
+    },
+    {
+      "type": "Light",
+      "name": "",
+      "path_id": -928994330025528154
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -813167782667160410
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -756421625689738074
+    },
+    {
+      "type": "Light",
+      "name": "",
+      "path_id": -702541854418733914
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -383161828386933594
+    },
+    {
+      "type": "Light",
+      "name": "",
+      "path_id": -347731700234390362
+    },
+    {
+      "type": "GameObject",
+      "name": "SpecLight_1 (10)",
+      "path_id": -343213637285448538
+    },
+    {
+      "type": "GameObject",
+      "name": "light_equip",
+      "path_id": -324412230332844890
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -264524278092729178
+    },
+    {
+      "type": "Light",
+      "name": "",
+      "path_id": -212155055218690906
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -57029105173007194
+    },
+    {
+      "type": "AssetBundle",
+      "name": "main/29e986bdf112078f9bcdc3f8.ab",
+      "path_id": 1
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 28273695381058726
+    },
+    {
+      "type": "Light",
+      "name": "",
+      "path_id": 102570720511521958
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 414228415826490534
+    },
+    {
+      "type": "Light",
+      "name": "",
+      "path_id": 530730503003239590
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 539079669018457254
+    },
+    {
+      "type": "Light",
+      "name": "",
+      "path_id": 608426190476014758
+    },
+    {
+      "type": "GameObject",
+      "name": "FogLight_1",
+      "path_id": 625710171925181606
+    },
+    {
+      "type": "GameObject",
+      "name": "SpecLight_1 (8)",
+      "path_id": 705420039233205414
+    },
+    {
+      "type": "Light",
+      "name": "",
+      "path_id": 768306704309154982
+    },
+    {
+      "type": "GameObject",
+      "name": "Point Light_overview (3)",
+      "path_id": 862034017953379494
+    },
+    {
+      "type": "GameObject",
+      "name": "FloorLight (2)",
+      "path_id": 994681481019651238
+    },
+    {
+      "type": "Light",
+      "name": "",
+      "path_id": 1183189178610021542
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 1268812602787427494
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 1336503528237167782
+    },
+    {
+      "type": "Light",
+      "name": "",
+      "path_id": 1344457033608852646
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 1507666009898415270
+    },
+    {
+      "type": "GameObject",
+      "name": "SpecLight_1 (11)",
+      "path_id": 1562564662903567526
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 1665895774311871654
+    },
+    {
+      "type": "GameObject",
+      "name": "SpecLight_1 (17)",
+      "path_id": 1751969822167921830
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 1774785615216047270
+    },
+    {
+      "type": "Light",
+      "name": "",
+      "path_id": 1796677547079627942
+    },
+    {
+      "type": "Light",
+      "name": "",
+      "path_id": 1944079511275435174
+    },
+    {
+      "type": "GameObject",
+      "name": "Point Light_1 (19)",
+      "path_id": 1971976284689724582
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 1994257400196232358
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 2029991265821783206
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 2195492508421190822
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 2308802966158832806
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 2536474726704542886
+    },
+    {
+      "type": "GameObject",
+      "name": "Point Light_overview (3)",
+      "path_id": 2619109311748830374
+    },
+    {
+      "type": "Light",
+      "name": "",
+      "path_id": 2788273810949207206
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 2888790585879819430
+    },
+    {
+      "type": "GameObject",
+      "name": "Point Light_1 (11)",
+      "path_id": 2998680255703151782
+    },
+    {
+      "type": "GameObject",
+      "name": "RimLight_2 (5)",
+      "path_id": 3134951179613107366
+    },
+    {
+      "type": "GameObject",
+      "name": "FogLight_1",
+      "path_id": 3144174509854356646
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 3176115114534499494
+    },
+    {
+      "type": "GameObject",
+      "name": "light_overview",
+      "path_id": 3207516903631484070
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 3270091515156624550
+    },
+    {
+      "type": "GameObject",
+      "name": "Point Light_1 (14)",
+      "path_id": 3387726565332939942
+    },
+    {
+      "type": "GameObject",
+      "name": "RimLight_2 (6)",
+      "path_id": 3408986855685551270
+    },
+    {
+      "type": "GameObject",
+      "name": "Point Light_1 (20)",
+      "path_id": 3430123169612625062
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 3505320199625962662
+    },
+    {
+      "type": "Light",
+      "name": "",
+      "path_id": 3577438125782332582
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 3606649082269988006
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 3618963905226536102
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 3652579083218711718
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 3657340113690948774
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 3809792392306357414
+    },
+    {
+      "type": "GameObject",
+      "name": "FogLight_1 (1)",
+      "path_id": 3827919941589398694
+    },
+    {
+      "type": "Light",
+      "name": "",
+      "path_id": 4020209746767836326
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 4121060019178042534
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 4193769125147374758
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 4214413797212091558
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 4441525250655384742
+    },
+    {
+      "type": "GameObject",
+      "name": "Point Light_overview (1)",
+      "path_id": 4452599769670087846
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 4557548771722785958
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 4577522041818313894
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 4590845705189061798
+    },
+    {
+      "type": "GameObject",
+      "name": "SpecLight_1 (13)",
+      "path_id": 4617003677052630182
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 4655330679069602982
+    },
+    {
+      "type": "GameObject",
+      "name": "RimLight_1 (6)",
+      "path_id": 4974738228109309094
+    },
+    {
+      "type": "Light",
+      "name": "",
+      "path_id": 5008994512546100390
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 5010436992882308262
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 5232471371095798950
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 5263252128732411046
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 5297981590111450278
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 5320659729413239974
+    },
+    {
+      "type": "Light",
+      "name": "",
+      "path_id": 5435356934202258598
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 5596866710672045222
+    },
+    {
+      "type": "GameObject",
+      "name": "Point Light_overview",
+      "path_id": 5689914763235947686
+    },
+    {
+      "type": "GameObject",
+      "name": "light_upgrade",
+      "path_id": 5759321789275829414
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 5779279391163413670
+    },
+    {
+      "type": "Light",
+      "name": "",
+      "path_id": 5813707728122868902
+    },
+    {
+      "type": "GameObject",
+      "name": "light_document",
+      "path_id": 5947088313022739622
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 6111823629713732774
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 6113852899650565286
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 6145325182952076454
+    },
+    {
+      "type": "Light",
+      "name": "",
+      "path_id": 6157911939459708070
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 6169445975838618790
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 6171021627621897382
+    },
+    {
+      "type": "Light",
+      "name": "",
+      "path_id": 6313882132350235814
+    },
+    {
+      "type": "Light",
+      "name": "",
+      "path_id": 6371701597330273446
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 6423348979203962022
+    },
+    {
+      "type": "Light",
+      "name": "",
+      "path_id": 6480239048917841062
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 6539923939030529190
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 6558697758889866406
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 6634743424243922086
+    },
+    {
+      "type": "GameObject",
+      "name": "Point Light_1 (12)",
+      "path_id": 6672357554521175206
+    },
+    {
+      "type": "GameObject",
+      "name": "SpecLight_1 (14)",
+      "path_id": 6700392384992703654
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 6794287974647919782
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 6809309883637232806
+    },
+    {
+      "type": "GameObject",
+      "name": "RimLight_2 (4)",
+      "path_id": 6819552611371578534
+    },
+    {
+      "type": "Light",
+      "name": "",
+      "path_id": 6895408073259087014
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 6957445157698532518
+    },
+    {
+      "type": "Light",
+      "name": "",
+      "path_id": 7070605311651673254
+    },
+    {
+      "type": "Light",
+      "name": "",
+      "path_id": 7072048548199986342
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 7132534853584155814
+    },
+    {
+      "type": "GameObject",
+      "name": "Point Light_1 (18)",
+      "path_id": 7324008834675963046
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 7388461892479087782
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 7535028740238603430
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 7567960038670595238
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 7571506344913007782
+    },
+    {
+      "type": "Light",
+      "name": "",
+      "path_id": 7784654196845442214
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 7962268104151594150
+    },
+    {
+      "type": "Light",
+      "name": "",
+      "path_id": 8004727712496874662
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 8020434419384906918
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 8075422136368166054
+    },
+    {
+      "type": "Light",
+      "name": "",
+      "path_id": 8102921464015549606
+    },
+    {
+      "type": "GameObject",
+      "name": "RimLight_1 (4)",
+      "path_id": 8152463478402774182
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 8162729006759539878
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 8313897580817544358
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 8320102562926949542
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 8323406457031816358
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 8427624730708538534
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 8459269166004565158
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 8507537359275095206
+    },
+    {
+      "type": "GameObject",
+      "name": "Point Light_1 (21)",
+      "path_id": 8640133461528540326
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 8856757792902673574
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 8894983888934204582
+    },
+    {
+      "type": "GameObject",
+      "name": "Point Light_1 (8)",
+      "path_id": 8999329705619879078
+    },
+    {
+      "type": "GameObject",
+      "name": "FogLight_1 (1)",
+      "path_id": 9006908753661850790
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 9059244620863239334
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 9096082496911373478
+    },
+    {
+      "type": "GameObject",
+      "name": "Point Light_1 (9)",
+      "path_id": 9150428540042146982
+    },
+    {
+      "type": "GameObject",
+      "name": "light_weapon",
+      "path_id": 9217247425966437542
+    }
+  ]
+}

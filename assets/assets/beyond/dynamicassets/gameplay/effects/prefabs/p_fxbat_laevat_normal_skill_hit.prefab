@@ -1,0 +1,76 @@
+{
+  "source_asset_path": "assets/beyond/dynamicassets/gameplay/effects/prefabs/p_fxbat_laevat_normal_skill_hit.prefab",
+  "bundle_container": "main/c86fdf938907d30ce9129422.ab",
+  "objects": [
+    {
+      "type": "ParticleSystemRenderer",
+      "name": "",
+      "path_id": -8322787649222923379
+    },
+    {
+      "type": "ParticleSystem",
+      "name": "",
+      "path_id": -7184470364576797811
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -6627609173269271667
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -6507910359101068403
+    },
+    {
+      "type": "GameObject",
+      "name": "lizi2",
+      "path_id": -5674536228944270451
+    },
+    {
+      "type": "GameObject",
+      "name": "beiji",
+      "path_id": -839193598594831475
+    },
+    {
+      "type": "GameObject",
+      "name": "P_fxbat_laevat_normal_skill_hit",
+      "path_id": -38962381706024051
+    },
+    {
+      "type": "AssetBundle",
+      "name": "main/c86fdf938907d30ce9129422.ab",
+      "path_id": 1
+    },
+    {
+      "type": "GameObject",
+      "name": "PC",
+      "path_id": 953935066206186381
+    },
+    {
+      "type": "ParticleSystem",
+      "name": "",
+      "path_id": 1608335656174431117
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 4215518442883197837
+    },
+    {
+      "type": "ParticleSystemRenderer",
+      "name": "",
+      "path_id": 7315075536377555853
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 8342219191502384013
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 8829023678808664973
+    }
+  ]
+}

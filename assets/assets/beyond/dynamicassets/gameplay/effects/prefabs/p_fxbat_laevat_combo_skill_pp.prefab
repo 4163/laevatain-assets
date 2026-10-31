@@ -1,0 +1,56 @@
+{
+  "source_asset_path": "assets/beyond/dynamicassets/gameplay/effects/prefabs/p_fxbat_laevat_combo_skill_pp.prefab",
+  "bundle_container": "main/21ce6c6302243ce2d07dfcba.ab",
+  "objects": [
+    {
+      "type": "Animator",
+      "name": "",
+      "path_id": -3580682195915829952
+    },
+    {
+      "type": "GameObject",
+      "name": "PP",
+      "path_id": -777415290701804224
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -677032110680961728
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -337245077016867520
+    },
+    {
+      "type": "AssetBundle",
+      "name": "main/21ce6c6302243ce2d07dfcba.ab",
+      "path_id": 1
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 893222997569572160
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 2883148450211433792
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 3547008500976586048
+    },
+    {
+      "type": "GameObject",
+      "name": "P_fxbat_laevat_combo_skill_PP",
+      "path_id": 4933353501296692544
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 7111134642424188224
+    }
+  ]
+}

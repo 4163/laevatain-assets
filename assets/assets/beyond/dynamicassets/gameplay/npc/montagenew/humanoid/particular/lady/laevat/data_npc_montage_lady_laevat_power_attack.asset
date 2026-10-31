@@ -1,0 +1,16 @@
+{
+  "source_asset_path": "assets/beyond/dynamicassets/gameplay/npc/montagenew/humanoid/particular/lady/laevat/data_npc_montage_lady_laevat_power_attack.asset",
+  "bundle_container": "main/b3a655fb8b4c30b0cf9eb927.ab",
+  "objects": [
+    {
+      "type": "MonoBehaviour",
+      "name": "data_npc_montage_lady_laevat_power_attack",
+      "path_id": -8174085016843141419
+    },
+    {
+      "type": "AssetBundle",
+      "name": "main/b3a655fb8b4c30b0cf9eb927.ab",
+      "path_id": 1
+    }
+  ]
+}

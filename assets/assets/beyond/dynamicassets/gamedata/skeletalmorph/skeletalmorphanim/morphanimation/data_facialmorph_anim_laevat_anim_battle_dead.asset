@@ -1,0 +1,16 @@
+{
+  "source_asset_path": "assets/beyond/dynamicassets/gamedata/skeletalmorph/skeletalmorphanim/morphanimation/data_facialmorph_anim_laevat_anim_battle_dead.asset",
+  "bundle_container": "main/08bf6c84ba9aacb6f73b3858.ab",
+  "objects": [
+    {
+      "type": "MonoBehaviour",
+      "name": "data_facialmorph_anim_laevat_anim_battle_dead",
+      "path_id": -6458699923061167218
+    },
+    {
+      "type": "AssetBundle",
+      "name": "main/08bf6c84ba9aacb6f73b3858.ab",
+      "path_id": 1
+    }
+  ]
+}

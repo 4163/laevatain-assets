@@ -1,0 +1,81 @@
+{
+  "source_asset_path": "assets/beyond/dynamicassets/gameplay/effects/prefabs/p_fxbat_laevat_attack_02_smoke_01.prefab",
+  "bundle_container": "main/65a1e78586680555bb66990b.ab",
+  "objects": [
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -5443026954895064021
+    },
+    {
+      "type": "Material",
+      "name": "M_fx_laevat_hx_134",
+      "path_id": -4717974785311082313
+    },
+    {
+      "type": "GameObject",
+      "name": "P_fxbat_laevat_attack_02_smoke_01",
+      "path_id": -3303174419132480469
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -1178048015519611861
+    },
+    {
+      "type": "ParticleSystem",
+      "name": "",
+      "path_id": -1088369337860783061
+    },
+    {
+      "type": "AssetBundle",
+      "name": "main/65a1e78586680555bb66990b.ab",
+      "path_id": 1
+    },
+    {
+      "type": "ParticleSystemRenderer",
+      "name": "",
+      "path_id": 4259763888231973931
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 4971139901909468203
+    },
+    {
+      "type": "ParticleSystemRenderer",
+      "name": "",
+      "path_id": 5274419130175947819
+    },
+    {
+      "type": "GameObject",
+      "name": "PC",
+      "path_id": 5874741599450727467
+    },
+    {
+      "type": "GameObject",
+      "name": "SMOKE (3)",
+      "path_id": 8362468355901326379
+    },
+    {
+      "type": "ParticleSystem",
+      "name": "",
+      "path_id": 8418444579301262379
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 8777958937230607403
+    },
+    {
+      "type": "GameObject",
+      "name": "SMOKE (2)",
+      "path_id": 8833125591783867435
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 9021786852436116523
+    }
+  ]
+}

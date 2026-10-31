@@ -1,0 +1,16 @@
+{
+  "source_asset_path": "assets/beyond/dynamicassets/gameplay/npc/montagenew/humanoid/particular/lady/laevat/data_npc_montage_lady_laevat_lookbackright.asset",
+  "bundle_container": "main/977795fd9febae3077dc05aa.ab",
+  "objects": [
+    {
+      "type": "MonoBehaviour",
+      "name": "data_npc_montage_lady_laevat_lookbackright",
+      "path_id": -8759703217237535455
+    },
+    {
+      "type": "AssetBundle",
+      "name": "main/977795fd9febae3077dc05aa.ab",
+      "path_id": 1
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "source_asset_path": "assets/beyond/dynamicassets/gameplay/npc/montagenew/humanoid/particular/lady/laevat/virtual/data_npc_montage_lady_laevat_scratchhead.asset",
+  "bundle_container": "main/135cd257c84b89e3054f38b6.ab",
+  "objects": [
+    {
+      "type": "AssetBundle",
+      "name": "main/135cd257c84b89e3054f38b6.ab",
+      "path_id": 1
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "data_npc_montage_lady_laevat_scratchhead",
+      "path_id": 2544358310484631945
+    }
+  ]
+}

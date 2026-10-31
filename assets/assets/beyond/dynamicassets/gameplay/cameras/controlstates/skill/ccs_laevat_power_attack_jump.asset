@@ -1,0 +1,16 @@
+{
+  "source_asset_path": "assets/beyond/dynamicassets/gameplay/cameras/controlstates/skill/ccs_laevat_power_attack_jump.asset",
+  "bundle_container": "main/eb546cc8a2849ba421913ae6.ab",
+  "objects": [
+    {
+      "type": "MonoBehaviour",
+      "name": "CCS_laevat_power_attack_jump",
+      "path_id": -7547336867744713851
+    },
+    {
+      "type": "AssetBundle",
+      "name": "main/eb546cc8a2849ba421913ae6.ab",
+      "path_id": 1
+    }
+  ]
+}

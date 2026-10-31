@@ -1,0 +1,26 @@
+{
+  "source_asset_path": "assets/beyond/dynamicassets/gameplay/effects/prefabs/p_laevat_skill_ult_wep_01_ring_end_asset.prefab",
+  "bundle_container": "main/7a3594a012bc2ac92126be70.ab",
+  "objects": [
+    {
+      "type": "GameObject",
+      "name": "P_laevat_skill_ult_wep_01_ring_end_asset",
+      "path_id": -8419592347934689683
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -5653215932257307027
+    },
+    {
+      "type": "AssetBundle",
+      "name": "main/7a3594a012bc2ac92126be70.ab",
+      "path_id": 1
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 3186580604328769133
+    }
+  ]
+}

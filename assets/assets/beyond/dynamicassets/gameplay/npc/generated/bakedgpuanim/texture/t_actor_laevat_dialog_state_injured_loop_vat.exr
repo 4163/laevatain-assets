@@ -1,0 +1,16 @@
+{
+  "source_asset_path": "assets/beyond/dynamicassets/gameplay/npc/generated/bakedgpuanim/texture/t_actor_laevat_dialog_state_injured_loop_vat.exr",
+  "bundle_container": "main/3d9d2f644368c726278c54a2.ab",
+  "objects": [
+    {
+      "type": "AssetBundle",
+      "name": "main/3d9d2f644368c726278c54a2.ab",
+      "path_id": 1
+    },
+    {
+      "type": "Texture2D",
+      "name": "T_actor_laevat_dialog_state_injured_loop_VAT",
+      "path_id": 2595106163247279509
+    }
+  ]
+}

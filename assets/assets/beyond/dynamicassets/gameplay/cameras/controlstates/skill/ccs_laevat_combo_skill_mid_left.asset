@@ -1,0 +1,16 @@
+{
+  "source_asset_path": "assets/beyond/dynamicassets/gameplay/cameras/controlstates/skill/ccs_laevat_combo_skill_mid_left.asset",
+  "bundle_container": "main/795c778908884d789e94a523.ab",
+  "objects": [
+    {
+      "type": "MonoBehaviour",
+      "name": "CCS_laevat_combo_skill_mid_left",
+      "path_id": -6389797073877249540
+    },
+    {
+      "type": "AssetBundle",
+      "name": "main/795c778908884d789e94a523.ab",
+      "path_id": 1
+    }
+  ]
+}

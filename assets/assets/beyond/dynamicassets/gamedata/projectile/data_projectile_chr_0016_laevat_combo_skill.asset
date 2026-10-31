@@ -1,0 +1,16 @@
+{
+  "source_asset_path": "assets/beyond/dynamicassets/gamedata/projectile/data_projectile_chr_0016_laevat_combo_skill.asset",
+  "bundle_container": "main/7a773e115d0348cf553ecc86.ab",
+  "objects": [
+    {
+      "type": "MonoBehaviour",
+      "name": "data_projectile_chr_0016_laevat_combo_skill",
+      "path_id": -5712610743839260450
+    },
+    {
+      "type": "AssetBundle",
+      "name": "main/7a773e115d0348cf553ecc86.ab",
+      "path_id": 1
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "source_asset_path": "assets/beyond/dynamicassets/gamedata/projectile/data_projectile_chr_0016_laevat_attack_5.asset",
+  "bundle_container": "main/c49e299995bdf9771a5888ef.ab",
+  "objects": [
+    {
+      "type": "MonoBehaviour",
+      "name": "data_projectile_chr_0016_laevat_attack_5",
+      "path_id": -939857995347862092
+    },
+    {
+      "type": "AssetBundle",
+      "name": "main/c49e299995bdf9771a5888ef.ab",
+      "path_id": 1
+    }
+  ]
+}

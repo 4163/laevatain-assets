@@ -1,0 +1,66 @@
+{
+  "source_asset_path": "assets/beyond/dynamicassets/gameplay/effects/prefabs/p_laevat_combo_skill_debuff.prefab",
+  "bundle_container": "main/a31d25f4f28c269e6b0773f8.ab",
+  "objects": [
+    {
+      "type": "ParticleSystemRenderer",
+      "name": "",
+      "path_id": -8229973319180507281
+    },
+    {
+      "type": "Animator",
+      "name": "",
+      "path_id": -6351360999970068625
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -5317774410507638929
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -4284409300703991953
+    },
+    {
+      "type": "GameObject",
+      "name": "yanchen001",
+      "path_id": -4017355785794181265
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -2201657848516335761
+    },
+    {
+      "type": "GameObject",
+      "name": "Internal",
+      "path_id": -2113671466288765073
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -838940189999782033
+    },
+    {
+      "type": "AssetBundle",
+      "name": "main/a31d25f4f28c269e6b0773f8.ab",
+      "path_id": 1
+    },
+    {
+      "type": "ParticleSystem",
+      "name": "",
+      "path_id": 5646343355898242927
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 5734162508861450095
+    },
+    {
+      "type": "GameObject",
+      "name": "P_laevat_combo_skill_debuff",
+      "path_id": 7694792301801088879
+    }
+  ]
+}

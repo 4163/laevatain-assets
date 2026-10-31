@@ -1,0 +1,16 @@
+{
+  "source_asset_path": "assets/beyond/dynamicassets/gameplay/npc/montagenew/humanoid/particular/lady/laevat/data_npc_montage_lady_laevat_sitsword.asset",
+  "bundle_container": "main/4ec58fca3cc56f2162e3c3d6.ab",
+  "objects": [
+    {
+      "type": "MonoBehaviour",
+      "name": "data_npc_montage_lady_laevat_sitsword",
+      "path_id": -6191892498226861672
+    },
+    {
+      "type": "AssetBundle",
+      "name": "main/4ec58fca3cc56f2162e3c3d6.ab",
+      "path_id": 1
+    }
+  ]
+}

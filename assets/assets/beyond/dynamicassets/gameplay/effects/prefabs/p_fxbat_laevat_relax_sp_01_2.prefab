@@ -1,0 +1,71 @@
+{
+  "source_asset_path": "assets/beyond/dynamicassets/gameplay/effects/prefabs/p_fxbat_laevat_relax_sp_01_2.prefab",
+  "bundle_container": "main/b80d37700a3e5eb4485ba77c.ab",
+  "objects": [
+    {
+      "type": "GameObject",
+      "name": "steam",
+      "path_id": -6576562518943120248
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -4771993174642178936
+    },
+    {
+      "type": "AssetBundle",
+      "name": "main/b80d37700a3e5eb4485ba77c.ab",
+      "path_id": 1
+    },
+    {
+      "type": "ParticleSystem",
+      "name": "",
+      "path_id": 259703598127596680
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 787772713547220104
+    },
+    {
+      "type": "GameObject",
+      "name": "P_fxbat_laevat_relax_sp_01_2",
+      "path_id": 1222862950784976008
+    },
+    {
+      "type": "ParticleSystemRenderer",
+      "name": "",
+      "path_id": 2055963003846870152
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 4639087863784817800
+    },
+    {
+      "type": "Material",
+      "name": "M_fx_ui_steam_901_1",
+      "path_id": 5691438327566573417
+    },
+    {
+      "type": "GameObject",
+      "name": "star",
+      "path_id": 6655464695485121672
+    },
+    {
+      "type": "ParticleSystemRenderer",
+      "name": "",
+      "path_id": 7192640358189974664
+    },
+    {
+      "type": "ParticleSystem",
+      "name": "",
+      "path_id": 7869144469737981064
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 8289973640853931144
+    }
+  ]
+}

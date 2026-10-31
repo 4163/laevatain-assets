@@ -1,0 +1,16 @@
+{
+  "source_asset_path": "assets/beyond/arts/entity/actor/lady/laevat/models/s_actor_laevat_hair_01_lod0.asset",
+  "bundle_container": "main/3cee8f92765b9a8150d39eb3.ab",
+  "objects": [
+    {
+      "type": "Mesh",
+      "name": "S_actor_laevat_hair_01_lod0",
+      "path_id": -7262328921842026558
+    },
+    {
+      "type": "AssetBundle",
+      "name": "main/3cee8f92765b9a8150d39eb3.ab",
+      "path_id": 1
+    }
+  ]
+}

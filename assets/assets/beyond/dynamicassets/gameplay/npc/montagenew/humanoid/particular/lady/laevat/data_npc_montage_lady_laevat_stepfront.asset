@@ -1,0 +1,16 @@
+{
+  "source_asset_path": "assets/beyond/dynamicassets/gameplay/npc/montagenew/humanoid/particular/lady/laevat/data_npc_montage_lady_laevat_stepfront.asset",
+  "bundle_container": "main/4e9fb3e68dfa3698045aae72.ab",
+  "objects": [
+    {
+      "type": "MonoBehaviour",
+      "name": "data_npc_montage_lady_laevat_stepfront",
+      "path_id": -52463020662185303
+    },
+    {
+      "type": "AssetBundle",
+      "name": "main/4e9fb3e68dfa3698045aae72.ab",
+      "path_id": 1
+    }
+  ]
+}

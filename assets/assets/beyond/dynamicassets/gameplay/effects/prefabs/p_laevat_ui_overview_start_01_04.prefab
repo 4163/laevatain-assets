@@ -1,0 +1,46 @@
+{
+  "source_asset_path": "assets/beyond/dynamicassets/gameplay/effects/prefabs/p_laevat_ui_overview_start_01_04.prefab",
+  "bundle_container": "main/3934bb5ae9c368835bb67324.ab",
+  "objects": [
+    {
+      "type": "GameObject",
+      "name": "glow (2)",
+      "path_id": -5072910565922962319
+    },
+    {
+      "type": "ParticleSystemRenderer",
+      "name": "",
+      "path_id": -3193276685125811087
+    },
+    {
+      "type": "AssetBundle",
+      "name": "main/3934bb5ae9c368835bb67324.ab",
+      "path_id": 1
+    },
+    {
+      "type": "ParticleSystem",
+      "name": "",
+      "path_id": 1007860587514102897
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 1998783881584182385
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 2457735451230143601
+    },
+    {
+      "type": "GameObject",
+      "name": "P_laevat_ui_overview_start_01_04",
+      "path_id": 2590486376724759665
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 3355007988998538353
+    }
+  ]
+}

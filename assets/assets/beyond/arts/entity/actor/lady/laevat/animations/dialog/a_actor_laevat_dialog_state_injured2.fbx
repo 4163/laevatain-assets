@@ -1,0 +1,26 @@
+{
+  "source_asset_path": "assets/beyond/arts/entity/actor/lady/laevat/animations/dialog/a_actor_laevat_dialog_state_injured2.fbx",
+  "bundle_container": "main/c03e32644ac888c79eaaa345.ab",
+  "objects": [
+    {
+      "type": "AnimationClip",
+      "name": "A_actor_laevat_dialog_state_injured2_start",
+      "path_id": -5161299819483840352
+    },
+    {
+      "type": "AnimationClip",
+      "name": "A_actor_laevat_dialog_state_injured2_loop",
+      "path_id": -4737625727441387360
+    },
+    {
+      "type": "AnimationClip",
+      "name": "A_actor_laevat_dialog_state_injured2_end",
+      "path_id": -2281878625212710752
+    },
+    {
+      "type": "AssetBundle",
+      "name": "main/c03e32644ac888c79eaaa345.ab",
+      "path_id": 1
+    }
+  ]
+}

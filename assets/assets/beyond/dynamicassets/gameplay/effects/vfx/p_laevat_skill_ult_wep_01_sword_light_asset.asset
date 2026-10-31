@@ -1,0 +1,21 @@
+{
+  "source_asset_path": "assets/beyond/dynamicassets/gameplay/effects/vfx/p_laevat_skill_ult_wep_01_sword_light_asset.asset",
+  "bundle_container": "main/a9d54070cb32ea350df99557.ab",
+  "objects": [
+    {
+      "type": "Material",
+      "name": "M_laevat_551",
+      "path_id": -7363716800057424656
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "P_laevat_skill_ult_wep_01_sword_light_asset",
+      "path_id": -2783862430803702807
+    },
+    {
+      "type": "AssetBundle",
+      "name": "main/a9d54070cb32ea350df99557.ab",
+      "path_id": 1
+    }
+  ]
+}

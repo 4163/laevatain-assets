@@ -1,0 +1,16 @@
+{
+  "source_asset_path": "assets/beyond/dynamicassets/gamedata/skeletalmorph/skeletalmorphanim/morphanimation/data_facialmorph_anim_laevat_anim_battle_attack_ult_04.asset",
+  "bundle_container": "main/91ff4c3021996f06a19b5512.ab",
+  "objects": [
+    {
+      "type": "AssetBundle",
+      "name": "main/91ff4c3021996f06a19b5512.ab",
+      "path_id": 1
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "data_facialmorph_anim_laevat_anim_battle_attack_ult_04",
+      "path_id": 9024980198070323346
+    }
+  ]
+}

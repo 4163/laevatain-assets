@@ -1,0 +1,21 @@
+{
+  "source_asset_path": "assets/beyond/arts/entity/actor/lady/laevat/animations/dialog/a_actor_laevat_dialog_state_kill.fbx##a_actor_laevat_dialog_state_kill_loop",
+  "bundle_container": "main/209782fdf68ffe2841832e38.ab",
+  "objects": [
+    {
+      "type": "AnimationClip",
+      "name": "A_actor_laevat_dialog_state_kill_start",
+      "path_id": -5395615282231264895
+    },
+    {
+      "type": "AnimationClip",
+      "name": "A_actor_laevat_dialog_state_kill_loop",
+      "path_id": -3028985097539438207
+    },
+    {
+      "type": "AssetBundle",
+      "name": "main/209782fdf68ffe2841832e38.ab",
+      "path_id": 1
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "source_asset_path": "assets/beyond/arts/entity/actor/lady/laevat/animations/dialog/a_actor_laevat_dialog_state_battle1.fbx##a_actor_laevat_dialog_state_battle1_start",
+  "bundle_container": "main/03de7d60b28d03161863fa3b.ab",
+  "objects": [
+    {
+      "type": "AnimationClip",
+      "name": "A_actor_laevat_dialog_state_battle1_end",
+      "path_id": -5233107988011912602
+    },
+    {
+      "type": "AnimationClip",
+      "name": "A_actor_laevat_dialog_state_battle1_loop",
+      "path_id": -4234019061802372506
+    },
+    {
+      "type": "AssetBundle",
+      "name": "main/03de7d60b28d03161863fa3b.ab",
+      "path_id": 1
+    },
+    {
+      "type": "AnimationClip",
+      "name": "A_actor_laevat_dialog_state_battle1_start",
+      "path_id": 139589421420212838
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "source_asset_path": "assets/beyond/dynamicassets/gameplay/effects/prefabs/p_laevat_skill_ult_wep_01_sword_start_asset.prefab",
+  "bundle_container": "main/76f21439a0db292143ae247b.ab",
+  "objects": [
+    {
+      "type": "GameObject",
+      "name": "P_laevat_skill_ult_wep_01_sword_start_asset",
+      "path_id": -8213296725606181847
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -7841258678829755351
+    },
+    {
+      "type": "AssetBundle",
+      "name": "main/76f21439a0db292143ae247b.ab",
+      "path_id": 1
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 8009092877503845417
+    }
+  ]
+}

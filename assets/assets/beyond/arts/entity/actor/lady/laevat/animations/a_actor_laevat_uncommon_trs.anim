@@ -1,0 +1,16 @@
+{
+  "source_asset_path": "assets/beyond/arts/entity/actor/lady/laevat/animations/a_actor_laevat_uncommon_trs.anim",
+  "bundle_container": "main/adc8803b81ce107598b34a18.ab",
+  "objects": [
+    {
+      "type": "AssetBundle",
+      "name": "main/adc8803b81ce107598b34a18.ab",
+      "path_id": 1
+    },
+    {
+      "type": "AnimationClip",
+      "name": "A_actor_laevat_uncommon_trs",
+      "path_id": 7389750182184404473
+    }
+  ]
+}

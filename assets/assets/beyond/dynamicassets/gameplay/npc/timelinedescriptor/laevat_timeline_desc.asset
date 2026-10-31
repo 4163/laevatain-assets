@@ -1,0 +1,16 @@
+{
+  "source_asset_path": "assets/beyond/dynamicassets/gameplay/npc/timelinedescriptor/laevat_timeline_desc.asset",
+  "bundle_container": "main/449cd781ac99c6c6095d99f8.ab",
+  "objects": [
+    {
+      "type": "MonoBehaviour",
+      "name": "laevat_timeline_desc",
+      "path_id": -4914456405631274516
+    },
+    {
+      "type": "AssetBundle",
+      "name": "main/449cd781ac99c6c6095d99f8.ab",
+      "path_id": 1
+    }
+  ]
+}

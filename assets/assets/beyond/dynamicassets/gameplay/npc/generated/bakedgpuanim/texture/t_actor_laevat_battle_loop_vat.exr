@@ -1,0 +1,16 @@
+{
+  "source_asset_path": "assets/beyond/dynamicassets/gameplay/npc/generated/bakedgpuanim/texture/t_actor_laevat_battle_loop_vat.exr",
+  "bundle_container": "main/b060f74b065fd92410dde493.ab",
+  "objects": [
+    {
+      "type": "Texture2D",
+      "name": "T_actor_laevat_battle_loop_VAT",
+      "path_id": -788998898720546291
+    },
+    {
+      "type": "AssetBundle",
+      "name": "main/b060f74b065fd92410dde493.ab",
+      "path_id": 1
+    }
+  ]
+}

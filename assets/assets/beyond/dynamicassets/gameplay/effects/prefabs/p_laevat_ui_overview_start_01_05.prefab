@@ -1,0 +1,156 @@
+{
+  "source_asset_path": "assets/beyond/dynamicassets/gameplay/effects/prefabs/p_laevat_ui_overview_start_01_05.prefab",
+  "bundle_container": "main/43f1ad8a78ff9975d1c2e14d.ab",
+  "objects": [
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -6464792525066478384
+    },
+    {
+      "type": "GameObject",
+      "name": "Mesh_all",
+      "path_id": -5584815633116898096
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -5154628844797305648
+    },
+    {
+      "type": "GameObject",
+      "name": "suikuai_jnt",
+      "path_id": -5111243424635691824
+    },
+    {
+      "type": "Material",
+      "name": "M_laevat_binggun_901",
+      "path_id": -3733881317033781646
+    },
+    {
+      "type": "GameObject",
+      "name": "steam",
+      "path_id": -2854653272899461936
+    },
+    {
+      "type": "LODGroup",
+      "name": "",
+      "path_id": -2366642342794961712
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -2333650449845068592
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -1869572696956609328
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -1847873019991958320
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -1812425346373985072
+    },
+    {
+      "type": "GameObject",
+      "name": "S_widget_laevat_02_lod0",
+      "path_id": -160321041025868592
+    },
+    {
+      "type": "AssetBundle",
+      "name": "main/43f1ad8a78ff9975d1c2e14d.ab",
+      "path_id": 1
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 191269909659114704
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 264420728274083024
+    },
+    {
+      "type": "SkinnedMeshRenderer",
+      "name": "",
+      "path_id": 449662992349060304
+    },
+    {
+      "type": "ParticleSystem",
+      "name": "",
+      "path_id": 496681582362877136
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 531484886469565648
+    },
+    {
+      "type": "SkinnedMeshRenderer",
+      "name": "",
+      "path_id": 546508554874969296
+    },
+    {
+      "type": "GameObject",
+      "name": "P_laevat_ui_overview_start_01_05",
+      "path_id": 2395379666129050832
+    },
+    {
+      "type": "GameObject",
+      "name": "lod0",
+      "path_id": 4203637181472038096
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 4363581507161808080
+    },
+    {
+      "type": "GameObject",
+      "name": "Root",
+      "path_id": 4850715558480108752
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 4874012161277222096
+    },
+    {
+      "type": "Animator",
+      "name": "",
+      "path_id": 5451998672325237968
+    },
+    {
+      "type": "GameObject",
+      "name": "move_jnt",
+      "path_id": 5916541747215064272
+    },
+    {
+      "type": "GameObject",
+      "name": "P_widget_laevat_01",
+      "path_id": 5964297564834356432
+    },
+    {
+      "type": "ParticleSystemRenderer",
+      "name": "",
+      "path_id": 6269453159541693648
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 7953450875085905104
+    },
+    {
+      "type": "GameObject",
+      "name": "S_widget_laevat_01_lod0",
+      "path_id": 8343337087702260944
+    }
+  ]
+}

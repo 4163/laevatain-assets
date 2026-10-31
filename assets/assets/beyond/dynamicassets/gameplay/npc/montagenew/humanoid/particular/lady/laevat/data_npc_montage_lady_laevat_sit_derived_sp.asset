@@ -1,0 +1,16 @@
+{
+  "source_asset_path": "assets/beyond/dynamicassets/gameplay/npc/montagenew/humanoid/particular/lady/laevat/data_npc_montage_lady_laevat_sit_derived_sp.asset",
+  "bundle_container": "main/1ca840abfedfe4d0ec2a5133.ab",
+  "objects": [
+    {
+      "type": "MonoBehaviour",
+      "name": "data_npc_montage_lady_laevat_sit_derived_sp",
+      "path_id": -2862642126479945637
+    },
+    {
+      "type": "AssetBundle",
+      "name": "main/1ca840abfedfe4d0ec2a5133.ab",
+      "path_id": 1
+    }
+  ]
+}

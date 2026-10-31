@@ -1,0 +1,16 @@
+{
+  "source_asset_path": "assets/beyond/arts/entity/actor/lady/laevat/animations/dialog/a_actor_laevat_dialog_state_halfkneeldown.fbx##a_actor_laevat_dialog_state_halfkneeldown_loop",
+  "bundle_container": "main/e0fab18ecd256372dcd82dc0.ab",
+  "objects": [
+    {
+      "type": "AssetBundle",
+      "name": "main/e0fab18ecd256372dcd82dc0.ab",
+      "path_id": 1
+    },
+    {
+      "type": "AnimationClip",
+      "name": "A_actor_laevat_dialog_state_halfkneeldown_loop",
+      "path_id": 5469883740868152094
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "source_asset_path": "assets/beyond/dynamicassets/gameplay/npc/generated/bakedgpuanim/texture/t_actor_laevat_dialog_state_gripsword_loop_vat.exr",
+  "bundle_container": "main/b8114b64c1dd61573973d4bf.ab",
+  "objects": [
+    {
+      "type": "Texture2D",
+      "name": "T_actor_laevat_dialog_state_gripsword_loop_VAT",
+      "path_id": -1654081110116446959
+    },
+    {
+      "type": "AssetBundle",
+      "name": "main/b8114b64c1dd61573973d4bf.ab",
+      "path_id": 1
+    }
+  ]
+}

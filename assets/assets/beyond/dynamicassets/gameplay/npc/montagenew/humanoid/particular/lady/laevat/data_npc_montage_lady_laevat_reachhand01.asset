@@ -1,0 +1,16 @@
+{
+  "source_asset_path": "assets/beyond/dynamicassets/gameplay/npc/montagenew/humanoid/particular/lady/laevat/data_npc_montage_lady_laevat_reachhand01.asset",
+  "bundle_container": "main/39a3a1f3ebf9094ca9438a84.ab",
+  "objects": [
+    {
+      "type": "MonoBehaviour",
+      "name": "data_npc_montage_lady_laevat_reachhand01",
+      "path_id": -2552513954385389357
+    },
+    {
+      "type": "AssetBundle",
+      "name": "main/39a3a1f3ebf9094ca9438a84.ab",
+      "path_id": 1
+    }
+  ]
+}

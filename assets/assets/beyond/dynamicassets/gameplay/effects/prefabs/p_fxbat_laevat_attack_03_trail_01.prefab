@@ -1,0 +1,101 @@
+{
+  "source_asset_path": "assets/beyond/dynamicassets/gameplay/effects/prefabs/p_fxbat_laevat_attack_03_trail_01.prefab",
+  "bundle_container": "main/bf4f1f05023e9de309d23788.ab",
+  "objects": [
+    {
+      "type": "ParticleSystem",
+      "name": "",
+      "path_id": -7628602662105898554
+    },
+    {
+      "type": "ParticleSystemRenderer",
+      "name": "",
+      "path_id": -6691081014986792506
+    },
+    {
+      "type": "GameObject",
+      "name": "P_fxbat_laevat_attack_03_trail_01",
+      "path_id": -6612503368303828538
+    },
+    {
+      "type": "Material",
+      "name": "M_fx_laevat_hx_150",
+      "path_id": -6022620500622962008
+    },
+    {
+      "type": "ParticleSystemRenderer",
+      "name": "",
+      "path_id": -3555295650214108730
+    },
+    {
+      "type": "GameObject",
+      "name": "trail (1)",
+      "path_id": -2508091523914653242
+    },
+    {
+      "type": "ParticleSystem",
+      "name": "",
+      "path_id": -1627677890576506426
+    },
+    {
+      "type": "ParticleSystem",
+      "name": "",
+      "path_id": -800016210946088506
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -764946889519324730
+    },
+    {
+      "type": "AssetBundle",
+      "name": "main/bf4f1f05023e9de309d23788.ab",
+      "path_id": 1
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 571303266980405702
+    },
+    {
+      "type": "GameObject",
+      "name": "PC",
+      "path_id": 1518738705581285830
+    },
+    {
+      "type": "GameObject",
+      "name": "trail",
+      "path_id": 4813158956636316102
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 5573805775007457734
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 5745250131491103174
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 6560922230330827206
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 7370747971753681350
+    },
+    {
+      "type": "GameObject",
+      "name": "trail",
+      "path_id": 7601133887225864646
+    },
+    {
+      "type": "ParticleSystemRenderer",
+      "name": "",
+      "path_id": 7923241063705944518
+    }
+  ]
+}

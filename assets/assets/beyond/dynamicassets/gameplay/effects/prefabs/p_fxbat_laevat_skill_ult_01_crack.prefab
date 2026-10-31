@@ -1,0 +1,61 @@
+{
+  "source_asset_path": "assets/beyond/dynamicassets/gameplay/effects/prefabs/p_fxbat_laevat_skill_ult_01_crack.prefab",
+  "bundle_container": "main/a1971eea430ffad13423d4e3.ab",
+  "objects": [
+    {
+      "type": "GameObject",
+      "name": "P_fxbat_laevat_skill_ult_01_crack",
+      "path_id": -6340739828245917522
+    },
+    {
+      "type": "Material",
+      "name": "M_fx_laevat_hx_419",
+      "path_id": -5952944348542415195
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -2510666666503040850
+    },
+    {
+      "type": "AssetBundle",
+      "name": "main/a1971eea430ffad13423d4e3.ab",
+      "path_id": 1
+    },
+    {
+      "type": "Animator",
+      "name": "",
+      "path_id": 2050659438549209262
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 2113696249238655150
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 6073108639548117166
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 6407876498977788078
+    },
+    {
+      "type": "MeshFilter",
+      "name": "",
+      "path_id": 7428953948453343406
+    },
+    {
+      "type": "GameObject",
+      "name": "dilie1",
+      "path_id": 7587622349113266350
+    },
+    {
+      "type": "MeshRenderer",
+      "name": "",
+      "path_id": 8234582055893995694
+    }
+  ]
+}

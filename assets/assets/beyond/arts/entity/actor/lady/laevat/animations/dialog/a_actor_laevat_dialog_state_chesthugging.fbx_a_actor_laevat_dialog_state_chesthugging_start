@@ -1,0 +1,26 @@
+{
+  "source_asset_path": "assets/beyond/arts/entity/actor/lady/laevat/animations/dialog/a_actor_laevat_dialog_state_chesthugging.fbx##a_actor_laevat_dialog_state_chesthugging_start",
+  "bundle_container": "main/e1a0000b582766e6c136aa71.ab",
+  "objects": [
+    {
+      "type": "AnimationClip",
+      "name": "A_actor_laevat_dialog_state_chesthugging_end",
+      "path_id": -4601043422949996309
+    },
+    {
+      "type": "AnimationClip",
+      "name": "A_actor_laevat_dialog_state_chesthugging_loop",
+      "path_id": -814563567153772309
+    },
+    {
+      "type": "AssetBundle",
+      "name": "main/e1a0000b582766e6c136aa71.ab",
+      "path_id": 1
+    },
+    {
+      "type": "AnimationClip",
+      "name": "A_actor_laevat_dialog_state_chesthugging_start",
+      "path_id": 8857961900284643563
+    }
+  ]
+}

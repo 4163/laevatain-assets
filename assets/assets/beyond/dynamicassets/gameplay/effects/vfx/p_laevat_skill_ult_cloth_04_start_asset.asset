@@ -1,0 +1,16 @@
+{
+  "source_asset_path": "assets/beyond/dynamicassets/gameplay/effects/vfx/p_laevat_skill_ult_cloth_04_start_asset.asset",
+  "bundle_container": "main/5382f94a2b4289f8bd07f121.ab",
+  "objects": [
+    {
+      "type": "MonoBehaviour",
+      "name": "P_laevat_skill_ult_cloth_04_start_asset",
+      "path_id": -1748491314735997873
+    },
+    {
+      "type": "AssetBundle",
+      "name": "main/5382f94a2b4289f8bd07f121.ab",
+      "path_id": 1
+    }
+  ]
+}

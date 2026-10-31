@@ -1,0 +1,16 @@
+{
+  "source_asset_path": "assets/beyond/dynamicassets/gameplay/npc/generated/bakedgpuanim/texture/t_actor_laevat_dialog_state_lookbackright2_loop_vat.exr",
+  "bundle_container": "main/bc47f05548cc33124b3a9ddf.ab",
+  "objects": [
+    {
+      "type": "AssetBundle",
+      "name": "main/bc47f05548cc33124b3a9ddf.ab",
+      "path_id": 1
+    },
+    {
+      "type": "Texture2D",
+      "name": "T_actor_laevat_dialog_state_lookbackright2_loop_VAT",
+      "path_id": 5999291828535197711
+    }
+  ]
+}

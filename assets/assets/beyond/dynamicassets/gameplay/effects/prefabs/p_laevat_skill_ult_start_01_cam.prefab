@@ -1,0 +1,71 @@
+{
+  "source_asset_path": "assets/beyond/dynamicassets/gameplay/effects/prefabs/p_laevat_skill_ult_start_01_cam.prefab",
+  "bundle_container": "main/bccb78dcb145bc43b0de5bce.ab",
+  "objects": [
+    {
+      "type": "GameObject",
+      "name": "huoxing001",
+      "path_id": -7124920797552766037
+    },
+    {
+      "type": "ParticleSystemRenderer",
+      "name": "",
+      "path_id": -6666188236372307029
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -4487146836624141397
+    },
+    {
+      "type": "GameObject",
+      "name": "Internal",
+      "path_id": -1177255306263653461
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -925302159869996117
+    },
+    {
+      "type": "AssetBundle",
+      "name": "main/bccb78dcb145bc43b0de5bce.ab",
+      "path_id": 1
+    },
+    {
+      "type": "GameObject",
+      "name": "P_laevat_skill_ult_start_01_cam",
+      "path_id": 3174489643408364459
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 3674243411063673771
+    },
+    {
+      "type": "AnimationClip",
+      "name": "P_laevat_skill_ult_start_01_cam",
+      "path_id": 4303084360676464740
+    },
+    {
+      "type": "ParticleSystem",
+      "name": "",
+      "path_id": 5568993703576736683
+    },
+    {
+      "type": "Animator",
+      "name": "",
+      "path_id": 7228510839903556523
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 8551789445228925867
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 8766948893947335595
+    }
+  ]
+}

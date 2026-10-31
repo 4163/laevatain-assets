@@ -1,0 +1,16 @@
+{
+  "source_asset_path": "assets/beyond/arts/effects/battle/character/chr_0016_laevat/material/m_fx_laevat_toppotential_01.mat",
+  "bundle_container": "main/263adc17e902cecec7850c44.ab",
+  "objects": [
+    {
+      "type": "AssetBundle",
+      "name": "main/263adc17e902cecec7850c44.ab",
+      "path_id": 1
+    },
+    {
+      "type": "Material",
+      "name": "M_fx_laevat_toppotential_01",
+      "path_id": 7928531570796112132
+    }
+  ]
+}

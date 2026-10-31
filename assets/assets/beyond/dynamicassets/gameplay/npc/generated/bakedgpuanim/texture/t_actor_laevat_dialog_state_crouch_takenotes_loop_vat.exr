@@ -1,0 +1,16 @@
+{
+  "source_asset_path": "assets/beyond/dynamicassets/gameplay/npc/generated/bakedgpuanim/texture/t_actor_laevat_dialog_state_crouch_takenotes_loop_vat.exr",
+  "bundle_container": "main/bfe9a630963d4b2ae6691973.ab",
+  "objects": [
+    {
+      "type": "AssetBundle",
+      "name": "main/bfe9a630963d4b2ae6691973.ab",
+      "path_id": 1
+    },
+    {
+      "type": "Texture2D",
+      "name": "T_actor_laevat_dialog_state_crouch_takenotes_loop_VAT",
+      "path_id": 6373213211081380664
+    }
+  ]
+}

@@ -1,0 +1,191 @@
+{
+  "source_asset_path": "assets/beyond/dynamicassets/gameplay/effects/prefabs/p_fxbat_laevat_common_hit_02.prefab",
+  "bundle_container": "main/be74c0520ba4e1eebfdf5aaf.ab",
+  "objects": [
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -9049003146200595869
+    },
+    {
+      "type": "Material",
+      "name": "M_fx_laevat_hx_66",
+      "path_id": -8921091013948654416
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -8377568601882541469
+    },
+    {
+      "type": "GameObject",
+      "name": "p_flash02",
+      "path_id": -7413417181348019613
+    },
+    {
+      "type": "GameObject",
+      "name": "root",
+      "path_id": -5648385077005893021
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -5566522340607966621
+    },
+    {
+      "type": "Material",
+      "name": "M_fx_laevat_hx_68",
+      "path_id": -5012143521328773694
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -4869917387655396765
+    },
+    {
+      "type": "ParticleSystem",
+      "name": "",
+      "path_id": -3906762391401119133
+    },
+    {
+      "type": "GameObject",
+      "name": "guangci",
+      "path_id": -2002496889989807517
+    },
+    {
+      "type": "GameObject",
+      "name": "blur",
+      "path_id": -467587597840727453
+    },
+    {
+      "type": "GameObject",
+      "name": "p_flash01",
+      "path_id": -193895877739396509
+    },
+    {
+      "type": "AssetBundle",
+      "name": "main/be74c0520ba4e1eebfdf5aaf.ab",
+      "path_id": 1
+    },
+    {
+      "type": "ParticleSystem",
+      "name": "",
+      "path_id": 196194020283925091
+    },
+    {
+      "type": "ParticleSystemRenderer",
+      "name": "",
+      "path_id": 513437947809317475
+    },
+    {
+      "type": "GameObject",
+      "name": "p_flash02 (1)",
+      "path_id": 1071767841170604643
+    },
+    {
+      "type": "ParticleSystemRenderer",
+      "name": "",
+      "path_id": 1165135058446991971
+    },
+    {
+      "type": "ParticleSystemRenderer",
+      "name": "",
+      "path_id": 1706553107127550563
+    },
+    {
+      "type": "ParticleSystem",
+      "name": "",
+      "path_id": 2022104099911975523
+    },
+    {
+      "type": "ParticleSystem",
+      "name": "",
+      "path_id": 2536785844311442019
+    },
+    {
+      "type": "ParticleSystem",
+      "name": "",
+      "path_id": 2613013486482440803
+    },
+    {
+      "type": "ParticleSystem",
+      "name": "",
+      "path_id": 5307442027787534947
+    },
+    {
+      "type": "ParticleSystemRenderer",
+      "name": "",
+      "path_id": 5532212519962231395
+    },
+    {
+      "type": "Material",
+      "name": "M_fx_laevat_hx_186",
+      "path_id": 5854164341046547038
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 6090499635001508451
+    },
+    {
+      "type": "ParticleSystemRenderer",
+      "name": "",
+      "path_id": 6744799044946182755
+    },
+    {
+      "type": "GameObject",
+      "name": "ring_add",
+      "path_id": 6900530939653866083
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 7041798070124626531
+    },
+    {
+      "type": "GameObject",
+      "name": "ring_blend (1)",
+      "path_id": 7165481504459997795
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 7228685666784526947
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 7301534519746183779
+    },
+    {
+      "type": "ParticleSystem",
+      "name": "",
+      "path_id": 7438124052909933155
+    },
+    {
+      "type": "ParticleSystemRenderer",
+      "name": "",
+      "path_id": 7923181637918081635
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 8172918386736251491
+    },
+    {
+      "type": "ParticleSystemRenderer",
+      "name": "",
+      "path_id": 8457100086773432931
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 8599734752793281123
+    },
+    {
+      "type": "GameObject",
+      "name": "P_fxbat_laevat_common_hit_02",
+      "path_id": 8926281836872155747
+    }
+  ]
+}

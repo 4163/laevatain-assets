@@ -1,0 +1,16 @@
+{
+  "source_asset_path": "assets/beyond/dynamicassets/gameplay/cameras/controlstates/skill/ccs_laevat_normal_skill_right_far.asset",
+  "bundle_container": "main/269d91a5e6be1cd66e7d770e.ab",
+  "objects": [
+    {
+      "type": "AssetBundle",
+      "name": "main/269d91a5e6be1cd66e7d770e.ab",
+      "path_id": 1
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "CCS_laevat_normal_skill_right_far",
+      "path_id": 3629307247360423430
+    }
+  ]
+}

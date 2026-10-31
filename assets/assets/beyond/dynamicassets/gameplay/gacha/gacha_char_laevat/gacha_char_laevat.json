@@ -1,0 +1,16 @@
+{
+  "source_asset_path": "assets/beyond/dynamicassets/gameplay/gacha/gacha_char_laevat/gacha_char_laevat.json",
+  "bundle_container": "main/9afad99837388bdaec3ef91b.ab",
+  "objects": [
+    {
+      "type": "AssetBundle",
+      "name": "main/9afad99837388bdaec3ef91b.ab",
+      "path_id": 1
+    },
+    {
+      "type": "TextAsset",
+      "name": "gacha_char_laevat",
+      "path_id": 1301628380197204647
+    }
+  ]
+}

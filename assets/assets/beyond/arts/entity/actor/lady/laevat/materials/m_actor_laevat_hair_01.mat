@@ -1,0 +1,16 @@
+{
+  "source_asset_path": "assets/beyond/arts/entity/actor/lady/laevat/materials/m_actor_laevat_hair_01.mat",
+  "bundle_container": "main/3f148570fa793307ea119f48.ab",
+  "objects": [
+    {
+      "type": "AssetBundle",
+      "name": "main/3f148570fa793307ea119f48.ab",
+      "path_id": 1
+    },
+    {
+      "type": "Material",
+      "name": "M_actor_laevat_hair_01",
+      "path_id": 3025535707740129307
+    }
+  ]
+}

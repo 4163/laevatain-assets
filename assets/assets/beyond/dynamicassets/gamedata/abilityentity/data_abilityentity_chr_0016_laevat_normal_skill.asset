@@ -1,0 +1,16 @@
+{
+  "source_asset_path": "assets/beyond/dynamicassets/gamedata/abilityentity/data_abilityentity_chr_0016_laevat_normal_skill.asset",
+  "bundle_container": "main/0e9fdd65ee4df30761634f66.ab",
+  "objects": [
+    {
+      "type": "AssetBundle",
+      "name": "main/0e9fdd65ee4df30761634f66.ab",
+      "path_id": 1
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "data_abilityentity_chr_0016_laevat_normal_skill",
+      "path_id": 5657369744427028276
+    }
+  ]
+}

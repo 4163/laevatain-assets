@@ -1,0 +1,16 @@
+{
+  "source_asset_path": "assets/beyond/dynamicassets/gameplay/snapshot/action/snapshot_action_config_chr_0016_laevat.json",
+  "bundle_container": "main/fd4c990f1b561f76688700b2.ab",
+  "objects": [
+    {
+      "type": "TextAsset",
+      "name": "snapshot_action_config_chr_0016_laevat",
+      "path_id": -6793221126710194274
+    },
+    {
+      "type": "AssetBundle",
+      "name": "main/fd4c990f1b561f76688700b2.ab",
+      "path_id": 1
+    }
+  ]
+}

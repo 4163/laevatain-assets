@@ -1,0 +1,16 @@
+{
+  "source_asset_path": "assets/beyond/dynamicassets/gamedata/skeletalmorph/skeletalmorphanim/morphanimation/data_facialmorph_anim_laevat_anim_battle_hit_heavy.asset",
+  "bundle_container": "main/cf08e7d74ce7b800fb7fcf7c.ab",
+  "objects": [
+    {
+      "type": "AssetBundle",
+      "name": "main/cf08e7d74ce7b800fb7fcf7c.ab",
+      "path_id": 1
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "data_facialmorph_anim_laevat_anim_battle_hit_heavy",
+      "path_id": 4728357705766566415
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "source_asset_path": "assets/beyond/dynamicassets/gameplay/npc/animatorcontroller/controllerdescriptor/laevat_layer_loopclothaddlayer.asset",
+  "bundle_container": "main/9594390c700f38348ad03427.ab",
+  "objects": [
+    {
+      "type": "AssetBundle",
+      "name": "main/9594390c700f38348ad03427.ab",
+      "path_id": 1
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "laevat_layer_LoopClothAddLayer",
+      "path_id": 1133544715471726172
+    }
+  ]
+}

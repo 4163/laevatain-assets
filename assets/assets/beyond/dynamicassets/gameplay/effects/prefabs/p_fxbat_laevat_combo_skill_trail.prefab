@@ -1,0 +1,241 @@
+{
+  "source_asset_path": "assets/beyond/dynamicassets/gameplay/effects/prefabs/p_fxbat_laevat_combo_skill_trail.prefab",
+  "bundle_container": "main/a3a559b703beaee487356760.ab",
+  "objects": [
+    {
+      "type": "MeshRenderer",
+      "name": "",
+      "path_id": -8777949250367439754
+    },
+    {
+      "type": "GameObject",
+      "name": "guangci",
+      "path_id": -8549667267985130378
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -7596479927899046794
+    },
+    {
+      "type": "GameObject",
+      "name": "trail",
+      "path_id": -7314561258064757642
+    },
+    {
+      "type": "ParticleSystem",
+      "name": "",
+      "path_id": -7173288289748763530
+    },
+    {
+      "type": "ParticleSystemRenderer",
+      "name": "",
+      "path_id": -6766876040846820234
+    },
+    {
+      "type": "GameObject",
+      "name": "lizi",
+      "path_id": -6383683339104666506
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -5739939479062102922
+    },
+    {
+      "type": "Material",
+      "name": "M_fx_laevat_hx_275",
+      "path_id": -5623625228738418950
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -5415223044595893130
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -4294048307569673098
+    },
+    {
+      "type": "Material",
+      "name": "M_fx_laevat_hx_380",
+      "path_id": -3935012220364202156
+    },
+    {
+      "type": "MeshRenderer",
+      "name": "",
+      "path_id": -3898725536854164362
+    },
+    {
+      "type": "ParticleSystemRenderer",
+      "name": "",
+      "path_id": -3804975380290978698
+    },
+    {
+      "type": "GameObject",
+      "name": "bolang (1)",
+      "path_id": -3297451154413503370
+    },
+    {
+      "type": "AnimationClip",
+      "name": "A_fxbat_laevat_combo_skill_trail_start",
+      "path_id": -3293148859026305407
+    },
+    {
+      "type": "Mesh",
+      "name": "Plane008",
+      "path_id": -2876256959133043486
+    },
+    {
+      "type": "Material",
+      "name": "M_fx_laevat_hx_378",
+      "path_id": -2660015740332322575
+    },
+    {
+      "type": "GameObject",
+      "name": "bolang",
+      "path_id": -1347744118582657930
+    },
+    {
+      "type": "GameObject",
+      "name": "bolang (3)",
+      "path_id": -1034011800910087050
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -702559424818758538
+    },
+    {
+      "type": "AssetBundle",
+      "name": "main/a3a559b703beaee487356760.ab",
+      "path_id": 1
+    },
+    {
+      "type": "ParticleSystem",
+      "name": "",
+      "path_id": 510737008059890806
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 708468224381238390
+    },
+    {
+      "type": "MeshRenderer",
+      "name": "",
+      "path_id": 933476570039729270
+    },
+    {
+      "type": "GameObject",
+      "name": "bolang (2)",
+      "path_id": 1232156210026069110
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 1321518520301010038
+    },
+    {
+      "type": "Mesh",
+      "name": "Plane007",
+      "path_id": 2468505474181820289
+    },
+    {
+      "type": "MeshRenderer",
+      "name": "",
+      "path_id": 2515853598246648950
+    },
+    {
+      "type": "MeshFilter",
+      "name": "",
+      "path_id": 2566337499037187190
+    },
+    {
+      "type": "AnimationClip",
+      "name": "A_fxbat_laevat_combo_skill_trail_end",
+      "path_id": 2928081586538601022
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 3832297066974755958
+    },
+    {
+      "type": "MeshFilter",
+      "name": "",
+      "path_id": 4001863325691296886
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 4128747129250790518
+    },
+    {
+      "type": "GameObject",
+      "name": "PC",
+      "path_id": 4258654884842912886
+    },
+    {
+      "type": "MeshFilter",
+      "name": "",
+      "path_id": 4288939158211607670
+    },
+    {
+      "type": "MeshFilter",
+      "name": "",
+      "path_id": 4789685610386046070
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 4975199290647723126
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 5791456526412168310
+    },
+    {
+      "type": "Material",
+      "name": "M_fx_laevat_hx_191",
+      "path_id": 5838777389012846629
+    },
+    {
+      "type": "Animator",
+      "name": "",
+      "path_id": 6207144375034723446
+    },
+    {
+      "type": "MeshRenderer",
+      "name": "",
+      "path_id": 6364796970106502262
+    },
+    {
+      "type": "Material",
+      "name": "M_fx_laevat_hx_382",
+      "path_id": 6814154947206224752
+    },
+    {
+      "type": "MeshFilter",
+      "name": "",
+      "path_id": 6922498096207445110
+    },
+    {
+      "type": "Material",
+      "name": "M_fx_laevat_hx_381",
+      "path_id": 7738304080913522247
+    },
+    {
+      "type": "GameObject",
+      "name": "P_fxbat_laevat_combo_skill_trail",
+      "path_id": 7838570510433467510
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 8243286566038486134
+    }
+  ]
+}

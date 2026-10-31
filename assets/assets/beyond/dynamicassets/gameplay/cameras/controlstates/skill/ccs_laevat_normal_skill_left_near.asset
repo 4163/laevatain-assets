@@ -1,0 +1,16 @@
+{
+  "source_asset_path": "assets/beyond/dynamicassets/gameplay/cameras/controlstates/skill/ccs_laevat_normal_skill_left_near.asset",
+  "bundle_container": "main/60f4ae8079cb12e6cdfa7a5d.ab",
+  "objects": [
+    {
+      "type": "MonoBehaviour",
+      "name": "CCS_laevat_normal_skill_left_near",
+      "path_id": -5419922528804884965
+    },
+    {
+      "type": "AssetBundle",
+      "name": "main/60f4ae8079cb12e6cdfa7a5d.ab",
+      "path_id": 1
+    }
+  ]
+}

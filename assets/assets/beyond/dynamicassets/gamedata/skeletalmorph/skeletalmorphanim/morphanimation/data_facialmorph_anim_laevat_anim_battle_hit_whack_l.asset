@@ -1,0 +1,16 @@
+{
+  "source_asset_path": "assets/beyond/dynamicassets/gamedata/skeletalmorph/skeletalmorphanim/morphanimation/data_facialmorph_anim_laevat_anim_battle_hit_whack_l.asset",
+  "bundle_container": "main/3b718c3d7d10804c380b218d.ab",
+  "objects": [
+    {
+      "type": "AssetBundle",
+      "name": "main/3b718c3d7d10804c380b218d.ab",
+      "path_id": 1
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "data_facialmorph_anim_laevat_anim_battle_hit_whack_l",
+      "path_id": 6838845146876708507
+    }
+  ]
+}

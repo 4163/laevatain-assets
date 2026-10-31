@@ -1,0 +1,16 @@
+{
+  "source_asset_path": "assets/beyond/dynamicassets/gameplay/npc/montagenew/humanoid/particular/lady/laevat/data_npc_montage_lady_laevat_halfkneeldown.asset",
+  "bundle_container": "main/bb195ba8dd58597d299e115b.ab",
+  "objects": [
+    {
+      "type": "MonoBehaviour",
+      "name": "data_npc_montage_lady_laevat_halfkneeldown",
+      "path_id": -974867404595602526
+    },
+    {
+      "type": "AssetBundle",
+      "name": "main/bb195ba8dd58597d299e115b.ab",
+      "path_id": 1
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "source_asset_path": "assets/beyond/dynamicassets/gameplay/effects/vfx/p_laevat_skill_ult_wep_01_sword_end_asset.asset",
+  "bundle_container": "main/52b03ac791beb50862e5aebd.ab",
+  "objects": [
+    {
+      "type": "AssetBundle",
+      "name": "main/52b03ac791beb50862e5aebd.ab",
+      "path_id": 1
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "P_laevat_skill_ult_wep_01_sword_end_asset",
+      "path_id": 1366969683060203242
+    }
+  ]
+}

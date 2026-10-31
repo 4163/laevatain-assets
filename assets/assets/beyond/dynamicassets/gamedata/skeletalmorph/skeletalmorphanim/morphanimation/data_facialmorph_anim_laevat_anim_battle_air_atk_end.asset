@@ -1,0 +1,16 @@
+{
+  "source_asset_path": "assets/beyond/dynamicassets/gamedata/skeletalmorph/skeletalmorphanim/morphanimation/data_facialmorph_anim_laevat_anim_battle_air_atk_end.asset",
+  "bundle_container": "main/3d805ac1e30eed7aca432f4e.ab",
+  "objects": [
+    {
+      "type": "AssetBundle",
+      "name": "main/3d805ac1e30eed7aca432f4e.ab",
+      "path_id": 1
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "data_facialmorph_anim_laevat_anim_battle_air_atk_end",
+      "path_id": 8454047897522646707
+    }
+  ]
+}

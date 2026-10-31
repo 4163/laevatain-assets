@@ -1,0 +1,16 @@
+{
+  "source_asset_path": "assets/beyond/dynamicassets/gameplay/npc/montagenew/humanoid/particular/lady/laevat/data_npc_montage_lady_laevat_touchchin.asset",
+  "bundle_container": "main/29a5422dd075462ca4fab07e.ab",
+  "objects": [
+    {
+      "type": "AssetBundle",
+      "name": "main/29a5422dd075462ca4fab07e.ab",
+      "path_id": 1
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "data_npc_montage_lady_laevat_touchchin",
+      "path_id": 7397621651070619905
+    }
+  ]
+}

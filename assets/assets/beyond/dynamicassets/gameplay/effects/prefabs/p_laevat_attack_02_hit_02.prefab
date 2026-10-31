@@ -1,0 +1,136 @@
+{
+  "source_asset_path": "assets/beyond/dynamicassets/gameplay/effects/prefabs/p_laevat_attack_02_hit_02.prefab",
+  "bundle_container": "main/abd15e0b407c3110da4cc12d.ab",
+  "objects": [
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -8778388597110004535
+    },
+    {
+      "type": "ParticleSystemRenderer",
+      "name": "",
+      "path_id": -8764025101148937015
+    },
+    {
+      "type": "ParticleSystemRenderer",
+      "name": "",
+      "path_id": -8648212373409618743
+    },
+    {
+      "type": "GameObject",
+      "name": "hit001_man_blank",
+      "path_id": -6752175077686106935
+    },
+    {
+      "type": "ParticleSystem",
+      "name": "",
+      "path_id": -4280586674070346551
+    },
+    {
+      "type": "GameObject",
+      "name": "Internal",
+      "path_id": -3494901630006582071
+    },
+    {
+      "type": "GameObject",
+      "name": "P_laevat_attack_02_hit_02",
+      "path_id": -3107321872043006775
+    },
+    {
+      "type": "ParticleSystem",
+      "name": "",
+      "path_id": -3041863212239280951
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -2640840095468804919
+    },
+    {
+      "type": "GameObject",
+      "name": "hit001_man",
+      "path_id": -2052764805556722487
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -1736533199930317623
+    },
+    {
+      "type": "GameObject",
+      "name": "glow002_zhongxin",
+      "path_id": -1180798723465599799
+    },
+    {
+      "type": "AssetBundle",
+      "name": "main/abd15e0b407c3110da4cc12d.ab",
+      "path_id": 1
+    },
+    {
+      "type": "GameObject",
+      "name": "glow001",
+      "path_id": 254242883117655241
+    },
+    {
+      "type": "ParticleSystemRenderer",
+      "name": "",
+      "path_id": 2098386280297080009
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 2190087535424447689
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 2303910966044468425
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 3848132553620923593
+    },
+    {
+      "type": "ParticleSystemRenderer",
+      "name": "",
+      "path_id": 4210495835059070153
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 4380980915207611593
+    },
+    {
+      "type": "GameObject",
+      "name": "lizi001_chong",
+      "path_id": 4742139372176614601
+    },
+    {
+      "type": "ParticleSystem",
+      "name": "",
+      "path_id": 6563309675294303433
+    },
+    {
+      "type": "ParticleSystem",
+      "name": "",
+      "path_id": 7176536845521003721
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 7462670559578170569
+    },
+    {
+      "type": "ParticleSystemRenderer",
+      "name": "",
+      "path_id": 8354880934889727177
+    },
+    {
+      "type": "ParticleSystem",
+      "name": "",
+      "path_id": 8825846803170075849
+    }
+  ]
+}

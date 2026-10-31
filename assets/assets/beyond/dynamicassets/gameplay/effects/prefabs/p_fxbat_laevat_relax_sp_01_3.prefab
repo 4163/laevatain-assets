@@ -1,0 +1,46 @@
+{
+  "source_asset_path": "assets/beyond/dynamicassets/gameplay/effects/prefabs/p_fxbat_laevat_relax_sp_01_3.prefab",
+  "bundle_container": "main/e0236b7a4390c92002efd118.ab",
+  "objects": [
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -7313079446114268631
+    },
+    {
+      "type": "GameObject",
+      "name": "P_fxbat_laevat_relax_sp_01_3",
+      "path_id": -4427132651503220183
+    },
+    {
+      "type": "ParticleSystem",
+      "name": "",
+      "path_id": -2366075441338381783
+    },
+    {
+      "type": "AssetBundle",
+      "name": "main/e0236b7a4390c92002efd118.ab",
+      "path_id": 1
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 113500299059530281
+    },
+    {
+      "type": "GameObject",
+      "name": "star (1)",
+      "path_id": 1347301909640448553
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 1441834488782326313
+    },
+    {
+      "type": "ParticleSystemRenderer",
+      "name": "",
+      "path_id": 7733895716635609641
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "source_asset_path": "assets/beyond/dynamicassets/gameplay/guide/guide_group_laevat_intro.asset",
+  "bundle_container": "main/bc60f448bb28e35bba7b4da4.ab",
+  "objects": [
+    {
+      "type": "AssetBundle",
+      "name": "main/bc60f448bb28e35bba7b4da4.ab",
+      "path_id": 1
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "guide_group_laevat_intro",
+      "path_id": 2149076788523092237
+    }
+  ]
+}

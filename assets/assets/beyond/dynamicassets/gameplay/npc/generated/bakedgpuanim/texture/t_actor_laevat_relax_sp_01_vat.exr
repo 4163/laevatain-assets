@@ -1,0 +1,16 @@
+{
+  "source_asset_path": "assets/beyond/dynamicassets/gameplay/npc/generated/bakedgpuanim/texture/t_actor_laevat_relax_sp_01_vat.exr",
+  "bundle_container": "main/74348907395b7128c3a1d9b2.ab",
+  "objects": [
+    {
+      "type": "Texture2D",
+      "name": "T_actor_laevat_relax_sp_01_VAT",
+      "path_id": -7280323026391379941
+    },
+    {
+      "type": "AssetBundle",
+      "name": "main/74348907395b7128c3a1d9b2.ab",
+      "path_id": 1
+    }
+  ]
+}

@@ -1,0 +1,176 @@
+{
+  "source_asset_path": "assets/beyond/dynamicassets/gameplay/effects/prefabs/p_fxbat_laevat_buff_trail_loop.prefab",
+  "bundle_container": "main/58e21c98352647e7c554ddd8.ab",
+  "objects": [
+    {
+      "type": "MeshFilter",
+      "name": "",
+      "path_id": -8666670409047797129
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -8533583220496788873
+    },
+    {
+      "type": "ParticleSystem",
+      "name": "",
+      "path_id": -7822000455953542537
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -6827606788916243849
+    },
+    {
+      "type": "GameObject",
+      "name": "Trail_Dark",
+      "path_id": -6049676990174850441
+    },
+    {
+      "type": "ParticleSystem",
+      "name": "",
+      "path_id": -5698946777433697673
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -5463618821841284489
+    },
+    {
+      "type": "Material",
+      "name": "M_fx_laevat_hx_426",
+      "path_id": -5319230367621612293
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -5241761898491014537
+    },
+    {
+      "type": "GameObject",
+      "name": "P_fxbat_laevat_buff_trail_loop",
+      "path_id": -4792190801459080585
+    },
+    {
+      "type": "ParticleSystemRenderer",
+      "name": "",
+      "path_id": -4438037918148521353
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -3623940086933024137
+    },
+    {
+      "type": "GameObject",
+      "name": "lizi (1)",
+      "path_id": -3321924473386888585
+    },
+    {
+      "type": "MeshRenderer",
+      "name": "",
+      "path_id": -2739532941395750281
+    },
+    {
+      "type": "GameObject",
+      "name": "Trail_Dark (1)",
+      "path_id": -2265000831482195337
+    },
+    {
+      "type": "MeshFilter",
+      "name": "",
+      "path_id": -1719346565726989705
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -1542785647075257737
+    },
+    {
+      "type": "GameObject",
+      "name": "Particle System (2)",
+      "path_id": -1476853086473481609
+    },
+    {
+      "type": "GameObject",
+      "name": "Root",
+      "path_id": -679856012101676425
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -639170783465237897
+    },
+    {
+      "type": "Animator",
+      "name": "",
+      "path_id": -633315938139827593
+    },
+    {
+      "type": "AssetBundle",
+      "name": "main/58e21c98352647e7c554ddd8.ab",
+      "path_id": 1
+    },
+    {
+      "type": "GameObject",
+      "name": "Particle System (1)",
+      "path_id": 1456344735164404343
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 1691714765747524215
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 2268013797574840951
+    },
+    {
+      "type": "MeshRenderer",
+      "name": "",
+      "path_id": 3807047819377382007
+    },
+    {
+      "type": "ParticleSystemRenderer",
+      "name": "",
+      "path_id": 3811899123040260727
+    },
+    {
+      "type": "ParticleSystemRenderer",
+      "name": "",
+      "path_id": 4460229429406929527
+    },
+    {
+      "type": "Material",
+      "name": "M_fx_laevat_hx_428",
+      "path_id": 5410463981368450843
+    },
+    {
+      "type": "ParticleSystem",
+      "name": "",
+      "path_id": 5653349035063644791
+    },
+    {
+      "type": "Material",
+      "name": "M_fx_laevat_hx_425",
+      "path_id": 7764487023434761742
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 8064971183215415927
+    },
+    {
+      "type": "Material",
+      "name": "M_fx_laevat_hx_429",
+      "path_id": 8626990953142281426
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 9068756093705130615
+    }
+  ]
+}

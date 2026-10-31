@@ -1,0 +1,66 @@
+{
+  "source_asset_path": "assets/beyond/dynamicassets/gameplay/effects/prefabs/p_fxbat_laevat_combo_skill_debuff.prefab",
+  "bundle_container": "main/dcd9f269f3ab3740f6339a0a.ab",
+  "objects": [
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -5999490687807860150
+    },
+    {
+      "type": "GameObject",
+      "name": "Internal",
+      "path_id": -5097374590152355254
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -4892616841944116662
+    },
+    {
+      "type": "Animator",
+      "name": "",
+      "path_id": -2891124168885218742
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -2357381670595931574
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -983717982583336374
+    },
+    {
+      "type": "GameObject",
+      "name": "yanchen001",
+      "path_id": -737587630106160566
+    },
+    {
+      "type": "AssetBundle",
+      "name": "main/dcd9f269f3ab3740f6339a0a.ab",
+      "path_id": 1
+    },
+    {
+      "type": "ParticleSystem",
+      "name": "",
+      "path_id": 1195727727415882
+    },
+    {
+      "type": "GameObject",
+      "name": "P_fxbat_laevat_combo_skill_debuff",
+      "path_id": 904999651056210506
+    },
+    {
+      "type": "ParticleSystemRenderer",
+      "name": "",
+      "path_id": 1783288994925498954
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 6294393243046040138
+    }
+  ]
+}

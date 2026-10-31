@@ -1,0 +1,111 @@
+{
+  "source_asset_path": "assets/beyond/dynamicassets/gameplay/effects/prefabs/p_laevat_dash_attack_start_04.prefab",
+  "bundle_container": "main/a9134a4691e4488875240c58.ab",
+  "objects": [
+    {
+      "type": "GameObject",
+      "name": "P_laevat_dash_attack_start_04",
+      "path_id": -7812642283930006284
+    },
+    {
+      "type": "ParticleSystem",
+      "name": "",
+      "path_id": -7268466696098296588
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -5749399163742728972
+    },
+    {
+      "type": "Material",
+      "name": "M_fx_laevat_501_027",
+      "path_id": -5187212295283351259
+    },
+    {
+      "type": "ParticleSystem",
+      "name": "",
+      "path_id": -4885359619893506828
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -4781672585026089740
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -4067283986526384908
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -2465138492673045260
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -342351288788726540
+    },
+    {
+      "type": "GameObject",
+      "name": "daog001",
+      "path_id": -258630349268071180
+    },
+    {
+      "type": "AssetBundle",
+      "name": "main/a9134a4691e4488875240c58.ab",
+      "path_id": 1
+    },
+    {
+      "type": "GameObject",
+      "name": "fire001",
+      "path_id": 1307326523719535860
+    },
+    {
+      "type": "GameObject",
+      "name": "Internal",
+      "path_id": 1617985870448282868
+    },
+    {
+      "type": "ParticleSystemRenderer",
+      "name": "",
+      "path_id": 3553826839289122036
+    },
+    {
+      "type": "ParticleSystem",
+      "name": "",
+      "path_id": 4492851398597135604
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 5045878149365288180
+    },
+    {
+      "type": "ParticleSystemRenderer",
+      "name": "",
+      "path_id": 6115432322232339700
+    },
+    {
+      "type": "ParticleSystemRenderer",
+      "name": "",
+      "path_id": 7665685993549581556
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 8354260177715907828
+    },
+    {
+      "type": "GameObject",
+      "name": "daog_light001",
+      "path_id": 8421687384308436212
+    },
+    {
+      "type": "GameObject",
+      "name": "lizi001",
+      "path_id": 9091435443590384884
+    }
+  ]
+}

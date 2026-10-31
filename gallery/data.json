@@ -1,0 +1,2894 @@
+{
+  "projectName": "Arknights: Endfield",
+  "entityName": "Laevatain (Surtr)",
+  "subtitle": "Stage 2 Target-Mirrored Extraction · Visual Confirmation Gallery",
+  "faviconUrl": "/assets/Data/Video/PC/UI/Snapshot/ui_snapshot_anim_laevat_s_1_thumb.png",
+  "repoUrl": "https://github.com/4163/laevatain-assets",
+  "summary": {
+    "totalFiles": 398,
+    "visualCount": 8,
+    "modelCount": 10,
+    "audioCount": 160,
+    "animationCount": 220
+  },
+  "notices": [
+    {
+      "type": "success",
+      "badge": "Video & Thumbnail Rendering",
+      "title": "8 USM Video Cutscenes Demuxed with Web-Playable MP4 & PNG Thumbnails",
+      "message": "Demuxed proprietary VP9 IVF video payloads from all 8 CRI USM guide videos and UI animations. Extracted high-resolution PNG video thumbnails for card grid rendering and transcoded to H.264 MP4 with faststart headers for in-browser video playback within the modal lightbox."
+    },
+    {
+      "type": "success",
+      "badge": "Audio Scope Adherence",
+      "title": "160 Japanese Voicelines Voiced by Horie Yui (堀江由衣) Extracted",
+      "message": "All 160 Japanese voice lines across dialog storylines, combat encounters, system cues, and interactive scenes voiced by Horie Yui (堀江由衣) were extracted with verified ChaCha20 chunk offsets and custom XOR-stream PCK container decoders. Audio streams natively in browser via the local transcoding server."
+    },
+    {
+      "type": "info",
+      "badge": "Identity & Dual Scope",
+      "title": "Dual Identity Resolution: Laevatain (Endfield) & Surtr (Arknights)",
+      "message": "Complete probing executed across all character naming conventions: Character ID chr_0016_laevat (chapter tag c16), alter ego Surtr (スルト / 史尔特尔 / 수르特), assigned alias Olga Randall (UWST Beacon DAU.14), and phantom / montage combat variants (npc_chr_0016_laevat_phantom, npc_chr_0016_laevat_red_a_01)."
+    },
+    {
+      "type": "warning",
+      "badge": "Scope Exclusion",
+      "title": "630 Non-Japanese Voice Lines Cataloged Out of Scope",
+      "message": "Per user scope instructions, only Japanese audio voiced by Horie Yui is in scope. 630 voice lines across English (Kira Buckland), Chinese (Yan Meme), and Korean (Kum You-rim) were probed in PCK blocks A31457D0, E1E7D7CE, and E9D31017, and are cataloged in meta/manifest.json and meta/audio_catalog.json as out of scope."
+    },
+    {
+      "type": "info",
+      "badge": "Bundle Discovery",
+      "title": "1,547 AssetBundle Records Mapped via Brotli-Decompressed manifest.hgmmap",
+      "message": "Discovered that Data/Bundles/Windows/manifest.hgmmap (159.6 MB uncompressed Brotli) contains high-confidence mappings for 1,547 character assets (201 FBX meshes, 142 PNG textures, 232 animations, 204 prefabs, 457 Unity scriptable objects). Documented in meta/manifest.json for Stage 2/Stage 3 follow-up."
+    }
+  ],
+  "visualAssets": [
+    {
+      "name": "ui_snapshot_anim_laevat_s_1.usm",
+      "category": "Character Snapshot",
+      "url": "/assets/Data/Video/PC/UI/Snapshot/ui_snapshot_anim_laevat_s_1_thumb.png",
+      "videoUrl": "/assets/Data/Video/PC/UI/Snapshot/ui_snapshot_anim_laevat_s_1.mp4",
+      "relPath": "assets/Data/Video/PC/UI/Snapshot/ui_snapshot_anim_laevat_s_1.usm",
+      "width": 540,
+      "height": 540,
+      "sizeBytes": 367104
+    },
+    {
+      "name": "guide_video_laevat_chartrail01_02_1.usm",
+      "category": "Combat & Skill Guides",
+      "url": "/assets/Data/Video/PC/Guide/Common/guide_video_laevat_chartrail01_02_1_thumb.png",
+      "videoUrl": "/assets/Data/Video/PC/Guide/Common/guide_video_laevat_chartrail01_02_1.mp4",
+      "relPath": "assets/Data/Video/PC/Guide/Common/guide_video_laevat_chartrail01_02_1.usm",
+      "width": 800,
+      "height": 450,
+      "sizeBytes": 793824
+    },
+    {
+      "name": "guide_video_laevat_chartrail01_02_2.usm",
+      "category": "Combat & Skill Guides",
+      "url": "/assets/Data/Video/PC/Guide/Common/guide_video_laevat_chartrail01_02_2_thumb.png",
+      "videoUrl": "/assets/Data/Video/PC/Guide/Common/guide_video_laevat_chartrail01_02_2.mp4",
+      "relPath": "assets/Data/Video/PC/Guide/Common/guide_video_laevat_chartrail01_02_2.usm",
+      "width": 800,
+      "height": 450,
+      "sizeBytes": 565920
+    },
+    {
+      "name": "guide_video_laevat_chartrail01_03_1.usm",
+      "category": "Combat & Skill Guides",
+      "url": "/assets/Data/Video/PC/Guide/Common/guide_video_laevat_chartrail01_03_1_thumb.png",
+      "videoUrl": "/assets/Data/Video/PC/Guide/Common/guide_video_laevat_chartrail01_03_1.mp4",
+      "relPath": "assets/Data/Video/PC/Guide/Common/guide_video_laevat_chartrail01_03_1.usm",
+      "width": 800,
+      "height": 450,
+      "sizeBytes": 1047552
+    },
+    {
+      "name": "guide_video_laevat_chartrail01_04_1.usm",
+      "category": "Combat & Skill Guides",
+      "url": "/assets/Data/Video/PC/Guide/Common/guide_video_laevat_chartrail01_04_1_thumb.png",
+      "videoUrl": "/assets/Data/Video/PC/Guide/Common/guide_video_laevat_chartrail01_04_1.mp4",
+      "relPath": "assets/Data/Video/PC/Guide/Common/guide_video_laevat_chartrail01_04_1.usm",
+      "width": 800,
+      "height": 450,
+      "sizeBytes": 1108544
+    },
+    {
+      "name": "guide_video_laevat_chartrail01_05_1.usm",
+      "category": "Combat & Skill Guides",
+      "url": "/assets/Data/Video/PC/Guide/Common/guide_video_laevat_chartrail01_05_1_thumb.png",
+      "videoUrl": "/assets/Data/Video/PC/Guide/Common/guide_video_laevat_chartrail01_05_1.mp4",
+      "relPath": "assets/Data/Video/PC/Guide/Common/guide_video_laevat_chartrail01_05_1.usm",
+      "width": 800,
+      "height": 450,
+      "sizeBytes": 1028736
+    },
+    {
+      "name": "guide_video_laevat_chartrail01_05_2.usm",
+      "category": "Combat & Skill Guides",
+      "url": "/assets/Data/Video/PC/Guide/Common/guide_video_laevat_chartrail01_05_2_thumb.png",
+      "videoUrl": "/assets/Data/Video/PC/Guide/Common/guide_video_laevat_chartrail01_05_2.mp4",
+      "relPath": "assets/Data/Video/PC/Guide/Common/guide_video_laevat_chartrail01_05_2.usm",
+      "width": 800,
+      "height": 450,
+      "sizeBytes": 880352
+    },
+    {
+      "name": "guide_video_laevat_chartrain01_05_01.usm",
+      "category": "Combat & Skill Guides",
+      "url": "/assets/Data/Video/PC/Guide/Common/guide_video_laevat_chartrain01_05_01_thumb.png",
+      "videoUrl": "/assets/Data/Video/PC/Guide/Common/guide_video_laevat_chartrain01_05_01.mp4",
+      "relPath": "assets/Data/Video/PC/Guide/Common/guide_video_laevat_chartrain01_05_01.usm",
+      "width": 800,
+      "height": 450,
+      "sizeBytes": 1247328
+    }
+  ],
+  "models": [
+    {
+      "name": "CharGrowthTable.bytes",
+      "format": "BYTES (SparkBuffer)",
+      "relPath": "assets/Data/TableCfg/CharGrowthTable.bytes",
+      "sizeBytes": 309028
+    },
+    {
+      "name": "CharWpnRecommendTable.bytes",
+      "format": "BYTES (SparkBuffer)",
+      "relPath": "assets/Data/TableCfg/CharWpnRecommendTable.bytes",
+      "sizeBytes": 3992
+    },
+    {
+      "name": "CharWpnSkillRecommendTable.bytes",
+      "format": "BYTES (SparkBuffer)",
+      "relPath": "assets/Data/TableCfg/CharWpnSkillRecommendTable.bytes",
+      "sizeBytes": 2852
+    },
+    {
+      "name": "CharacterTable.bytes",
+      "format": "BYTES (SparkBuffer)",
+      "relPath": "assets/Data/TableCfg/CharacterTable.bytes",
+      "sizeBytes": 2451212
+    },
+    {
+      "name": "DialogTextTable.bytes",
+      "format": "BYTES (SparkBuffer)",
+      "relPath": "assets/Data/TableCfg/DialogTextTable.bytes",
+      "sizeBytes": 3240524
+    },
+    {
+      "name": "I18nTextTable_CN.bytes",
+      "format": "BYTES (SparkBuffer)",
+      "relPath": "assets/Data/TableCfg/I18nTextTable_CN.bytes",
+      "sizeBytes": 10362948
+    },
+    {
+      "name": "I18nTextTable_EN.bytes",
+      "format": "BYTES (SparkBuffer)",
+      "relPath": "assets/Data/TableCfg/I18nTextTable_EN.bytes",
+      "sizeBytes": 11311036
+    },
+    {
+      "name": "I18nTextTable_JP.bytes",
+      "format": "BYTES (SparkBuffer)",
+      "relPath": "assets/Data/TableCfg/I18nTextTable_JP.bytes",
+      "sizeBytes": 12938620
+    },
+    {
+      "name": "I18nTextTable_KR.bytes",
+      "format": "BYTES (SparkBuffer)",
+      "relPath": "assets/Data/TableCfg/I18nTextTable_KR.bytes",
+      "sizeBytes": 12801260
+    },
+    {
+      "name": "I18nTextTable_TC.bytes",
+      "format": "BYTES (SparkBuffer)",
+      "relPath": "assets/Data/TableCfg/I18nTextTable_TC.bytes",
+      "sizeBytes": 10259500
+    }
+  ],
+  "audio": [
+    {
+      "name": "au_dlg_commvo_laevat_agree_01.wem",
+      "group": "JP · Characters",
+      "relPath": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/au_dlg_commvo_laevat_agree_01.wem",
+      "sizeBytes": 7483,
+      "playableUrl": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/au_dlg_commvo_laevat_agree_01.wem",
+      "playable": true,
+      "voiceActor": "Horie Yui (堀江由衣)",
+      "language": "Japanese"
+    },
+    {
+      "name": "au_dlg_commvo_laevat_agree_02.wem",
+      "group": "JP · Characters",
+      "relPath": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/au_dlg_commvo_laevat_agree_02.wem",
+      "sizeBytes": 10748,
+      "playableUrl": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/au_dlg_commvo_laevat_agree_02.wem",
+      "playable": true,
+      "voiceActor": "Horie Yui (堀江由衣)",
+      "language": "Japanese"
+    },
+    {
+      "name": "au_dlg_commvo_laevat_agree_03.wem",
+      "group": "JP · Characters",
+      "relPath": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/au_dlg_commvo_laevat_agree_03.wem",
+      "sizeBytes": 10566,
+      "playableUrl": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/au_dlg_commvo_laevat_agree_03.wem",
+      "playable": true,
+      "voiceActor": "Horie Yui (堀江由衣)",
+      "language": "Japanese"
+    },
+    {
+      "name": "au_dlg_commvo_laevat_praise_01.wem",
+      "group": "JP · Characters",
+      "relPath": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/au_dlg_commvo_laevat_praise_01.wem",
+      "sizeBytes": 16580,
+      "playableUrl": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/au_dlg_commvo_laevat_praise_01.wem",
+      "playable": true,
+      "voiceActor": "Horie Yui (堀江由衣)",
+      "language": "Japanese"
+    },
+    {
+      "name": "au_dlg_commvo_laevat_praise_02.wem",
+      "group": "JP · Characters",
+      "relPath": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/au_dlg_commvo_laevat_praise_02.wem",
+      "sizeBytes": 18752,
+      "playableUrl": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/au_dlg_commvo_laevat_praise_02.wem",
+      "playable": true,
+      "voiceActor": "Horie Yui (堀江由衣)",
+      "language": "Japanese"
+    },
+    {
+      "name": "au_dlg_commvo_laevat_praise_03.wem",
+      "group": "JP · Characters",
+      "relPath": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/au_dlg_commvo_laevat_praise_03.wem",
+      "sizeBytes": 13321,
+      "playableUrl": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/au_dlg_commvo_laevat_praise_03.wem",
+      "playable": true,
+      "voiceActor": "Horie Yui (堀江由衣)",
+      "language": "Japanese"
+    },
+    {
+      "name": "au_dlg_commvo_laevat_thank_01.wem",
+      "group": "JP · Characters",
+      "relPath": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/au_dlg_commvo_laevat_thank_01.wem",
+      "sizeBytes": 12805,
+      "playableUrl": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/au_dlg_commvo_laevat_thank_01.wem",
+      "playable": true,
+      "voiceActor": "Horie Yui (堀江由衣)",
+      "language": "Japanese"
+    },
+    {
+      "name": "au_dlg_commvo_laevat_thank_02.wem",
+      "group": "JP · Characters",
+      "relPath": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/au_dlg_commvo_laevat_thank_02.wem",
+      "sizeBytes": 22307,
+      "playableUrl": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/au_dlg_commvo_laevat_thank_02.wem",
+      "playable": true,
+      "voiceActor": "Horie Yui (堀江由衣)",
+      "language": "Japanese"
+    },
+    {
+      "name": "au_dlg_commvo_laevat_thank_03.wem",
+      "group": "JP · Characters",
+      "relPath": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/au_dlg_commvo_laevat_thank_03.wem",
+      "sizeBytes": 32267,
+      "playableUrl": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/au_dlg_commvo_laevat_thank_03.wem",
+      "playable": true,
+      "voiceActor": "Horie Yui (堀江由衣)",
+      "language": "Japanese"
+    },
+    {
+      "name": "au_greetEnvTalk_laevat_lower_01.wem",
+      "group": "JP · Characters",
+      "relPath": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/au_greetEnvTalk_laevat_lower_01.wem",
+      "sizeBytes": 18045,
+      "playableUrl": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/au_greetEnvTalk_laevat_lower_01.wem",
+      "playable": true,
+      "voiceActor": "Horie Yui (堀江由衣)",
+      "language": "Japanese"
+    },
+    {
+      "name": "au_greetEnvTalk_laevat_max_01.wem",
+      "group": "JP · Characters",
+      "relPath": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/au_greetEnvTalk_laevat_max_01.wem",
+      "sizeBytes": 45211,
+      "playableUrl": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/au_greetEnvTalk_laevat_max_01.wem",
+      "playable": true,
+      "voiceActor": "Horie Yui (堀江由衣)",
+      "language": "Japanese"
+    },
+    {
+      "name": "au_radio_continue_self_laevat_01_001.wem",
+      "group": "JP · Characters",
+      "relPath": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/au_radio_continue_self_laevat_01_001.wem",
+      "sizeBytes": 11800,
+      "playableUrl": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/au_radio_continue_self_laevat_01_001.wem",
+      "playable": true,
+      "voiceActor": "Horie Yui (堀江由衣)",
+      "language": "Japanese"
+    },
+    {
+      "name": "au_radio_continue_self_laevat_02_001.wem",
+      "group": "JP · Characters",
+      "relPath": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/au_radio_continue_self_laevat_02_001.wem",
+      "sizeBytes": 16404,
+      "playableUrl": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/au_radio_continue_self_laevat_02_001.wem",
+      "playable": true,
+      "voiceActor": "Horie Yui (堀江由衣)",
+      "language": "Japanese"
+    },
+    {
+      "name": "au_sim_gift_laevat_give_01.wem",
+      "group": "JP · Characters",
+      "relPath": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/au_sim_gift_laevat_give_01.wem",
+      "sizeBytes": 133027,
+      "playableUrl": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/au_sim_gift_laevat_give_01.wem",
+      "playable": true,
+      "voiceActor": "Horie Yui (堀江由衣)",
+      "language": "Japanese"
+    },
+    {
+      "name": "au_sim_gift_laevat_recv_01.wem",
+      "group": "JP · Characters",
+      "relPath": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/au_sim_gift_laevat_recv_01.wem",
+      "sizeBytes": 113643,
+      "playableUrl": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/au_sim_gift_laevat_recv_01.wem",
+      "playable": true,
+      "voiceActor": "Horie Yui (堀江由衣)",
+      "language": "Japanese"
+    },
+    {
+      "name": "au_sim_talk_laevat_lv01_01.wem",
+      "group": "JP · Characters",
+      "relPath": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/au_sim_talk_laevat_lv01_01.wem",
+      "sizeBytes": 92697,
+      "playableUrl": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/au_sim_talk_laevat_lv01_01.wem",
+      "playable": true,
+      "voiceActor": "Horie Yui (堀江由衣)",
+      "language": "Japanese"
+    },
+    {
+      "name": "au_sim_talk_laevat_lv02_01.wem",
+      "group": "JP · Characters",
+      "relPath": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/au_sim_talk_laevat_lv02_01.wem",
+      "sizeBytes": 155678,
+      "playableUrl": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/au_sim_talk_laevat_lv02_01.wem",
+      "playable": true,
+      "voiceActor": "Horie Yui (堀江由衣)",
+      "language": "Japanese"
+    },
+    {
+      "name": "au_sim_talk_laevat_lv02_02.wem",
+      "group": "JP · Characters",
+      "relPath": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/au_sim_talk_laevat_lv02_02.wem",
+      "sizeBytes": 141807,
+      "playableUrl": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/au_sim_talk_laevat_lv02_02.wem",
+      "playable": true,
+      "voiceActor": "Horie Yui (堀江由衣)",
+      "language": "Japanese"
+    },
+    {
+      "name": "au_sim_talk_laevat_max_01.wem",
+      "group": "JP · Characters",
+      "relPath": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/au_sim_talk_laevat_max_01.wem",
+      "sizeBytes": 120079,
+      "playableUrl": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/au_sim_talk_laevat_max_01.wem",
+      "playable": true,
+      "voiceActor": "Horie Yui (堀江由衣)",
+      "language": "Japanese"
+    },
+    {
+      "name": "au_sim_talk_laevat_max_02.wem",
+      "group": "JP · Characters",
+      "relPath": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/au_sim_talk_laevat_max_02.wem",
+      "sizeBytes": 163016,
+      "playableUrl": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/au_sim_talk_laevat_max_02.wem",
+      "playable": true,
+      "voiceActor": "Horie Yui (堀江由衣)",
+      "language": "Japanese"
+    },
+    {
+      "name": "au_sim_talk_laevat_max_03.wem",
+      "group": "JP · Characters",
+      "relPath": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/au_sim_talk_laevat_max_03.wem",
+      "sizeBytes": 121680,
+      "playableUrl": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/au_sim_talk_laevat_max_03.wem",
+      "playable": true,
+      "voiceActor": "Horie Yui (堀江由衣)",
+      "language": "Japanese"
+    },
+    {
+      "name": "chr_0016_laevat_chrbark_gear_01.wem",
+      "group": "JP · Characters",
+      "relPath": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_chrbark_gear_01.wem",
+      "sizeBytes": 72508,
+      "playableUrl": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_chrbark_gear_01.wem",
+      "playable": true,
+      "voiceActor": "Horie Yui (堀江由衣)",
+      "language": "Japanese"
+    },
+    {
+      "name": "chr_0016_laevat_chrbark_join_01.wem",
+      "group": "JP · Characters",
+      "relPath": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_chrbark_join_01.wem",
+      "sizeBytes": 25366,
+      "playableUrl": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_chrbark_join_01.wem",
+      "playable": true,
+      "voiceActor": "Horie Yui (堀江由衣)",
+      "language": "Japanese"
+    },
+    {
+      "name": "chr_0016_laevat_chrbark_join_02.wem",
+      "group": "JP · Characters",
+      "relPath": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_chrbark_join_02.wem",
+      "sizeBytes": 30085,
+      "playableUrl": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_chrbark_join_02.wem",
+      "playable": true,
+      "voiceActor": "Horie Yui (堀江由衣)",
+      "language": "Japanese"
+    },
+    {
+      "name": "chr_0016_laevat_chrbark_squad_01.wem",
+      "group": "JP · Characters",
+      "relPath": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_chrbark_squad_01.wem",
+      "sizeBytes": 58469,
+      "playableUrl": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_chrbark_squad_01.wem",
+      "playable": true,
+      "voiceActor": "Horie Yui (堀江由衣)",
+      "language": "Japanese"
+    },
+    {
+      "name": "chr_0016_laevat_chrbark_squad_02.wem",
+      "group": "JP · Characters",
+      "relPath": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_chrbark_squad_02.wem",
+      "sizeBytes": 57796,
+      "playableUrl": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_chrbark_squad_02.wem",
+      "playable": true,
+      "voiceActor": "Horie Yui (堀江由衣)",
+      "language": "Japanese"
+    },
+    {
+      "name": "chr_0016_laevat_chrbark_switch_01.wem",
+      "group": "JP · Characters",
+      "relPath": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_chrbark_switch_01.wem",
+      "sizeBytes": 94313,
+      "playableUrl": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_chrbark_switch_01.wem",
+      "playable": true,
+      "voiceActor": "Horie Yui (堀江由衣)",
+      "language": "Japanese"
+    },
+    {
+      "name": "chr_0016_laevat_chrbark_switch_02.wem",
+      "group": "JP · Characters",
+      "relPath": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_chrbark_switch_02.wem",
+      "sizeBytes": 52152,
+      "playableUrl": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_chrbark_switch_02.wem",
+      "playable": true,
+      "voiceActor": "Horie Yui (堀江由衣)",
+      "language": "Japanese"
+    },
+    {
+      "name": "chr_0016_laevat_chrbark_weap_01.wem",
+      "group": "JP · Characters",
+      "relPath": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_chrbark_weap_01.wem",
+      "sizeBytes": 50627,
+      "playableUrl": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_chrbark_weap_01.wem",
+      "playable": true,
+      "voiceActor": "Horie Yui (堀江由衣)",
+      "language": "Japanese"
+    },
+    {
+      "name": "chr_0016_laevat_chrup_level_01.wem",
+      "group": "JP · Characters",
+      "relPath": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_chrup_level_01.wem",
+      "sizeBytes": 31823,
+      "playableUrl": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_chrup_level_01.wem",
+      "playable": true,
+      "voiceActor": "Horie Yui (堀江由衣)",
+      "language": "Japanese"
+    },
+    {
+      "name": "chr_0016_laevat_chrup_promt01_01.wem",
+      "group": "JP · Characters",
+      "relPath": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_chrup_promt01_01.wem",
+      "sizeBytes": 91545,
+      "playableUrl": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_chrup_promt01_01.wem",
+      "playable": true,
+      "voiceActor": "Horie Yui (堀江由衣)",
+      "language": "Japanese"
+    },
+    {
+      "name": "chr_0016_laevat_chrup_promt02_01.wem",
+      "group": "JP · Characters",
+      "relPath": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_chrup_promt02_01.wem",
+      "sizeBytes": 98583,
+      "playableUrl": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_chrup_promt02_01.wem",
+      "playable": true,
+      "voiceActor": "Horie Yui (堀江由衣)",
+      "language": "Japanese"
+    },
+    {
+      "name": "chr_0016_laevat_chrup_promt03_01.wem",
+      "group": "JP · Characters",
+      "relPath": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_chrup_promt03_01.wem",
+      "sizeBytes": 119532,
+      "playableUrl": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_chrup_promt03_01.wem",
+      "playable": true,
+      "voiceActor": "Horie Yui (堀江由衣)",
+      "language": "Japanese"
+    },
+    {
+      "name": "chr_0016_laevat_chrup_promt04_01.wem",
+      "group": "JP · Characters",
+      "relPath": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_chrup_promt04_01.wem",
+      "sizeBytes": 132829,
+      "playableUrl": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_chrup_promt04_01.wem",
+      "playable": true,
+      "voiceActor": "Horie Yui (堀江由衣)",
+      "language": "Japanese"
+    },
+    {
+      "name": "chr_0016_laevat_chrup_skill_01.wem",
+      "group": "JP · Characters",
+      "relPath": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_chrup_skill_01.wem",
+      "sizeBytes": 39500,
+      "playableUrl": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_chrup_skill_01.wem",
+      "playable": true,
+      "voiceActor": "Horie Yui (堀江由衣)",
+      "language": "Japanese"
+    },
+    {
+      "name": "chr_0016_laevat_combat_attack_extra_01.wem",
+      "group": "JP · Characters",
+      "relPath": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_combat_attack_extra_01.wem",
+      "sizeBytes": 11775,
+      "playableUrl": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_combat_attack_extra_01.wem",
+      "playable": true,
+      "voiceActor": "Horie Yui (堀江由衣)",
+      "language": "Japanese"
+    },
+    {
+      "name": "chr_0016_laevat_combat_attack_extra_02.wem",
+      "group": "JP · Characters",
+      "relPath": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_combat_attack_extra_02.wem",
+      "sizeBytes": 9301,
+      "playableUrl": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_combat_attack_extra_02.wem",
+      "playable": true,
+      "voiceActor": "Horie Yui (堀江由衣)",
+      "language": "Japanese"
+    },
+    {
+      "name": "chr_0016_laevat_combat_attack_last_01.wem",
+      "group": "JP · Characters",
+      "relPath": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_combat_attack_last_01.wem",
+      "sizeBytes": 13884,
+      "playableUrl": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_combat_attack_last_01.wem",
+      "playable": true,
+      "voiceActor": "Horie Yui (堀江由衣)",
+      "language": "Japanese"
+    },
+    {
+      "name": "chr_0016_laevat_combat_attack_last_02.wem",
+      "group": "JP · Characters",
+      "relPath": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_combat_attack_last_02.wem",
+      "sizeBytes": 10175,
+      "playableUrl": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_combat_attack_last_02.wem",
+      "playable": true,
+      "voiceActor": "Horie Yui (堀江由衣)",
+      "language": "Japanese"
+    },
+    {
+      "name": "chr_0016_laevat_combat_battle_defeat_01.wem",
+      "group": "JP · Characters",
+      "relPath": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_combat_battle_defeat_01.wem",
+      "sizeBytes": 31432,
+      "playableUrl": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_combat_battle_defeat_01.wem",
+      "playable": true,
+      "voiceActor": "Horie Yui (堀江由衣)",
+      "language": "Japanese"
+    },
+    {
+      "name": "chr_0016_laevat_combat_dead_01.wem",
+      "group": "JP · Characters",
+      "relPath": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_combat_dead_01.wem",
+      "sizeBytes": 38820,
+      "playableUrl": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_combat_dead_01.wem",
+      "playable": true,
+      "voiceActor": "Horie Yui (堀江由衣)",
+      "language": "Japanese"
+    },
+    {
+      "name": "chr_0016_laevat_combat_hurt_lowhp_01.wem",
+      "group": "JP · Characters",
+      "relPath": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_combat_hurt_lowhp_01.wem",
+      "sizeBytes": 30537,
+      "playableUrl": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_combat_hurt_lowhp_01.wem",
+      "playable": true,
+      "voiceActor": "Horie Yui (堀江由衣)",
+      "language": "Japanese"
+    },
+    {
+      "name": "chr_0016_laevat_combat_intobattle_01.wem",
+      "group": "JP · Characters",
+      "relPath": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_combat_intobattle_01.wem",
+      "sizeBytes": 26404,
+      "playableUrl": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_combat_intobattle_01.wem",
+      "playable": true,
+      "voiceActor": "Horie Yui (堀江由衣)",
+      "language": "Japanese"
+    },
+    {
+      "name": "chr_0016_laevat_combat_intobattle_echo2_01.wem",
+      "group": "JP · Characters",
+      "relPath": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_combat_intobattle_echo2_01.wem",
+      "sizeBytes": 34838,
+      "playableUrl": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_combat_intobattle_echo2_01.wem",
+      "playable": true,
+      "voiceActor": "Horie Yui (堀江由衣)",
+      "language": "Japanese"
+    },
+    {
+      "name": "chr_0016_laevat_combat_outbattle_hard_01.wem",
+      "group": "JP · Characters",
+      "relPath": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_combat_outbattle_hard_01.wem",
+      "sizeBytes": 46758,
+      "playableUrl": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_combat_outbattle_hard_01.wem",
+      "playable": true,
+      "voiceActor": "Horie Yui (堀江由衣)",
+      "language": "Japanese"
+    },
+    {
+      "name": "chr_0016_laevat_combat_outbattle_nor_01.wem",
+      "group": "JP · Characters",
+      "relPath": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_combat_outbattle_nor_01.wem",
+      "sizeBytes": 24302,
+      "playableUrl": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_combat_outbattle_nor_01.wem",
+      "playable": true,
+      "voiceActor": "Horie Yui (堀江由衣)",
+      "language": "Japanese"
+    },
+    {
+      "name": "chr_0016_laevat_combat_outbattle_nor_02.wem",
+      "group": "JP · Characters",
+      "relPath": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_combat_outbattle_nor_02.wem",
+      "sizeBytes": 28718,
+      "playableUrl": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_combat_outbattle_nor_02.wem",
+      "playable": true,
+      "voiceActor": "Horie Yui (堀江由衣)",
+      "language": "Japanese"
+    },
+    {
+      "name": "chr_0016_laevat_combat_outbattle_nor_echo2_01.wem",
+      "group": "JP · Characters",
+      "relPath": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_combat_outbattle_nor_echo2_01.wem",
+      "sizeBytes": 38897,
+      "playableUrl": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_combat_outbattle_nor_echo2_01.wem",
+      "playable": true,
+      "voiceActor": "Horie Yui (堀江由衣)",
+      "language": "Japanese"
+    },
+    {
+      "name": "chr_0016_laevat_combat_remind_danger_01.wem",
+      "group": "JP · Characters",
+      "relPath": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_combat_remind_danger_01.wem",
+      "sizeBytes": 24721,
+      "playableUrl": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_combat_remind_danger_01.wem",
+      "playable": true,
+      "voiceActor": "Horie Yui (堀江由衣)",
+      "language": "Japanese"
+    },
+    {
+      "name": "chr_0016_laevat_combat_remind_praise_01.wem",
+      "group": "JP · Characters",
+      "relPath": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_combat_remind_praise_01.wem",
+      "sizeBytes": 25879,
+      "playableUrl": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_combat_remind_praise_01.wem",
+      "playable": true,
+      "voiceActor": "Horie Yui (堀江由衣)",
+      "language": "Japanese"
+    },
+    {
+      "name": "chr_0016_laevat_combat_remind_praise_02.wem",
+      "group": "JP · Characters",
+      "relPath": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_combat_remind_praise_02.wem",
+      "sizeBytes": 38912,
+      "playableUrl": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_combat_remind_praise_02.wem",
+      "playable": true,
+      "voiceActor": "Horie Yui (堀江由衣)",
+      "language": "Japanese"
+    },
+    {
+      "name": "chr_0016_laevat_combat_remind_praise_echo2_01.wem",
+      "group": "JP · Characters",
+      "relPath": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_combat_remind_praise_echo2_01.wem",
+      "sizeBytes": 12985,
+      "playableUrl": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_combat_remind_praise_echo2_01.wem",
+      "playable": true,
+      "voiceActor": "Horie Yui (堀江由衣)",
+      "language": "Japanese"
+    },
+    {
+      "name": "chr_0016_laevat_combat_remind_praise_echo2_02.wem",
+      "group": "JP · Characters",
+      "relPath": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_combat_remind_praise_echo2_02.wem",
+      "sizeBytes": 26817,
+      "playableUrl": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_combat_remind_praise_echo2_02.wem",
+      "playable": true,
+      "voiceActor": "Horie Yui (堀江由衣)",
+      "language": "Japanese"
+    },
+    {
+      "name": "chr_0016_laevat_combat_skill_comb_ready_01.wem",
+      "group": "JP · Characters",
+      "relPath": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_combat_skill_comb_ready_01.wem",
+      "sizeBytes": 14377,
+      "playableUrl": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_combat_skill_comb_ready_01.wem",
+      "playable": true,
+      "voiceActor": "Horie Yui (堀江由衣)",
+      "language": "Japanese"
+    },
+    {
+      "name": "chr_0016_laevat_combat_skill_comb_ready_02.wem",
+      "group": "JP · Characters",
+      "relPath": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_combat_skill_comb_ready_02.wem",
+      "sizeBytes": 21255,
+      "playableUrl": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_combat_skill_comb_ready_02.wem",
+      "playable": true,
+      "voiceActor": "Horie Yui (堀江由衣)",
+      "language": "Japanese"
+    },
+    {
+      "name": "chr_0016_laevat_combat_skill_comb_release_01.wem",
+      "group": "JP · Characters",
+      "relPath": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_combat_skill_comb_release_01.wem",
+      "sizeBytes": 20737,
+      "playableUrl": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_combat_skill_comb_release_01.wem",
+      "playable": true,
+      "voiceActor": "Horie Yui (堀江由衣)",
+      "language": "Japanese"
+    },
+    {
+      "name": "chr_0016_laevat_combat_skill_comb_release_02.wem",
+      "group": "JP · Characters",
+      "relPath": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_combat_skill_comb_release_02.wem",
+      "sizeBytes": 22316,
+      "playableUrl": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_combat_skill_comb_release_02.wem",
+      "playable": true,
+      "voiceActor": "Horie Yui (堀江由衣)",
+      "language": "Japanese"
+    },
+    {
+      "name": "chr_0016_laevat_combat_skill_nor_01.wem",
+      "group": "JP · Characters",
+      "relPath": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_combat_skill_nor_01.wem",
+      "sizeBytes": 12283,
+      "playableUrl": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_combat_skill_nor_01.wem",
+      "playable": true,
+      "voiceActor": "Horie Yui (堀江由衣)",
+      "language": "Japanese"
+    },
+    {
+      "name": "chr_0016_laevat_combat_skill_nor_02.wem",
+      "group": "JP · Characters",
+      "relPath": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_combat_skill_nor_02.wem",
+      "sizeBytes": 16605,
+      "playableUrl": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_combat_skill_nor_02.wem",
+      "playable": true,
+      "voiceActor": "Horie Yui (堀江由衣)",
+      "language": "Japanese"
+    },
+    {
+      "name": "chr_0016_laevat_combat_skill_nor_03.wem",
+      "group": "JP · Characters",
+      "relPath": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_combat_skill_nor_03.wem",
+      "sizeBytes": 12951,
+      "playableUrl": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_combat_skill_nor_03.wem",
+      "playable": true,
+      "voiceActor": "Horie Yui (堀江由衣)",
+      "language": "Japanese"
+    },
+    {
+      "name": "chr_0016_laevat_combat_skill_ultimate_01.wem",
+      "group": "JP · Characters",
+      "relPath": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_combat_skill_ultimate_01.wem",
+      "sizeBytes": 30056,
+      "playableUrl": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_combat_skill_ultimate_01.wem",
+      "playable": true,
+      "voiceActor": "Horie Yui (堀江由衣)",
+      "language": "Japanese"
+    },
+    {
+      "name": "chr_0016_laevat_combat_skill_ultimate_02.wem",
+      "group": "JP · Characters",
+      "relPath": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_combat_skill_ultimate_02.wem",
+      "sizeBytes": 25803,
+      "playableUrl": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_combat_skill_ultimate_02.wem",
+      "playable": true,
+      "voiceActor": "Horie Yui (堀江由衣)",
+      "language": "Japanese"
+    },
+    {
+      "name": "chr_0016_laevat_combat_skill_ultimate_03.wem",
+      "group": "JP · Characters",
+      "relPath": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_combat_skill_ultimate_03.wem",
+      "sizeBytes": 29326,
+      "playableUrl": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_combat_skill_ultimate_03.wem",
+      "playable": true,
+      "voiceActor": "Horie Yui (堀江由衣)",
+      "language": "Japanese"
+    },
+    {
+      "name": "chr_0016_laevat_combat_suppuse_getheal_01.wem",
+      "group": "JP · Characters",
+      "relPath": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_combat_suppuse_getheal_01.wem",
+      "sizeBytes": 21854,
+      "playableUrl": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_combat_suppuse_getheal_01.wem",
+      "playable": true,
+      "voiceActor": "Horie Yui (堀江由衣)",
+      "language": "Japanese"
+    },
+    {
+      "name": "chr_0016_laevat_combat_suppuse_using_01.wem",
+      "group": "JP · Characters",
+      "relPath": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_combat_suppuse_using_01.wem",
+      "sizeBytes": 23170,
+      "playableUrl": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_combat_suppuse_using_01.wem",
+      "playable": true,
+      "voiceActor": "Horie Yui (堀江由衣)",
+      "language": "Japanese"
+    },
+    {
+      "name": "chr_0016_laevat_common_agree_01.wem",
+      "group": "JP · Characters",
+      "relPath": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_common_agree_01.wem",
+      "sizeBytes": 7483,
+      "playableUrl": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_common_agree_01.wem",
+      "playable": true,
+      "voiceActor": "Horie Yui (堀江由衣)",
+      "language": "Japanese"
+    },
+    {
+      "name": "chr_0016_laevat_common_agree_02.wem",
+      "group": "JP · Characters",
+      "relPath": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_common_agree_02.wem",
+      "sizeBytes": 10748,
+      "playableUrl": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_common_agree_02.wem",
+      "playable": true,
+      "voiceActor": "Horie Yui (堀江由衣)",
+      "language": "Japanese"
+    },
+    {
+      "name": "chr_0016_laevat_common_agree_03.wem",
+      "group": "JP · Characters",
+      "relPath": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_common_agree_03.wem",
+      "sizeBytes": 10566,
+      "playableUrl": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_common_agree_03.wem",
+      "playable": true,
+      "voiceActor": "Horie Yui (堀江由衣)",
+      "language": "Japanese"
+    },
+    {
+      "name": "chr_0016_laevat_common_thank_01.wem",
+      "group": "JP · Characters",
+      "relPath": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_common_thank_01.wem",
+      "sizeBytes": 12805,
+      "playableUrl": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_common_thank_01.wem",
+      "playable": true,
+      "voiceActor": "Horie Yui (堀江由衣)",
+      "language": "Japanese"
+    },
+    {
+      "name": "chr_0016_laevat_common_thank_02.wem",
+      "group": "JP · Characters",
+      "relPath": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_common_thank_02.wem",
+      "sizeBytes": 22307,
+      "playableUrl": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_common_thank_02.wem",
+      "playable": true,
+      "voiceActor": "Horie Yui (堀江由衣)",
+      "language": "Japanese"
+    },
+    {
+      "name": "chr_0016_laevat_common_thank_03.wem",
+      "group": "JP · Characters",
+      "relPath": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_common_thank_03.wem",
+      "sizeBytes": 32267,
+      "playableUrl": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_common_thank_03.wem",
+      "playable": true,
+      "voiceActor": "Horie Yui (堀江由衣)",
+      "language": "Japanese"
+    },
+    {
+      "name": "chr_0016_laevat_explocomm_ms_begin_01.wem",
+      "group": "JP · Characters",
+      "relPath": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_explocomm_ms_begin_01.wem",
+      "sizeBytes": 30340,
+      "playableUrl": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_explocomm_ms_begin_01.wem",
+      "playable": true,
+      "voiceActor": "Horie Yui (堀江由衣)",
+      "language": "Japanese"
+    },
+    {
+      "name": "chr_0016_laevat_explocomm_ms_begin_02.wem",
+      "group": "JP · Characters",
+      "relPath": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_explocomm_ms_begin_02.wem",
+      "sizeBytes": 42313,
+      "playableUrl": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_explocomm_ms_begin_02.wem",
+      "playable": true,
+      "voiceActor": "Horie Yui (堀江由衣)",
+      "language": "Japanese"
+    },
+    {
+      "name": "chr_0016_laevat_explocomm_ms_end_01.wem",
+      "group": "JP · Characters",
+      "relPath": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_explocomm_ms_end_01.wem",
+      "sizeBytes": 31061,
+      "playableUrl": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_explocomm_ms_end_01.wem",
+      "playable": true,
+      "voiceActor": "Horie Yui (堀江由衣)",
+      "language": "Japanese"
+    },
+    {
+      "name": "chr_0016_laevat_explocomm_ms_end_02.wem",
+      "group": "JP · Characters",
+      "relPath": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_explocomm_ms_end_02.wem",
+      "sizeBytes": 14825,
+      "playableUrl": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_explocomm_ms_end_02.wem",
+      "playable": true,
+      "voiceActor": "Horie Yui (堀江由衣)",
+      "language": "Japanese"
+    },
+    {
+      "name": "chr_0016_laevat_explocomm_postv_get_01.wem",
+      "group": "JP · Characters",
+      "relPath": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_explocomm_postv_get_01.wem",
+      "sizeBytes": 16580,
+      "playableUrl": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_explocomm_postv_get_01.wem",
+      "playable": true,
+      "voiceActor": "Horie Yui (堀江由衣)",
+      "language": "Japanese"
+    },
+    {
+      "name": "chr_0016_laevat_explocomm_postv_get_02.wem",
+      "group": "JP · Characters",
+      "relPath": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_explocomm_postv_get_02.wem",
+      "sizeBytes": 18752,
+      "playableUrl": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_explocomm_postv_get_02.wem",
+      "playable": true,
+      "voiceActor": "Horie Yui (堀江由衣)",
+      "language": "Japanese"
+    },
+    {
+      "name": "chr_0016_laevat_explocomm_postv_get_03.wem",
+      "group": "JP · Characters",
+      "relPath": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_explocomm_postv_get_03.wem",
+      "sizeBytes": 13321,
+      "playableUrl": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_explocomm_postv_get_03.wem",
+      "playable": true,
+      "voiceActor": "Horie Yui (堀江由衣)",
+      "language": "Japanese"
+    },
+    {
+      "name": "chr_0016_laevat_explocomm_postv_point_01.wem",
+      "group": "JP · Characters",
+      "relPath": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_explocomm_postv_point_01.wem",
+      "sizeBytes": 17737,
+      "playableUrl": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_explocomm_postv_point_01.wem",
+      "playable": true,
+      "voiceActor": "Horie Yui (堀江由衣)",
+      "language": "Japanese"
+    },
+    {
+      "name": "chr_0016_laevat_explocomm_postv_point_02.wem",
+      "group": "JP · Characters",
+      "relPath": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_explocomm_postv_point_02.wem",
+      "sizeBytes": 33088,
+      "playableUrl": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_explocomm_postv_point_02.wem",
+      "playable": true,
+      "voiceActor": "Horie Yui (堀江由衣)",
+      "language": "Japanese"
+    },
+    {
+      "name": "chr_0016_laevat_explocomm_switch_01.wem",
+      "group": "JP · Characters",
+      "relPath": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_explocomm_switch_01.wem",
+      "sizeBytes": 31293,
+      "playableUrl": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_explocomm_switch_01.wem",
+      "playable": true,
+      "voiceActor": "Horie Yui (堀江由衣)",
+      "language": "Japanese"
+    },
+    {
+      "name": "chr_0016_laevat_explocomm_switch_02.wem",
+      "group": "JP · Characters",
+      "relPath": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_explocomm_switch_02.wem",
+      "sizeBytes": 27813,
+      "playableUrl": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_explocomm_switch_02.wem",
+      "playable": true,
+      "voiceActor": "Horie Yui (堀江由衣)",
+      "language": "Japanese"
+    },
+    {
+      "name": "chr_0016_laevat_explore_find_danger_01.wem",
+      "group": "JP · Characters",
+      "relPath": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_explore_find_danger_01.wem",
+      "sizeBytes": 35153,
+      "playableUrl": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_explore_find_danger_01.wem",
+      "playable": true,
+      "voiceActor": "Horie Yui (堀江由衣)",
+      "language": "Japanese"
+    },
+    {
+      "name": "chr_0016_laevat_explore_find_locked_01.wem",
+      "group": "JP · Characters",
+      "relPath": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_explore_find_locked_01.wem",
+      "sizeBytes": 48286,
+      "playableUrl": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_explore_find_locked_01.wem",
+      "playable": true,
+      "voiceActor": "Horie Yui (堀江由衣)",
+      "language": "Japanese"
+    },
+    {
+      "name": "chr_0016_laevat_explore_idletalk_01.wem",
+      "group": "JP · Characters",
+      "relPath": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_explore_idletalk_01.wem",
+      "sizeBytes": 52238,
+      "playableUrl": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_explore_idletalk_01.wem",
+      "playable": true,
+      "voiceActor": "Horie Yui (堀江由衣)",
+      "language": "Japanese"
+    },
+    {
+      "name": "chr_0016_laevat_explore_point_common_01.wem",
+      "group": "JP · Characters",
+      "relPath": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_explore_point_common_01.wem",
+      "sizeBytes": 66092,
+      "playableUrl": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_explore_point_common_01.wem",
+      "playable": true,
+      "voiceActor": "Horie Yui (堀江由衣)",
+      "language": "Japanese"
+    },
+    {
+      "name": "chr_0016_laevat_explore_point_valub_01.wem",
+      "group": "JP · Characters",
+      "relPath": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_explore_point_valub_01.wem",
+      "sizeBytes": 34186,
+      "playableUrl": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_explore_point_valub_01.wem",
+      "playable": true,
+      "voiceActor": "Horie Yui (堀江由衣)",
+      "language": "Japanese"
+    },
+    {
+      "name": "chr_0016_laevat_interact_blight_break_01.wem",
+      "group": "JP · Characters",
+      "relPath": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_interact_blight_break_01.wem",
+      "sizeBytes": 31631,
+      "playableUrl": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_interact_blight_break_01.wem",
+      "playable": true,
+      "voiceActor": "Horie Yui (堀江由衣)",
+      "language": "Japanese"
+    },
+    {
+      "name": "chr_0016_laevat_interact_etherium_01.wem",
+      "group": "JP · Characters",
+      "relPath": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_interact_etherium_01.wem",
+      "sizeBytes": 44907,
+      "playableUrl": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_interact_etherium_01.wem",
+      "playable": true,
+      "voiceActor": "Horie Yui (堀江由衣)",
+      "language": "Japanese"
+    },
+    {
+      "name": "chr_0016_laevat_interact_mine_valub_01.wem",
+      "group": "JP · Characters",
+      "relPath": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_interact_mine_valub_01.wem",
+      "sizeBytes": 39253,
+      "playableUrl": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_interact_mine_valub_01.wem",
+      "playable": true,
+      "voiceActor": "Horie Yui (堀江由衣)",
+      "language": "Japanese"
+    },
+    {
+      "name": "chr_0016_laevat_interact_mine_valub_echo2_01.wem",
+      "group": "JP · Characters",
+      "relPath": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_interact_mine_valub_echo2_01.wem",
+      "sizeBytes": 39716,
+      "playableUrl": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_interact_mine_valub_echo2_01.wem",
+      "playable": true,
+      "voiceActor": "Horie Yui (堀江由衣)",
+      "language": "Japanese"
+    },
+    {
+      "name": "chr_0016_laevat_interact_rest_01.wem",
+      "group": "JP · Characters",
+      "relPath": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_interact_rest_01.wem",
+      "sizeBytes": 33796,
+      "playableUrl": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_interact_rest_01.wem",
+      "playable": true,
+      "voiceActor": "Horie Yui (堀江由衣)",
+      "language": "Japanese"
+    },
+    {
+      "name": "chr_0016_laevat_interact_treasure_valub_01.wem",
+      "group": "JP · Characters",
+      "relPath": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_interact_treasure_valub_01.wem",
+      "sizeBytes": 37140,
+      "playableUrl": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_interact_treasure_valub_01.wem",
+      "playable": true,
+      "voiceActor": "Horie Yui (堀江由衣)",
+      "language": "Japanese"
+    },
+    {
+      "name": "chr_0016_laevat_introduce_01.wem",
+      "group": "JP · Characters",
+      "relPath": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_introduce_01.wem",
+      "sizeBytes": 95993,
+      "playableUrl": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_introduce_01.wem",
+      "playable": true,
+      "voiceActor": "Horie Yui (堀江由衣)",
+      "language": "Japanese"
+    },
+    {
+      "name": "chr_0016_laevat_mono_about_line01.wem",
+      "group": "JP · Characters",
+      "relPath": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_mono_about_line01.wem",
+      "sizeBytes": 298394,
+      "playableUrl": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_mono_about_line01.wem",
+      "playable": true,
+      "voiceActor": "Horie Yui (堀江由衣)",
+      "language": "Japanese"
+    },
+    {
+      "name": "chr_0016_laevat_mono_about_line02.wem",
+      "group": "JP · Characters",
+      "relPath": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_mono_about_line02.wem",
+      "sizeBytes": 186942,
+      "playableUrl": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_mono_about_line02.wem",
+      "playable": true,
+      "voiceActor": "Horie Yui (堀江由衣)",
+      "language": "Japanese"
+    },
+    {
+      "name": "chr_0016_laevat_mono_about_line03.wem",
+      "group": "JP · Characters",
+      "relPath": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_mono_about_line03.wem",
+      "sizeBytes": 393888,
+      "playableUrl": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_mono_about_line03.wem",
+      "playable": true,
+      "voiceActor": "Horie Yui (堀江由衣)",
+      "language": "Japanese"
+    },
+    {
+      "name": "chr_0016_laevat_mono_about_line04.wem",
+      "group": "JP · Characters",
+      "relPath": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_mono_about_line04.wem",
+      "sizeBytes": 215055,
+      "playableUrl": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_mono_about_line04.wem",
+      "playable": true,
+      "voiceActor": "Horie Yui (堀江由衣)",
+      "language": "Japanese"
+    },
+    {
+      "name": "chr_0016_laevat_mono_about_line05.wem",
+      "group": "JP · Characters",
+      "relPath": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_mono_about_line05.wem",
+      "sizeBytes": 200990,
+      "playableUrl": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_mono_about_line05.wem",
+      "playable": true,
+      "voiceActor": "Horie Yui (堀江由衣)",
+      "language": "Japanese"
+    },
+    {
+      "name": "chr_0016_laevat_mono_attack_extra_01.wem",
+      "group": "JP · Characters",
+      "relPath": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_mono_attack_extra_01.wem",
+      "sizeBytes": 11811,
+      "playableUrl": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_mono_attack_extra_01.wem",
+      "playable": true,
+      "voiceActor": "Horie Yui (堀江由衣)",
+      "language": "Japanese"
+    },
+    {
+      "name": "chr_0016_laevat_mono_attack_extra_02.wem",
+      "group": "JP · Characters",
+      "relPath": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_mono_attack_extra_02.wem",
+      "sizeBytes": 9046,
+      "playableUrl": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_mono_attack_extra_02.wem",
+      "playable": true,
+      "voiceActor": "Horie Yui (堀江由衣)",
+      "language": "Japanese"
+    },
+    {
+      "name": "chr_0016_laevat_mono_attack_last_01.wem",
+      "group": "JP · Characters",
+      "relPath": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_mono_attack_last_01.wem",
+      "sizeBytes": 13815,
+      "playableUrl": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_mono_attack_last_01.wem",
+      "playable": true,
+      "voiceActor": "Horie Yui (堀江由衣)",
+      "language": "Japanese"
+    },
+    {
+      "name": "chr_0016_laevat_mono_attack_last_02.wem",
+      "group": "JP · Characters",
+      "relPath": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_mono_attack_last_02.wem",
+      "sizeBytes": 10209,
+      "playableUrl": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_mono_attack_last_02.wem",
+      "playable": true,
+      "voiceActor": "Horie Yui (堀江由衣)",
+      "language": "Japanese"
+    },
+    {
+      "name": "chr_0016_laevat_mono_chat_line01.wem",
+      "group": "JP · Characters",
+      "relPath": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_mono_chat_line01.wem",
+      "sizeBytes": 168339,
+      "playableUrl": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_mono_chat_line01.wem",
+      "playable": true,
+      "voiceActor": "Horie Yui (堀江由衣)",
+      "language": "Japanese"
+    },
+    {
+      "name": "chr_0016_laevat_mono_chat_line02.wem",
+      "group": "JP · Characters",
+      "relPath": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_mono_chat_line02.wem",
+      "sizeBytes": 221392,
+      "playableUrl": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_mono_chat_line02.wem",
+      "playable": true,
+      "voiceActor": "Horie Yui (堀江由衣)",
+      "language": "Japanese"
+    },
+    {
+      "name": "chr_0016_laevat_mono_chat_line03.wem",
+      "group": "JP · Characters",
+      "relPath": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_mono_chat_line03.wem",
+      "sizeBytes": 178044,
+      "playableUrl": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_mono_chat_line03.wem",
+      "playable": true,
+      "voiceActor": "Horie Yui (堀江由衣)",
+      "language": "Japanese"
+    },
+    {
+      "name": "chr_0016_laevat_mono_chat_line04.wem",
+      "group": "JP · Characters",
+      "relPath": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_mono_chat_line04.wem",
+      "sizeBytes": 204111,
+      "playableUrl": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_mono_chat_line04.wem",
+      "playable": true,
+      "voiceActor": "Horie Yui (堀江由衣)",
+      "language": "Japanese"
+    },
+    {
+      "name": "chr_0016_laevat_mono_chat_line05.wem",
+      "group": "JP · Characters",
+      "relPath": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_mono_chat_line05.wem",
+      "sizeBytes": 249194,
+      "playableUrl": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_mono_chat_line05.wem",
+      "playable": true,
+      "voiceActor": "Horie Yui (堀江由衣)",
+      "language": "Japanese"
+    },
+    {
+      "name": "chr_0016_laevat_mono_self_line01.wem",
+      "group": "JP · Characters",
+      "relPath": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_mono_self_line01.wem",
+      "sizeBytes": 192449,
+      "playableUrl": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_mono_self_line01.wem",
+      "playable": true,
+      "voiceActor": "Horie Yui (堀江由衣)",
+      "language": "Japanese"
+    },
+    {
+      "name": "chr_0016_laevat_mono_self_line02.wem",
+      "group": "JP · Characters",
+      "relPath": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_mono_self_line02.wem",
+      "sizeBytes": 182952,
+      "playableUrl": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_mono_self_line02.wem",
+      "playable": true,
+      "voiceActor": "Horie Yui (堀江由衣)",
+      "language": "Japanese"
+    },
+    {
+      "name": "chr_0016_laevat_mono_self_line03.wem",
+      "group": "JP · Characters",
+      "relPath": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_mono_self_line03.wem",
+      "sizeBytes": 191443,
+      "playableUrl": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_mono_self_line03.wem",
+      "playable": true,
+      "voiceActor": "Horie Yui (堀江由衣)",
+      "language": "Japanese"
+    },
+    {
+      "name": "chr_0016_laevat_mono_self_line04.wem",
+      "group": "JP · Characters",
+      "relPath": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_mono_self_line04.wem",
+      "sizeBytes": 222503,
+      "playableUrl": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_mono_self_line04.wem",
+      "playable": true,
+      "voiceActor": "Horie Yui (堀江由衣)",
+      "language": "Japanese"
+    },
+    {
+      "name": "chr_0016_laevat_mono_self_line05.wem",
+      "group": "JP · Characters",
+      "relPath": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_mono_self_line05.wem",
+      "sizeBytes": 346686,
+      "playableUrl": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_mono_self_line05.wem",
+      "playable": true,
+      "voiceActor": "Horie Yui (堀江由衣)",
+      "language": "Japanese"
+    },
+    {
+      "name": "chr_0016_laevat_mono_skill_comb_release_01.wem",
+      "group": "JP · Characters",
+      "relPath": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_mono_skill_comb_release_01.wem",
+      "sizeBytes": 20870,
+      "playableUrl": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_mono_skill_comb_release_01.wem",
+      "playable": true,
+      "voiceActor": "Horie Yui (堀江由衣)",
+      "language": "Japanese"
+    },
+    {
+      "name": "chr_0016_laevat_mono_skill_comb_release_02.wem",
+      "group": "JP · Characters",
+      "relPath": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_mono_skill_comb_release_02.wem",
+      "sizeBytes": 22950,
+      "playableUrl": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_mono_skill_comb_release_02.wem",
+      "playable": true,
+      "voiceActor": "Horie Yui (堀江由衣)",
+      "language": "Japanese"
+    },
+    {
+      "name": "chr_0016_laevat_mono_skill_nor_01.wem",
+      "group": "JP · Characters",
+      "relPath": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_mono_skill_nor_01.wem",
+      "sizeBytes": 11452,
+      "playableUrl": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_mono_skill_nor_01.wem",
+      "playable": true,
+      "voiceActor": "Horie Yui (堀江由衣)",
+      "language": "Japanese"
+    },
+    {
+      "name": "chr_0016_laevat_mono_skill_nor_02.wem",
+      "group": "JP · Characters",
+      "relPath": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_mono_skill_nor_02.wem",
+      "sizeBytes": 16645,
+      "playableUrl": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_mono_skill_nor_02.wem",
+      "playable": true,
+      "voiceActor": "Horie Yui (堀江由衣)",
+      "language": "Japanese"
+    },
+    {
+      "name": "chr_0016_laevat_mono_skill_nor_03.wem",
+      "group": "JP · Characters",
+      "relPath": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_mono_skill_nor_03.wem",
+      "sizeBytes": 13204,
+      "playableUrl": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_mono_skill_nor_03.wem",
+      "playable": true,
+      "voiceActor": "Horie Yui (堀江由衣)",
+      "language": "Japanese"
+    },
+    {
+      "name": "chr_0016_laevat_mono_skill_ultimate_01.wem",
+      "group": "JP · Characters",
+      "relPath": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_mono_skill_ultimate_01.wem",
+      "sizeBytes": 29898,
+      "playableUrl": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_mono_skill_ultimate_01.wem",
+      "playable": true,
+      "voiceActor": "Horie Yui (堀江由衣)",
+      "language": "Japanese"
+    },
+    {
+      "name": "chr_0016_laevat_mono_skill_ultimate_02.wem",
+      "group": "JP · Characters",
+      "relPath": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_mono_skill_ultimate_02.wem",
+      "sizeBytes": 25637,
+      "playableUrl": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_mono_skill_ultimate_02.wem",
+      "playable": true,
+      "voiceActor": "Horie Yui (堀江由衣)",
+      "language": "Japanese"
+    },
+    {
+      "name": "chr_0016_laevat_mono_skill_ultimate_03.wem",
+      "group": "JP · Characters",
+      "relPath": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_mono_skill_ultimate_03.wem",
+      "sizeBytes": 28724,
+      "playableUrl": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_mono_skill_ultimate_03.wem",
+      "playable": true,
+      "voiceActor": "Horie Yui (堀江由衣)",
+      "language": "Japanese"
+    },
+    {
+      "name": "chr_0016_laevat_mono_switch_01.wem",
+      "group": "JP · Characters",
+      "relPath": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_mono_switch_01.wem",
+      "sizeBytes": 84567,
+      "playableUrl": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_mono_switch_01.wem",
+      "playable": true,
+      "voiceActor": "Horie Yui (堀江由衣)",
+      "language": "Japanese"
+    },
+    {
+      "name": "chr_0016_laevat_mono_switch_02.wem",
+      "group": "JP · Characters",
+      "relPath": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_mono_switch_02.wem",
+      "sizeBytes": 43555,
+      "playableUrl": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_mono_switch_02.wem",
+      "playable": true,
+      "voiceActor": "Horie Yui (堀江由衣)",
+      "language": "Japanese"
+    },
+    {
+      "name": "chr_0016_laevat_sepcial_radio_continue_01.wem",
+      "group": "JP · Characters",
+      "relPath": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_sepcial_radio_continue_01.wem",
+      "sizeBytes": 11800,
+      "playableUrl": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_sepcial_radio_continue_01.wem",
+      "playable": true,
+      "voiceActor": "Horie Yui (堀江由衣)",
+      "language": "Japanese"
+    },
+    {
+      "name": "chr_0016_laevat_sepcial_radio_continue_02.wem",
+      "group": "JP · Characters",
+      "relPath": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_sepcial_radio_continue_02.wem",
+      "sizeBytes": 16404,
+      "playableUrl": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_sepcial_radio_continue_02.wem",
+      "playable": true,
+      "voiceActor": "Horie Yui (堀江由衣)",
+      "language": "Japanese"
+    },
+    {
+      "name": "chr_0016_laevat_sim_assign_work_01.wem",
+      "group": "JP · Characters",
+      "relPath": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_sim_assign_work_01.wem",
+      "sizeBytes": 45899,
+      "playableUrl": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_sim_assign_work_01.wem",
+      "playable": true,
+      "voiceActor": "Horie Yui (堀江由衣)",
+      "language": "Japanese"
+    },
+    {
+      "name": "chr_0016_laevat_sim_gift_give_01.wem",
+      "group": "JP · Characters",
+      "relPath": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_sim_gift_give_01.wem",
+      "sizeBytes": 133027,
+      "playableUrl": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_sim_gift_give_01.wem",
+      "playable": true,
+      "voiceActor": "Horie Yui (堀江由衣)",
+      "language": "Japanese"
+    },
+    {
+      "name": "chr_0016_laevat_sim_gift_recv_01.wem",
+      "group": "JP · Characters",
+      "relPath": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_sim_gift_recv_01.wem",
+      "sizeBytes": 113643,
+      "playableUrl": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_sim_gift_recv_01.wem",
+      "playable": true,
+      "voiceActor": "Horie Yui (堀江由衣)",
+      "language": "Japanese"
+    },
+    {
+      "name": "chr_0016_laevat_sim_hello_lower_01.wem",
+      "group": "JP · Characters",
+      "relPath": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_sim_hello_lower_01.wem",
+      "sizeBytes": 18045,
+      "playableUrl": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_sim_hello_lower_01.wem",
+      "playable": true,
+      "voiceActor": "Horie Yui (堀江由衣)",
+      "language": "Japanese"
+    },
+    {
+      "name": "chr_0016_laevat_sim_hello_max_01.wem",
+      "group": "JP · Characters",
+      "relPath": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_sim_hello_max_01.wem",
+      "sizeBytes": 45211,
+      "playableUrl": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_sim_hello_max_01.wem",
+      "playable": true,
+      "voiceActor": "Horie Yui (堀江由衣)",
+      "language": "Japanese"
+    },
+    {
+      "name": "chr_0016_laevat_sim_talk_lv01_01.wem",
+      "group": "JP · Characters",
+      "relPath": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_sim_talk_lv01_01.wem",
+      "sizeBytes": 92697,
+      "playableUrl": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_sim_talk_lv01_01.wem",
+      "playable": true,
+      "voiceActor": "Horie Yui (堀江由衣)",
+      "language": "Japanese"
+    },
+    {
+      "name": "chr_0016_laevat_sim_talk_lv02_01.wem",
+      "group": "JP · Characters",
+      "relPath": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_sim_talk_lv02_01.wem",
+      "sizeBytes": 155678,
+      "playableUrl": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_sim_talk_lv02_01.wem",
+      "playable": true,
+      "voiceActor": "Horie Yui (堀江由衣)",
+      "language": "Japanese"
+    },
+    {
+      "name": "chr_0016_laevat_sim_talk_lv02_02.wem",
+      "group": "JP · Characters",
+      "relPath": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_sim_talk_lv02_02.wem",
+      "sizeBytes": 141807,
+      "playableUrl": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_sim_talk_lv02_02.wem",
+      "playable": true,
+      "voiceActor": "Horie Yui (堀江由衣)",
+      "language": "Japanese"
+    },
+    {
+      "name": "chr_0016_laevat_sim_talk_max_01.wem",
+      "group": "JP · Characters",
+      "relPath": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_sim_talk_max_01.wem",
+      "sizeBytes": 120079,
+      "playableUrl": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_sim_talk_max_01.wem",
+      "playable": true,
+      "voiceActor": "Horie Yui (堀江由衣)",
+      "language": "Japanese"
+    },
+    {
+      "name": "chr_0016_laevat_sim_talk_max_02.wem",
+      "group": "JP · Characters",
+      "relPath": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_sim_talk_max_02.wem",
+      "sizeBytes": 163016,
+      "playableUrl": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_sim_talk_max_02.wem",
+      "playable": true,
+      "voiceActor": "Horie Yui (堀江由衣)",
+      "language": "Japanese"
+    },
+    {
+      "name": "chr_0016_laevat_sim_talk_max_03.wem",
+      "group": "JP · Characters",
+      "relPath": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_sim_talk_max_03.wem",
+      "sizeBytes": 121680,
+      "playableUrl": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Characters/chr_0016_laevat/chr_0016_laevat_sim_talk_max_03.wem",
+      "playable": true,
+      "voiceActor": "Horie Yui (堀江由衣)",
+      "language": "Japanese"
+    },
+    {
+      "name": "au_dlg_commvo_laevat_greetingendmin_01.wem",
+      "group": "JP · Narrating",
+      "relPath": "assets/Data/Audio/PCK/Windows/Japanese/v1d6/Narrating/CommonExtra/0016_laevat/au_dlg_commvo_laevat_greetingendmin_01.wem",
+      "sizeBytes": 6943,
+      "playableUrl": "assets/Data/Audio/PCK/Windows/Japanese/v1d6/Narrating/CommonExtra/0016_laevat/au_dlg_commvo_laevat_greetingendmin_01.wem",
+      "playable": true,
+      "voiceActor": "Horie Yui (堀江由衣)",
+      "language": "Japanese"
+    },
+    {
+      "name": "au_dlg_commvo_laevat_laugh_01.wem",
+      "group": "JP · Narrating",
+      "relPath": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Narrating/CommonExtra/0016_laevat/au_dlg_commvo_laevat_laugh_01.wem",
+      "sizeBytes": 5458,
+      "playableUrl": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Narrating/CommonExtra/0016_laevat/au_dlg_commvo_laevat_laugh_01.wem",
+      "playable": true,
+      "voiceActor": "Horie Yui (堀江由衣)",
+      "language": "Japanese"
+    },
+    {
+      "name": "au_dlg_commvo_laevat_laugh_02.wem",
+      "group": "JP · Narrating",
+      "relPath": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Narrating/CommonExtra/0016_laevat/au_dlg_commvo_laevat_laugh_02.wem",
+      "sizeBytes": 8918,
+      "playableUrl": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Narrating/CommonExtra/0016_laevat/au_dlg_commvo_laevat_laugh_02.wem",
+      "playable": true,
+      "voiceActor": "Horie Yui (堀江由衣)",
+      "language": "Japanese"
+    },
+    {
+      "name": "au_dlg_commvo_laevat_laugh_03.wem",
+      "group": "JP · Narrating",
+      "relPath": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Narrating/CommonExtra/0016_laevat/au_dlg_commvo_laevat_laugh_03.wem",
+      "sizeBytes": 12113,
+      "playableUrl": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Narrating/CommonExtra/0016_laevat/au_dlg_commvo_laevat_laugh_03.wem",
+      "playable": true,
+      "voiceActor": "Horie Yui (堀江由衣)",
+      "language": "Japanese"
+    },
+    {
+      "name": "au_dlg_commvo_laevat_negative_01.wem",
+      "group": "JP · Narrating",
+      "relPath": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Narrating/CommonExtra/0016_laevat/au_dlg_commvo_laevat_negative_01.wem",
+      "sizeBytes": 15130,
+      "playableUrl": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Narrating/CommonExtra/0016_laevat/au_dlg_commvo_laevat_negative_01.wem",
+      "playable": true,
+      "voiceActor": "Horie Yui (堀江由衣)",
+      "language": "Japanese"
+    },
+    {
+      "name": "au_dlg_commvo_laevat_negative_02.wem",
+      "group": "JP · Narrating",
+      "relPath": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Narrating/CommonExtra/0016_laevat/au_dlg_commvo_laevat_negative_02.wem",
+      "sizeBytes": 5080,
+      "playableUrl": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Narrating/CommonExtra/0016_laevat/au_dlg_commvo_laevat_negative_02.wem",
+      "playable": true,
+      "voiceActor": "Horie Yui (堀江由衣)",
+      "language": "Japanese"
+    },
+    {
+      "name": "au_dlg_commvo_laevat_negative_03.wem",
+      "group": "JP · Narrating",
+      "relPath": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Narrating/CommonExtra/0016_laevat/au_dlg_commvo_laevat_negative_03.wem",
+      "sizeBytes": 6396,
+      "playableUrl": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Narrating/CommonExtra/0016_laevat/au_dlg_commvo_laevat_negative_03.wem",
+      "playable": true,
+      "voiceActor": "Horie Yui (堀江由衣)",
+      "language": "Japanese"
+    },
+    {
+      "name": "au_dlg_commvo_laevat_neutral_01.wem",
+      "group": "JP · Narrating",
+      "relPath": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Narrating/CommonExtra/0016_laevat/au_dlg_commvo_laevat_neutral_01.wem",
+      "sizeBytes": 7864,
+      "playableUrl": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Narrating/CommonExtra/0016_laevat/au_dlg_commvo_laevat_neutral_01.wem",
+      "playable": true,
+      "voiceActor": "Horie Yui (堀江由衣)",
+      "language": "Japanese"
+    },
+    {
+      "name": "au_dlg_commvo_laevat_neutral_02.wem",
+      "group": "JP · Narrating",
+      "relPath": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Narrating/CommonExtra/0016_laevat/au_dlg_commvo_laevat_neutral_02.wem",
+      "sizeBytes": 6797,
+      "playableUrl": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Narrating/CommonExtra/0016_laevat/au_dlg_commvo_laevat_neutral_02.wem",
+      "playable": true,
+      "voiceActor": "Horie Yui (堀江由衣)",
+      "language": "Japanese"
+    },
+    {
+      "name": "au_dlg_commvo_laevat_neutral_03.wem",
+      "group": "JP · Narrating",
+      "relPath": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Narrating/CommonExtra/0016_laevat/au_dlg_commvo_laevat_neutral_03.wem",
+      "sizeBytes": 9776,
+      "playableUrl": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Narrating/CommonExtra/0016_laevat/au_dlg_commvo_laevat_neutral_03.wem",
+      "playable": true,
+      "voiceActor": "Horie Yui (堀江由衣)",
+      "language": "Japanese"
+    },
+    {
+      "name": "au_dlg_commvo_laevat_neutral_04.wem",
+      "group": "JP · Narrating",
+      "relPath": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Narrating/CommonExtra/0016_laevat/au_dlg_commvo_laevat_neutral_04.wem",
+      "sizeBytes": 5279,
+      "playableUrl": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Narrating/CommonExtra/0016_laevat/au_dlg_commvo_laevat_neutral_04.wem",
+      "playable": true,
+      "voiceActor": "Horie Yui (堀江由衣)",
+      "language": "Japanese"
+    },
+    {
+      "name": "au_dlg_commvo_laevat_neutral_05.wem",
+      "group": "JP · Narrating",
+      "relPath": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Narrating/CommonExtra/0016_laevat/au_dlg_commvo_laevat_neutral_05.wem",
+      "sizeBytes": 10232,
+      "playableUrl": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Narrating/CommonExtra/0016_laevat/au_dlg_commvo_laevat_neutral_05.wem",
+      "playable": true,
+      "voiceActor": "Horie Yui (堀江由衣)",
+      "language": "Japanese"
+    },
+    {
+      "name": "au_dlg_commvo_laevat_neutral_06.wem",
+      "group": "JP · Narrating",
+      "relPath": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Narrating/CommonExtra/0016_laevat/au_dlg_commvo_laevat_neutral_06.wem",
+      "sizeBytes": 6628,
+      "playableUrl": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Narrating/CommonExtra/0016_laevat/au_dlg_commvo_laevat_neutral_06.wem",
+      "playable": true,
+      "voiceActor": "Horie Yui (堀江由衣)",
+      "language": "Japanese"
+    },
+    {
+      "name": "au_dlg_commvo_laevat_positive_01.wem",
+      "group": "JP · Narrating",
+      "relPath": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Narrating/CommonExtra/0016_laevat/au_dlg_commvo_laevat_positive_01.wem",
+      "sizeBytes": 5038,
+      "playableUrl": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Narrating/CommonExtra/0016_laevat/au_dlg_commvo_laevat_positive_01.wem",
+      "playable": true,
+      "voiceActor": "Horie Yui (堀江由衣)",
+      "language": "Japanese"
+    },
+    {
+      "name": "au_dlg_commvo_laevat_positive_02.wem",
+      "group": "JP · Narrating",
+      "relPath": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Narrating/CommonExtra/0016_laevat/au_dlg_commvo_laevat_positive_02.wem",
+      "sizeBytes": 5237,
+      "playableUrl": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Narrating/CommonExtra/0016_laevat/au_dlg_commvo_laevat_positive_02.wem",
+      "playable": true,
+      "voiceActor": "Horie Yui (堀江由衣)",
+      "language": "Japanese"
+    },
+    {
+      "name": "au_dlg_commvo_laevat_positive_03.wem",
+      "group": "JP · Narrating",
+      "relPath": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Narrating/CommonExtra/0016_laevat/au_dlg_commvo_laevat_positive_03.wem",
+      "sizeBytes": 3494,
+      "playableUrl": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Narrating/CommonExtra/0016_laevat/au_dlg_commvo_laevat_positive_03.wem",
+      "playable": true,
+      "voiceActor": "Horie Yui (堀江由衣)",
+      "language": "Japanese"
+    },
+    {
+      "name": "au_dlg_commvo_laevat_positive_04.wem",
+      "group": "JP · Narrating",
+      "relPath": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Narrating/CommonExtra/0016_laevat/au_dlg_commvo_laevat_positive_04.wem",
+      "sizeBytes": 5155,
+      "playableUrl": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Narrating/CommonExtra/0016_laevat/au_dlg_commvo_laevat_positive_04.wem",
+      "playable": true,
+      "voiceActor": "Horie Yui (堀江由衣)",
+      "language": "Japanese"
+    },
+    {
+      "name": "au_dlg_commvo_laevat_positive_05.wem",
+      "group": "JP · Narrating",
+      "relPath": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Narrating/CommonExtra/0016_laevat/au_dlg_commvo_laevat_positive_05.wem",
+      "sizeBytes": 6902,
+      "playableUrl": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Narrating/CommonExtra/0016_laevat/au_dlg_commvo_laevat_positive_05.wem",
+      "playable": true,
+      "voiceActor": "Horie Yui (堀江由衣)",
+      "language": "Japanese"
+    },
+    {
+      "name": "au_dlg_commvo_laevat_sick_01.wem",
+      "group": "JP · Narrating",
+      "relPath": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Narrating/CommonExtra/0016_laevat/au_dlg_commvo_laevat_sick_01.wem",
+      "sizeBytes": 24341,
+      "playableUrl": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Narrating/CommonExtra/0016_laevat/au_dlg_commvo_laevat_sick_01.wem",
+      "playable": true,
+      "voiceActor": "Horie Yui (堀江由衣)",
+      "language": "Japanese"
+    },
+    {
+      "name": "au_dlg_commvo_laevat_sick_02.wem",
+      "group": "JP · Narrating",
+      "relPath": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Narrating/CommonExtra/0016_laevat/au_dlg_commvo_laevat_sick_02.wem",
+      "sizeBytes": 22168,
+      "playableUrl": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Narrating/CommonExtra/0016_laevat/au_dlg_commvo_laevat_sick_02.wem",
+      "playable": true,
+      "voiceActor": "Horie Yui (堀江由衣)",
+      "language": "Japanese"
+    },
+    {
+      "name": "au_dlg_commvo_laevat_sigh_01.wem",
+      "group": "JP · Narrating",
+      "relPath": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Narrating/CommonExtra/0016_laevat/au_dlg_commvo_laevat_sigh_01.wem",
+      "sizeBytes": 8907,
+      "playableUrl": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Narrating/CommonExtra/0016_laevat/au_dlg_commvo_laevat_sigh_01.wem",
+      "playable": true,
+      "voiceActor": "Horie Yui (堀江由衣)",
+      "language": "Japanese"
+    },
+    {
+      "name": "au_dlg_commvo_laevat_sigh_02.wem",
+      "group": "JP · Narrating",
+      "relPath": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Narrating/CommonExtra/0016_laevat/au_dlg_commvo_laevat_sigh_02.wem",
+      "sizeBytes": 10484,
+      "playableUrl": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Narrating/CommonExtra/0016_laevat/au_dlg_commvo_laevat_sigh_02.wem",
+      "playable": true,
+      "voiceActor": "Horie Yui (堀江由衣)",
+      "language": "Japanese"
+    },
+    {
+      "name": "au_dlg_commvo_laevat_sigh_03.wem",
+      "group": "JP · Narrating",
+      "relPath": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Narrating/CommonExtra/0016_laevat/au_dlg_commvo_laevat_sigh_03.wem",
+      "sizeBytes": 6597,
+      "playableUrl": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Narrating/CommonExtra/0016_laevat/au_dlg_commvo_laevat_sigh_03.wem",
+      "playable": true,
+      "voiceActor": "Horie Yui (堀江由衣)",
+      "language": "Japanese"
+    },
+    {
+      "name": "au_greetEnvTalk_laevat_visitor_01.wem",
+      "group": "JP · Narrating",
+      "relPath": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Narrating/CommonExtra/0016_laevat/au_greetEnvTalk_laevat_visitor_01.wem",
+      "sizeBytes": 6902,
+      "playableUrl": "assets/Data/Audio/PCK/Windows/Japanese/v1d0/Narrating/CommonExtra/0016_laevat/au_greetEnvTalk_laevat_visitor_01.wem",
+      "playable": true,
+      "voiceActor": "Horie Yui (堀江由衣)",
+      "language": "Japanese"
+    }
+  ],
+  "animations": [
+    {
+      "name": "CharIntPerform_Chair_Laevat_Npc.json",
+      "relPath": "assets/Data/Json/CharInteractPerformCfgs/CharIntPerform_Chair_Laevat_Npc.json",
+      "sizeBytes": 456
+    },
+    {
+      "name": "CharIntPerform_Chair_SitSp_Laevat_Npc.json",
+      "relPath": "assets/Data/Json/CharInteractPerformCfgs/CharIntPerform_Chair_SitSp_Laevat_Npc.json",
+      "sizeBytes": 328
+    },
+    {
+      "name": "CharIntPerform_Laevat_Snapshot_s_1.json",
+      "relPath": "assets/Data/Json/CharInteractPerformCfgs/CharIntPerform_Laevat_Snapshot_s_1.json",
+      "sizeBytes": 494
+    },
+    {
+      "name": "CharIntPerform_Laevat_Spidle.json",
+      "relPath": "assets/Data/Json/CharInteractPerformCfgs/CharIntPerform_Laevat_Spidle.json",
+      "sizeBytes": 1117
+    },
+    {
+      "name": "anim_cfg_chr_0016_laevat.json",
+      "relPath": "assets/Data/Json/AnimationConfig/anim_cfg_chr_0016_laevat.json",
+      "sizeBytes": 119604
+    },
+    {
+      "name": "au_dlg_commvo_laevat_agree_01.json",
+      "relPath": "assets/Data/Json/LipSync/Japanese/au_dlg_commvo_laevat_agree_01.json",
+      "sizeBytes": 1909
+    },
+    {
+      "name": "au_dlg_commvo_laevat_agree_02.json",
+      "relPath": "assets/Data/Json/LipSync/Japanese/au_dlg_commvo_laevat_agree_02.json",
+      "sizeBytes": 2889
+    },
+    {
+      "name": "au_dlg_commvo_laevat_agree_03.json",
+      "relPath": "assets/Data/Json/LipSync/Japanese/au_dlg_commvo_laevat_agree_03.json",
+      "sizeBytes": 2385
+    },
+    {
+      "name": "au_dlg_commvo_laevat_greetingendmin_01.json",
+      "relPath": "assets/Data/Json/LipSync/Japanese/au_dlg_commvo_laevat_greetingendmin_01.json",
+      "sizeBytes": 2049
+    },
+    {
+      "name": "au_dlg_commvo_laevat_laugh_01.json",
+      "relPath": "assets/Data/Json/LipSync/Japanese/au_dlg_commvo_laevat_laugh_01.json",
+      "sizeBytes": 1153
+    },
+    {
+      "name": "au_dlg_commvo_laevat_laugh_02.json",
+      "relPath": "assets/Data/Json/LipSync/Japanese/au_dlg_commvo_laevat_laugh_02.json",
+      "sizeBytes": 1657
+    },
+    {
+      "name": "au_dlg_commvo_laevat_laugh_03.json",
+      "relPath": "assets/Data/Json/LipSync/Japanese/au_dlg_commvo_laevat_laugh_03.json",
+      "sizeBytes": 2161
+    },
+    {
+      "name": "au_dlg_commvo_laevat_negative_01.json",
+      "relPath": "assets/Data/Json/LipSync/Japanese/au_dlg_commvo_laevat_negative_01.json",
+      "sizeBytes": 2637
+    },
+    {
+      "name": "au_dlg_commvo_laevat_negative_02.json",
+      "relPath": "assets/Data/Json/LipSync/Japanese/au_dlg_commvo_laevat_negative_02.json",
+      "sizeBytes": 1545
+    },
+    {
+      "name": "au_dlg_commvo_laevat_negative_03.json",
+      "relPath": "assets/Data/Json/LipSync/Japanese/au_dlg_commvo_laevat_negative_03.json",
+      "sizeBytes": 2049
+    },
+    {
+      "name": "au_dlg_commvo_laevat_neutral_01.json",
+      "relPath": "assets/Data/Json/LipSync/Japanese/au_dlg_commvo_laevat_neutral_01.json",
+      "sizeBytes": 1573
+    },
+    {
+      "name": "au_dlg_commvo_laevat_neutral_02.json",
+      "relPath": "assets/Data/Json/LipSync/Japanese/au_dlg_commvo_laevat_neutral_02.json",
+      "sizeBytes": 1741
+    },
+    {
+      "name": "au_dlg_commvo_laevat_neutral_03.json",
+      "relPath": "assets/Data/Json/LipSync/Japanese/au_dlg_commvo_laevat_neutral_03.json",
+      "sizeBytes": 1909
+    },
+    {
+      "name": "au_dlg_commvo_laevat_neutral_04.json",
+      "relPath": "assets/Data/Json/LipSync/Japanese/au_dlg_commvo_laevat_neutral_04.json",
+      "sizeBytes": 1405
+    },
+    {
+      "name": "au_dlg_commvo_laevat_neutral_05.json",
+      "relPath": "assets/Data/Json/LipSync/Japanese/au_dlg_commvo_laevat_neutral_05.json",
+      "sizeBytes": 1909
+    },
+    {
+      "name": "au_dlg_commvo_laevat_neutral_06.json",
+      "relPath": "assets/Data/Json/LipSync/Japanese/au_dlg_commvo_laevat_neutral_06.json",
+      "sizeBytes": 1741
+    },
+    {
+      "name": "au_dlg_commvo_laevat_positive_01.json",
+      "relPath": "assets/Data/Json/LipSync/Japanese/au_dlg_commvo_laevat_positive_01.json",
+      "sizeBytes": 1181
+    },
+    {
+      "name": "au_dlg_commvo_laevat_positive_02.json",
+      "relPath": "assets/Data/Json/LipSync/Japanese/au_dlg_commvo_laevat_positive_02.json",
+      "sizeBytes": 1153
+    },
+    {
+      "name": "au_dlg_commvo_laevat_positive_03.json",
+      "relPath": "assets/Data/Json/LipSync/Japanese/au_dlg_commvo_laevat_positive_03.json",
+      "sizeBytes": 1013
+    },
+    {
+      "name": "au_dlg_commvo_laevat_positive_04.json",
+      "relPath": "assets/Data/Json/LipSync/Japanese/au_dlg_commvo_laevat_positive_04.json",
+      "sizeBytes": 1573
+    },
+    {
+      "name": "au_dlg_commvo_laevat_positive_05.json",
+      "relPath": "assets/Data/Json/LipSync/Japanese/au_dlg_commvo_laevat_positive_05.json",
+      "sizeBytes": 2049
+    },
+    {
+      "name": "au_dlg_commvo_laevat_praise_01.json",
+      "relPath": "assets/Data/Json/LipSync/Japanese/au_dlg_commvo_laevat_praise_01.json",
+      "sizeBytes": 3309
+    },
+    {
+      "name": "au_dlg_commvo_laevat_praise_02.json",
+      "relPath": "assets/Data/Json/LipSync/Japanese/au_dlg_commvo_laevat_praise_02.json",
+      "sizeBytes": 4065
+    },
+    {
+      "name": "au_dlg_commvo_laevat_praise_03.json",
+      "relPath": "assets/Data/Json/LipSync/Japanese/au_dlg_commvo_laevat_praise_03.json",
+      "sizeBytes": 3309
+    },
+    {
+      "name": "au_dlg_commvo_laevat_sick_01.json",
+      "relPath": "assets/Data/Json/LipSync/Japanese/au_dlg_commvo_laevat_sick_01.json",
+      "sizeBytes": 4513
+    },
+    {
+      "name": "au_dlg_commvo_laevat_sick_02.json",
+      "relPath": "assets/Data/Json/LipSync/Japanese/au_dlg_commvo_laevat_sick_02.json",
+      "sizeBytes": 4933
+    },
+    {
+      "name": "au_dlg_commvo_laevat_sigh_01.json",
+      "relPath": "assets/Data/Json/LipSync/Japanese/au_dlg_commvo_laevat_sigh_01.json",
+      "sizeBytes": 1685
+    },
+    {
+      "name": "au_dlg_commvo_laevat_sigh_02.json",
+      "relPath": "assets/Data/Json/LipSync/Japanese/au_dlg_commvo_laevat_sigh_02.json",
+      "sizeBytes": 2413
+    },
+    {
+      "name": "au_dlg_commvo_laevat_sigh_03.json",
+      "relPath": "assets/Data/Json/LipSync/Japanese/au_dlg_commvo_laevat_sigh_03.json",
+      "sizeBytes": 1293
+    },
+    {
+      "name": "au_dlg_commvo_laevat_thank_01.json",
+      "relPath": "assets/Data/Json/LipSync/Japanese/au_dlg_commvo_laevat_thank_01.json",
+      "sizeBytes": 3309
+    },
+    {
+      "name": "au_dlg_commvo_laevat_thank_02.json",
+      "relPath": "assets/Data/Json/LipSync/Japanese/au_dlg_commvo_laevat_thank_02.json",
+      "sizeBytes": 4933
+    },
+    {
+      "name": "au_dlg_commvo_laevat_thank_03.json",
+      "relPath": "assets/Data/Json/LipSync/Japanese/au_dlg_commvo_laevat_thank_03.json",
+      "sizeBytes": 8069
+    },
+    {
+      "name": "au_sim_gift_laevat_give_01.json",
+      "relPath": "assets/Data/Json/LipSync/Japanese/au_sim_gift_laevat_give_01.json",
+      "sizeBytes": 25569
+    },
+    {
+      "name": "au_sim_gift_laevat_recv_01.json",
+      "relPath": "assets/Data/Json/LipSync/Japanese/au_sim_gift_laevat_recv_01.json",
+      "sizeBytes": 21117
+    },
+    {
+      "name": "au_sim_talk_laevat_lv01_01.json",
+      "relPath": "assets/Data/Json/LipSync/Japanese/au_sim_talk_laevat_lv01_01.json",
+      "sizeBytes": 18597
+    },
+    {
+      "name": "au_sim_talk_laevat_lv02_01.json",
+      "relPath": "assets/Data/Json/LipSync/Japanese/au_sim_talk_laevat_lv02_01.json",
+      "sizeBytes": 28593
+    },
+    {
+      "name": "au_sim_talk_laevat_lv02_02.json",
+      "relPath": "assets/Data/Json/LipSync/Japanese/au_sim_talk_laevat_lv02_02.json",
+      "sizeBytes": 27249
+    },
+    {
+      "name": "au_sim_talk_laevat_max_01.json",
+      "relPath": "assets/Data/Json/LipSync/Japanese/au_sim_talk_laevat_max_01.json",
+      "sizeBytes": 24477
+    },
+    {
+      "name": "au_sim_talk_laevat_max_02.json",
+      "relPath": "assets/Data/Json/LipSync/Japanese/au_sim_talk_laevat_max_02.json",
+      "sizeBytes": 30469
+    },
+    {
+      "name": "au_sim_talk_laevat_max_03.json",
+      "relPath": "assets/Data/Json/LipSync/Japanese/au_sim_talk_laevat_max_03.json",
+      "sizeBytes": 23077
+    },
+    {
+      "name": "buff_chr_0016_laevat_absorb_fire_inflict.json",
+      "relPath": "assets/Data/Json/BuffData/buff_chr_0016_laevat_absorb_fire_inflict.json",
+      "sizeBytes": 990
+    },
+    {
+      "name": "buff_chr_0016_laevat_chrdung_give_energy.json",
+      "relPath": "assets/Data/Json/BuffData/buff_chr_0016_laevat_chrdung_give_energy.json",
+      "sizeBytes": 421
+    },
+    {
+      "name": "buff_chr_0016_laevat_chrdung_glitch_continuous.json",
+      "relPath": "assets/Data/Json/BuffData/buff_chr_0016_laevat_chrdung_glitch_continuous.json",
+      "sizeBytes": 884
+    },
+    {
+      "name": "buff_chr_0016_laevat_chrdung_glitch_interval.json",
+      "relPath": "assets/Data/Json/BuffData/buff_chr_0016_laevat_chrdung_glitch_interval.json",
+      "sizeBytes": 866
+    },
+    {
+      "name": "buff_chr_0016_laevat_chrdung_touched_sphere.json",
+      "relPath": "assets/Data/Json/BuffData/buff_chr_0016_laevat_chrdung_touched_sphere.json",
+      "sizeBytes": 192
+    },
+    {
+      "name": "buff_chr_0016_laevat_combo_skill_debuff.json",
+      "relPath": "assets/Data/Json/BuffData/buff_chr_0016_laevat_combo_skill_debuff.json",
+      "sizeBytes": 925
+    },
+    {
+      "name": "buff_chr_0016_laevat_combo_skill_hit.json",
+      "relPath": "assets/Data/Json/BuffData/buff_chr_0016_laevat_combo_skill_hit.json",
+      "sizeBytes": 8582
+    },
+    {
+      "name": "buff_chr_0016_laevat_combo_skill_hit_self.json",
+      "relPath": "assets/Data/Json/BuffData/buff_chr_0016_laevat_combo_skill_hit_self.json",
+      "sizeBytes": 819
+    },
+    {
+      "name": "buff_chr_0016_laevat_combo_skill_hit_self_early.json",
+      "relPath": "assets/Data/Json/BuffData/buff_chr_0016_laevat_combo_skill_hit_self_early.json",
+      "sizeBytes": 192
+    },
+    {
+      "name": "buff_chr_0016_laevat_combo_skill_hitstop.json",
+      "relPath": "assets/Data/Json/BuffData/buff_chr_0016_laevat_combo_skill_hitstop.json",
+      "sizeBytes": 417
+    },
+    {
+      "name": "buff_chr_0016_laevat_combo_skill_start.json",
+      "relPath": "assets/Data/Json/BuffData/buff_chr_0016_laevat_combo_skill_start.json",
+      "sizeBytes": 446
+    },
+    {
+      "name": "buff_chr_0016_laevat_combo_skill_tutorial_marker.json",
+      "relPath": "assets/Data/Json/BuffData/buff_chr_0016_laevat_combo_skill_tutorial_marker.json",
+      "sizeBytes": 192
+    },
+    {
+      "name": "buff_chr_0016_laevat_combo_skill_usp.json",
+      "relPath": "assets/Data/Json/BuffData/buff_chr_0016_laevat_combo_skill_usp.json",
+      "sizeBytes": 1309
+    },
+    {
+      "name": "buff_chr_0016_laevat_energy.json",
+      "relPath": "assets/Data/Json/BuffData/buff_chr_0016_laevat_energy.json",
+      "sizeBytes": 1426
+    },
+    {
+      "name": "buff_chr_0016_laevat_energy_icon_1.json",
+      "relPath": "assets/Data/Json/BuffData/buff_chr_0016_laevat_energy_icon_1.json",
+      "sizeBytes": 210
+    },
+    {
+      "name": "buff_chr_0016_laevat_energy_icon_2.json",
+      "relPath": "assets/Data/Json/BuffData/buff_chr_0016_laevat_energy_icon_2.json",
+      "sizeBytes": 210
+    },
+    {
+      "name": "buff_chr_0016_laevat_energy_icon_3.json",
+      "relPath": "assets/Data/Json/BuffData/buff_chr_0016_laevat_energy_icon_3.json",
+      "sizeBytes": 210
+    },
+    {
+      "name": "buff_chr_0016_laevat_energy_icon_4.json",
+      "relPath": "assets/Data/Json/BuffData/buff_chr_0016_laevat_energy_icon_4.json",
+      "sizeBytes": 4832
+    },
+    {
+      "name": "buff_chr_0016_laevat_energy_icon_5.json",
+      "relPath": "assets/Data/Json/BuffData/buff_chr_0016_laevat_energy_icon_5.json",
+      "sizeBytes": 1394
+    },
+    {
+      "name": "buff_chr_0016_laevat_finish_energy_out_of_fight.json",
+      "relPath": "assets/Data/Json/BuffData/buff_chr_0016_laevat_finish_energy_out_of_fight.json",
+      "sizeBytes": 476
+    },
+    {
+      "name": "buff_chr_0016_laevat_gain_sp_on_kill.json",
+      "relPath": "assets/Data/Json/BuffData/buff_chr_0016_laevat_gain_sp_on_kill.json",
+      "sizeBytes": 781
+    },
+    {
+      "name": "buff_chr_0016_laevat_gain_sp_on_kill_1.json",
+      "relPath": "assets/Data/Json/BuffData/buff_chr_0016_laevat_gain_sp_on_kill_1.json",
+      "sizeBytes": 210
+    },
+    {
+      "name": "buff_chr_0016_laevat_has_max_energy.json",
+      "relPath": "assets/Data/Json/BuffData/buff_chr_0016_laevat_has_max_energy.json",
+      "sizeBytes": 210
+    },
+    {
+      "name": "buff_chr_0016_laevat_hide_wpn_vfx.json",
+      "relPath": "assets/Data/Json/BuffData/buff_chr_0016_laevat_hide_wpn_vfx.json",
+      "sizeBytes": 739
+    },
+    {
+      "name": "buff_chr_0016_laevat_ignore_fire_resist.json",
+      "relPath": "assets/Data/Json/BuffData/buff_chr_0016_laevat_ignore_fire_resist.json",
+      "sizeBytes": 5018
+    },
+    {
+      "name": "buff_chr_0016_laevat_normal_skill_spread_fire.json",
+      "relPath": "assets/Data/Json/BuffData/buff_chr_0016_laevat_normal_skill_spread_fire.json",
+      "sizeBytes": 3759
+    },
+    {
+      "name": "buff_chr_0016_laevat_passive.json",
+      "relPath": "assets/Data/Json/BuffData/buff_chr_0016_laevat_passive.json",
+      "sizeBytes": 1768
+    },
+    {
+      "name": "buff_chr_0016_laevat_passive_enemy.json",
+      "relPath": "assets/Data/Json/BuffData/buff_chr_0016_laevat_passive_enemy.json",
+      "sizeBytes": 2396
+    },
+    {
+      "name": "buff_chr_0016_laevat_passive_notify.json",
+      "relPath": "assets/Data/Json/BuffData/buff_chr_0016_laevat_passive_notify.json",
+      "sizeBytes": 192
+    },
+    {
+      "name": "buff_chr_0016_laevat_passive_self_count.json",
+      "relPath": "assets/Data/Json/BuffData/buff_chr_0016_laevat_passive_self_count.json",
+      "sizeBytes": 192
+    },
+    {
+      "name": "buff_chr_0016_laevat_passive_teammate.json",
+      "relPath": "assets/Data/Json/BuffData/buff_chr_0016_laevat_passive_teammate.json",
+      "sizeBytes": 8984
+    },
+    {
+      "name": "buff_chr_0016_laevat_passive_teammate_cd.json",
+      "relPath": "assets/Data/Json/BuffData/buff_chr_0016_laevat_passive_teammate_cd.json",
+      "sizeBytes": 192
+    },
+    {
+      "name": "buff_chr_0016_laevat_pause_ult.json",
+      "relPath": "assets/Data/Json/BuffData/buff_chr_0016_laevat_pause_ult.json",
+      "sizeBytes": 192
+    },
+    {
+      "name": "buff_chr_0016_laevat_potential_1.json",
+      "relPath": "assets/Data/Json/BuffData/buff_chr_0016_laevat_potential_1.json",
+      "sizeBytes": 850
+    },
+    {
+      "name": "buff_chr_0016_laevat_potential_1_1.json",
+      "relPath": "assets/Data/Json/BuffData/buff_chr_0016_laevat_potential_1_1.json",
+      "sizeBytes": 544
+    },
+    {
+      "name": "buff_chr_0016_laevat_potential_5.json",
+      "relPath": "assets/Data/Json/BuffData/buff_chr_0016_laevat_potential_5.json",
+      "sizeBytes": 980
+    },
+    {
+      "name": "buff_chr_0016_laevat_potential_5_cd.json",
+      "relPath": "assets/Data/Json/BuffData/buff_chr_0016_laevat_potential_5_cd.json",
+      "sizeBytes": 602
+    },
+    {
+      "name": "buff_chr_0016_laevat_potential_5_vfx.json",
+      "relPath": "assets/Data/Json/BuffData/buff_chr_0016_laevat_potential_5_vfx.json",
+      "sizeBytes": 961
+    },
+    {
+      "name": "buff_chr_0016_laevat_remove_energy.json",
+      "relPath": "assets/Data/Json/BuffData/buff_chr_0016_laevat_remove_energy.json",
+      "sizeBytes": 464
+    },
+    {
+      "name": "buff_chr_0016_laevat_remove_energy_out_of_fight.json",
+      "relPath": "assets/Data/Json/BuffData/buff_chr_0016_laevat_remove_energy_out_of_fight.json",
+      "sizeBytes": 480
+    },
+    {
+      "name": "buff_chr_0016_laevat_ring_start_asset.json",
+      "relPath": "assets/Data/Json/BuffData/buff_chr_0016_laevat_ring_start_asset.json",
+      "sizeBytes": 2758
+    },
+    {
+      "name": "buff_chr_0016_laevat_show_weapon.json",
+      "relPath": "assets/Data/Json/BuffData/buff_chr_0016_laevat_show_weapon.json",
+      "sizeBytes": 2294
+    },
+    {
+      "name": "buff_chr_0016_laevat_talent_1.json",
+      "relPath": "assets/Data/Json/BuffData/buff_chr_0016_laevat_talent_1.json",
+      "sizeBytes": 391
+    },
+    {
+      "name": "buff_chr_0016_laevat_talent_2_0.json",
+      "relPath": "assets/Data/Json/BuffData/buff_chr_0016_laevat_talent_2_0.json",
+      "sizeBytes": 801
+    },
+    {
+      "name": "buff_chr_0016_laevat_talent_2_1.json",
+      "relPath": "assets/Data/Json/BuffData/buff_chr_0016_laevat_talent_2_1.json",
+      "sizeBytes": 955
+    },
+    {
+      "name": "buff_chr_0016_laevat_train_max_energy.json",
+      "relPath": "assets/Data/Json/BuffData/buff_chr_0016_laevat_train_max_energy.json",
+      "sizeBytes": 1450
+    },
+    {
+      "name": "buff_chr_0016_laevat_ult_dash.json",
+      "relPath": "assets/Data/Json/BuffData/buff_chr_0016_laevat_ult_dash.json",
+      "sizeBytes": 465
+    },
+    {
+      "name": "buff_chr_0016_laevat_ult_end.json",
+      "relPath": "assets/Data/Json/BuffData/buff_chr_0016_laevat_ult_end.json",
+      "sizeBytes": 3473
+    },
+    {
+      "name": "buff_chr_0016_laevat_ultimate_sfx_loop.json",
+      "relPath": "assets/Data/Json/BuffData/buff_chr_0016_laevat_ultimate_sfx_loop.json",
+      "sizeBytes": 345
+    },
+    {
+      "name": "buff_chr_0016_laevat_wpn_vfx.json",
+      "relPath": "assets/Data/Json/BuffData/buff_chr_0016_laevat_wpn_vfx.json",
+      "sizeBytes": 866
+    },
+    {
+      "name": "buff_common_train_skill_damage_times_laevat.json",
+      "relPath": "assets/Data/Json/BuffData/buff_common_train_skill_damage_times_laevat.json",
+      "sizeBytes": 2262
+    },
+    {
+      "name": "buff_common_train_skill_damage_times_laevat_check.json",
+      "relPath": "assets/Data/Json/BuffData/buff_common_train_skill_damage_times_laevat_check.json",
+      "sizeBytes": 1116
+    },
+    {
+      "name": "buff_dung_laevat_speed_down.json",
+      "relPath": "assets/Data/Json/BuffData/buff_dung_laevat_speed_down.json",
+      "sizeBytes": 297
+    },
+    {
+      "name": "buff_indie_phantom_effect_laevat.json",
+      "relPath": "assets/Data/Json/BuffData/buff_indie_phantom_effect_laevat.json",
+      "sizeBytes": 3280
+    },
+    {
+      "name": "buff_indie_phantom_laevat_recoverpassive.json",
+      "relPath": "assets/Data/Json/BuffData/buff_indie_phantom_laevat_recoverpassive.json",
+      "sizeBytes": 1026
+    },
+    {
+      "name": "buff_indie_phantom_laevat_ult.json",
+      "relPath": "assets/Data/Json/BuffData/buff_indie_phantom_laevat_ult.json",
+      "sizeBytes": 858
+    },
+    {
+      "name": "chr_0016_laevat_absorb_projhit.json",
+      "relPath": "assets/Data/Json/SkillData/chr_0016_laevat_absorb_projhit.json",
+      "sizeBytes": 1802
+    },
+    {
+      "name": "chr_0016_laevat_attack1.json",
+      "relPath": "assets/Data/Json/SkillData/chr_0016_laevat_attack1.json",
+      "sizeBytes": 5070
+    },
+    {
+      "name": "chr_0016_laevat_attack2.json",
+      "relPath": "assets/Data/Json/SkillData/chr_0016_laevat_attack2.json",
+      "sizeBytes": 10267
+    },
+    {
+      "name": "chr_0016_laevat_attack3.json",
+      "relPath": "assets/Data/Json/SkillData/chr_0016_laevat_attack3.json",
+      "sizeBytes": 8381
+    },
+    {
+      "name": "chr_0016_laevat_attack4.json",
+      "relPath": "assets/Data/Json/SkillData/chr_0016_laevat_attack4.json",
+      "sizeBytes": 9378
+    },
+    {
+      "name": "chr_0016_laevat_attack5.json",
+      "relPath": "assets/Data/Json/SkillData/chr_0016_laevat_attack5.json",
+      "sizeBytes": 15970
+    },
+    {
+      "name": "chr_0016_laevat_attack_4_2_projhit_blocked.json",
+      "relPath": "assets/Data/Json/SkillData/chr_0016_laevat_attack_4_2_projhit_blocked.json",
+      "sizeBytes": 1281
+    },
+    {
+      "name": "chr_0016_laevat_attack_5_projhit.json",
+      "relPath": "assets/Data/Json/SkillData/chr_0016_laevat_attack_5_projhit.json",
+      "sizeBytes": 1980
+    },
+    {
+      "name": "chr_0016_laevat_attack_5_projhit_blocked.json",
+      "relPath": "assets/Data/Json/SkillData/chr_0016_laevat_attack_5_projhit_blocked.json",
+      "sizeBytes": 1114
+    },
+    {
+      "name": "chr_0016_laevat_combo_skill.json",
+      "relPath": "assets/Data/Json/SkillData/chr_0016_laevat_combo_skill.json",
+      "sizeBytes": 19127
+    },
+    {
+      "name": "chr_0016_laevat_combo_skill_hit_self_projhit.json",
+      "relPath": "assets/Data/Json/SkillData/chr_0016_laevat_combo_skill_hit_self_projhit.json",
+      "sizeBytes": 766
+    },
+    {
+      "name": "chr_0016_laevat_combo_skill_indicator_projhit.json",
+      "relPath": "assets/Data/Json/SkillData/chr_0016_laevat_combo_skill_indicator_projhit.json",
+      "sizeBytes": 480
+    },
+    {
+      "name": "chr_0016_laevat_combo_skill_projhit.json",
+      "relPath": "assets/Data/Json/SkillData/chr_0016_laevat_combo_skill_projhit.json",
+      "sizeBytes": 1940
+    },
+    {
+      "name": "chr_0016_laevat_dash_attack.json",
+      "relPath": "assets/Data/Json/SkillData/chr_0016_laevat_dash_attack.json",
+      "sizeBytes": 12919
+    },
+    {
+      "name": "chr_0016_laevat_dodge.json",
+      "relPath": "assets/Data/Json/SkillData/chr_0016_laevat_dodge.json",
+      "sizeBytes": 3446
+    },
+    {
+      "name": "chr_0016_laevat_dung_abilityentity.json",
+      "relPath": "assets/Data/Json/SkillData/chr_0016_laevat_dung_abilityentity.json",
+      "sizeBytes": 6308
+    },
+    {
+      "name": "chr_0016_laevat_dung_spawn_abilityentity.json",
+      "relPath": "assets/Data/Json/SkillData/chr_0016_laevat_dung_spawn_abilityentity.json",
+      "sizeBytes": 728
+    },
+    {
+      "name": "chr_0016_laevat_normal_skill.json",
+      "relPath": "assets/Data/Json/SkillData/chr_0016_laevat_normal_skill.json",
+      "sizeBytes": 16558
+    },
+    {
+      "name": "chr_0016_laevat_normal_skill_abilityentity.json",
+      "relPath": "assets/Data/Json/SkillData/chr_0016_laevat_normal_skill_abilityentity.json",
+      "sizeBytes": 23155
+    },
+    {
+      "name": "chr_0016_laevat_normal_skill_during_ult.json",
+      "relPath": "assets/Data/Json/SkillData/chr_0016_laevat_normal_skill_during_ult.json",
+      "sizeBytes": 27390
+    },
+    {
+      "name": "chr_0016_laevat_normal_skill_projhit.json",
+      "relPath": "assets/Data/Json/SkillData/chr_0016_laevat_normal_skill_projhit.json",
+      "sizeBytes": 1949
+    },
+    {
+      "name": "chr_0016_laevat_passive.json",
+      "relPath": "assets/Data/Json/SkillData/chr_0016_laevat_passive.json",
+      "sizeBytes": 400
+    },
+    {
+      "name": "chr_0016_laevat_plunging_attack_end.json",
+      "relPath": "assets/Data/Json/SkillData/chr_0016_laevat_plunging_attack_end.json",
+      "sizeBytes": 4279
+    },
+    {
+      "name": "chr_0016_laevat_plunging_attack_start.json",
+      "relPath": "assets/Data/Json/SkillData/chr_0016_laevat_plunging_attack_start.json",
+      "sizeBytes": 2142
+    },
+    {
+      "name": "chr_0016_laevat_potential_5.json",
+      "relPath": "assets/Data/Json/SkillData/chr_0016_laevat_potential_5.json",
+      "sizeBytes": 476
+    },
+    {
+      "name": "chr_0016_laevat_power_attack.json",
+      "relPath": "assets/Data/Json/SkillData/chr_0016_laevat_power_attack.json",
+      "sizeBytes": 17215
+    },
+    {
+      "name": "chr_0016_laevat_sim_gift_give_01.json",
+      "relPath": "assets/Data/Json/LipSync/Japanese/chr_0016_laevat_sim_gift_give_01.json",
+      "sizeBytes": 25569
+    },
+    {
+      "name": "chr_0016_laevat_sim_gift_recv_01.json",
+      "relPath": "assets/Data/Json/LipSync/Japanese/chr_0016_laevat_sim_gift_recv_01.json",
+      "sizeBytes": 21117
+    },
+    {
+      "name": "chr_0016_laevat_sim_hello_lower_01.json",
+      "relPath": "assets/Data/Json/LipSync/Japanese/chr_0016_laevat_sim_hello_lower_01.json",
+      "sizeBytes": 4709
+    },
+    {
+      "name": "chr_0016_laevat_sim_hello_max_01.json",
+      "relPath": "assets/Data/Json/LipSync/Japanese/chr_0016_laevat_sim_hello_max_01.json",
+      "sizeBytes": 9497
+    },
+    {
+      "name": "chr_0016_laevat_sim_talk_lv01_01.json",
+      "relPath": "assets/Data/Json/LipSync/Japanese/chr_0016_laevat_sim_talk_lv01_01.json",
+      "sizeBytes": 18597
+    },
+    {
+      "name": "chr_0016_laevat_sim_talk_lv02_01.json",
+      "relPath": "assets/Data/Json/LipSync/Japanese/chr_0016_laevat_sim_talk_lv02_01.json",
+      "sizeBytes": 28593
+    },
+    {
+      "name": "chr_0016_laevat_sim_talk_lv02_02.json",
+      "relPath": "assets/Data/Json/LipSync/Japanese/chr_0016_laevat_sim_talk_lv02_02.json",
+      "sizeBytes": 27249
+    },
+    {
+      "name": "chr_0016_laevat_sim_talk_max_01.json",
+      "relPath": "assets/Data/Json/LipSync/Japanese/chr_0016_laevat_sim_talk_max_01.json",
+      "sizeBytes": 24477
+    },
+    {
+      "name": "chr_0016_laevat_sim_talk_max_02.json",
+      "relPath": "assets/Data/Json/LipSync/Japanese/chr_0016_laevat_sim_talk_max_02.json",
+      "sizeBytes": 30469
+    },
+    {
+      "name": "chr_0016_laevat_sim_talk_max_03.json",
+      "relPath": "assets/Data/Json/LipSync/Japanese/chr_0016_laevat_sim_talk_max_03.json",
+      "sizeBytes": 23077
+    },
+    {
+      "name": "chr_0016_laevat_talent_1.json",
+      "relPath": "assets/Data/Json/SkillData/chr_0016_laevat_talent_1.json",
+      "sizeBytes": 480
+    },
+    {
+      "name": "chr_0016_laevat_talent_2.json",
+      "relPath": "assets/Data/Json/SkillData/chr_0016_laevat_talent_2.json",
+      "sizeBytes": 520
+    },
+    {
+      "name": "chr_0016_laevat_ult_attack1.json",
+      "relPath": "assets/Data/Json/SkillData/chr_0016_laevat_ult_attack1.json",
+      "sizeBytes": 7942
+    },
+    {
+      "name": "chr_0016_laevat_ult_attack2.json",
+      "relPath": "assets/Data/Json/SkillData/chr_0016_laevat_ult_attack2.json",
+      "sizeBytes": 15071
+    },
+    {
+      "name": "chr_0016_laevat_ult_attack3.json",
+      "relPath": "assets/Data/Json/SkillData/chr_0016_laevat_ult_attack3.json",
+      "sizeBytes": 8169
+    },
+    {
+      "name": "chr_0016_laevat_ult_attack4.json",
+      "relPath": "assets/Data/Json/SkillData/chr_0016_laevat_ult_attack4.json",
+      "sizeBytes": 14346
+    },
+    {
+      "name": "chr_0016_laevat_ultimate_skill.json",
+      "relPath": "assets/Data/Json/SkillData/chr_0016_laevat_ultimate_skill.json",
+      "sizeBytes": 10528
+    },
+    {
+      "name": "data_npc_montage_lady_laevat_akimbo1.json",
+      "relPath": "assets/Data/Json/NPC/MontageJson/MontageNew/Humanoid/Particular/Lady/Laevat/Virtual/data_npc_montage_lady_laevat_akimbo1.json",
+      "sizeBytes": 292
+    },
+    {
+      "name": "data_npc_montage_lady_laevat_akimboleft.json",
+      "relPath": "assets/Data/Json/NPC/MontageJson/MontageNew/Humanoid/Particular/Lady/Laevat/Virtual/data_npc_montage_lady_laevat_akimboleft.json",
+      "sizeBytes": 292
+    },
+    {
+      "name": "data_npc_montage_lady_laevat_akimboright.json",
+      "relPath": "assets/Data/Json/NPC/MontageJson/MontageNew/Humanoid/Particular/Lady/Laevat/Virtual/data_npc_montage_lady_laevat_akimboright.json",
+      "sizeBytes": 292
+    },
+    {
+      "name": "data_npc_montage_lady_laevat_attack_01.json",
+      "relPath": "assets/Data/Json/NPC/MontageJson/MontageNew/Humanoid/Particular/Lady/Laevat/data_npc_montage_lady_laevat_attack_01.json",
+      "sizeBytes": 292
+    },
+    {
+      "name": "data_npc_montage_lady_laevat_battle1.json",
+      "relPath": "assets/Data/Json/NPC/MontageJson/MontageNew/Humanoid/Particular/Lady/Laevat/data_npc_montage_lady_laevat_battle1.json",
+      "sizeBytes": 292
+    },
+    {
+      "name": "data_npc_montage_lady_laevat_battle2.json",
+      "relPath": "assets/Data/Json/NPC/MontageJson/MontageNew/Humanoid/Particular/Lady/Laevat/data_npc_montage_lady_laevat_battle2.json",
+      "sizeBytes": 292
+    },
+    {
+      "name": "data_npc_montage_lady_laevat_c16battle.json",
+      "relPath": "assets/Data/Json/NPC/MontageJson/MontageNew/Humanoid/Particular/Lady/Laevat/data_npc_montage_lady_laevat_c16battle.json",
+      "sizeBytes": 363
+    },
+    {
+      "name": "data_npc_montage_lady_laevat_chesthugging.json",
+      "relPath": "assets/Data/Json/NPC/MontageJson/MontageNew/Humanoid/Particular/Lady/Laevat/data_npc_montage_lady_laevat_chesthugging.json",
+      "sizeBytes": 292
+    },
+    {
+      "name": "data_npc_montage_lady_laevat_cooking.json",
+      "relPath": "assets/Data/Json/NPC/MontageJson/MontageNew/Humanoid/Particular/Lady/Laevat/data_npc_montage_lady_laevat_cooking.json",
+      "sizeBytes": 292
+    },
+    {
+      "name": "data_npc_montage_lady_laevat_crouch_takenotes.json",
+      "relPath": "assets/Data/Json/NPC/MontageJson/MontageNew/Humanoid/Particular/Lady/Laevat/data_npc_montage_lady_laevat_crouch_takenotes.json",
+      "sizeBytes": 434
+    },
+    {
+      "name": "data_npc_montage_lady_laevat_drawsword.json",
+      "relPath": "assets/Data/Json/NPC/MontageJson/MontageNew/Humanoid/Particular/Lady/Laevat/data_npc_montage_lady_laevat_drawsword.json",
+      "sizeBytes": 292
+    },
+    {
+      "name": "data_npc_montage_lady_laevat_earphone.json",
+      "relPath": "assets/Data/Json/NPC/MontageJson/MontageNew/Humanoid/Particular/Lady/Laevat/Virtual/data_npc_montage_lady_laevat_earphone.json",
+      "sizeBytes": 292
+    },
+    {
+      "name": "data_npc_montage_lady_laevat_excited.json",
+      "relPath": "assets/Data/Json/NPC/MontageJson/MontageNew/Humanoid/Particular/Lady/Laevat/data_npc_montage_lady_laevat_excited.json",
+      "sizeBytes": 292
+    },
+    {
+      "name": "data_npc_montage_lady_laevat_fist.json",
+      "relPath": "assets/Data/Json/NPC/MontageJson/MontageNew/Humanoid/Particular/Lady/Laevat/data_npc_montage_lady_laevat_fist.json",
+      "sizeBytes": 292
+    },
+    {
+      "name": "data_npc_montage_lady_laevat_geticecream.json",
+      "relPath": "assets/Data/Json/NPC/MontageJson/MontageNew/Humanoid/Particular/Lady/Laevat/data_npc_montage_lady_laevat_geticecream.json",
+      "sizeBytes": 292
+    },
+    {
+      "name": "data_npc_montage_lady_laevat_gripsword.json",
+      "relPath": "assets/Data/Json/NPC/MontageJson/MontageNew/Humanoid/Particular/Lady/Laevat/data_npc_montage_lady_laevat_gripsword.json",
+      "sizeBytes": 292
+    },
+    {
+      "name": "data_npc_montage_lady_laevat_halfkneeldown.json",
+      "relPath": "assets/Data/Json/NPC/MontageJson/MontageNew/Humanoid/Particular/Lady/Laevat/data_npc_montage_lady_laevat_halfkneeldown.json",
+      "sizeBytes": 363
+    },
+    {
+      "name": "data_npc_montage_lady_laevat_halfkneeldown_derived_serious.json",
+      "relPath": "assets/Data/Json/NPC/MontageJson/MontageNew/Humanoid/Particular/Lady/Laevat/data_npc_montage_lady_laevat_halfkneeldown_derived_serious.json",
+      "sizeBytes": 292
+    },
+    {
+      "name": "data_npc_montage_lady_laevat_halfkneeldown_derived_serious_end.json",
+      "relPath": "assets/Data/Json/NPC/MontageJson/MontageNew/Humanoid/Particular/Lady/Laevat/data_npc_montage_lady_laevat_halfkneeldown_derived_serious_end.json",
+      "sizeBytes": 292
+    },
+    {
+      "name": "data_npc_montage_lady_laevat_idle.json",
+      "relPath": "assets/Data/Json/NPC/MontageJson/MontageNew/Humanoid/Particular/Lady/Laevat/data_npc_montage_lady_laevat_idle.json",
+      "sizeBytes": 292
+    },
+    {
+      "name": "data_npc_montage_lady_laevat_idle_nod.json",
+      "relPath": "assets/Data/Json/NPC/MontageJson/MontageNew/Humanoid/Particular/Lady/Laevat/Virtual/data_npc_montage_lady_laevat_idle_nod.json",
+      "sizeBytes": 292
+    },
+    {
+      "name": "data_npc_montage_lady_laevat_idle_shake.json",
+      "relPath": "assets/Data/Json/NPC/MontageJson/MontageNew/Humanoid/Particular/Lady/Laevat/Virtual/data_npc_montage_lady_laevat_idle_shake.json",
+      "sizeBytes": 292
+    },
+    {
+      "name": "data_npc_montage_lady_laevat_idle_talkhands.json",
+      "relPath": "assets/Data/Json/NPC/MontageJson/MontageNew/Humanoid/Particular/Lady/Laevat/Virtual/data_npc_montage_lady_laevat_idle_talkhands.json",
+      "sizeBytes": 292
+    },
+    {
+      "name": "data_npc_montage_lady_laevat_idle_talklefthand1.json",
+      "relPath": "assets/Data/Json/NPC/MontageJson/MontageNew/Humanoid/Particular/Lady/Laevat/Virtual/data_npc_montage_lady_laevat_idle_talklefthand1.json",
+      "sizeBytes": 292
+    },
+    {
+      "name": "data_npc_montage_lady_laevat_idle_talklefthand2.json",
+      "relPath": "assets/Data/Json/NPC/MontageJson/MontageNew/Humanoid/Particular/Lady/Laevat/Virtual/data_npc_montage_lady_laevat_idle_talklefthand2.json",
+      "sizeBytes": 292
+    },
+    {
+      "name": "data_npc_montage_lady_laevat_idle_talkrighthand1.json",
+      "relPath": "assets/Data/Json/NPC/MontageJson/MontageNew/Humanoid/Particular/Lady/Laevat/Virtual/data_npc_montage_lady_laevat_idle_talkrighthand1.json",
+      "sizeBytes": 292
+    },
+    {
+      "name": "data_npc_montage_lady_laevat_idle_talkrighthand2.json",
+      "relPath": "assets/Data/Json/NPC/MontageJson/MontageNew/Humanoid/Particular/Lady/Laevat/Virtual/data_npc_montage_lady_laevat_idle_talkrighthand2.json",
+      "sizeBytes": 292
+    },
+    {
+      "name": "data_npc_montage_lady_laevat_injured.json",
+      "relPath": "assets/Data/Json/NPC/MontageJson/MontageNew/Humanoid/Particular/Lady/Laevat/data_npc_montage_lady_laevat_injured.json",
+      "sizeBytes": 292
+    },
+    {
+      "name": "data_npc_montage_lady_laevat_injured2.json",
+      "relPath": "assets/Data/Json/NPC/MontageJson/MontageNew/Humanoid/Particular/Lady/Laevat/data_npc_montage_lady_laevat_injured2.json",
+      "sizeBytes": 292
+    },
+    {
+      "name": "data_npc_montage_lady_laevat_introduction.json",
+      "relPath": "assets/Data/Json/NPC/MontageJson/MontageNew/Humanoid/Particular/Lady/Laevat/Virtual/data_npc_montage_lady_laevat_introduction.json",
+      "sizeBytes": 292
+    },
+    {
+      "name": "data_npc_montage_lady_laevat_kill.json",
+      "relPath": "assets/Data/Json/NPC/MontageJson/MontageNew/Humanoid/Particular/Lady/Laevat/data_npc_montage_lady_laevat_kill.json",
+      "sizeBytes": 363
+    },
+    {
+      "name": "data_npc_montage_lady_laevat_kill_derived_drawsword.json",
+      "relPath": "assets/Data/Json/NPC/MontageJson/MontageNew/Humanoid/Particular/Lady/Laevat/data_npc_montage_lady_laevat_kill_derived_drawsword.json",
+      "sizeBytes": 292
+    },
+    {
+      "name": "data_npc_montage_lady_laevat_laugh.json",
+      "relPath": "assets/Data/Json/NPC/MontageJson/MontageNew/Humanoid/Particular/Lady/Laevat/data_npc_montage_lady_laevat_laugh.json",
+      "sizeBytes": 292
+    },
+    {
+      "name": "data_npc_montage_lady_laevat_lie.json",
+      "relPath": "assets/Data/Json/NPC/MontageJson/MontageNew/Humanoid/Particular/Lady/Laevat/data_npc_montage_lady_laevat_lie.json",
+      "sizeBytes": 292
+    },
+    {
+      "name": "data_npc_montage_lady_laevat_lookbackright.json",
+      "relPath": "assets/Data/Json/NPC/MontageJson/MontageNew/Humanoid/Particular/Lady/Laevat/data_npc_montage_lady_laevat_lookbackright.json",
+      "sizeBytes": 292
+    },
+    {
+      "name": "data_npc_montage_lady_laevat_lookbackright2.json",
+      "relPath": "assets/Data/Json/NPC/MontageJson/MontageNew/Humanoid/Particular/Lady/Laevat/data_npc_montage_lady_laevat_lookbackright2.json",
+      "sizeBytes": 292
+    },
+    {
+      "name": "data_npc_montage_lady_laevat_lookhand.json",
+      "relPath": "assets/Data/Json/NPC/MontageJson/MontageNew/Humanoid/Particular/Lady/Laevat/data_npc_montage_lady_laevat_lookhand.json",
+      "sizeBytes": 292
+    },
+    {
+      "name": "data_npc_montage_lady_laevat_lookhandr.json",
+      "relPath": "assets/Data/Json/NPC/MontageJson/MontageNew/Humanoid/Particular/Lady/Laevat/data_npc_montage_lady_laevat_lookhandr.json",
+      "sizeBytes": 292
+    },
+    {
+      "name": "data_npc_montage_lady_laevat_memory01.json",
+      "relPath": "assets/Data/Json/NPC/MontageJson/MontageNew/Humanoid/Particular/Lady/Laevat/data_npc_montage_lady_laevat_memory01.json",
+      "sizeBytes": 292
+    },
+    {
+      "name": "data_npc_montage_lady_laevat_memory02.json",
+      "relPath": "assets/Data/Json/NPC/MontageJson/MontageNew/Humanoid/Particular/Lady/Laevat/data_npc_montage_lady_laevat_memory02.json",
+      "sizeBytes": 292
+    },
+    {
+      "name": "data_npc_montage_lady_laevat_memory03.json",
+      "relPath": "assets/Data/Json/NPC/MontageJson/MontageNew/Humanoid/Particular/Lady/Laevat/data_npc_montage_lady_laevat_memory03.json",
+      "sizeBytes": 292
+    },
+    {
+      "name": "data_npc_montage_lady_laevat_memory04.json",
+      "relPath": "assets/Data/Json/NPC/MontageJson/MontageNew/Humanoid/Particular/Lady/Laevat/data_npc_montage_lady_laevat_memory04.json",
+      "sizeBytes": 292
+    },
+    {
+      "name": "data_npc_montage_lady_laevat_memory06.json",
+      "relPath": "assets/Data/Json/NPC/MontageJson/MontageNew/Humanoid/Particular/Lady/Laevat/data_npc_montage_lady_laevat_memory06.json",
+      "sizeBytes": 292
+    },
+    {
+      "name": "data_npc_montage_lady_laevat_memory07.json",
+      "relPath": "assets/Data/Json/NPC/MontageJson/MontageNew/Humanoid/Particular/Lady/Laevat/data_npc_montage_lady_laevat_memory07.json",
+      "sizeBytes": 292
+    },
+    {
+      "name": "data_npc_montage_lady_laevat_pointsword.json",
+      "relPath": "assets/Data/Json/NPC/MontageJson/MontageNew/Humanoid/Particular/Lady/Laevat/data_npc_montage_lady_laevat_pointsword.json",
+      "sizeBytes": 292
+    },
+    {
+      "name": "data_npc_montage_lady_laevat_power_attack.json",
+      "relPath": "assets/Data/Json/NPC/MontageJson/MontageNew/Humanoid/Particular/Lady/Laevat/data_npc_montage_lady_laevat_power_attack.json",
+      "sizeBytes": 292
+    },
+    {
+      "name": "data_npc_montage_lady_laevat_power_attack2.json",
+      "relPath": "assets/Data/Json/NPC/MontageJson/MontageNew/Humanoid/Particular/Lady/Laevat/data_npc_montage_lady_laevat_power_attack2.json",
+      "sizeBytes": 292
+    },
+    {
+      "name": "data_npc_montage_lady_laevat_push.json",
+      "relPath": "assets/Data/Json/NPC/MontageJson/MontageNew/Humanoid/Particular/Lady/Laevat/data_npc_montage_lady_laevat_push.json",
+      "sizeBytes": 292
+    },
+    {
+      "name": "data_npc_montage_lady_laevat_reachhand01.json",
+      "relPath": "assets/Data/Json/NPC/MontageJson/MontageNew/Humanoid/Particular/Lady/Laevat/data_npc_montage_lady_laevat_reachhand01.json",
+      "sizeBytes": 292
+    },
+    {
+      "name": "data_npc_montage_lady_laevat_receive_gift.json",
+      "relPath": "assets/Data/Json/NPC/MontageJson/MontageNew/Humanoid/Particular/Lady/Laevat/data_npc_montage_lady_laevat_receive_gift.json",
+      "sizeBytes": 292
+    },
+    {
+      "name": "data_npc_montage_lady_laevat_relaxsp.json",
+      "relPath": "assets/Data/Json/NPC/MontageJson/MontageNew/Humanoid/Particular/Lady/Laevat/data_npc_montage_lady_laevat_relaxsp.json",
+      "sizeBytes": 363
+    },
+    {
+      "name": "data_npc_montage_lady_laevat_reminder.json",
+      "relPath": "assets/Data/Json/NPC/MontageJson/MontageNew/Humanoid/Particular/Lady/Laevat/data_npc_montage_lady_laevat_reminder.json",
+      "sizeBytes": 292
+    },
+    {
+      "name": "data_npc_montage_lady_laevat_restwalk.json",
+      "relPath": "assets/Data/Json/NPC/MontageJson/MontageNew/Humanoid/Particular/Lady/Laevat/data_npc_montage_lady_laevat_restwalk.json",
+      "sizeBytes": 292
+    },
+    {
+      "name": "data_npc_montage_lady_laevat_scratchhead.json",
+      "relPath": "assets/Data/Json/NPC/MontageJson/MontageNew/Humanoid/Particular/Lady/Laevat/Virtual/data_npc_montage_lady_laevat_scratchhead.json",
+      "sizeBytes": 292
+    },
+    {
+      "name": "data_npc_montage_lady_laevat_sit.json",
+      "relPath": "assets/Data/Json/NPC/MontageJson/MontageNew/Humanoid/Particular/Lady/Laevat/data_npc_montage_lady_laevat_sit.json",
+      "sizeBytes": 292
+    },
+    {
+      "name": "data_npc_montage_lady_laevat_sit_derived_sp.json",
+      "relPath": "assets/Data/Json/NPC/MontageJson/MontageNew/Humanoid/Particular/Lady/Laevat/data_npc_montage_lady_laevat_sit_derived_sp.json",
+      "sizeBytes": 292
+    },
+    {
+      "name": "data_npc_montage_lady_laevat_sitsword.json",
+      "relPath": "assets/Data/Json/NPC/MontageJson/MontageNew/Humanoid/Particular/Lady/Laevat/data_npc_montage_lady_laevat_sitsword.json",
+      "sizeBytes": 292
+    },
+    {
+      "name": "data_npc_montage_lady_laevat_stepfront.json",
+      "relPath": "assets/Data/Json/NPC/MontageJson/MontageNew/Humanoid/Particular/Lady/Laevat/data_npc_montage_lady_laevat_stepfront.json",
+      "sizeBytes": 292
+    },
+    {
+      "name": "data_npc_montage_lady_laevat_summon.json",
+      "relPath": "assets/Data/Json/NPC/MontageJson/MontageNew/Humanoid/Particular/Lady/Laevat/data_npc_montage_lady_laevat_summon.json",
+      "sizeBytes": 292
+    },
+    {
+      "name": "data_npc_montage_lady_laevat_takenotes.json",
+      "relPath": "assets/Data/Json/NPC/MontageJson/MontageNew/Humanoid/Particular/Lady/Laevat/data_npc_montage_lady_laevat_takenotes.json",
+      "sizeBytes": 434
+    },
+    {
+      "name": "data_npc_montage_lady_laevat_taparm.json",
+      "relPath": "assets/Data/Json/NPC/MontageJson/MontageNew/Humanoid/Particular/Lady/Laevat/data_npc_montage_lady_laevat_taparm.json",
+      "sizeBytes": 292
+    },
+    {
+      "name": "data_npc_montage_lady_laevat_think1.json",
+      "relPath": "assets/Data/Json/NPC/MontageJson/MontageNew/Humanoid/Particular/Lady/Laevat/Virtual/data_npc_montage_lady_laevat_think1.json",
+      "sizeBytes": 292
+    },
+    {
+      "name": "data_npc_montage_lady_laevat_touchchin.json",
+      "relPath": "assets/Data/Json/NPC/MontageJson/MontageNew/Humanoid/Particular/Lady/Laevat/data_npc_montage_lady_laevat_touchchin.json",
+      "sizeBytes": 292
+    },
+    {
+      "name": "data_npc_montage_lady_laevat_touchpaper.json",
+      "relPath": "assets/Data/Json/NPC/MontageJson/MontageNew/Humanoid/Particular/Lady/Laevat/data_npc_montage_lady_laevat_touchpaper.json",
+      "sizeBytes": 292
+    },
+    {
+      "name": "data_npc_montage_lady_laevat_touchsword.json",
+      "relPath": "assets/Data/Json/NPC/MontageJson/MontageNew/Humanoid/Particular/Lady/Laevat/data_npc_montage_lady_laevat_touchsword.json",
+      "sizeBytes": 292
+    },
+    {
+      "name": "data_npc_montage_lady_laevat_walk_l.json",
+      "relPath": "assets/Data/Json/NPC/MontageJson/MontageNew/Humanoid/Particular/Lady/Laevat/Virtual/data_npc_montage_lady_laevat_walk_l.json",
+      "sizeBytes": 292
+    },
+    {
+      "name": "data_npc_montage_lady_laevat_walk_m.json",
+      "relPath": "assets/Data/Json/NPC/MontageJson/MontageNew/Humanoid/Particular/Lady/Laevat/Virtual/data_npc_montage_lady_laevat_walk_m.json",
+      "sizeBytes": 292
+    },
+    {
+      "name": "data_npc_montage_lady_laevat_walk_s.json",
+      "relPath": "assets/Data/Json/NPC/MontageJson/MontageNew/Humanoid/Particular/Lady/Laevat/Virtual/data_npc_montage_lady_laevat_walk_s.json",
+      "sizeBytes": 292
+    },
+    {
+      "name": "data_npc_montage_lady_laevat_wavewalk.json",
+      "relPath": "assets/Data/Json/NPC/MontageJson/MontageNew/Humanoid/Particular/Lady/Laevat/data_npc_montage_lady_laevat_wavewalk.json",
+      "sizeBytes": 292
+    },
+    {
+      "name": "npc_chr_0016_laevat.json",
+      "relPath": "assets/Data/Json/NPC/PrefabInfo/npc_chr_0016_laevat.json",
+      "sizeBytes": 2436
+    },
+    {
+      "name": "npc_chr_0016_laevat_phantom.json",
+      "relPath": "assets/Data/Json/NPC/PrefabInfo/npc_chr_0016_laevat_phantom.json",
+      "sizeBytes": 2600
+    },
+    {
+      "name": "npc_chr_0016_laevat_phantom_a_01.json",
+      "relPath": "assets/Data/Json/NPC/PrefabInfo/npc_chr_0016_laevat_phantom_a_01.json",
+      "sizeBytes": 2750
+    },
+    {
+      "name": "npc_chr_0016_laevat_phantom_a_02.json",
+      "relPath": "assets/Data/Json/NPC/PrefabInfo/npc_chr_0016_laevat_phantom_a_02.json",
+      "sizeBytes": 2599
+    },
+    {
+      "name": "npc_chr_0016_laevat_phantom_a_03.json",
+      "relPath": "assets/Data/Json/NPC/PrefabInfo/npc_chr_0016_laevat_phantom_a_03.json",
+      "sizeBytes": 2916
+    },
+    {
+      "name": "npc_chr_0016_laevat_phantom_a_04.json",
+      "relPath": "assets/Data/Json/NPC/PrefabInfo/npc_chr_0016_laevat_phantom_a_04.json",
+      "sizeBytes": 2747
+    },
+    {
+      "name": "npc_chr_0016_laevat_red_a_01.json",
+      "relPath": "assets/Data/Json/NPC/PrefabInfo/npc_chr_0016_laevat_red_a_01.json",
+      "sizeBytes": 2767
+    }
+  ]
+}

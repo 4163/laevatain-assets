@@ -1,0 +1,2061 @@
+{
+  "source_asset_path": "assets/beyond/dynamicassets/gameplay/ui/prefabs/common/widgets/businesscard/playinfolaevatcell.prefab",
+  "bundle_container": "main/bee75f6c8f30ea24dc3eb2fd.ab",
+  "objects": [
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -9211872308771919060
+    },
+    {
+      "type": "GameObject",
+      "name": "ArrowImage",
+      "path_id": -9201901484120118484
+    },
+    {
+      "type": "GameObject",
+      "name": "AnimRoot",
+      "path_id": -9191967226659771604
+    },
+    {
+      "type": "GameObject",
+      "name": "DecLine01Image",
+      "path_id": -9177114511571719380
+    },
+    {
+      "type": "CanvasRenderer",
+      "name": "",
+      "path_id": -9071105383363024084
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -9028936909907203284
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -8953595700721194196
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -8896338323341284564
+    },
+    {
+      "type": "GameObject",
+      "name": "ObjNode",
+      "path_id": -8867860666437244116
+    },
+    {
+      "type": "CanvasRenderer",
+      "name": "",
+      "path_id": -8826146217879311572
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -8770589729488409812
+    },
+    {
+      "type": "GameObject",
+      "name": "LeftBottomImage",
+      "path_id": -8768859267455489236
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -8699673304528491732
+    },
+    {
+      "type": "RectTransform",
+      "name": "",
+      "path_id": -8677846447956006100
+    },
+    {
+      "type": "CanvasRenderer",
+      "name": "",
+      "path_id": -8662734563507606740
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -8596881915765298388
+    },
+    {
+      "type": "CanvasRenderer",
+      "name": "",
+      "path_id": -8571839965303772372
+    },
+    {
+      "type": "RectTransform",
+      "name": "",
+      "path_id": -8565935816671401172
+    },
+    {
+      "type": "CanvasRenderer",
+      "name": "",
+      "path_id": -8534339418060264660
+    },
+    {
+      "type": "CanvasRenderer",
+      "name": "",
+      "path_id": -8527994890982954196
+    },
+    {
+      "type": "CanvasRenderer",
+      "name": "",
+      "path_id": -8520765192788481236
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -8499692957175682260
+    },
+    {
+      "type": "CanvasRenderer",
+      "name": "",
+      "path_id": -8471525856263115988
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -8450490924149347540
+    },
+    {
+      "type": "RectTransform",
+      "name": "",
+      "path_id": -8425492933079635156
+    },
+    {
+      "type": "RectTransform",
+      "name": "",
+      "path_id": -8377367923061789908
+    },
+    {
+      "type": "RectTransform",
+      "name": "",
+      "path_id": -8360883196967163092
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -8341056818135340244
+    },
+    {
+      "type": "RectTransform",
+      "name": "",
+      "path_id": -8276910631641978068
+    },
+    {
+      "type": "GameObject",
+      "name": "Deco06",
+      "path_id": -8227655423295263956
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -8182309183036298452
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -8142944500249367764
+    },
+    {
+      "type": "CanvasRenderer",
+      "name": "",
+      "path_id": -8135377990207313108
+    },
+    {
+      "type": "GameObject",
+      "name": "Light",
+      "path_id": -8051273868348986580
+    },
+    {
+      "type": "RectTransform",
+      "name": "",
+      "path_id": -7955988785296348372
+    },
+    {
+      "type": "GameObject",
+      "name": "HeadShadow",
+      "path_id": -7935944327565776084
+    },
+    {
+      "type": "CanvasRenderer",
+      "name": "",
+      "path_id": -7935633603209368788
+    },
+    {
+      "type": "CanvasRenderer",
+      "name": "",
+      "path_id": -7910953688798696660
+    },
+    {
+      "type": "GameObject",
+      "name": "NameText",
+      "path_id": -7765745892574794964
+    },
+    {
+      "type": "GameObject",
+      "name": "HoverHint",
+      "path_id": -7683907288723133652
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -7614522777885775060
+    },
+    {
+      "type": "RectTransform",
+      "name": "",
+      "path_id": -7567417004522509524
+    },
+    {
+      "type": "GameObject",
+      "name": "LevelTagBg",
+      "path_id": -7430329740644226260
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -7288951224182936788
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -7271772406850557140
+    },
+    {
+      "type": "RectTransform",
+      "name": "",
+      "path_id": -7254847800498689236
+    },
+    {
+      "type": "RectTransform",
+      "name": "",
+      "path_id": -7229244655514588372
+    },
+    {
+      "type": "CanvasRenderer",
+      "name": "",
+      "path_id": -7191831397325771988
+    },
+    {
+      "type": "GameObject",
+      "name": "LevelInfo",
+      "path_id": -7156409544583648468
+    },
+    {
+      "type": "RectTransform",
+      "name": "",
+      "path_id": -7091991809247188180
+    },
+    {
+      "type": "RectTransform",
+      "name": "",
+      "path_id": -7049317103774242004
+    },
+    {
+      "type": "GameObject",
+      "name": "LineImage",
+      "path_id": -7023305727796548820
+    },
+    {
+      "type": "RectTransform",
+      "name": "",
+      "path_id": -7022783742371140820
+    },
+    {
+      "type": "RectTransform",
+      "name": "",
+      "path_id": -6950042276173026516
+    },
+    {
+      "type": "GameObject",
+      "name": "IconNode",
+      "path_id": -6949370587127780564
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -6924773125715432660
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -6904005222843520212
+    },
+    {
+      "type": "CanvasRenderer",
+      "name": "",
+      "path_id": -6811867979682649300
+    },
+    {
+      "type": "RectTransform",
+      "name": "",
+      "path_id": -6761737854376580308
+    },
+    {
+      "type": "RectTransform",
+      "name": "",
+      "path_id": -6753360135999952084
+    },
+    {
+      "type": "GameObject",
+      "name": "DescText",
+      "path_id": -6718593824839144660
+    },
+    {
+      "type": "RectTransform",
+      "name": "",
+      "path_id": -6630505202990421204
+    },
+    {
+      "type": "CanvasRenderer",
+      "name": "",
+      "path_id": -6616778313397867732
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -6612489050216568020
+    },
+    {
+      "type": "GameObject",
+      "name": "SonyNameTxt",
+      "path_id": -6466861469992064212
+    },
+    {
+      "type": "RectTransform",
+      "name": "",
+      "path_id": -6449958068607489236
+    },
+    {
+      "type": "RectTransform",
+      "name": "",
+      "path_id": -6430450738006824148
+    },
+    {
+      "type": "GameObject",
+      "name": "BgShadow",
+      "path_id": -6428667077478749396
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -6419601083118294228
+    },
+    {
+      "type": "GameObject",
+      "name": "BgSonyNameImage",
+      "path_id": -6401945372901938388
+    },
+    {
+      "type": "GameObject",
+      "name": "TagSSSEffect",
+      "path_id": -6394249056991352020
+    },
+    {
+      "type": "CanvasRenderer",
+      "name": "",
+      "path_id": -6347517514782774484
+    },
+    {
+      "type": "GameObject",
+      "name": "DecoImage2",
+      "path_id": -6162976867300119764
+    },
+    {
+      "type": "CanvasRenderer",
+      "name": "",
+      "path_id": -6151919405779883220
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -6107162925467014356
+    },
+    {
+      "type": "RectTransform",
+      "name": "",
+      "path_id": -6078263179599582420
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -6078121746703029460
+    },
+    {
+      "type": "GameObject",
+      "name": "LevelTagContent",
+      "path_id": -6067810808505734356
+    },
+    {
+      "type": "CanvasRenderer",
+      "name": "",
+      "path_id": -6008999637655393492
+    },
+    {
+      "type": "GameObject",
+      "name": "TipsImage",
+      "path_id": -5998429053958526164
+    },
+    {
+      "type": "RectTransform",
+      "name": "",
+      "path_id": -5987597648040727764
+    },
+    {
+      "type": "RectTransform",
+      "name": "",
+      "path_id": -5964288573105149140
+    },
+    {
+      "type": "GameObject",
+      "name": "RightBtn",
+      "path_id": -5902933674460812500
+    },
+    {
+      "type": "RectTransform",
+      "name": "",
+      "path_id": -5878268262253368532
+    },
+    {
+      "type": "GameObject",
+      "name": "LevelTagNode",
+      "path_id": -5842497732946269396
+    },
+    {
+      "type": "RectTransform",
+      "name": "",
+      "path_id": -5747087397419259092
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -5700789144944284884
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -5680149562163565780
+    },
+    {
+      "type": "RectTransform",
+      "name": "",
+      "path_id": -5656320716553032916
+    },
+    {
+      "type": "CanvasRenderer",
+      "name": "",
+      "path_id": -5615283213211702484
+    },
+    {
+      "type": "RectTransform",
+      "name": "",
+      "path_id": -5603243576661546196
+    },
+    {
+      "type": "GameObject",
+      "name": "PcNode",
+      "path_id": -5599709550871221460
+    },
+    {
+      "type": "CanvasRenderer",
+      "name": "",
+      "path_id": -5581069991201903828
+    },
+    {
+      "type": "CanvasRenderer",
+      "name": "",
+      "path_id": -5566807158612399316
+    },
+    {
+      "type": "RectTransform",
+      "name": "",
+      "path_id": -5551288915360126164
+    },
+    {
+      "type": "RectTransform",
+      "name": "",
+      "path_id": -5478656204946904276
+    },
+    {
+      "type": "RectTransform",
+      "name": "",
+      "path_id": -5465631089923429588
+    },
+    {
+      "type": "GameObject",
+      "name": "Light",
+      "path_id": -5440692350531179732
+    },
+    {
+      "type": "GameObject",
+      "name": "HeadNrlNode",
+      "path_id": -5427648389778740436
+    },
+    {
+      "type": "RectTransform",
+      "name": "",
+      "path_id": -5351430098522379476
+    },
+    {
+      "type": "GameObject",
+      "name": "PlayInfoLaevatCell",
+      "path_id": -5320212770451526868
+    },
+    {
+      "type": "RectTransform",
+      "name": "",
+      "path_id": -5308716540081444052
+    },
+    {
+      "type": "GameObject",
+      "name": "Light",
+      "path_id": -5277397777238037716
+    },
+    {
+      "type": "CanvasRenderer",
+      "name": "",
+      "path_id": -5255686143237264596
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -5254522947357873364
+    },
+    {
+      "type": "RectTransform",
+      "name": "",
+      "path_id": -5220101445519381716
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -5088965921314411732
+    },
+    {
+      "type": "RectTransform",
+      "name": "",
+      "path_id": -5073166332099204308
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -5038244146950214868
+    },
+    {
+      "type": "GameObject",
+      "name": "LineImage",
+      "path_id": -4979993269079413972
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -4951954882446202068
+    },
+    {
+      "type": "CanvasRenderer",
+      "name": "",
+      "path_id": -4894535205712073940
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -4886370031196148948
+    },
+    {
+      "type": "RectTransform",
+      "name": "",
+      "path_id": -4883414407957288148
+    },
+    {
+      "type": "CanvasRenderer",
+      "name": "",
+      "path_id": -4803685856723244244
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -4767453404255786196
+    },
+    {
+      "type": "GameObject",
+      "name": "GroupName",
+      "path_id": -4721467845673194708
+    },
+    {
+      "type": "RectTransform",
+      "name": "",
+      "path_id": -4716307390586000596
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -4557685674131952852
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -4529401309815805140
+    },
+    {
+      "type": "GameObject",
+      "name": "DynamicNode",
+      "path_id": -4521163162274338004
+    },
+    {
+      "type": "CanvasRenderer",
+      "name": "",
+      "path_id": -4480346224254751956
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -4453539957069878484
+    },
+    {
+      "type": "GameObject",
+      "name": "HeadBorderLine",
+      "path_id": -4412657245111620820
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -4405077102974112980
+    },
+    {
+      "type": "RectTransform",
+      "name": "",
+      "path_id": -4353487020085449940
+    },
+    {
+      "type": "RectTransform",
+      "name": "",
+      "path_id": -4343080457014711508
+    },
+    {
+      "type": "GameObject",
+      "name": "IconImage",
+      "path_id": -4318693068995663060
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -4277892488295650516
+    },
+    {
+      "type": "GameObject",
+      "name": "Normal",
+      "path_id": -4277173052013581524
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -4044779884346709204
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -3982429835120710868
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -3979697531215910100
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -3925632882359506132
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -3903085783987360980
+    },
+    {
+      "type": "RectTransform",
+      "name": "",
+      "path_id": -3872500017371518164
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -3801779706236343508
+    },
+    {
+      "type": "GameObject",
+      "name": "NaviHint",
+      "path_id": -3765329897011254484
+    },
+    {
+      "type": "CanvasRenderer",
+      "name": "",
+      "path_id": -3725719718035625172
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -3690150235654821076
+    },
+    {
+      "type": "RectTransform",
+      "name": "",
+      "path_id": -3680350874116592852
+    },
+    {
+      "type": "RectTransform",
+      "name": "",
+      "path_id": -3669892767909909716
+    },
+    {
+      "type": "RectTransform",
+      "name": "",
+      "path_id": -3530672109502567636
+    },
+    {
+      "type": "CanvasRenderer",
+      "name": "",
+      "path_id": -3513992445160363220
+    },
+    {
+      "type": "RectTransform",
+      "name": "",
+      "path_id": -3490105439895000276
+    },
+    {
+      "type": "CanvasRenderer",
+      "name": "",
+      "path_id": -3445983194892702932
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -3393196324070200532
+    },
+    {
+      "type": "GameObject",
+      "name": "PlayerHead",
+      "path_id": -3322034943712138452
+    },
+    {
+      "type": "RectTransform",
+      "name": "",
+      "path_id": -3224371589821404372
+    },
+    {
+      "type": "CanvasRenderer",
+      "name": "",
+      "path_id": -3127406079927751892
+    },
+    {
+      "type": "GameObject",
+      "name": "PlayerInfo",
+      "path_id": -3118348235808543956
+    },
+    {
+      "type": "RectTransform",
+      "name": "",
+      "path_id": -3108804919639774420
+    },
+    {
+      "type": "CanvasRenderer",
+      "name": "",
+      "path_id": -3095459395907917012
+    },
+    {
+      "type": "GameObject",
+      "name": "SeasonTag",
+      "path_id": -3075589988154447060
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -3027121903795279060
+    },
+    {
+      "type": "RectTransform",
+      "name": "",
+      "path_id": -3021017788005848276
+    },
+    {
+      "type": "RectTransform",
+      "name": "",
+      "path_id": -2990847988336334036
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -2968101333736068308
+    },
+    {
+      "type": "CanvasRenderer",
+      "name": "",
+      "path_id": -2913411352877503700
+    },
+    {
+      "type": "GameObject",
+      "name": "LeftImage",
+      "path_id": -2909790197084296404
+    },
+    {
+      "type": "CanvasRenderer",
+      "name": "",
+      "path_id": -2903522969922147540
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -2899588387536409812
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -2868228572527760596
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -2760584606149416148
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -2755085795878868180
+    },
+    {
+      "type": "GameObject",
+      "name": "NotesName",
+      "path_id": -2703718546364798164
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -2694994150926619860
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -2647988481722127572
+    },
+    {
+      "type": "RectTransform",
+      "name": "",
+      "path_id": -2524542157743887572
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -2504777129556939988
+    },
+    {
+      "type": "RectTransform",
+      "name": "",
+      "path_id": -2484516964270249172
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -2421599482577982676
+    },
+    {
+      "type": "GameObject",
+      "name": "ManagerLevel",
+      "path_id": -2376899649443435732
+    },
+    {
+      "type": "RectTransform",
+      "name": "",
+      "path_id": -2355111681888720084
+    },
+    {
+      "type": "RectTransform",
+      "name": "",
+      "path_id": -2290927317756646612
+    },
+    {
+      "type": "GameObject",
+      "name": "NameListNode",
+      "path_id": -2181982709723534548
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -2158698240312317140
+    },
+    {
+      "type": "RectTransform",
+      "name": "",
+      "path_id": -2120852962248594644
+    },
+    {
+      "type": "CanvasRenderer",
+      "name": "",
+      "path_id": -2059923188728173780
+    },
+    {
+      "type": "GameObject",
+      "name": "BgRightLv",
+      "path_id": -2002809573385147604
+    },
+    {
+      "type": "RectTransform",
+      "name": "",
+      "path_id": -1987662206103098580
+    },
+    {
+      "type": "GameObject",
+      "name": "TipsText",
+      "path_id": -1978342692917974228
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -1920280628381652180
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -1884539825120711892
+    },
+    {
+      "type": "RectTransform",
+      "name": "",
+      "path_id": -1877057496564077780
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -1870483855986234580
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -1845745995656959188
+    },
+    {
+      "type": "GameObject",
+      "name": "Icon",
+      "path_id": -1843004167363925204
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -1789318534985848020
+    },
+    {
+      "type": "GameObject",
+      "name": "LevelShadow",
+      "path_id": -1785375761648686292
+    },
+    {
+      "type": "CanvasRenderer",
+      "name": "",
+      "path_id": -1763088438278198484
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -1747643505288582356
+    },
+    {
+      "type": "GameObject",
+      "name": "Deco_Arrow",
+      "path_id": -1729241164159816916
+    },
+    {
+      "type": "CanvasRenderer",
+      "name": "",
+      "path_id": -1656282871565292756
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -1606413462663435476
+    },
+    {
+      "type": "CanvasRenderer",
+      "name": "",
+      "path_id": -1601034440997049556
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -1573958848108795092
+    },
+    {
+      "type": "CanvasRenderer",
+      "name": "",
+      "path_id": -1496666657551914196
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -1454623521466062036
+    },
+    {
+      "type": "CanvasRenderer",
+      "name": "",
+      "path_id": -1393790817425200340
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -1315520321619072212
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -1279507858267870420
+    },
+    {
+      "type": "RectTransform",
+      "name": "",
+      "path_id": -1259732112861402324
+    },
+    {
+      "type": "GameObject",
+      "name": "TagGrayImg",
+      "path_id": -1192754483689985236
+    },
+    {
+      "type": "GameObject",
+      "name": "LineImage",
+      "path_id": -1051877859550074068
+    },
+    {
+      "type": "CanvasRenderer",
+      "name": "",
+      "path_id": -928484341663569108
+    },
+    {
+      "type": "GameObject",
+      "name": "AdventureRewardEntry",
+      "path_id": -922263194912462036
+    },
+    {
+      "type": "RectTransform",
+      "name": "",
+      "path_id": -855467033272423636
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -826336445502166228
+    },
+    {
+      "type": "GameObject",
+      "name": "TipRectTransform",
+      "path_id": -817694551312930004
+    },
+    {
+      "type": "RectTransform",
+      "name": "",
+      "path_id": -811754128087225556
+    },
+    {
+      "type": "CanvasRenderer",
+      "name": "",
+      "path_id": -788419137061557460
+    },
+    {
+      "type": "RectTransform",
+      "name": "",
+      "path_id": -752968108511040724
+    },
+    {
+      "type": "RectTransform",
+      "name": "",
+      "path_id": -732645887462511828
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -659782110559835348
+    },
+    {
+      "type": "CanvasRenderer",
+      "name": "",
+      "path_id": -615548322065323220
+    },
+    {
+      "type": "CanvasRenderer",
+      "name": "",
+      "path_id": -568725732319859924
+    },
+    {
+      "type": "CanvasRenderer",
+      "name": "",
+      "path_id": -566250641745220820
+    },
+    {
+      "type": "CanvasRenderer",
+      "name": "",
+      "path_id": -538673834720466132
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -508161472660083924
+    },
+    {
+      "type": "GameObject",
+      "name": "DecoImage02",
+      "path_id": -454751851314189524
+    },
+    {
+      "type": "CanvasRenderer",
+      "name": "",
+      "path_id": -440894960787166420
+    },
+    {
+      "type": "GameObject",
+      "name": "PcIcon",
+      "path_id": -438957795696678100
+    },
+    {
+      "type": "GameObject",
+      "name": "HeadBg",
+      "path_id": -404241505077204180
+    },
+    {
+      "type": "GameObject",
+      "name": "SonyIcon",
+      "path_id": -319031785550681300
+    },
+    {
+      "type": "GameObject",
+      "name": "ManagerName",
+      "path_id": -270483513919706324
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -257294688060019924
+    },
+    {
+      "type": "RectTransform",
+      "name": "",
+      "path_id": -172706716335838420
+    },
+    {
+      "type": "RectTransform",
+      "name": "",
+      "path_id": -105784551735268564
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -8816593206875348
+    },
+    {
+      "type": "CanvasRenderer",
+      "name": "",
+      "path_id": -2241745474786516
+    },
+    {
+      "type": "AssetBundle",
+      "name": "main/bee75f6c8f30ea24dc3eb2fd.ab",
+      "path_id": 1
+    },
+    {
+      "type": "RectTransform",
+      "name": "",
+      "path_id": 121856698240035628
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 126910984723852076
+    },
+    {
+      "type": "GameObject",
+      "name": "New",
+      "path_id": 148800877338979116
+    },
+    {
+      "type": "GameObject",
+      "name": "DecLine02Image",
+      "path_id": 237680023059655468
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 240033502767901484
+    },
+    {
+      "type": "RectTransform",
+      "name": "",
+      "path_id": 266691732783065900
+    },
+    {
+      "type": "GameObject",
+      "name": "ProgressTxt",
+      "path_id": 343481794980506412
+    },
+    {
+      "type": "CanvasRenderer",
+      "name": "",
+      "path_id": 480120176021498668
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 569066802501217068
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 588617751111363372
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 591242711552715564
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 602359326756072236
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 606133439244299052
+    },
+    {
+      "type": "GameObject",
+      "name": "Content",
+      "path_id": 620715341112372012
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 667909675800161068
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 779542957241297708
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 782717850783542060
+    },
+    {
+      "type": "RectTransform",
+      "name": "",
+      "path_id": 788951764508830508
+    },
+    {
+      "type": "RectTransform",
+      "name": "",
+      "path_id": 808555817300093740
+    },
+    {
+      "type": "GameObject",
+      "name": "Bg",
+      "path_id": 818225275840719660
+    },
+    {
+      "type": "GameObject",
+      "name": "LevelTxt",
+      "path_id": 1043862800518834988
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 1073122026534431532
+    },
+    {
+      "type": "GameObject",
+      "name": "SeasonTowerTagSmall",
+      "path_id": 1111177954083367724
+    },
+    {
+      "type": "GameObject",
+      "name": "RightLineImage",
+      "path_id": 1111318163362966316
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 1149297561987935020
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 1161708681315904300
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 1248386951716039468
+    },
+    {
+      "type": "GameObject",
+      "name": "LeftBottomImage",
+      "path_id": 1267644017542523692
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 1284632363849771820
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 1316599260153998124
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 1392290542686726956
+    },
+    {
+      "type": "CanvasRenderer",
+      "name": "",
+      "path_id": 1430594078139050796
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 1437978438442773292
+    },
+    {
+      "type": "RectTransform",
+      "name": "",
+      "path_id": 1522648339502426924
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 1523197150518143788
+    },
+    {
+      "type": "GameObject",
+      "name": "TagImg",
+      "path_id": 1564506707192212268
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 1593824681755044652
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 1665534400670493484
+    },
+    {
+      "type": "CanvasRenderer",
+      "name": "",
+      "path_id": 1671623392454667052
+    },
+    {
+      "type": "CanvasRenderer",
+      "name": "",
+      "path_id": 1770893663392590636
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 1836743708335041324
+    },
+    {
+      "type": "RectTransform",
+      "name": "",
+      "path_id": 1984792587355712300
+    },
+    {
+      "type": "RectTransform",
+      "name": "",
+      "path_id": 1988153969822624556
+    },
+    {
+      "type": "RectTransform",
+      "name": "",
+      "path_id": 2038082906635266860
+    },
+    {
+      "type": "GameObject",
+      "name": "DeviceStatePanel",
+      "path_id": 2120596154134129452
+    },
+    {
+      "type": "RectTransform",
+      "name": "",
+      "path_id": 2134201617899940652
+    },
+    {
+      "type": "GameObject",
+      "name": "LevelSlider",
+      "path_id": 2136230741446454060
+    },
+    {
+      "type": "CanvasRenderer",
+      "name": "",
+      "path_id": 2198019329893362476
+    },
+    {
+      "type": "GameObject",
+      "name": "BgImage",
+      "path_id": 2231115814753430316
+    },
+    {
+      "type": "RectTransform",
+      "name": "",
+      "path_id": 2258881928652745516
+    },
+    {
+      "type": "CanvasRenderer",
+      "name": "",
+      "path_id": 2278561256659839788
+    },
+    {
+      "type": "GameObject",
+      "name": "HeadFrameImg",
+      "path_id": 2280807426189323052
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 2342449735406873388
+    },
+    {
+      "type": "CanvasRenderer",
+      "name": "",
+      "path_id": 2363115142546680620
+    },
+    {
+      "type": "RectTransform",
+      "name": "",
+      "path_id": 2393054262207081260
+    },
+    {
+      "type": "RectTransform",
+      "name": "",
+      "path_id": 2443448474688711468
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 2488669194027952940
+    },
+    {
+      "type": "CanvasRenderer",
+      "name": "",
+      "path_id": 2662271202913577772
+    },
+    {
+      "type": "GameObject",
+      "name": "Deco",
+      "path_id": 2715503750513519404
+    },
+    {
+      "type": "GameObject",
+      "name": "SonyNode",
+      "path_id": 2730684896300985132
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 2813672255515355948
+    },
+    {
+      "type": "GameObject",
+      "name": "LevelTag",
+      "path_id": 2847170996859923244
+    },
+    {
+      "type": "GameObject",
+      "name": "Image",
+      "path_id": 2855833902344923948
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 2878813857355033388
+    },
+    {
+      "type": "RectTransform",
+      "name": "",
+      "path_id": 2924760398966385452
+    },
+    {
+      "type": "GameObject",
+      "name": "BgImage",
+      "path_id": 2931089491146861356
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 2952543006866893612
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 3017895943391505196
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 3041072943213013804
+    },
+    {
+      "type": "CanvasRenderer",
+      "name": "",
+      "path_id": 3170193810139409196
+    },
+    {
+      "type": "RectTransform",
+      "name": "",
+      "path_id": 3239393099059981100
+    },
+    {
+      "type": "RectTransform",
+      "name": "",
+      "path_id": 3321817580816722732
+    },
+    {
+      "type": "CanvasRenderer",
+      "name": "",
+      "path_id": 3341112351856159532
+    },
+    {
+      "type": "RectTransform",
+      "name": "",
+      "path_id": 3387557676661566252
+    },
+    {
+      "type": "GameObject",
+      "name": "ActivityLevelTxt",
+      "path_id": 3413367292061575980
+    },
+    {
+      "type": "GameObject",
+      "name": "Color",
+      "path_id": 3599822909315115820
+    },
+    {
+      "type": "CanvasRenderer",
+      "name": "",
+      "path_id": 3640772656504400684
+    },
+    {
+      "type": "GameObject",
+      "name": "DecoNode",
+      "path_id": 3662762579773516588
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 3665857882389244716
+    },
+    {
+      "type": "GameObject",
+      "name": "DecoImage1",
+      "path_id": 3681743252785752876
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 3699141510199929644
+    },
+    {
+      "type": "RectTransform",
+      "name": "",
+      "path_id": 3707708553798380332
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 3750243074554555180
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 3803006512982420268
+    },
+    {
+      "type": "CanvasRenderer",
+      "name": "",
+      "path_id": 3820195921797081900
+    },
+    {
+      "type": "CanvasRenderer",
+      "name": "",
+      "path_id": 3826355709415353132
+    },
+    {
+      "type": "RectTransform",
+      "name": "",
+      "path_id": 3852802790663220012
+    },
+    {
+      "type": "GameObject",
+      "name": "Icon",
+      "path_id": 3854945077027760940
+    },
+    {
+      "type": "RectTransform",
+      "name": "",
+      "path_id": 3961532542362020652
+    },
+    {
+      "type": "RectTransform",
+      "name": "",
+      "path_id": 4014655277023980332
+    },
+    {
+      "type": "CanvasRenderer",
+      "name": "",
+      "path_id": 4048959193971780396
+    },
+    {
+      "type": "CanvasRenderer",
+      "name": "",
+      "path_id": 4171575335418489644
+    },
+    {
+      "type": "RectTransform",
+      "name": "",
+      "path_id": 4237715468684258092
+    },
+    {
+      "type": "CanvasRenderer",
+      "name": "",
+      "path_id": 4272188375471647532
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 4460457258890586924
+    },
+    {
+      "type": "RectTransform",
+      "name": "",
+      "path_id": 4477527320565541676
+    },
+    {
+      "type": "RectTransform",
+      "name": "",
+      "path_id": 4524051775201438508
+    },
+    {
+      "type": "CanvasRenderer",
+      "name": "",
+      "path_id": 4558453179139124012
+    },
+    {
+      "type": "RectTransform",
+      "name": "",
+      "path_id": 4592059596628781868
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 4655108698847996716
+    },
+    {
+      "type": "CanvasRenderer",
+      "name": "",
+      "path_id": 4687963442545847084
+    },
+    {
+      "type": "CanvasRenderer",
+      "name": "",
+      "path_id": 4715538903214222124
+    },
+    {
+      "type": "GameObject",
+      "name": "Icon",
+      "path_id": 4892874554253667116
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 4967338423019531052
+    },
+    {
+      "type": "RectTransform",
+      "name": "",
+      "path_id": 5043087902629456684
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 5067313209349597996
+    },
+    {
+      "type": "CanvasRenderer",
+      "name": "",
+      "path_id": 5104527709001444140
+    },
+    {
+      "type": "CanvasRenderer",
+      "name": "",
+      "path_id": 5209592653355707180
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 5370772062161038124
+    },
+    {
+      "type": "CanvasRenderer",
+      "name": "",
+      "path_id": 5636248695873366828
+    },
+    {
+      "type": "GameObject",
+      "name": "AdventureRewardEntryBtn",
+      "path_id": 5864649086842006316
+    },
+    {
+      "type": "RectTransform",
+      "name": "",
+      "path_id": 5987275870703086380
+    },
+    {
+      "type": "GameObject",
+      "name": "LeftBottomImage",
+      "path_id": 6010897998354672428
+    },
+    {
+      "type": "RectTransform",
+      "name": "",
+      "path_id": 6029337616444255020
+    },
+    {
+      "type": "CanvasGroup",
+      "name": "",
+      "path_id": 6122987944109370156
+    },
+    {
+      "type": "GameObject",
+      "name": "EmptyImage",
+      "path_id": 6176266040789461804
+    },
+    {
+      "type": "GameObject",
+      "name": "ManagerNumber",
+      "path_id": 6257963412891200300
+    },
+    {
+      "type": "RectTransform",
+      "name": "",
+      "path_id": 6313022865826343724
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 6377814128788597548
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 6489373448850008876
+    },
+    {
+      "type": "RectTransform",
+      "name": "",
+      "path_id": 6502608061766396716
+    },
+    {
+      "type": "GameObject",
+      "name": "New",
+      "path_id": 6514213891666176812
+    },
+    {
+      "type": "CanvasRenderer",
+      "name": "",
+      "path_id": 6548985864822025004
+    },
+    {
+      "type": "CanvasRenderer",
+      "name": "",
+      "path_id": 6634920364560116524
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 6657646031182392108
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 6820850556774411052
+    },
+    {
+      "type": "GameObject",
+      "name": "DecoImage",
+      "path_id": 6885242186632424236
+    },
+    {
+      "type": "GameObject",
+      "name": "LevelTag",
+      "path_id": 6896147890782104364
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 6918570371825036076
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 6924780623713561388
+    },
+    {
+      "type": "RectTransform",
+      "name": "",
+      "path_id": 6970290243288591148
+    },
+    {
+      "type": "Canvas",
+      "name": "",
+      "path_id": 7020231142474541868
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 7049061078817270572
+    },
+    {
+      "type": "RectTransform",
+      "name": "",
+      "path_id": 7053825566496615212
+    },
+    {
+      "type": "CanvasRenderer",
+      "name": "",
+      "path_id": 7054565649780665132
+    },
+    {
+      "type": "GameObject",
+      "name": "Anim",
+      "path_id": 7070800358234155820
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 7099955643851828012
+    },
+    {
+      "type": "GameObject",
+      "name": "CommonPlayerHead",
+      "path_id": 7178593889813818156
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 7285779476985899820
+    },
+    {
+      "type": "RectTransform",
+      "name": "",
+      "path_id": 7393262380903918380
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 7489101880055130924
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 7560675937281993516
+    },
+    {
+      "type": "GameObject",
+      "name": "ManagerLevelLabel",
+      "path_id": 7577273247648672556
+    },
+    {
+      "type": "CanvasRenderer",
+      "name": "",
+      "path_id": 7594031238381005612
+    },
+    {
+      "type": "RectTransform",
+      "name": "",
+      "path_id": 7833531035875371820
+    },
+    {
+      "type": "RectTransform",
+      "name": "",
+      "path_id": 7876597400083983148
+    },
+    {
+      "type": "CanvasRenderer",
+      "name": "",
+      "path_id": 7923082894544759596
+    },
+    {
+      "type": "RectTransform",
+      "name": "",
+      "path_id": 7932542927828183852
+    },
+    {
+      "type": "RectTransform",
+      "name": "",
+      "path_id": 8039979171055364908
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 8045106910290078508
+    },
+    {
+      "type": "GameObject",
+      "name": "RedDot",
+      "path_id": 8066644892167531308
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 8166654196645456684
+    },
+    {
+      "type": "RectTransform",
+      "name": "",
+      "path_id": 8221480474157280044
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 8282861777753303852
+    },
+    {
+      "type": "CanvasRenderer",
+      "name": "",
+      "path_id": 8318997418340936492
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 8325867212441938732
+    },
+    {
+      "type": "GameObject",
+      "name": "EmptyNode",
+      "path_id": 8346317758034570028
+    },
+    {
+      "type": "GameObject",
+      "name": "LeftLineImage",
+      "path_id": 8369603095099042604
+    },
+    {
+      "type": "GameObject",
+      "name": "PlayerHeadBtn",
+      "path_id": 8396641081892498220
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 8409223009866246956
+    },
+    {
+      "type": "CanvasRenderer",
+      "name": "",
+      "path_id": 8438649582129474348
+    },
+    {
+      "type": "CanvasRenderer",
+      "name": "",
+      "path_id": 8463731111164734252
+    },
+    {
+      "type": "RectTransform",
+      "name": "",
+      "path_id": 8480320380269652780
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 8499059095663766316
+    },
+    {
+      "type": "RectTransform",
+      "name": "",
+      "path_id": 8541289759545584428
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 8567060944492063532
+    },
+    {
+      "type": "GameObject",
+      "name": "Img",
+      "path_id": 8644816311432276780
+    },
+    {
+      "type": "GameObject",
+      "name": "LevelSliderBG",
+      "path_id": 8648467684733905708
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 8667237394535901996
+    },
+    {
+      "type": "CanvasRenderer",
+      "name": "",
+      "path_id": 8802796702189054764
+    },
+    {
+      "type": "GameObject",
+      "name": "LeftBorder",
+      "path_id": 8853303736117914412
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 8905795210781616940
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 9038758955789740844
+    },
+    {
+      "type": "CanvasRenderer",
+      "name": "",
+      "path_id": 9046054166086708012
+    },
+    {
+      "type": "RectTransform",
+      "name": "",
+      "path_id": 9109674773618387756
+    },
+    {
+      "type": "GameObject",
+      "name": "IconRight",
+      "path_id": 9141822105403157292
+    },
+    {
+      "type": "RectTransform",
+      "name": "",
+      "path_id": 9146031728258476844
+    },
+    {
+      "type": "GameObject",
+      "name": "BirthdayTipsNode",
+      "path_id": 9163854771534064428
+    },
+    {
+      "type": "CanvasRenderer",
+      "name": "",
+      "path_id": 9168701624661142316
+    }
+  ]
+}

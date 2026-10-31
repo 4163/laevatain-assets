@@ -1,0 +1,5341 @@
+{
+  "source_asset_path": "assets/beyond/dynamicassets/gameplay/actors/postmodels/npc/chr_0016_laevat_postmodel.prefab",
+  "bundle_container": "main/aa585cda1bde52e5d5d62f30.ab",
+  "objects": [
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -9210125643386472286
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -9210033167328495454
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -9207122065588111198
+    },
+    {
+      "type": "GameObject",
+      "name": "dress_base_L_a_03_jnt",
+      "path_id": -9205648502105982814
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -9175288097936197470
+    },
+    {
+      "type": "GameObject",
+      "name": "R_Bone_Chain_1",
+      "path_id": -9159686522788005726
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -9106959081777678174
+    },
+    {
+      "type": "SkinnedMeshRenderer",
+      "name": "",
+      "path_id": -9105649277194356574
+    },
+    {
+      "type": "GameObject",
+      "name": "dress_base_Back_a_05_jnt_Nub",
+      "path_id": -9092004768662767454
+    },
+    {
+      "type": "GameObject",
+      "name": "eyeRt03EyelashJoint",
+      "path_id": -9087963922298062686
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -9071780461599934302
+    },
+    {
+      "type": "GameObject",
+      "name": "Bip001_L_Finger21",
+      "path_id": -9067852298834364254
+    },
+    {
+      "type": "SkinnedMeshRenderer",
+      "name": "",
+      "path_id": -9051114740291553118
+    },
+    {
+      "type": "SkinnedMeshRenderer",
+      "name": "",
+      "path_id": -9034701260286543710
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -9032180252903360350
+    },
+    {
+      "type": "GameObject",
+      "name": "dress_base_L_a_02_jnt",
+      "path_id": -9024676239019755358
+    },
+    {
+      "type": "GameObject",
+      "name": "Hair_base_R_b_002_jnt",
+      "path_id": -8974996280567678814
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -8957615536750479198
+    },
+    {
+      "type": "GameObject",
+      "name": "Bip001_L_Forearm",
+      "path_id": -8930687288243996510
+    },
+    {
+      "type": "SkinnedMeshRenderer",
+      "name": "",
+      "path_id": -8889258478911375198
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -8881991337309325150
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -8864322862834337630
+    },
+    {
+      "type": "GameObject",
+      "name": "GEN_Bip001_0_damped",
+      "path_id": -8811886307363211102
+    },
+    {
+      "type": "GameObject",
+      "name": "browRt04Joint",
+      "path_id": -8805734687810668382
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -8804329324995692382
+    },
+    {
+      "type": "GameObject",
+      "name": "Bip001_Spine2",
+      "path_id": -8797710516305282910
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -8791790829873416030
+    },
+    {
+      "type": "GameObject",
+      "name": "eyeLf04Joint",
+      "path_id": -8778454223836628830
+    },
+    {
+      "type": "GameObject",
+      "name": "dress_base_L_c_02_jnt",
+      "path_id": -8775922251970922334
+    },
+    {
+      "type": "GameObject",
+      "name": "GEN_wep_M_2_\u62d6\u6211\u6539\u6b66\u5668\u65cb\u8f6c\u4e2d\u5fc3",
+      "path_id": -8761583806047078238
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -8758735795082250078
+    },
+    {
+      "type": "GameObject",
+      "name": "spring_base_L_a_03_jnt_Nub",
+      "path_id": -8758691805574350686
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -8757083880360855390
+    },
+    {
+      "type": "GameObject",
+      "name": "spring_L_jnt",
+      "path_id": -8744661208014669662
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -8742940819393890142
+    },
+    {
+      "type": "GameObject",
+      "name": "Hair_base_F_004_jnt_Nub",
+      "path_id": -8720238101196130142
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -8717000872471775070
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -8695420663365191518
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -8687679462171952990
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -8666636087496755038
+    },
+    {
+      "type": "GameObject",
+      "name": "S_actor_laevat_cloth_03_lod3",
+      "path_id": -8661947138180269918
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -8629245204112033630
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -8626695063953819486
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -8625249147872888670
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -8617413049718163294
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -8591950994300487518
+    },
+    {
+      "type": "GameObject",
+      "name": "lipLup2Joint",
+      "path_id": -8588393749056145246
+    },
+    {
+      "type": "GameObject",
+      "name": "spring_base_L_h_001_jnt",
+      "path_id": -8581937999081916254
+    },
+    {
+      "type": "GameObject",
+      "name": "spring_base_R_d_01_jnt",
+      "path_id": -8571310675910412126
+    },
+    {
+      "type": "GameObject",
+      "name": "Bip001_LThighTwist",
+      "path_id": -8570575124319389534
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -8558834863784216414
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -8522741224240203614
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -8495800283535591262
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -8484781675170056030
+    },
+    {
+      "type": "GameObject",
+      "name": "dress_base_R_h_004_jnt_Nub",
+      "path_id": -8484130961500227422
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -8464275021168527198
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -8449800161585612638
+    },
+    {
+      "type": "GameObject",
+      "name": "spring_base_R_c_02_jnt",
+      "path_id": -8427867197978134366
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -8412209849647187806
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -8409463319570696030
+    },
+    {
+      "type": "GameObject",
+      "name": "head_mid_jnt",
+      "path_id": -8406968630314157918
+    },
+    {
+      "type": "GameObject",
+      "name": "spring_base_R_e_002_jnt",
+      "path_id": -8395356907313252190
+    },
+    {
+      "type": "GameObject",
+      "name": "spring_base_L_c_01_jnt",
+      "path_id": -8386550778686031710
+    },
+    {
+      "type": "GameObject",
+      "name": "spring_base_R_e_004_jnt",
+      "path_id": -8383232778824599390
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -8379890801390274398
+    },
+    {
+      "type": "GameObject",
+      "name": "dress_base_Back_a_01_jnt",
+      "path_id": -8372788257108543326
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -8368848716405819230
+    },
+    {
+      "type": "GameObject",
+      "name": "IK_Foot_L_001",
+      "path_id": -8363077050072713054
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -8361741282046396254
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -8356680439713974110
+    },
+    {
+      "type": "SkinnedMeshRenderer",
+      "name": "",
+      "path_id": -8344058193714300766
+    },
+    {
+      "type": "GameObject",
+      "name": "Bip001_R_Finger2",
+      "path_id": -8338287548246017886
+    },
+    {
+      "type": "GameObject",
+      "name": "Hair_base_B_a_002_jnt",
+      "path_id": -8315310026964420446
+    },
+    {
+      "type": "GameObject",
+      "name": "dress_base_R_a_01_jnt",
+      "path_id": -8293415665905846110
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -8282449970345953118
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -8279388805523392350
+    },
+    {
+      "type": "GameObject",
+      "name": "Bip001_L_Toe0Nub",
+      "path_id": -8255089463345170270
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -8252780689689364318
+    },
+    {
+      "type": "GameObject",
+      "name": "eyeLf01Joint",
+      "path_id": -8247501967880046430
+    },
+    {
+      "type": "GameObject",
+      "name": "Bip001_L_Finger01",
+      "path_id": -8242903662676035422
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -8236128666005555038
+    },
+    {
+      "type": "GameObject",
+      "name": "Hair_base_L_d_004_jnt_Nub",
+      "path_id": -8234669491547948894
+    },
+    {
+      "type": "GameObject",
+      "name": "clothes_base_R_a_05_jnt",
+      "path_id": -8214714061581403998
+    },
+    {
+      "type": "GameObject",
+      "name": "dress_base_L_h_003_jnt",
+      "path_id": -8185022170098386782
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -8182242863010105182
+    },
+    {
+      "type": "GameObject",
+      "name": "S_actor_laevat_cloth_02_lod3",
+      "path_id": -8173627142996969310
+    },
+    {
+      "type": "GameObject",
+      "name": "spring_base_R_h_001_jnt",
+      "path_id": -8161806023596853086
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -8144653492428293982
+    },
+    {
+      "type": "GameObject",
+      "name": "clothes_base_L_a_07_jnt",
+      "path_id": -8119390623353882462
+    },
+    {
+      "type": "GameObject",
+      "name": "L_Bone_Chain_2",
+      "path_id": -8114061015570990942
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -8103174854504564574
+    },
+    {
+      "type": "GameObject",
+      "name": "Bip001_R_Clavicle",
+      "path_id": -8033057645190989662
+    },
+    {
+      "type": "GameObject",
+      "name": "S_actor_laevat_hair_01_lod2",
+      "path_id": -8018302797466519390
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -7993438214292129630
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -7971147567304492894
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -7944021928920106846
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -7929501997262587742
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -7909149652665845598
+    },
+    {
+      "type": "GameObject",
+      "name": "browRt05Joint",
+      "path_id": -7903293720188831582
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -7870635921740810078
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -7853530520033183582
+    },
+    {
+      "type": "GameObject",
+      "name": "clothes_base_L_a_11_jnt_Nub",
+      "path_id": -7795444970750035806
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -7790894819031205726
+    },
+    {
+      "type": "GameObject",
+      "name": "MC_Laevat_Robbin",
+      "path_id": -7785757722815121246
+    },
+    {
+      "type": "GameObject",
+      "name": "Hair_base_L_a_002_jnt",
+      "path_id": -7780770698075653982
+    },
+    {
+      "type": "GameObject",
+      "name": "Bip001_R_Finger41",
+      "path_id": -7757810005157431134
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -7755317921444349790
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -7725133382541854558
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -7676231302382503774
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -7670682575831254878
+    },
+    {
+      "type": "GameObject",
+      "name": "dress_base_L_c_01_jnt",
+      "path_id": -7655123741980968798
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -7647535478371403614
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -7630997075049006942
+    },
+    {
+      "type": "GameObject",
+      "name": "S_actor_laevat_cloth_04_lod3",
+      "path_id": -7630475355468941150
+    },
+    {
+      "type": "GameObject",
+      "name": "Bip001_RThighTwist",
+      "path_id": -7622383136537397086
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -7618441686290351966
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -7571649217541064542
+    },
+    {
+      "type": "GameObject",
+      "name": "R_Bone_Chain_3",
+      "path_id": -7552438443584014174
+    },
+    {
+      "type": "GameObject",
+      "name": "S_actor_laevat_cloth_05_shadowProxyDesktop",
+      "path_id": -7535735739291420510
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -7529234888940210014
+    },
+    {
+      "type": "GameObject",
+      "name": "S_actor_laevat_cloth_03_lod2",
+      "path_id": -7527815985651861342
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -7511329942017099614
+    },
+    {
+      "type": "GameObject",
+      "name": "Bip001_R_Finger11",
+      "path_id": -7446658635766253406
+    },
+    {
+      "type": "GameObject",
+      "name": "Bip001_R_Finger0",
+      "path_id": -7443004058616809310
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -7427743361323583326
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -7406917884832597854
+    },
+    {
+      "type": "GameObject",
+      "name": "Bip001_R_Forearm",
+      "path_id": -7380915499341334366
+    },
+    {
+      "type": "GameObject",
+      "name": "browRt01Joint",
+      "path_id": -7370551246814594910
+    },
+    {
+      "type": "GameObject",
+      "name": "spring_base_R_a_02_jnt",
+      "path_id": -7363543370482992990
+    },
+    {
+      "type": "GameObject",
+      "name": "spring_base_L_d_001_jnt",
+      "path_id": -7358496936388609886
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -7306502968554112862
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -7303341063233947486
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -7297358605350553438
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -7285252199369623390
+    },
+    {
+      "type": "GameObject",
+      "name": "browLineRt03Joint",
+      "path_id": -7283337845003994974
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -7279294825527265118
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -7255588866554742622
+    },
+    {
+      "type": "GameObject",
+      "name": "eyeRt01EyelashJoint",
+      "path_id": -7249333483606132574
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -7215518998626453342
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -7213688881107388254
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -7199690778465814366
+    },
+    {
+      "type": "GameObject",
+      "name": "spring_base_L_a_02_jnt",
+      "path_id": -7172916580017391454
+    },
+    {
+      "type": "GameObject",
+      "name": "eyeRt02Joint",
+      "path_id": -7166028419425519454
+    },
+    {
+      "type": "SkinnedMeshRenderer",
+      "name": "",
+      "path_id": -7157570843025557342
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -7149371490774763358
+    },
+    {
+      "type": "GameObject",
+      "name": "Bip001_L_Calf",
+      "path_id": -7144579454396155742
+    },
+    {
+      "type": "GameObject",
+      "name": "Hair_base_B_b_004_jnt",
+      "path_id": -7107387706523797342
+    },
+    {
+      "type": "GameObject",
+      "name": "dress_base_L_c_04_jnt",
+      "path_id": -7101003625018247006
+    },
+    {
+      "type": "SkinnedMeshRenderer",
+      "name": "",
+      "path_id": -7068056231966951262
+    },
+    {
+      "type": "GameObject",
+      "name": "clothes_base_R_a_04_jnt",
+      "path_id": -7056974431784027998
+    },
+    {
+      "type": "GameObject",
+      "name": "lod2",
+      "path_id": -7045298099745802078
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -7038766047950161758
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -7035472381457483614
+    },
+    {
+      "type": "GameObject",
+      "name": "S_actor_laevat_cloth_03_lod1",
+      "path_id": -7033865865047656286
+    },
+    {
+      "type": "GameObject",
+      "name": "spring_base_L_d_02_jnt",
+      "path_id": -7013705435063666526
+    },
+    {
+      "type": "GameObject",
+      "name": "xiong_L_1_skin_jnt_Nub",
+      "path_id": -7010654030944421726
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -6980649996087805790
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -6971601346301019998
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -6963914355104761694
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -6940214944219613022
+    },
+    {
+      "type": "SkinnedMeshRenderer",
+      "name": "",
+      "path_id": -6924508062106928990
+    },
+    {
+      "type": "LODGroup",
+      "name": "",
+      "path_id": -6910768710345901918
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -6900166213689362270
+    },
+    {
+      "type": "GameObject",
+      "name": "browLf05Joint",
+      "path_id": -6856073215813699422
+    },
+    {
+      "type": "GameObject",
+      "name": "Hair_base_R_a_003_jnt",
+      "path_id": -6844489727844829022
+    },
+    {
+      "type": "GameObject",
+      "name": "GEN_wep_M_1_\u62d6\u6211\u6539\u6b66\u5668\u65cb\u8f6c\u4e2d\u5fc3",
+      "path_id": -6842027959386589022
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -6796049285964580702
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -6789749848314627934
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -6788159169829422942
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -6783824331454760798
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -6776289309865822046
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -6767583783305234270
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -6767108783472920414
+    },
+    {
+      "type": "GameObject",
+      "name": "S_actor_laevat_cloth_01_lod2",
+      "path_id": -6744747275173971806
+    },
+    {
+      "type": "GameObject",
+      "name": "dress_base_L_b_008_jnt_Nub",
+      "path_id": -6729488391981778782
+    },
+    {
+      "type": "GameObject",
+      "name": "S_actor_laevat_eyebrow_01_lod2",
+      "path_id": -6729485712567191390
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -6700901396269713246
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -6690455988399195998
+    },
+    {
+      "type": "GameObject",
+      "name": "Bip001_R_Calf",
+      "path_id": -6688381885199959902
+    },
+    {
+      "type": "GameObject",
+      "name": "Bip001_R_Toe0Nub",
+      "path_id": -6684544169842001758
+    },
+    {
+      "type": "GameObject",
+      "name": "spring_base_L_j_001_jnt",
+      "path_id": -6662709159981500254
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -6656680330158294878
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -6645276683836016478
+    },
+    {
+      "type": "GameObject",
+      "name": "dress_base_Front_a_01_jnt",
+      "path_id": -6624025927669139294
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -6623268468969195358
+    },
+    {
+      "type": "GameObject",
+      "name": "dress_base_L_b_005_jnt",
+      "path_id": -6608581962017949534
+    },
+    {
+      "type": "GameObject",
+      "name": "Bip001_R_Toe0",
+      "path_id": -6602973023102125918
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -6579194933822441310
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -6567803553535313758
+    },
+    {
+      "type": "GameObject",
+      "name": "browLineLf03Joint",
+      "path_id": -6511512039026345822
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -6489142471941637982
+    },
+    {
+      "type": "GameObject",
+      "name": "spring_base_R_d_003_jnt_Nub",
+      "path_id": -6488061335641868126
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -6482659441904338782
+    },
+    {
+      "type": "GameObject",
+      "name": "lipRdn2Joint",
+      "path_id": -6452428356533700446
+    },
+    {
+      "type": "GameObject",
+      "name": "lipRup4Joint",
+      "path_id": -6411091263170430814
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -6399216274964301662
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -6387661337819826014
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -6384551320638408542
+    },
+    {
+      "type": "GameObject",
+      "name": "dress_base_Front_a_02_jnt",
+      "path_id": -6379365600871073630
+    },
+    {
+      "type": "GameObject",
+      "name": "S_actor_laevat_vfxpart_01_lod0",
+      "path_id": -6363274957769492318
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -6351942597758306142
+    },
+    {
+      "type": "GameObject",
+      "name": "spring_base_L_e_002_jnt",
+      "path_id": -6343422313984640862
+    },
+    {
+      "type": "GameObject",
+      "name": "Bip001_L_Finger42",
+      "path_id": -6340371120940336990
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -6339085691376715614
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -6309133297857546078
+    },
+    {
+      "type": "GameObject",
+      "name": "Bip001_R_Finger3Nub",
+      "path_id": -6305402803450955614
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -6302079870489741150
+    },
+    {
+      "type": "SkinnedMeshRenderer",
+      "name": "",
+      "path_id": -6259785532944697182
+    },
+    {
+      "type": "GameObject",
+      "name": "Bip001",
+      "path_id": -6258953603846719326
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -6235482569812625246
+    },
+    {
+      "type": "GameObject",
+      "name": "dress_base_L_b_03_jnt",
+      "path_id": -6232235410941167454
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -6223440313921390430
+    },
+    {
+      "type": "SkinnedMeshRenderer",
+      "name": "",
+      "path_id": -6214974960295167838
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -6202588315313522526
+    },
+    {
+      "type": "GameObject",
+      "name": "L_Bone_Chain_4",
+      "path_id": -6199350784406800222
+    },
+    {
+      "type": "GameObject",
+      "name": "dress_base_L_a_05_jnt_Nub",
+      "path_id": -6196354566156732254
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -6178933365912192862
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -6170257849673729886
+    },
+    {
+      "type": "GameObject",
+      "name": "dress_base_L_a_01_jnt",
+      "path_id": -6167758268951971678
+    },
+    {
+      "type": "GameObject",
+      "name": "dress_base_R_c_03_jnt",
+      "path_id": -6161902166543320926
+    },
+    {
+      "type": "GameObject",
+      "name": "S_actor_laevat_body_01_lod3",
+      "path_id": -6156005336827250526
+    },
+    {
+      "type": "GameObject",
+      "name": "Shadow_Proxy",
+      "path_id": -6147687124157024094
+    },
+    {
+      "type": "GameObject",
+      "name": "browLineLf01Joint",
+      "path_id": -6133677682982078302
+    },
+    {
+      "type": "GameObject",
+      "name": "IK_Knee_R_001",
+      "path_id": -6086926613711570782
+    },
+    {
+      "type": "SkinnedMeshRenderer",
+      "name": "",
+      "path_id": -6060873483262314334
+    },
+    {
+      "type": "GameObject",
+      "name": "lipLdn1Joint",
+      "path_id": -6033078311016154974
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -6025777813427406686
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -6012809152268945246
+    },
+    {
+      "type": "GameObject",
+      "name": "GEN_Bip001_0_\u62d6\u6211\u6539\u6b66\u5668\u4f4d\u7f6e\u65cb\u8f6c_\u9884\u89c8\u6b66\u5668prefab\u6302\u8fd9",
+      "path_id": -6010124183547168606
+    },
+    {
+      "type": "GameObject",
+      "name": "S_actor_laevat_hair_01_lod3",
+      "path_id": -6005710965873395550
+    },
+    {
+      "type": "GameObject",
+      "name": "dress_base_R_b_007_jnt",
+      "path_id": -5972998196653934430
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -5937438044330477406
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -5917635441402857310
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -5898019168492144478
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -5877538424223778654
+    },
+    {
+      "type": "GameObject",
+      "name": "Hair_base_R_b_004_jnt_Nub",
+      "path_id": -5852695965238249310
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -5844997462519269214
+    },
+    {
+      "type": "GameObject",
+      "name": "Bip001_L_Finger1",
+      "path_id": -5842904202071066462
+    },
+    {
+      "type": "GameObject",
+      "name": "spring_base_R_d_005_jnt_Nub",
+      "path_id": -5811209254134040414
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -5810395443925829470
+    },
+    {
+      "type": "GameObject",
+      "name": "Hair_base_B_b_003_jnt",
+      "path_id": -5795157466844251998
+    },
+    {
+      "type": "GameObject",
+      "name": "Hair_base_F_002_jnt",
+      "path_id": -5783584288254936926
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -5767619920796862302
+    },
+    {
+      "type": "SkinnedMeshRenderer",
+      "name": "",
+      "path_id": -5714649435123697502
+    },
+    {
+      "type": "GameObject",
+      "name": "eyeRt03IrissdJoint",
+      "path_id": -5662075034874300254
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -5662066852528867166
+    },
+    {
+      "type": "GameObject",
+      "name": "Hair_base_F_001_jnt",
+      "path_id": -5640949906585765726
+    },
+    {
+      "type": "GameObject",
+      "name": "S_actor_laevat_cloth_05_lod2",
+      "path_id": -5627169568536282974
+    },
+    {
+      "type": "GameObject",
+      "name": "Bip001_RCalfTwist1",
+      "path_id": -5590703926064138078
+    },
+    {
+      "type": "GameObject",
+      "name": "spring_base_L_z_002_jnt",
+      "path_id": -5552183382200698718
+    },
+    {
+      "type": "GameObject",
+      "name": "Bip001_R_Thigh",
+      "path_id": -5531610301087500126
+    },
+    {
+      "type": "GameObject",
+      "name": "Hair_base_R_c_001_jnt",
+      "path_id": -5505921502273488734
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -5469679388817114974
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -5455358578683430750
+    },
+    {
+      "type": "GameObject",
+      "name": "Head_Local",
+      "path_id": -5453688059042875230
+    },
+    {
+      "type": "SkinnedMeshRenderer",
+      "name": "",
+      "path_id": -5438100314567100254
+    },
+    {
+      "type": "GameObject",
+      "name": "dress_base_L_b_006_jnt",
+      "path_id": -5433753126865880926
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -5428330722347075422
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -5426202715982415710
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -5418874393278760798
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -5418581574268176222
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -5409768399403632478
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -5400288788850427742
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -5380337079735633758
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -5352615379740804958
+    },
+    {
+      "type": "GameObject",
+      "name": "spring_base_R_e_003_jnt_Nub",
+      "path_id": -5343379680095258462
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -5305262161709451102
+    },
+    {
+      "type": "GameObject",
+      "name": "dress_base_R_a_03_jnt",
+      "path_id": -5300938349890455390
+    },
+    {
+      "type": "GameObject",
+      "name": "lipLup4Joint",
+      "path_id": -5211858920032847710
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -5202775267507062622
+    },
+    {
+      "type": "GameObject",
+      "name": "browLf03Joint",
+      "path_id": -5198384643095283550
+    },
+    {
+      "type": "GameObject",
+      "name": "TongueMd04Joint",
+      "path_id": -5158532650809247582
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -5148085393180870494
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -5112679751198984030
+    },
+    {
+      "type": "GameObject",
+      "name": "beijia_jnt",
+      "path_id": -5095351189820753758
+    },
+    {
+      "type": "GameObject",
+      "name": "Hair_base_L_a_004_jnt_Nub",
+      "path_id": -5067381493532673886
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -5052113909239924574
+    },
+    {
+      "type": "GameObject",
+      "name": "dress_base_R_a_05_jnt_Nub",
+      "path_id": -5037716549794154334
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -5027053950304274270
+    },
+    {
+      "type": "SkinnedMeshRenderer",
+      "name": "",
+      "path_id": -5017510576080504670
+    },
+    {
+      "type": "GameObject",
+      "name": "dress_base_L_b_04_jnt_Nub",
+      "path_id": -4992735635623593822
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -4988585872693544798
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -4985575894085355358
+    },
+    {
+      "type": "GameObject",
+      "name": "Bip001_R_Finger32",
+      "path_id": -4968333984248842078
+    },
+    {
+      "type": "GameObject",
+      "name": "Bip001_L_Finger0Nub",
+      "path_id": -4965397212733327198
+    },
+    {
+      "type": "GameObject",
+      "name": "spring_base_L_d_03_jnt_Nub",
+      "path_id": -4959173024209979230
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -4953841833876473694
+    },
+    {
+      "type": "GameObject",
+      "name": "Bip001_R_Finger1",
+      "path_id": -4947576689951917918
+    },
+    {
+      "type": "GameObject",
+      "name": "Hair_base_L_b_002_jnt",
+      "path_id": -4930590453797963614
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -4929915446866954078
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -4898721154608219998
+    },
+    {
+      "type": "GameObject",
+      "name": "L_Bone_Chain_3",
+      "path_id": -4896826299215398750
+    },
+    {
+      "type": "GameObject",
+      "name": "Hair_base_R_b_003_jnt",
+      "path_id": -4878999392837191518
+    },
+    {
+      "type": "GameObject",
+      "name": "Bip001_Neck",
+      "path_id": -4860856491700864862
+    },
+    {
+      "type": "GameObject",
+      "name": "spring_base_L_d_004_jnt",
+      "path_id": -4833113553162880862
+    },
+    {
+      "type": "GameObject",
+      "name": "dress_base_L_h_004_jnt_Nub",
+      "path_id": -4828818010398476126
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -4822251152868198238
+    },
+    {
+      "type": "GameObject",
+      "name": "faceLfHighlightJoint",
+      "path_id": -4816714412652578654
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -4811631238675122014
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -4807683119506605918
+    },
+    {
+      "type": "SkinnedMeshRenderer",
+      "name": "",
+      "path_id": -4800213527647504222
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -4794593727612602206
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -4788034998549104478
+    },
+    {
+      "type": "GameObject",
+      "name": "S_actor_laevat_cloth_03_shadowProxyDesktop",
+      "path_id": -4776616281639569246
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -4744370950683248478
+    },
+    {
+      "type": "GameObject",
+      "name": "Bip001_R_Finger31",
+      "path_id": -4727635136673171294
+    },
+    {
+      "type": "GameObject",
+      "name": "S_actor_laevat_iris_01_lod1",
+      "path_id": -4715458197148616542
+    },
+    {
+      "type": "GameObject",
+      "name": "Bip001_R_Finger42",
+      "path_id": -4707356735233410910
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -4684057591776298846
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -4664139601480271710
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -4653236752519350110
+    },
+    {
+      "type": "GameObject",
+      "name": "spring_base_L_c_02_jnt",
+      "path_id": -4632630940130887518
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -4612929096204765022
+    },
+    {
+      "type": "GameObject",
+      "name": "S_actor_laevat_eyeshadow_01_lod1",
+      "path_id": -4589461037362661214
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -4569900931555215198
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -4566780859427407710
+    },
+    {
+      "type": "GameObject",
+      "name": "LookAtPoint",
+      "path_id": -4532195952604366686
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -4531522138317801310
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -4527528076245485406
+    },
+    {
+      "type": "GameObject",
+      "name": "spring_base_R_e_001_jnt",
+      "path_id": -4490467698071324510
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -4435078324785923934
+    },
+    {
+      "type": "GameObject",
+      "name": "dress_base_Front_a_04_jnt_Nub",
+      "path_id": -4391494859320411998
+    },
+    {
+      "type": "GameObject",
+      "name": "browLf04Joint",
+      "path_id": -4366287071334057822
+    },
+    {
+      "type": "GameObject",
+      "name": "spring_base_L_h_003_jnt_Nub",
+      "path_id": -4363379408987834206
+    },
+    {
+      "type": "GameObject",
+      "name": "dress_base_R_b_008_jnt_Nub",
+      "path_id": -4351633403959920478
+    },
+    {
+      "type": "GameObject",
+      "name": "spring_base_R_d_004_jnt",
+      "path_id": -4349506668756158302
+    },
+    {
+      "type": "GameObject",
+      "name": "slot_potency_vfx_01",
+      "path_id": -4344524963214215006
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -4300086831251539806
+    },
+    {
+      "type": "GameObject",
+      "name": "IK_Weapon_R_001",
+      "path_id": -4286522035261753182
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -4283699741763716958
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -4274826102981216094
+    },
+    {
+      "type": "GameObject",
+      "name": "S_actor_laevat_hair_01_lod1",
+      "path_id": -4260244963569125214
+    },
+    {
+      "type": "GameObject",
+      "name": "IK_Knee_L_001",
+      "path_id": -4234723974790989662
+    },
+    {
+      "type": "GameObject",
+      "name": "lipRup1Joint",
+      "path_id": -4210873616398174046
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -4206570535320110942
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -4196739551323637598
+    },
+    {
+      "type": "GameObject",
+      "name": "R_Bone_Chain_4",
+      "path_id": -4189513687894607710
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -4180069621907998558
+    },
+    {
+      "type": "GameObject",
+      "name": "dress_base_Back_a_02_jnt",
+      "path_id": -4167183168439732062
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -4146656563184027486
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -4073142795263690590
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -4071704746288564062
+    },
+    {
+      "type": "GameObject",
+      "name": "IK_Hand_R_001",
+      "path_id": -4067642440544175966
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -4057609688125622110
+    },
+    {
+      "type": "GameObject",
+      "name": "Hair_base_L_c_001_jnt",
+      "path_id": -4017878627404760926
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -4009753998038681438
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -3974540632422827870
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -3965028664385619806
+    },
+    {
+      "type": "GameObject",
+      "name": "dress_base_R_c_02_jnt",
+      "path_id": -3963813282595620702
+    },
+    {
+      "type": "GameObject",
+      "name": "S_actor_laevat_eyebrow_01_lod3",
+      "path_id": -3920742592957859678
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -3884045147623868254
+    },
+    {
+      "type": "GameObject",
+      "name": "TongueMd03Joint",
+      "path_id": -3874700620262164318
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -3830615128316135262
+    },
+    {
+      "type": "GameObject",
+      "name": "SP_Desktop",
+      "path_id": -3780957420352784222
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -3773177774899218270
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -3757294086376539998
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -3737551625629878110
+    },
+    {
+      "type": "SkinnedMeshRenderer",
+      "name": "",
+      "path_id": -3719449206524233566
+    },
+    {
+      "type": "GameObject",
+      "name": "jawJoint",
+      "path_id": -3716091558274877278
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -3699130770883888990
+    },
+    {
+      "type": "SkinnedMeshRenderer",
+      "name": "",
+      "path_id": -3674053169385391966
+    },
+    {
+      "type": "SkinnedMeshRenderer",
+      "name": "",
+      "path_id": -3671398140302477150
+    },
+    {
+      "type": "GameObject",
+      "name": "S_actor_laevat_vfxpart_01_lod1",
+      "path_id": -3669832048078178142
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -3598929536844253022
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -3597366118591711070
+    },
+    {
+      "type": "GameObject",
+      "name": "dress_base_R_c_05_jnt_Nub",
+      "path_id": -3538446103058925406
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -3502052890777372510
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -3414327513975048030
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -3376703725077415774
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -3324692093598517086
+    },
+    {
+      "type": "GameObject",
+      "name": "spring_base_L_i_001_jnt",
+      "path_id": -3320945683876824926
+    },
+    {
+      "type": "GameObject",
+      "name": "S_actor_laevat_hair_01_shadowProxyDesktop",
+      "path_id": -3289332530642044766
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -3237013299855181662
+    },
+    {
+      "type": "GameObject",
+      "name": "xiong_R_0_skin_jnt",
+      "path_id": -3235995433962325854
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -3194131762045536094
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -3191880881337550686
+    },
+    {
+      "type": "GameObject",
+      "name": "lipLdn3Joint",
+      "path_id": -3187635415555262302
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -3152559068358264670
+    },
+    {
+      "type": "GameObject",
+      "name": "lipMdnJoint",
+      "path_id": -3149953545515648862
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -3147221524117997406
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -3122946021850040158
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -3120584609176307550
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -3073219127860348766
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -3061147689300412254
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -3041073454453114718
+    },
+    {
+      "type": "GameObject",
+      "name": "Bip001_R_UpperArm",
+      "path_id": -3027006825025652574
+    },
+    {
+      "type": "GameObject",
+      "name": "eyeLf02Joint",
+      "path_id": -3010371655887243102
+    },
+    {
+      "type": "GameObject",
+      "name": "S_actor_laevat_cloth_01_lod3",
+      "path_id": -3003601843067570014
+    },
+    {
+      "type": "GameObject",
+      "name": "browLineRf01Joint_a",
+      "path_id": -2991624160073762654
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -2979803607763076958
+    },
+    {
+      "type": "SkinnedMeshRenderer",
+      "name": "",
+      "path_id": -2908542109234775902
+    },
+    {
+      "type": "GameObject",
+      "name": "Hair_base_B_a_004_jnt_Nub",
+      "path_id": -2905820233235973982
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -2902218352087746398
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -2898698366125557598
+    },
+    {
+      "type": "GameObject",
+      "name": "lipLdn4Joint",
+      "path_id": -2898439429175068510
+    },
+    {
+      "type": "GameObject",
+      "name": "S_actor_laevat_cloth_02_lod2",
+      "path_id": -2887374322018174814
+    },
+    {
+      "type": "GameObject",
+      "name": "spring_base_L_e_001_jnt",
+      "path_id": -2860285124871079774
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -2859862816640485214
+    },
+    {
+      "type": "GameObject",
+      "name": "spring_base_L_e_003_jnt_Nub",
+      "path_id": -2835608247405791070
+    },
+    {
+      "type": "GameObject",
+      "name": "Bip001_Head",
+      "path_id": -2832887605642544990
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -2831768404207748958
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -2813695893976008542
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -2790476255854020446
+    },
+    {
+      "type": "GameObject",
+      "name": "spring_base_L_z_001_jnt",
+      "path_id": -2783830857435727710
+    },
+    {
+      "type": "GameObject",
+      "name": "spring_base_L_d_003_jnt_Nub",
+      "path_id": -2760250322200053598
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -2754195721429206878
+    },
+    {
+      "type": "GameObject",
+      "name": "S_actor_laevat_face_01_lod3",
+      "path_id": -2747628971997022046
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -2696440395400234846
+    },
+    {
+      "type": "GameObject",
+      "name": "S_actor_laevat_eyebrow_01_lod0",
+      "path_id": -2640986197864171358
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -2635869396240975710
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -2619147058094557022
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -2548425976207656798
+    },
+    {
+      "type": "GameObject",
+      "name": "browLineLf02Joint",
+      "path_id": -2538435615456380766
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -2526068275156436830
+    },
+    {
+      "type": "GameObject",
+      "name": "head_up_jnt",
+      "path_id": -2523299648322553694
+    },
+    {
+      "type": "GameObject",
+      "name": "Bip001_L_Finger1Nub",
+      "path_id": -2522085594444220254
+    },
+    {
+      "type": "GameObject",
+      "name": "eyeRt03Joint",
+      "path_id": -2522014062557677406
+    },
+    {
+      "type": "GameObject",
+      "name": "Hair_base_B_b_001_jnt",
+      "path_id": -2502074064960702302
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -2474769174311683934
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -2466404800372426590
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -2440552587248813918
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -2393348342908667742
+    },
+    {
+      "type": "GameObject",
+      "name": "S_actor_laevat_body_01_lod2",
+      "path_id": -2392102803927222110
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -2355280302022739806
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -2348974997652457310
+    },
+    {
+      "type": "GameObject",
+      "name": "Hair_base_R_d_001_jnt",
+      "path_id": -2322070306077820766
+    },
+    {
+      "type": "GameObject",
+      "name": "Bip001_L_Finger3Nub",
+      "path_id": -2317832281015338846
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -2311776211219269470
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -2294962291250055006
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -2266573703897892702
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -2239889319561611102
+    },
+    {
+      "type": "GameObject",
+      "name": "Bip001_R_Finger22",
+      "path_id": -2203863934330357598
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -2154705177122850654
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -2145311033375016798
+    },
+    {
+      "type": "GameObject",
+      "name": "chr_0016_laevat_postmodel",
+      "path_id": -2108562916333864798
+    },
+    {
+      "type": "SkinnedMeshRenderer",
+      "name": "",
+      "path_id": -2103581793900775262
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -2102901786118539102
+    },
+    {
+      "type": "GameObject",
+      "name": "S_actor_laevat_iris_01_lod0",
+      "path_id": -2096656309523007326
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -2096063052729173854
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -2086590844035221342
+    },
+    {
+      "type": "GameObject",
+      "name": "browLineLf01Joint_a",
+      "path_id": -2078631040764561246
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -2055429429552760670
+    },
+    {
+      "type": "GameObject",
+      "name": "dress_base_L_h_001_jnt",
+      "path_id": -2028571865894176606
+    },
+    {
+      "type": "SkinnedMeshRenderer",
+      "name": "",
+      "path_id": -2025401363121129310
+    },
+    {
+      "type": "GameObject",
+      "name": "S_actor_laevat_cloth_04_lod2",
+      "path_id": -2024115224620058462
+    },
+    {
+      "type": "GameObject",
+      "name": "Bip001_LUpArmTwist",
+      "path_id": -2015977176591320926
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -2014454214411765598
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -1967083471325448030
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -1924409849355454302
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -1873199846850512734
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -1866978821862213470
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -1866198072814683998
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -1844540907174905694
+    },
+    {
+      "type": "GameObject",
+      "name": "Hair_base_R_c_004_jnt",
+      "path_id": -1827602309094852446
+    },
+    {
+      "type": "GameObject",
+      "name": "Bip001_L_Finger3",
+      "path_id": -1783380692697237342
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -1757513960601765726
+    },
+    {
+      "type": "GameObject",
+      "name": "eyeRt04EyelashJoint",
+      "path_id": -1735613372522514270
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -1724725255671531358
+    },
+    {
+      "type": "GameObject",
+      "name": "IK_Foot_R_001",
+      "path_id": -1723470494658217822
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -1713640065748387678
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -1701271732117325662
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -1698236367646181214
+    },
+    {
+      "type": "GameObject",
+      "name": "lod1",
+      "path_id": -1691543180997904222
+    },
+    {
+      "type": "GameObject",
+      "name": "lipRdn4Joint",
+      "path_id": -1671844687767947102
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -1644502334618945374
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -1633614212705109854
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -1615578494240048990
+    },
+    {
+      "type": "GameObject",
+      "name": "Bip001_LUpArmTwist1",
+      "path_id": -1608778222948206430
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -1592570888340129630
+    },
+    {
+      "type": "GameObject",
+      "name": "MC_Laevat_Hair_Side",
+      "path_id": -1582011212643518302
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -1581952465013065566
+    },
+    {
+      "type": "GameObject",
+      "name": "MC_Laevat_Skirt",
+      "path_id": -1580779036017641310
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -1577435949270124382
+    },
+    {
+      "type": "GameObject",
+      "name": "R_Bone_Chain_5_Nub",
+      "path_id": -1571989917425354590
+    },
+    {
+      "type": "GameObject",
+      "name": "Hair_base_L_c_005_jnt_Nub",
+      "path_id": -1553598625935148894
+    },
+    {
+      "type": "GameObject",
+      "name": "dress_base_R_h_002_jnt",
+      "path_id": -1430136400117516126
+    },
+    {
+      "type": "GameObject",
+      "name": "GEN_Bip001_0_final",
+      "path_id": -1418173367603382110
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -1364551628549605214
+    },
+    {
+      "type": "SkinnedMeshRenderer",
+      "name": "",
+      "path_id": -1358866122879813470
+    },
+    {
+      "type": "GameObject",
+      "name": "dress_base_R_h_003_jnt",
+      "path_id": -1351019490591524702
+    },
+    {
+      "type": "GameObject",
+      "name": "clothes_base_L_a_09_jnt",
+      "path_id": -1347532932247996254
+    },
+    {
+      "type": "GameObject",
+      "name": "Hair_base_R_c_002_jnt",
+      "path_id": -1343753846628960094
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -1315821644355225438
+    },
+    {
+      "type": "GameObject",
+      "name": "Bip001_L_Finger2Nub",
+      "path_id": -1264222973809084254
+    },
+    {
+      "type": "GameObject",
+      "name": "spring_base_L_e_004_jnt",
+      "path_id": -1244945651871467358
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -1162184132589406046
+    },
+    {
+      "type": "GameObject",
+      "name": "Bip001_Pelvis",
+      "path_id": -1113457733159962462
+    },
+    {
+      "type": "GameObject",
+      "name": "faceMdToothDnJoint",
+      "path_id": -1089944424522991454
+    },
+    {
+      "type": "GameObject",
+      "name": "Bip001_RCalfTwist",
+      "path_id": -1079328530217191262
+    },
+    {
+      "type": "GameObject",
+      "name": "eyeLf02EyelashJoint",
+      "path_id": -1069750144063981406
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -1054964477805086558
+    },
+    {
+      "type": "GameObject",
+      "name": "eyeRt07Joint",
+      "path_id": -977393381621385054
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -973624487817725790
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -954016081484400478
+    },
+    {
+      "type": "GameObject",
+      "name": "chr_0016_laevat_postmodel",
+      "path_id": -945917432907908958
+    },
+    {
+      "type": "GameObject",
+      "name": "wep_M",
+      "path_id": -931293041057089374
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -923684355720431454
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -920795311083439966
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -884542437146642270
+    },
+    {
+      "type": "SkinnedMeshRenderer",
+      "name": "",
+      "path_id": -882628682148628318
+    },
+    {
+      "type": "GameObject",
+      "name": "spring_base_L_i_002_jnt_Nub",
+      "path_id": -876983512972412766
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -874485399416358750
+    },
+    {
+      "type": "GameObject",
+      "name": "faceLfCheekOtDnJoint",
+      "path_id": -851878293447722846
+    },
+    {
+      "type": "GameObject",
+      "name": "spring_base_R_d_02_jnt",
+      "path_id": -846689257276131166
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -843382553827231582
+    },
+    {
+      "type": "GameObject",
+      "name": "GEN_wep_M_2_damped",
+      "path_id": -825245391535884126
+    },
+    {
+      "type": "GameObject",
+      "name": "spring_R_jnt",
+      "path_id": -745130568691369822
+    },
+    {
+      "type": "GameObject",
+      "name": "lod0",
+      "path_id": -714193082049578846
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -667922618008291166
+    },
+    {
+      "type": "GameObject",
+      "name": "dress_base_L_b_01_jnt",
+      "path_id": -659174944556074846
+    },
+    {
+      "type": "GameObject",
+      "name": "wep_R",
+      "path_id": -627240761827477342
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -615590035928336222
+    },
+    {
+      "type": "GameObject",
+      "name": "Hair_base_R_a_002_jnt",
+      "path_id": -605254897174988638
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -573319699827935070
+    },
+    {
+      "type": "GameObject",
+      "name": "Bip001_L_Calf_ty_plus",
+      "path_id": -565211919612069726
+    },
+    {
+      "type": "GameObject",
+      "name": "MC_Laevat_Hair_Behind",
+      "path_id": -538849106464163678
+    },
+    {
+      "type": "GameObject",
+      "name": "Bip001_L_Finger41",
+      "path_id": -533735544393910110
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -533338082278655838
+    },
+    {
+      "type": "GameObject",
+      "name": "spring_base_R_i_001_jnt",
+      "path_id": -497424654771636062
+    },
+    {
+      "type": "GameObject",
+      "name": "S_actor_laevat_body_01_lod1",
+      "path_id": -488593255366936414
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -467738091908319070
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -466247299013363550
+    },
+    {
+      "type": "GameObject",
+      "name": "spring_base_R_j_002_jnt_Nub",
+      "path_id": -461651158581397342
+    },
+    {
+      "type": "GameObject",
+      "name": "GEN_wep_M_1_final",
+      "path_id": -461300331697817438
+    },
+    {
+      "type": "GameObject",
+      "name": "clothes_base_R_a_08_jnt",
+      "path_id": -450899981667419998
+    },
+    {
+      "type": "GameObject",
+      "name": "Face_Head",
+      "path_id": -450501573567989598
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -406027875608446814
+    },
+    {
+      "type": "GameObject",
+      "name": "Hair_base_R_b_001_jnt",
+      "path_id": -397388253367125854
+    },
+    {
+      "type": "GameObject",
+      "name": "GEN_wep_M_2_\u62d6\u6211\u6539\u6b66\u5668\u4f4d\u7f6e\u65cb\u8f6c_\u9884\u89c8\u6b66\u5668prefab\u6302\u8fd9",
+      "path_id": -390228796362147678
+    },
+    {
+      "type": "GameObject",
+      "name": "spring_base_L_d_005_jnt_Nub",
+      "path_id": -380508198130042718
+    },
+    {
+      "type": "SkinnedMeshRenderer",
+      "name": "",
+      "path_id": -367837133058754398
+    },
+    {
+      "type": "GameObject",
+      "name": "Bip001_R_UpperArm_ty_plus",
+      "path_id": -347703797440005982
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -346801385222457182
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -346420013100779358
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -334477442060928862
+    },
+    {
+      "type": "GameObject",
+      "name": "eyeRt08Joint",
+      "path_id": -330488724768900958
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -303365535625463646
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -287540098276214622
+    },
+    {
+      "type": "GameObject",
+      "name": "Hair_base_B_b_005_jnt_Nub",
+      "path_id": -286464873561802590
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -284879292041152350
+    },
+    {
+      "type": "GameObject",
+      "name": "spring_base_L_d_002_jnt",
+      "path_id": -256968849215932254
+    },
+    {
+      "type": "SkinnedMeshRenderer",
+      "name": "",
+      "path_id": -254605173423294302
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -246521747130697566
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -236298063183824734
+    },
+    {
+      "type": "GameObject",
+      "name": "dress_base_R_b_03_jnt",
+      "path_id": -180508995299198814
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -175915164535834462
+    },
+    {
+      "type": "GameObject",
+      "name": "clothes_base_R_a_06_jnt",
+      "path_id": -166337399095314270
+    },
+    {
+      "type": "GameObject",
+      "name": "Bip001_RUpArmTwist1",
+      "path_id": -163139525063886686
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -80167406315718494
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -76983485597501278
+    },
+    {
+      "type": "GameObject",
+      "name": "Bip001_R_Finger02",
+      "path_id": -76757194756147038
+    },
+    {
+      "type": "GameObject",
+      "name": "Bip001_R_Finger3",
+      "path_id": -75431699876169566
+    },
+    {
+      "type": "GameObject",
+      "name": "clothes_base_R_a_07_jnt",
+      "path_id": -29075989108639582
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -27345714638505822
+    },
+    {
+      "type": "GameObject",
+      "name": "S_actor_laevat_cloth_04_lod1",
+      "path_id": -12076290609596254
+    },
+    {
+      "type": "GameObject",
+      "name": "spring_base_L_e_005_jnt_Nub",
+      "path_id": -10768794081511262
+    },
+    {
+      "type": "SkinnedMeshRenderer",
+      "name": "",
+      "path_id": -6372670117005150
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -4742326346532702
+    },
+    {
+      "type": "AssetBundle",
+      "name": "main/aa585cda1bde52e5d5d62f30.ab",
+      "path_id": 1
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 3536555421382818
+    },
+    {
+      "type": "SkinnedMeshRenderer",
+      "name": "",
+      "path_id": 4230246441072802
+    },
+    {
+      "type": "GameObject",
+      "name": "TongueMd01Joint",
+      "path_id": 9184969719789730
+    },
+    {
+      "type": "GameObject",
+      "name": "lineJoint",
+      "path_id": 13394174955796642
+    },
+    {
+      "type": "GameObject",
+      "name": "GEN_wep_M_1_\u62d6\u6211\u6539\u6b66\u5668\u4f4d\u7f6e\u65cb\u8f6c_\u9884\u89c8\u6b66\u5668prefab\u6302\u8fd9",
+      "path_id": 44744115493583010
+    },
+    {
+      "type": "GameObject",
+      "name": "Bip001_L_Finger32",
+      "path_id": 55959673893927074
+    },
+    {
+      "type": "GameObject",
+      "name": "Bip001_RThighTwist1",
+      "path_id": 60719050791696546
+    },
+    {
+      "type": "GameObject",
+      "name": "eyeLf04EyelashJoint",
+      "path_id": 62187873166866594
+    },
+    {
+      "type": "GameObject",
+      "name": "spring_base_R_j_001_jnt",
+      "path_id": 83646829580826786
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 92173696581548194
+    },
+    {
+      "type": "GameObject",
+      "name": "S_actor_laevat_cloth_05_lod0",
+      "path_id": 118237944043518114
+    },
+    {
+      "type": "CapsuleCollider",
+      "name": "",
+      "path_id": 169900193289582754
+    },
+    {
+      "type": "GameObject",
+      "name": "NoseMd01Joint",
+      "path_id": 181693949330765986
+    },
+    {
+      "type": "GameObject",
+      "name": "S_actor_laevat_cloth_04_lod0",
+      "path_id": 202896860237707426
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 206826264810338466
+    },
+    {
+      "type": "GameObject",
+      "name": "Bip001_L_ForeTwist1",
+      "path_id": 221655747791141026
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 223341742025193634
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 249292378073970850
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 309015815490877602
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 316599408725833890
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 348159126878075042
+    },
+    {
+      "type": "GameObject",
+      "name": "S_actor_laevat_cloth_01_shadowProxyDesktop",
+      "path_id": 358824473342032034
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 359331416685852834
+    },
+    {
+      "type": "GameObject",
+      "name": "dress_base_L_a_04_jnt",
+      "path_id": 372547855706273954
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 378670786493659298
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 426759740846553250
+    },
+    {
+      "type": "GameObject",
+      "name": "Bip001_LThighTwist1",
+      "path_id": 427899579712518306
+    },
+    {
+      "type": "GameObject",
+      "name": "clothes_base_L_a_10_jnt",
+      "path_id": 431951303062042786
+    },
+    {
+      "type": "GameObject",
+      "name": "spring_base_L_c_03_jnt_Nub",
+      "path_id": 512748609353005218
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 538449152389920930
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 573441398166632610
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 587299291680848034
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 600601747907131554
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 602016209927911586
+    },
+    {
+      "type": "SkinnedMeshRenderer",
+      "name": "",
+      "path_id": 611850214304168098
+    },
+    {
+      "type": "GameObject",
+      "name": "faceLfHighlightJoint_b",
+      "path_id": 639943917601470626
+    },
+    {
+      "type": "GameObject",
+      "name": "Hair_base_B_b_002_jnt",
+      "path_id": 640533462933747874
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 652868634601699490
+    },
+    {
+      "type": "GameObject",
+      "name": "Bip001_L_Finger31",
+      "path_id": 661273644265552034
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 684801202142558370
+    },
+    {
+      "type": "GameObject",
+      "name": "VB_Hit",
+      "path_id": 715722136860473506
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 742682932259960994
+    },
+    {
+      "type": "GameObject",
+      "name": "Hair_base_R_a_004_jnt_Nub",
+      "path_id": 788431673765705890
+    },
+    {
+      "type": "GameObject",
+      "name": "Head_Lookat_Joints",
+      "path_id": 806563202564405410
+    },
+    {
+      "type": "GameObject",
+      "name": "clothes_base_L_a_05_jnt",
+      "path_id": 819990217927473314
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 829024858823637154
+    },
+    {
+      "type": "GameObject",
+      "name": "Bip001_R_Finger0Nub",
+      "path_id": 856966874088781986
+    },
+    {
+      "type": "GameObject",
+      "name": "lipRup3Joint",
+      "path_id": 866343953810241698
+    },
+    {
+      "type": "GameObject",
+      "name": "browLineRt02Joint",
+      "path_id": 869722170807990434
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 916659922107218082
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 960423641629964450
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 964550016570079394
+    },
+    {
+      "type": "GameObject",
+      "name": "Hair_base_R_d_003_jnt",
+      "path_id": 1006973990512015522
+    },
+    {
+      "type": "GameObject",
+      "name": "faceLfPupilJoint",
+      "path_id": 1028988142838790306
+    },
+    {
+      "type": "GameObject",
+      "name": "spring_base_R_z_002_jnt",
+      "path_id": 1047754330179287202
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 1052141953700640930
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 1057929992474441890
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 1070477563034187938
+    },
+    {
+      "type": "GameObject",
+      "name": "Bip001_R_UpperArm_ty_minus",
+      "path_id": 1085981610764056738
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 1127506489119520930
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 1131668513297381538
+    },
+    {
+      "type": "SkinnedMeshRenderer",
+      "name": "",
+      "path_id": 1131873554989234338
+    },
+    {
+      "type": "GameObject",
+      "name": "Bip001_Spine",
+      "path_id": 1141007295101122722
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 1155188348592765090
+    },
+    {
+      "type": "GameObject",
+      "name": "dress_base_R_b_02_jnt",
+      "path_id": 1168001645604092066
+    },
+    {
+      "type": "GameObject",
+      "name": "spring_base_R_d_001_jnt",
+      "path_id": 1168392557352171682
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 1179772747241797794
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 1191584900760189090
+    },
+    {
+      "type": "GameObject",
+      "name": "eyeRt06Joint",
+      "path_id": 1200309025839102114
+    },
+    {
+      "type": "GameObject",
+      "name": "Bip001_L_UpperArm_tz_plus",
+      "path_id": 1202211064419236002
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 1202619302930856098
+    },
+    {
+      "type": "GameObject",
+      "name": "Bip001_LCalfTwist",
+      "path_id": 1238969103591585954
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 1276832926819530914
+    },
+    {
+      "type": "GameObject",
+      "name": "spring_base_R_g_002_jnt_Nub",
+      "path_id": 1296764934587857058
+    },
+    {
+      "type": "SkinnedMeshRenderer",
+      "name": "",
+      "path_id": 1300899587645487266
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 1305984182917118114
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 1326256605064050850
+    },
+    {
+      "type": "GameObject",
+      "name": "S_actor_laevat_face_01_lod2",
+      "path_id": 1373118242254665890
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 1382437557078833314
+    },
+    {
+      "type": "GameObject",
+      "name": "muzzle_bomb",
+      "path_id": 1384993407327254690
+    },
+    {
+      "type": "GameObject",
+      "name": "faceRtPupilJoint",
+      "path_id": 1419812453520619682
+    },
+    {
+      "type": "GameObject",
+      "name": "Hair_base_R_d_002_jnt",
+      "path_id": 1459446242859923618
+    },
+    {
+      "type": "GameObject",
+      "name": "Hair_base_L_a_003_jnt",
+      "path_id": 1464963932294527138
+    },
+    {
+      "type": "GameObject",
+      "name": "dress_base_R_c_01_jnt",
+      "path_id": 1477991692174342306
+    },
+    {
+      "type": "GameObject",
+      "name": "spring_base_L_j_002_jnt_Nub",
+      "path_id": 1482909396962293922
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 1518384300817496226
+    },
+    {
+      "type": "GameObject",
+      "name": "dress_base_Back_a_03_jnt",
+      "path_id": 1528774578596526242
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 1556702235900360866
+    },
+    {
+      "type": "GameObject",
+      "name": "Hair_base_R_c_005_jnt_Nub",
+      "path_id": 1592343027323484322
+    },
+    {
+      "type": "GameObject",
+      "name": "dress_base_L_a_009_jnt_Nub",
+      "path_id": 1613311025533335714
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 1625193488824580258
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 1632726956594411682
+    },
+    {
+      "type": "GameObject",
+      "name": "S_actor_laevat_hairshadow_01_lod0",
+      "path_id": 1638416575560595618
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 1638814978423175330
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 1653299733402007714
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 1653759320377309346
+    },
+    {
+      "type": "GameObject",
+      "name": "quan_jnt",
+      "path_id": 1658012888620906658
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 1665102225750538402
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 1672129930848286882
+    },
+    {
+      "type": "GameObject",
+      "name": "Bip001_L_Thigh",
+      "path_id": 1707803509376071842
+    },
+    {
+      "type": "SkinnedMeshRenderer",
+      "name": "",
+      "path_id": 1720324812451133602
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 1721679194994555042
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 1771079773416306850
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 1771633453255735458
+    },
+    {
+      "type": "SkinnedMeshRenderer",
+      "name": "",
+      "path_id": 1779360778479253666
+    },
+    {
+      "type": "GameObject",
+      "name": "eyeRt02EyelashJoint",
+      "path_id": 1788823045575522466
+    },
+    {
+      "type": "GameObject",
+      "name": "spring_base_R_e_005_jnt_Nub",
+      "path_id": 1791618513911265442
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 1799504182952966306
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 1910398675120208034
+    },
+    {
+      "type": "GameObject",
+      "name": "browRt03Joint",
+      "path_id": 1978307755552520354
+    },
+    {
+      "type": "GameObject",
+      "name": "eyeLf03Joint",
+      "path_id": 2011983737995835554
+    },
+    {
+      "type": "SkinnedMeshRenderer",
+      "name": "",
+      "path_id": 2050443873124858018
+    },
+    {
+      "type": "GameObject",
+      "name": "spring_base_R_g_001_jnt",
+      "path_id": 2102073352931096738
+    },
+    {
+      "type": "GameObject",
+      "name": "eyeLfJoint",
+      "path_id": 2106021220246075554
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 2115924459379079330
+    },
+    {
+      "type": "GameObject",
+      "name": "spring_base_R_c_01_jnt",
+      "path_id": 2135328489826400418
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 2149324009812113570
+    },
+    {
+      "type": "GameObject",
+      "name": "Bip001_L_Finger4Nub",
+      "path_id": 2187761071601662114
+    },
+    {
+      "type": "GameObject",
+      "name": "Bip001_R_Finger2Nub",
+      "path_id": 2217455722312808610
+    },
+    {
+      "type": "GameObject",
+      "name": "dress_base_L_a_008_jnt",
+      "path_id": 2307258615198628002
+    },
+    {
+      "type": "GameObject",
+      "name": "Bip001_R_Finger01",
+      "path_id": 2332600557300136098
+    },
+    {
+      "type": "GameObject",
+      "name": "Bip001_L_Finger0",
+      "path_id": 2340132445548099746
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 2341066338295920802
+    },
+    {
+      "type": "GameObject",
+      "name": "head_dn_jnt",
+      "path_id": 2344288760819792034
+    },
+    {
+      "type": "GameObject",
+      "name": "S_actor_laevat_cloth_02_lod1",
+      "path_id": 2378209258289084578
+    },
+    {
+      "type": "GameObject",
+      "name": "lipLup1Joint",
+      "path_id": 2408457566784632994
+    },
+    {
+      "type": "GameObject",
+      "name": "faceRtCheekOtDnJoint",
+      "path_id": 2451162015288506530
+    },
+    {
+      "type": "GameObject",
+      "name": "spring_base_L_f_001_jnt",
+      "path_id": 2559661882583070882
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 2584109532389030050
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 2599901976788777122
+    },
+    {
+      "type": "GameObject",
+      "name": "GEN_wep_M_2_final",
+      "path_id": 2607278537490282658
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 2617518825814276258
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 2650131381821028514
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 2667515768850987170
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 2669766777756104866
+    },
+    {
+      "type": "GameObject",
+      "name": "eyeRt04Joint",
+      "path_id": 2675624000626145442
+    },
+    {
+      "type": "SkinnedMeshRenderer",
+      "name": "",
+      "path_id": 2699971540481325218
+    },
+    {
+      "type": "GameObject",
+      "name": "S_actor_laevat_face_01_lod0",
+      "path_id": 2715615690055399586
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 2716429496099518626
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 2718890372884314274
+    },
+    {
+      "type": "GameObject",
+      "name": "clothes_base_L_a_08_jnt",
+      "path_id": 2722210686639650978
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 2742022755924031650
+    },
+    {
+      "type": "SkinnedMeshRenderer",
+      "name": "",
+      "path_id": 2752678439436335266
+    },
+    {
+      "type": "GameObject",
+      "name": "Hair_base_F_003_jnt",
+      "path_id": 2789599212508330146
+    },
+    {
+      "type": "GameObject",
+      "name": "spring_base_R_f_002_jnt_Nub",
+      "path_id": 2795590940166764706
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 2801716224875542690
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 2809983113585014946
+    },
+    {
+      "type": "GameObject",
+      "name": "S_actor_laevat_hair_01_lod0",
+      "path_id": 2891105073357961378
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 2892374928504436898
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 2904310389672556706
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 2913335739217524898
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 2920572268594903202
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 2965777844932819106
+    },
+    {
+      "type": "GameObject",
+      "name": "eyeLf07Joint",
+      "path_id": 2977558934278092962
+    },
+    {
+      "type": "GameObject",
+      "name": "eyeLf03IrissdJoint",
+      "path_id": 2985321302202955938
+    },
+    {
+      "type": "GameObject",
+      "name": "BattleShape",
+      "path_id": 3052110700701530274
+    },
+    {
+      "type": "GameObject",
+      "name": "spring_base_R_c_03_jnt_Nub",
+      "path_id": 3087728488856074402
+    },
+    {
+      "type": "GameObject",
+      "name": "L_Bone_Chain_5_Nub",
+      "path_id": 3101329321163208866
+    },
+    {
+      "type": "GameObject",
+      "name": "S_actor_laevat_face_01_shadowProxyDesktop",
+      "path_id": 3111744370069715106
+    },
+    {
+      "type": "GameObject",
+      "name": "Bip001_R_UpperArm_tz_plus",
+      "path_id": 3124143326964988066
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 3126171735802296482
+    },
+    {
+      "type": "SkinnedMeshRenderer",
+      "name": "",
+      "path_id": 3161279890109610146
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 3165842101824370850
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 3167726617293600930
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 3317670723291429026
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 3335685095179532450
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 3341691927208048802
+    },
+    {
+      "type": "GameObject",
+      "name": "S_actor_laevat_vfxpart_01_lod2",
+      "path_id": 3358499757072300194
+    },
+    {
+      "type": "GameObject",
+      "name": "S_actor_laevat_hairshadow_01_lod1",
+      "path_id": 3370413644849330338
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 3391753611430377634
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 3395519396101404834
+    },
+    {
+      "type": "GameObject",
+      "name": "Bip001_R_Finger4Nub",
+      "path_id": 3395544899929159842
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 3397769151852558498
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 3408831616458602658
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 3449825094029916322
+    },
+    {
+      "type": "GameObject",
+      "name": "Hair_base_L_c_002_jnt",
+      "path_id": 3479508029573544098
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 3488999877583681698
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 3493457138381797538
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 3503211971325638818
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 3534947611657615522
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 3541753667374135458
+    },
+    {
+      "type": "GameObject",
+      "name": "S_actor_laevat_eyebrow_01_lod1",
+      "path_id": 3553433456712726690
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 3582542105221511330
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 3585205491505608866
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 3594156695766087842
+    },
+    {
+      "type": "GameObject",
+      "name": "S_actor_laevat_cloth_02_shadowProxyDesktop",
+      "path_id": 3595720537438599330
+    },
+    {
+      "type": "GameObject",
+      "name": "clothes_base_L_a_06_jnt",
+      "path_id": 3601019142224066722
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 3615181291770198178
+    },
+    {
+      "type": "GameObject",
+      "name": "dress_base_R_h_001_jnt",
+      "path_id": 3628092430934259874
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 3687997305881082018
+    },
+    {
+      "type": "GameObject",
+      "name": "quan2",
+      "path_id": 3690896285933484194
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 3699615271197784226
+    },
+    {
+      "type": "GameObject",
+      "name": "clothes_base_R_a_10_jnt_Nub",
+      "path_id": 3703380742174390434
+    },
+    {
+      "type": "GameObject",
+      "name": "dress_base_Back_a_04_jnt",
+      "path_id": 3706840562221824162
+    },
+    {
+      "type": "GameObject",
+      "name": "Bip001_L_Finger02",
+      "path_id": 3761343452546578594
+    },
+    {
+      "type": "SkinnedMeshRenderer",
+      "name": "",
+      "path_id": 3794619200607074466
+    },
+    {
+      "type": "GameObject",
+      "name": "dress_base_L_c_03_jnt",
+      "path_id": 3804300208993319074
+    },
+    {
+      "type": "GameObject",
+      "name": "browLineRf03Joint_a",
+      "path_id": 3832932480078493858
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 3833597062494140578
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 3834798558615287970
+    },
+    {
+      "type": "GameObject",
+      "name": "dress_base_Front_a_03_jnt",
+      "path_id": 3839323620420728994
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 3866272937879386274
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 3906103194535770274
+    },
+    {
+      "type": "GameObject",
+      "name": "Bip001_R_Finger4",
+      "path_id": 3911241650985810082
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 3911462153913088162
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 3931789400617564322
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 3948924667512076450
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 3975094848789657762
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 4049275751991457954
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 4050057183693748386
+    },
+    {
+      "type": "GameObject",
+      "name": "browRt02Joint",
+      "path_id": 4065366130031900834
+    },
+    {
+      "type": "GameObject",
+      "name": "Bip001_L_Foot",
+      "path_id": 4108017067675728034
+    },
+    {
+      "type": "GameObject",
+      "name": "spring_base_L_g_001_jnt",
+      "path_id": 4146000259747788962
+    },
+    {
+      "type": "GameObject",
+      "name": "eyeLf06Joint",
+      "path_id": 4213413117484644514
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 4296394877243406498
+    },
+    {
+      "type": "GameObject",
+      "name": "Bip001_R_Finger1Nub",
+      "path_id": 4327589343525714082
+    },
+    {
+      "type": "GameObject",
+      "name": "Bip001_LCalfTwist1",
+      "path_id": 4373892148407613602
+    },
+    {
+      "type": "SkinnedMeshRenderer",
+      "name": "",
+      "path_id": 4388338486825367714
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 4402487590493796514
+    },
+    {
+      "type": "GameObject",
+      "name": "dress_base_R_c_04_jnt",
+      "path_id": 4408525364528265378
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 4417024499142932642
+    },
+    {
+      "type": "GameObject",
+      "name": "dress_base_L_c_05_jnt_Nub",
+      "path_id": 4424394774052321442
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 4462960159442057378
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 4484517497438320802
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 4494378976112588962
+    },
+    {
+      "type": "GameObject",
+      "name": "faceMdJawDnJoint",
+      "path_id": 4524584377128564898
+    },
+    {
+      "type": "GameObject",
+      "name": "xiong_R_1_skin_jnt_Nub",
+      "path_id": 4560484942737291426
+    },
+    {
+      "type": "GameObject",
+      "name": "browLf02Joint",
+      "path_id": 4562466669474068642
+    },
+    {
+      "type": "GameObject",
+      "name": "Bip001_L_Calf_ty_minus",
+      "path_id": 4567374744334743714
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 4596627278628305058
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 4606036412065101986
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 4646962962530875554
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 4659137022197938338
+    },
+    {
+      "type": "GameObject",
+      "name": "Bip001_Spine1",
+      "path_id": 4666013965489256610
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 4731325933863090338
+    },
+    {
+      "type": "GameObject",
+      "name": "Root",
+      "path_id": 4772008434570213538
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 4775377895772829858
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 4780870196807841954
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 4784789401076611234
+    },
+    {
+      "type": "GameObject",
+      "name": "faceRtCheekOtJoint",
+      "path_id": 4790096140062472354
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 4865536491132205218
+    },
+    {
+      "type": "GameObject",
+      "name": "S_actor_laevat_iris_01_lod2",
+      "path_id": 4867309603846142114
+    },
+    {
+      "type": "GameObject",
+      "name": "Hair_base_L_b_003_jnt",
+      "path_id": 4877097979556640930
+    },
+    {
+      "type": "GameObject",
+      "name": "Bip001_L_Toe0",
+      "path_id": 4895940459028068514
+    },
+    {
+      "type": "GameObject",
+      "name": "Hair_base_R_c_003_jnt",
+      "path_id": 4910266652605069474
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 4938788794497743010
+    },
+    {
+      "type": "GameObject",
+      "name": "Bip001_L_Finger4",
+      "path_id": 4983533699287464098
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 4984957091368122530
+    },
+    {
+      "type": "GameObject",
+      "name": "spring_base_L_f_002_jnt_Nub",
+      "path_id": 4991056230894844066
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 4999875221670181026
+    },
+    {
+      "type": "GameObject",
+      "name": "Hair_base_L_d_001_jnt",
+      "path_id": 5005227407373875362
+    },
+    {
+      "type": "SkinnedMeshRenderer",
+      "name": "",
+      "path_id": 5075149609295657122
+    },
+    {
+      "type": "GameObject",
+      "name": "clothes_base_R_a_09_jnt",
+      "path_id": 5076624348956833954
+    },
+    {
+      "type": "GameObject",
+      "name": "Bip001_L_Finger2",
+      "path_id": 5077758381475412130
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 5081993010650986658
+    },
+    {
+      "type": "SkinnedMeshRenderer",
+      "name": "",
+      "path_id": 5084387029106669730
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 5088249026396666018
+    },
+    {
+      "type": "GameObject",
+      "name": "wep_L",
+      "path_id": 5109162992369711266
+    },
+    {
+      "type": "GameObject",
+      "name": "Bip001_L_Hand",
+      "path_id": 5119217582316370082
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 5135212115040188578
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 5185220384548305058
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 5186477321501653154
+    },
+    {
+      "type": "GameObject",
+      "name": "Hair_base_L_c_004_jnt",
+      "path_id": 5216986051471587490
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 5241576102015842466
+    },
+    {
+      "type": "GameObject",
+      "name": "IK_Weapon_L_001",
+      "path_id": 5256631889936300194
+    },
+    {
+      "type": "GameObject",
+      "name": "S_actor_laevat_iris_01_lod3",
+      "path_id": 5285941087380027554
+    },
+    {
+      "type": "GameObject",
+      "name": "dress_base_R_b_01_jnt",
+      "path_id": 5308783796392605858
+    },
+    {
+      "type": "GameObject",
+      "name": "Bip001_L_Finger12",
+      "path_id": 5317784445745346722
+    },
+    {
+      "type": "GameObject",
+      "name": "eyeRt01Joint",
+      "path_id": 5346741641233348770
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 5368998990778972322
+    },
+    {
+      "type": "SkinnedMeshRenderer",
+      "name": "",
+      "path_id": 5380727916648708258
+    },
+    {
+      "type": "GameObject",
+      "name": "Hair_base_L_d_003_jnt",
+      "path_id": 5386325501405542562
+    },
+    {
+      "type": "GameObject",
+      "name": "eyeLf05Joint",
+      "path_id": 5402274567615330466
+    },
+    {
+      "type": "GameObject",
+      "name": "quan2 (1)",
+      "path_id": 5412686128306108578
+    },
+    {
+      "type": "GameObject",
+      "name": "Bip001_RUpArmTwist",
+      "path_id": 5442371874704767138
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 5453353581714978978
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 5466267015139014818
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 5482151497879959714
+    },
+    {
+      "type": "GameObject",
+      "name": "Hair_base_L_a_001_jnt",
+      "path_id": 5503774429905729698
+    },
+    {
+      "type": "GameObject",
+      "name": "faceLfIrisJoint",
+      "path_id": 5514964914662848674
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 5516192300415563938
+    },
+    {
+      "type": "GameObject",
+      "name": "dress_base_R_a_04_jnt",
+      "path_id": 5519227837129341090
+    },
+    {
+      "type": "GameObject",
+      "name": "S_actor_laevat_body_01_shadowProxyDesktop",
+      "path_id": 5569788395026757794
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 5573592161527380130
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 5579862950031833250
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 5580012041360488610
+    },
+    {
+      "type": "GameObject",
+      "name": "S_actor_laevat_vfxpart_01_lod3",
+      "path_id": 5584756830521768098
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 5620761060308334754
+    },
+    {
+      "type": "SkinnedMeshRenderer",
+      "name": "",
+      "path_id": 5663886186158340258
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 5665342276989728930
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 5684179971798448290
+    },
+    {
+      "type": "GameObject",
+      "name": "lipRup2Joint",
+      "path_id": 5686441673823991970
+    },
+    {
+      "type": "GameObject",
+      "name": "faceLfCheekOtJoint",
+      "path_id": 5700631318148004002
+    },
+    {
+      "type": "SkinnedMeshRenderer",
+      "name": "",
+      "path_id": 5707991593405692066
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 5730122279649458338
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 5742160810098210978
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 5770452894387452066
+    },
+    {
+      "type": "SkinnedMeshRenderer",
+      "name": "",
+      "path_id": 5797867353604798626
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 5839036215503403170
+    },
+    {
+      "type": "GameObject",
+      "name": "faceRtIrisJoint",
+      "path_id": 5855818535164688546
+    },
+    {
+      "type": "GameObject",
+      "name": "browLineLf03Joint_a",
+      "path_id": 5908164213241919650
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 5911157229047036066
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 5912885702384269474
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 5916036146331236514
+    },
+    {
+      "type": "GameObject",
+      "name": "IK_Hand_L_001",
+      "path_id": 5947808667896625314
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 5955440116299446434
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 5961244515246389410
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 6049013858397567138
+    },
+    {
+      "type": "GameObject",
+      "name": "Bip001_HeadNub",
+      "path_id": 6063252816912234658
+    },
+    {
+      "type": "GameObject",
+      "name": "L_Bone_Chain_1",
+      "path_id": 6077986990894069922
+    },
+    {
+      "type": "GameObject",
+      "name": "xiong_L_0_skin_jnt",
+      "path_id": 6091352954354776226
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 6097775451350808738
+    },
+    {
+      "type": "GameObject",
+      "name": "Hair_base_L_c_003_jnt",
+      "path_id": 6101476989388175522
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 6122154184517138594
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 6167693501228955810
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 6183854471522072738
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 6226923272679045282
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 6231706422526916770
+    },
+    {
+      "type": "SkinnedMeshRenderer",
+      "name": "",
+      "path_id": 6238711315737065634
+    },
+    {
+      "type": "GameObject",
+      "name": "browLineRt01Joint",
+      "path_id": 6260215538518636706
+    },
+    {
+      "type": "GameObject",
+      "name": "R_Bone_Chain_2",
+      "path_id": 6264980641850570914
+    },
+    {
+      "type": "GameObject",
+      "name": "GEN_Bip001_0_\u62d6\u6211\u6539\u6b66\u5668\u65cb\u8f6c\u4e2d\u5fc3",
+      "path_id": 6296046136982681762
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 6298211917877065890
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 6301317851708242082
+    },
+    {
+      "type": "GameObject",
+      "name": "dress_base_L_a_007_jnt",
+      "path_id": 6323569234966657186
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 6360226835059620002
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 6404489245037148322
+    },
+    {
+      "type": "GameObject",
+      "name": "dress_base_R_b_04_jnt_Nub",
+      "path_id": 6410437560369395874
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 6414776415955957922
+    },
+    {
+      "type": "GameObject",
+      "name": "lipRdn1Joint",
+      "path_id": 6422573311592085666
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 6443354022703380642
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 6453136583714519202
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 6463580184462407842
+    },
+    {
+      "type": "SkinnedMeshRenderer",
+      "name": "",
+      "path_id": 6483485846779050146
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 6492847366706084002
+    },
+    {
+      "type": "GameObject",
+      "name": "lipLup3Joint",
+      "path_id": 6493819173018974370
+    },
+    {
+      "type": "GameObject",
+      "name": "Bip001_R_ForeTwist",
+      "path_id": 6505925401293797538
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 6537300430299183266
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 6543161066416224418
+    },
+    {
+      "type": "GameObject",
+      "name": "eyeRt05Joint",
+      "path_id": 6552094470096271522
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 6597112418816604322
+    },
+    {
+      "type": "GameObject",
+      "name": "spring_base_R_z_001_jnt",
+      "path_id": 6620206816600897698
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 6631924913541527714
+    },
+    {
+      "type": "Animator",
+      "name": "",
+      "path_id": 6641049645838678178
+    },
+    {
+      "type": "GameObject",
+      "name": "faceMdToothUpJoint",
+      "path_id": 6656760556243499170
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 6658086675271366818
+    },
+    {
+      "type": "GameObject",
+      "name": "Hair_base_L_b_001_jnt",
+      "path_id": 6663367133138303138
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 6673758128256956578
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 6678186464884996258
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 6682522080530380962
+    },
+    {
+      "type": "GameObject",
+      "name": "browLineRf02Joint_a",
+      "path_id": 6692447861054617762
+    },
+    {
+      "type": "SkinnedMeshRenderer",
+      "name": "",
+      "path_id": 6719431509630498978
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 6735496631159404706
+    },
+    {
+      "type": "GameObject",
+      "name": "Bip001_L_ForeTwist",
+      "path_id": 6795844749890205858
+    },
+    {
+      "type": "GameObject",
+      "name": "IK_Root",
+      "path_id": 6811857669527156898
+    },
+    {
+      "type": "GameObject",
+      "name": "TongueMd02Joint",
+      "path_id": 6838263320939575458
+    },
+    {
+      "type": "GameObject",
+      "name": "spring_base_R_f_001_jnt",
+      "path_id": 6852954128588322978
+    },
+    {
+      "type": "GameObject",
+      "name": "Hair_base_B_a_001_jnt",
+      "path_id": 6928101256935291042
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 6937341170461489314
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 6941812890807744674
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 7021213057069725858
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 7060695672557123746
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 7088225829989824674
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 7098088978157779106
+    },
+    {
+      "type": "GameObject",
+      "name": "spring_base_R_h_002_jnt_Nub",
+      "path_id": 7109308770577725602
+    },
+    {
+      "type": "SkinnedMeshRenderer",
+      "name": "",
+      "path_id": 7112632360781265058
+    },
+    {
+      "type": "SkinnedMeshRenderer",
+      "name": "",
+      "path_id": 7114245880361105570
+    },
+    {
+      "type": "GameObject",
+      "name": "S_actor_laevat_cloth_01_lod0",
+      "path_id": 7128824403115489442
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 7131239020810451106
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 7148296860982425762
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 7151109055277152418
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 7159939504546691234
+    },
+    {
+      "type": "GameObject",
+      "name": "Bip001_R_Finger21",
+      "path_id": 7161771760326064290
+    },
+    {
+      "type": "GameObject",
+      "name": "dress_base_R_b_006_jnt",
+      "path_id": 7185970265707624610
+    },
+    {
+      "type": "GameObject",
+      "name": "lipLdn2Joint",
+      "path_id": 7193369768542779554
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 7232751851337005218
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 7233161827476486306
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 7254173039147923618
+    },
+    {
+      "type": "GameObject",
+      "name": "Bip001_R_Calf_ty_plus",
+      "path_id": 7258278087903262882
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 7264600434238208162
+    },
+    {
+      "type": "GameObject",
+      "name": "S_actor_laevat_body_01_lod0",
+      "path_id": 7266195172108187810
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 7271134951547189410
+    },
+    {
+      "type": "GameObject",
+      "name": "faceRtHighlightJoint",
+      "path_id": 7276769490607192226
+    },
+    {
+      "type": "GameObject",
+      "name": "spring_base_L_d_01_jnt",
+      "path_id": 7310429359364749474
+    },
+    {
+      "type": "GameObject",
+      "name": "lipMupJoint",
+      "path_id": 7314985742216837282
+    },
+    {
+      "type": "GameObject",
+      "name": "Hair_base_L_d_002_jnt",
+      "path_id": 7319136771590240418
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 7356578345978149026
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 7379106036183120034
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 7379704524095666338
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 7387990122530650274
+    },
+    {
+      "type": "GameObject",
+      "name": "browLf01Joint",
+      "path_id": 7446130872487753890
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 7452720752226056354
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 7474975594470488226
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 7485937969317984418
+    },
+    {
+      "type": "SkinnedMeshRenderer",
+      "name": "",
+      "path_id": 7498487830746609826
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 7503120452445517986
+    },
+    {
+      "type": "GameObject",
+      "name": "GrounderIK",
+      "path_id": 7503650903003347106
+    },
+    {
+      "type": "SkinnedMeshRenderer",
+      "name": "",
+      "path_id": 7537433530582546594
+    },
+    {
+      "type": "GameObject",
+      "name": "Bip001_R_Finger12",
+      "path_id": 7543669839318464674
+    },
+    {
+      "type": "GameObject",
+      "name": "S_actor_laevat_eyeshadow_01_lod0",
+      "path_id": 7543993917582391458
+    },
+    {
+      "type": "GameObject",
+      "name": "S_actor_laevat_cloth_02_lod0",
+      "path_id": 7546171773098440866
+    },
+    {
+      "type": "GameObject",
+      "name": "Bip001_L_Finger11",
+      "path_id": 7547184866766207138
+    },
+    {
+      "type": "GameObject",
+      "name": "eyeRtJoint",
+      "path_id": 7554998902884186274
+    },
+    {
+      "type": "GameObject",
+      "name": "spring_base_R_a_01_jnt",
+      "path_id": 7573950974681659554
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 7575056963964418210
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 7592480071215069346
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 7608436747251988642
+    },
+    {
+      "type": "GameObject",
+      "name": "eyeRt05EyelashJoint",
+      "path_id": 7617997511065450658
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 7641415143686518946
+    },
+    {
+      "type": "GameObject",
+      "name": "Bip001_L_UpperArm_ty_minus",
+      "path_id": 7659446808072337570
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 7664681974323198114
+    },
+    {
+      "type": "GameObject",
+      "name": "eyeLf01EyelashJoint",
+      "path_id": 7689340605846108322
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 7702322121468721314
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 7719021586605848738
+    },
+    {
+      "type": "GameObject",
+      "name": "Mesh_all",
+      "path_id": 7724438974931646626
+    },
+    {
+      "type": "GameObject",
+      "name": "GEN_wep_M_1_damped",
+      "path_id": 7764808757342615714
+    },
+    {
+      "type": "GameObject",
+      "name": "dress_base_L_b_02_jnt",
+      "path_id": 7770008524488423586
+    },
+    {
+      "type": "GameObject",
+      "name": "Hair_base_L_b_004_jnt_Nub",
+      "path_id": 7786820526599551138
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 7791847862555228322
+    },
+    {
+      "type": "GameObject",
+      "name": "browLineLf02Joint_a",
+      "path_id": 7804100188526327970
+    },
+    {
+      "type": "CapsuleCollider",
+      "name": "",
+      "path_id": 7816583691314378914
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 7831886476342638754
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 7844716276215822498
+    },
+    {
+      "type": "GameObject",
+      "name": "dress_base_L_b_007_jnt",
+      "path_id": 7928391405475182754
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 7956059605603563682
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 8014319938203924642
+    },
+    {
+      "type": "GameObject",
+      "name": "Bip001_L_UpperArm_ty_plus",
+      "path_id": 8015013466529446050
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 8023678412598524066
+    },
+    {
+      "type": "SkinnedMeshRenderer",
+      "name": "",
+      "path_id": 8026670113936554146
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 8041282230023534754
+    },
+    {
+      "type": "GameObject",
+      "name": "Bip001_L_Clavicle",
+      "path_id": 8041464077617772706
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 8051112239763142818
+    },
+    {
+      "type": "GameObject",
+      "name": "Hair_base_B_a_003_jnt",
+      "path_id": 8056730541027080354
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 8057383316502067362
+    },
+    {
+      "type": "GameObject",
+      "name": "eyeLf08Joint",
+      "path_id": 8065503424873216162
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 8075145045975808162
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 8116092994689480866
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 8122278634668144802
+    },
+    {
+      "type": "SkinnedMeshRenderer",
+      "name": "",
+      "path_id": 8127950163150813346
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 8131101929250928802
+    },
+    {
+      "type": "SkinnedMeshRenderer",
+      "name": "",
+      "path_id": 8202339947846678690
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 8212228135094761634
+    },
+    {
+      "type": "GameObject",
+      "name": "Hair_base_R_d_004_jnt_Nub",
+      "path_id": 8224728203049810082
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 8232097865561979042
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 8265836555056298146
+    },
+    {
+      "type": "GameObject",
+      "name": "S_actor_laevat_cloth_03_lod0",
+      "path_id": 8276483202660284578
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 8279853323876350114
+    },
+    {
+      "type": "GameObject",
+      "name": "lod3",
+      "path_id": 8290246398654527650
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 8298384225146288290
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 8310160480417921186
+    },
+    {
+      "type": "GameObject",
+      "name": "Bip001_L_Finger22",
+      "path_id": 8329387083837323426
+    },
+    {
+      "type": "GameObject",
+      "name": "Hair_base_R_a_001_jnt",
+      "path_id": 8374242233235912866
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 8390815077738395810
+    },
+    {
+      "type": "SkinnedMeshRenderer",
+      "name": "",
+      "path_id": 8396425557091399842
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 8401920304640538786
+    },
+    {
+      "type": "GameObject",
+      "name": "eyeLf05EyelashJoint",
+      "path_id": 8406708490306500770
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 8454405627185510562
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 8474747928852740258
+    },
+    {
+      "type": "GameObject",
+      "name": "S_actor_laevat_cloth_01_lod1",
+      "path_id": 8475651496295315618
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 8483410015973259426
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 8485643514215774370
+    },
+    {
+      "type": "GameObject",
+      "name": "Bip001_L_UpperArm",
+      "path_id": 8492712210160597154
+    },
+    {
+      "type": "GameObject",
+      "name": "spring_base_R_d_03_jnt_Nub",
+      "path_id": 8495491487020923042
+    },
+    {
+      "type": "GameObject",
+      "name": "clothes_base_L_a_04_jnt",
+      "path_id": 8517015607282940066
+    },
+    {
+      "type": "GameObject",
+      "name": "Bip001_R_ForeTwist1",
+      "path_id": 8525469578405525666
+    },
+    {
+      "type": "GameObject",
+      "name": "dress_base_R_a_02_jnt",
+      "path_id": 8527723462935296162
+    },
+    {
+      "type": "GameObject",
+      "name": "spring_base_R_i_003_jnt_Nub",
+      "path_id": 8533332873319004322
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 8552281420954908834
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 8558033778478332066
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 8566975911655487650
+    },
+    {
+      "type": "GameObject",
+      "name": "spring_base_L_a_01_jnt",
+      "path_id": 8576569830031276194
+    },
+    {
+      "type": "GameObject",
+      "name": "spring_base_R_i_002_jnt",
+      "path_id": 8600321101931591842
+    },
+    {
+      "type": "SkinnedMeshRenderer",
+      "name": "",
+      "path_id": 8641240945659525282
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 8674092419096230050
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 8677506558539839650
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 8694760098335930530
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 8705589817482393762
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 8723883101960059042
+    },
+    {
+      "type": "GameObject",
+      "name": "lipRdn3Joint",
+      "path_id": 8746279232043530402
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 8758309227148654754
+    },
+    {
+      "type": "GameObject",
+      "name": "faceRtHighlightJoint_b",
+      "path_id": 8787667104108099746
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 8788866393020610722
+    },
+    {
+      "type": "GameObject",
+      "name": "Bip001_R_Hand",
+      "path_id": 8791067322217248930
+    },
+    {
+      "type": "GameObject",
+      "name": "spring_base_R_d_002_jnt",
+      "path_id": 8800005554414270626
+    },
+    {
+      "type": "GameObject",
+      "name": "S_actor_laevat_face_01_lod1",
+      "path_id": 8823092427111970978
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 8825459600776673442
+    },
+    {
+      "type": "GameObject",
+      "name": "dress_base_R_b_005_jnt",
+      "path_id": 8833895582550243490
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 8850523126409509026
+    },
+    {
+      "type": "GameObject",
+      "name": "S_actor_laevat_cloth_05_lod1",
+      "path_id": 8855433367228037282
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 8864154122953472162
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 8869243991668668578
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 8870125583437576354
+    },
+    {
+      "type": "GameObject",
+      "name": "dress_base_L_a_006_jnt",
+      "path_id": 8887925073397266594
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 8927319109892159650
+    },
+    {
+      "type": "GameObject",
+      "name": "eyeLf03EyelashJoint",
+      "path_id": 8948203265678948514
+    },
+    {
+      "type": "GameObject",
+      "name": "S_actor_laevat_cloth_05_lod3",
+      "path_id": 8987224790049994914
+    },
+    {
+      "type": "GameObject",
+      "name": "S_actor_laevat_cloth_04_shadowProxyDesktop",
+      "path_id": 8996991841640560802
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 9001257312495777954
+    },
+    {
+      "type": "GameObject",
+      "name": "dress_base_L_h_002_jnt",
+      "path_id": 9023097663765330082
+    },
+    {
+      "type": "GameObject",
+      "name": "spring_base_R_a_03_jnt_Nub",
+      "path_id": 9039396270482307234
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 9050883228304849058
+    },
+    {
+      "type": "GameObject",
+      "name": "Bip001_R_Foot",
+      "path_id": 9075280457549461666
+    },
+    {
+      "type": "GameObject",
+      "name": "spring_base_L_g_002_jnt_Nub",
+      "path_id": 9081850481654085794
+    },
+    {
+      "type": "GameObject",
+      "name": "Bip001_R_Calf_ty_minus",
+      "path_id": 9096906930735659170
+    },
+    {
+      "type": "GameObject",
+      "name": "spring_base_L_h_002_jnt",
+      "path_id": 9107533085709023394
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 9144413432859506850
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 9152979225179699362
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 9155631728166484130
+    }
+  ]
+}

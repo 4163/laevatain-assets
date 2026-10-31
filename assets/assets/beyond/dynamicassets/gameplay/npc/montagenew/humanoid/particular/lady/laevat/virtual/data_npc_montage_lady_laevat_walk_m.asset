@@ -1,0 +1,16 @@
+{
+  "source_asset_path": "assets/beyond/dynamicassets/gameplay/npc/montagenew/humanoid/particular/lady/laevat/virtual/data_npc_montage_lady_laevat_walk_m.asset",
+  "bundle_container": "main/70c62ddb278f32cf552e17a0.ab",
+  "objects": [
+    {
+      "type": "AssetBundle",
+      "name": "main/70c62ddb278f32cf552e17a0.ab",
+      "path_id": 1
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "data_npc_montage_lady_laevat_walk_m",
+      "path_id": 9149740473735831952
+    }
+  ]
+}

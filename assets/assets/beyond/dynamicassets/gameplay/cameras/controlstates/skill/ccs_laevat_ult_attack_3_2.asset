@@ -1,0 +1,16 @@
+{
+  "source_asset_path": "assets/beyond/dynamicassets/gameplay/cameras/controlstates/skill/ccs_laevat_ult_attack_3_2.asset",
+  "bundle_container": "main/5a16ee765b43631c4f89be91.ab",
+  "objects": [
+    {
+      "type": "MonoBehaviour",
+      "name": "CCS_laevat_ult_attack_3_2",
+      "path_id": -341182862812720767
+    },
+    {
+      "type": "AssetBundle",
+      "name": "main/5a16ee765b43631c4f89be91.ab",
+      "path_id": 1
+    }
+  ]
+}

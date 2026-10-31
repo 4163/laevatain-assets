@@ -1,0 +1,26 @@
+{
+  "source_asset_path": "assets/beyond/dynamicassets/gameplay/effects/prefabs/p_fxbat_laevat_attack_02_canying.prefab",
+  "bundle_container": "main/4b35a8ef2412e2501ad1b047.ab",
+  "objects": [
+    {
+      "type": "GameObject",
+      "name": "P_fxbat_laevat_attack_02_canying",
+      "path_id": -3633433625656118193
+    },
+    {
+      "type": "AssetBundle",
+      "name": "main/4b35a8ef2412e2501ad1b047.ab",
+      "path_id": 1
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 1429764804606145615
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 6760852291772658767
+    }
+  ]
+}

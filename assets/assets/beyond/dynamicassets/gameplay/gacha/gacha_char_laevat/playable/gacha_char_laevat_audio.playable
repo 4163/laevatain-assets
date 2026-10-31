@@ -1,0 +1,36 @@
+{
+  "source_asset_path": "assets/beyond/dynamicassets/gameplay/gacha/gacha_char_laevat/playable/gacha_char_laevat_audio.playable",
+  "bundle_container": "main/a9e302e30552231ad5b2298e.ab",
+  "objects": [
+    {
+      "type": "MonoBehaviour",
+      "name": "AudioEventPlayable",
+      "path_id": -6327440566889727444
+    },
+    {
+      "type": "AssetBundle",
+      "name": "main/a9e302e30552231ad5b2298e.ab",
+      "path_id": 1
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "AudioEventPlayable",
+      "path_id": 3119554082790521388
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "Audio Track",
+      "path_id": 4752873191859108396
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "Audio Track (1)",
+      "path_id": 6478528950242196012
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "gacha_char_laevat_Audio",
+      "path_id": 8563205228153354796
+    }
+  ]
+}

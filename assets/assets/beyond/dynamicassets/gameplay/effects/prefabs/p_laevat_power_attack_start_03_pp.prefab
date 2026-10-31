@@ -1,0 +1,71 @@
+{
+  "source_asset_path": "assets/beyond/dynamicassets/gameplay/effects/prefabs/p_laevat_power_attack_start_03_pp.prefab",
+  "bundle_container": "main/5e894f3a2c26133330dd0c13.ab",
+  "objects": [
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -8688002099468968386
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -7222991188827447746
+    },
+    {
+      "type": "GameObject",
+      "name": "bulr001",
+      "path_id": -7152485045002641858
+    },
+    {
+      "type": "AnimationClip",
+      "name": "P_laevat_power_attack_start_03_pp",
+      "path_id": -7094713028714615182
+    },
+    {
+      "type": "Animator",
+      "name": "",
+      "path_id": -6758607572183884226
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -5059281838917558722
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -3742054901349949890
+    },
+    {
+      "type": "GameObject",
+      "name": "P_laevat_power_attack_start_03_pp",
+      "path_id": -1628705244363301314
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -1349273509175239106
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -806785032168874434
+    },
+    {
+      "type": "AssetBundle",
+      "name": "main/5e894f3a2c26133330dd0c13.ab",
+      "path_id": 1
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 6552268584763776574
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 6642585469570965054
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "source_asset_path": "assets/beyond/dynamicassets/gameplay/gacha/gacha_char_laevat/playable/gacha_char_laevat_others.playable",
+  "bundle_container": "main/ee9eed7d23b3501c44d201c7.ab",
+  "objects": [
+    {
+      "type": "MonoBehaviour",
+      "name": "gacha_char_laevat_Others",
+      "path_id": -237943341794214385
+    },
+    {
+      "type": "AssetBundle",
+      "name": "main/ee9eed7d23b3501c44d201c7.ab",
+      "path_id": 1
+    }
+  ]
+}

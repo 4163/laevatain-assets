@@ -1,0 +1,211 @@
+{
+  "source_asset_path": "assets/beyond/dynamicassets/gamedata/gameplayconfig/entityanimator/character/ac_chr_0016_laevat.controller",
+  "bundle_container": "main/acdc31f2a3c4f9bba308de5e.ab",
+  "objects": [
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -8353997158859123317
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -8102538051388484213
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -8099522119165651573
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -8076493218279238261
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -7636308560644385397
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -7382127930031254133
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -6988264697953954421
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -6306012537413216885
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -5824028329683823221
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -5615829445377960565
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -5354428360006543989
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -5070217640002366069
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -4845947963038280309
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -3776559979705117301
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -3573221111689620085
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -3495269888763472501
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -3423329481843714677
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -3351897856961194613
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -3050799585949428341
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -1153260354749508213
+    },
+    {
+      "type": "AnimatorController",
+      "name": "AC_chr_0016_laevat",
+      "path_id": -604568648092068469
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -318755778284530293
+    },
+    {
+      "type": "AssetBundle",
+      "name": "main/acdc31f2a3c4f9bba308de5e.ab",
+      "path_id": 1
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 210821340162381195
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 225653289608435083
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 548985658394105227
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 1626639846884267403
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 1744714705627207051
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 1756131626090517899
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 2194078340268381579
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 2634445400128509323
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 3153987020454974859
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 5457300963527579019
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 6062084921975330187
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 6604388090547295627
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 6796449894129292683
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 6858756606060615051
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 7804552107446195595
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 7941549120444913035
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 8585242761165297035
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 8630050287532266891
+    }
+  ]
+}

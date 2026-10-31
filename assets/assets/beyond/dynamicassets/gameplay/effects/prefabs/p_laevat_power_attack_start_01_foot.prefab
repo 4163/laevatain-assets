@@ -1,0 +1,56 @@
+{
+  "source_asset_path": "assets/beyond/dynamicassets/gameplay/effects/prefabs/p_laevat_power_attack_start_01_foot.prefab",
+  "bundle_container": "main/a5b8a9ffc60bc231df3e70f0.ab",
+  "objects": [
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -7766121440525018789
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -6183916877448603301
+    },
+    {
+      "type": "ParticleSystem",
+      "name": "",
+      "path_id": -5956757090267227813
+    },
+    {
+      "type": "GameObject",
+      "name": "P_laevat_power_attack_start_01_foot",
+      "path_id": -5073774565752759973
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -4122770239634859685
+    },
+    {
+      "type": "GameObject",
+      "name": "Internal",
+      "path_id": -2740234906993944229
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -831326139414406821
+    },
+    {
+      "type": "AssetBundle",
+      "name": "main/a5b8a9ffc60bc231df3e70f0.ab",
+      "path_id": 1
+    },
+    {
+      "type": "ParticleSystemRenderer",
+      "name": "",
+      "path_id": 248405572438202715
+    },
+    {
+      "type": "GameObject",
+      "name": "lizi_fire003",
+      "path_id": 3630984790217070939
+    }
+  ]
+}

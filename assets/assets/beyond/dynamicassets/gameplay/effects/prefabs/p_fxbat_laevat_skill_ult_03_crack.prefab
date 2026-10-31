@@ -1,0 +1,76 @@
+{
+  "source_asset_path": "assets/beyond/dynamicassets/gameplay/effects/prefabs/p_fxbat_laevat_skill_ult_03_crack.prefab",
+  "bundle_container": "main/c8500a2f3f9c73057003ccb0.ab",
+  "objects": [
+    {
+      "type": "GameObject",
+      "name": "dilie3",
+      "path_id": -8077376071324712274
+    },
+    {
+      "type": "Texture2D",
+      "name": "T_fx_decal_hx_18_M",
+      "path_id": -7209585544364921794
+    },
+    {
+      "type": "Texture2D",
+      "name": "T_fx_decal_hx_16_M",
+      "path_id": -7126987432938776186
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -2866314730314972498
+    },
+    {
+      "type": "MeshFilter",
+      "name": "",
+      "path_id": -1697603098572078418
+    },
+    {
+      "type": "GameObject",
+      "name": "P_fxbat_laevat_skill_ult_03_crack",
+      "path_id": -1334135594856987986
+    },
+    {
+      "type": "AssetBundle",
+      "name": "main/c8500a2f3f9c73057003ccb0.ab",
+      "path_id": 1
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 2133276840743158446
+    },
+    {
+      "type": "MeshRenderer",
+      "name": "",
+      "path_id": 2613908490500784814
+    },
+    {
+      "type": "Material",
+      "name": "M_fx_laevat_hx_432",
+      "path_id": 2773770354349229154
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 6223320094239900334
+    },
+    {
+      "type": "Animator",
+      "name": "",
+      "path_id": 6787038903083287214
+    },
+    {
+      "type": "Texture2D",
+      "name": "T_fx_decal_hx_17_M",
+      "path_id": 7961516574779716948
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 7985460760822301358
+    }
+  ]
+}

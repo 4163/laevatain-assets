@@ -1,0 +1,16 @@
+{
+  "source_asset_path": "assets/beyond/dynamicassets/gameplay/npc/montagenew/humanoid/particular/lady/laevat/data_npc_montage_lady_laevat_cooking.asset",
+  "bundle_container": "main/270410189d684d702828a32b.ab",
+  "objects": [
+    {
+      "type": "MonoBehaviour",
+      "name": "data_npc_montage_lady_laevat_cooking",
+      "path_id": -5960594348218753459
+    },
+    {
+      "type": "AssetBundle",
+      "name": "main/270410189d684d702828a32b.ab",
+      "path_id": 1
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "source_asset_path": "assets/beyond/dynamicassets/gameplay/npc/montagenew/humanoid/particular/lady/laevat/data_npc_montage_lady_laevat_injured2.asset",
+  "bundle_container": "main/22d95b152d1b92ded49c0cf5.ab",
+  "objects": [
+    {
+      "type": "AssetBundle",
+      "name": "main/22d95b152d1b92ded49c0cf5.ab",
+      "path_id": 1
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "data_npc_montage_lady_laevat_injured2",
+      "path_id": 6553329222917313471
+    }
+  ]
+}

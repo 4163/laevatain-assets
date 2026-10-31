@@ -1,0 +1,16 @@
+{
+  "source_asset_path": "assets/beyond/arts/entity/actor/lady/laevat/animations/3c/a_actor_laevat_idle_loop_entry.fbx",
+  "bundle_container": "main/fab5e27ef04534d75393fe93.ab",
+  "objects": [
+    {
+      "type": "AnimationClip",
+      "name": "A_actor_laevat_idle_loop_entry",
+      "path_id": -1455061419227561894
+    },
+    {
+      "type": "AssetBundle",
+      "name": "main/fab5e27ef04534d75393fe93.ab",
+      "path_id": 1
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "source_asset_path": "assets/beyond/dynamicassets/gameplay/effects/prefabs/p_laevat_ui_overview_start_01_huoxing_right_gacha.prefab",
+  "bundle_container": "main/480fdb7bd47d29dbe67ed427.ab",
+  "objects": [
+    {
+      "type": "ParticleSystemRenderer",
+      "name": "",
+      "path_id": -6983688972807688966
+    },
+    {
+      "type": "ParticleSystem",
+      "name": "",
+      "path_id": -2160925883439371014
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -1885325754136384262
+    },
+    {
+      "type": "AssetBundle",
+      "name": "main/480fdb7bd47d29dbe67ed427.ab",
+      "path_id": 1
+    },
+    {
+      "type": "GameObject",
+      "name": "huoxing_right",
+      "path_id": 632945282600021242
+    },
+    {
+      "type": "GameObject",
+      "name": "P_laevat_ui_overview_start_01_huoxing_right_gacha",
+      "path_id": 2810699755344637178
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 3855778827257392378
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 4755868229593410810
+    }
+  ]
+}

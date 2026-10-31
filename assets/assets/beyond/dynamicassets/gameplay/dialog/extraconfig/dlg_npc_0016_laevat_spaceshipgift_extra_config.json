@@ -1,0 +1,16 @@
+{
+  "source_asset_path": "assets/beyond/dynamicassets/gameplay/dialog/extraconfig/dlg_npc_0016_laevat_spaceshipgift_extra_config.json",
+  "bundle_container": "main/a00c604a1e19b8edad54020e.ab",
+  "objects": [
+    {
+      "type": "AssetBundle",
+      "name": "main/a00c604a1e19b8edad54020e.ab",
+      "path_id": 1
+    },
+    {
+      "type": "TextAsset",
+      "name": "dlg_npc_0016_laevat_spaceshipgift_extra_config",
+      "path_id": 1498561279849297091
+    }
+  ]
+}

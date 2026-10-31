@@ -1,0 +1,26 @@
+{
+  "source_asset_path": "assets/beyond/dynamicassets/gameplay/effects/prefabs/p_fxbat_laevat_normal_skill_buff_asset.prefab",
+  "bundle_container": "main/8188e771783db9770855e3e2.ab",
+  "objects": [
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -7405092431386904550
+    },
+    {
+      "type": "AssetBundle",
+      "name": "main/8188e771783db9770855e3e2.ab",
+      "path_id": 1
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 4735129867850938394
+    },
+    {
+      "type": "GameObject",
+      "name": "P_fxbat_laevat_normal_skill_buff_asset",
+      "path_id": 8242937416088156186
+    }
+  ]
+}

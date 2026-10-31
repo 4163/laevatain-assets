@@ -1,0 +1,66 @@
+{
+  "source_asset_path": "assets/beyond/dynamicassets/gameplay/effects/prefabs/p_laevat_skill_ult_start_05_cam.prefab",
+  "bundle_container": "main/a3a62a12a28172edb9005ea3.ab",
+  "objects": [
+    {
+      "type": "GameObject",
+      "name": "huoyan001",
+      "path_id": -8975105430511184563
+    },
+    {
+      "type": "GameObject",
+      "name": "Internal",
+      "path_id": -8959440240064817843
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -8859022964318694067
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -4598803576826587827
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -4501276609174334131
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -3390797437338675891
+    },
+    {
+      "type": "AssetBundle",
+      "name": "main/a3a62a12a28172edb9005ea3.ab",
+      "path_id": 1
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 606128560701150541
+    },
+    {
+      "type": "MeshRenderer",
+      "name": "",
+      "path_id": 943919984335557965
+    },
+    {
+      "type": "GameObject",
+      "name": "P_laevat_skill_ult_start_05_cam",
+      "path_id": 1219525476269200717
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 2655273742747342157
+    },
+    {
+      "type": "Animator",
+      "name": "",
+      "path_id": 4482906564236055885
+    }
+  ]
+}

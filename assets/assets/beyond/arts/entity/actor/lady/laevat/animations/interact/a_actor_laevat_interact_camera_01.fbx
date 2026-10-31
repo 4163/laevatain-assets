@@ -1,0 +1,16 @@
+{
+  "source_asset_path": "assets/beyond/arts/entity/actor/lady/laevat/animations/interact/a_actor_laevat_interact_camera_01.fbx",
+  "bundle_container": "main/1a6fb74f7990d5c3cc5aac1d.ab",
+  "objects": [
+    {
+      "type": "AssetBundle",
+      "name": "main/1a6fb74f7990d5c3cc5aac1d.ab",
+      "path_id": 1
+    },
+    {
+      "type": "AnimationClip",
+      "name": "A_actor_laevat_interact_camera_01",
+      "path_id": 6444907533364077466
+    }
+  ]
+}

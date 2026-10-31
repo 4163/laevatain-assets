@@ -1,0 +1,21 @@
+{
+  "source_asset_path": "assets/beyond/dynamicassets/gameplay/effects/vfx/p_fxbat_laevat_attack_05_asset.asset",
+  "bundle_container": "main/f51f5ae7ca376cb841cf8ed8.ab",
+  "objects": [
+    {
+      "type": "Material",
+      "name": "M_fx_laevat_hx_81",
+      "path_id": -801263385471737957
+    },
+    {
+      "type": "AssetBundle",
+      "name": "main/f51f5ae7ca376cb841cf8ed8.ab",
+      "path_id": 1
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "P_fxbat_laevat_attack_05_asset",
+      "path_id": 3691730290473190975
+    }
+  ]
+}

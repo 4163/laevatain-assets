@@ -1,0 +1,66 @@
+{
+  "source_asset_path": "assets/beyond/dynamicassets/gameplay/effects/prefabs/p_fxbat_laevat_normal_skill_start_02.prefab",
+  "bundle_container": "main/cb3a89b92a3ffc84604a39d5.ab",
+  "objects": [
+    {
+      "type": "ParticleSystem",
+      "name": "",
+      "path_id": -6255970114832470097
+    },
+    {
+      "type": "ParticleSystemRenderer",
+      "name": "",
+      "path_id": -6119648180683640913
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -5719455269885939793
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -5162870460437205073
+    },
+    {
+      "type": "GameObject",
+      "name": "Root",
+      "path_id": -985339585184239697
+    },
+    {
+      "type": "AssetBundle",
+      "name": "main/cb3a89b92a3ffc84604a39d5.ab",
+      "path_id": 1
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 1312006269770559407
+    },
+    {
+      "type": "Animator",
+      "name": "",
+      "path_id": 1832594367363575727
+    },
+    {
+      "type": "GameObject",
+      "name": "P_fxbat_laevat_normal_skill_start_02",
+      "path_id": 2196217425558204335
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 2388312092958420911
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 2974732398338404271
+    },
+    {
+      "type": "GameObject",
+      "name": "Particle System",
+      "path_id": 3122995717869105071
+    }
+  ]
+}

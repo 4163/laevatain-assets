@@ -1,0 +1,16 @@
+{
+  "source_asset_path": "assets/beyond/dynamicassets/gameplay/npc/generated/bakedgpuanim/texture/t_actor_laevat_dialog_virtual_state_akimbo1_loop_vat.exr",
+  "bundle_container": "main/188504b0004ffc9125e3fe5a.ab",
+  "objects": [
+    {
+      "type": "Texture2D",
+      "name": "T_actor_laevat_dialog_virtual_state_akimbo1_loop_VAT",
+      "path_id": -393540274814411704
+    },
+    {
+      "type": "AssetBundle",
+      "name": "main/188504b0004ffc9125e3fe5a.ab",
+      "path_id": 1
+    }
+  ]
+}

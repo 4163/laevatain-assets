@@ -1,0 +1,16 @@
+{
+  "source_asset_path": "assets/beyond/dynamicassets/gameplay/mission/episode/chr_0016_laevat_e1.asset",
+  "bundle_container": "main/236bd5a4cb8febbe5e4b85a4.ab",
+  "objects": [
+    {
+      "type": "AssetBundle",
+      "name": "main/236bd5a4cb8febbe5e4b85a4.ab",
+      "path_id": 1
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "chr_0016_laevat_e1",
+      "path_id": 7130276050129962069
+    }
+  ]
+}

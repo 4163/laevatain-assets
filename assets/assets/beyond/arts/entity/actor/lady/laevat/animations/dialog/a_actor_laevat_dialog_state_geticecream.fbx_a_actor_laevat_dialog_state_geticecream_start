@@ -1,0 +1,26 @@
+{
+  "source_asset_path": "assets/beyond/arts/entity/actor/lady/laevat/animations/dialog/a_actor_laevat_dialog_state_geticecream.fbx##a_actor_laevat_dialog_state_geticecream_start",
+  "bundle_container": "main/c001a9fa0ebb7b6354016265.ab",
+  "objects": [
+    {
+      "type": "AnimationClip",
+      "name": "A_actor_laevat_dialog_state_geticecream_start",
+      "path_id": -8045624431167411848
+    },
+    {
+      "type": "AnimationClip",
+      "name": "A_actor_laevat_dialog_state_geticecream_end",
+      "path_id": -2425980001615287944
+    },
+    {
+      "type": "AssetBundle",
+      "name": "main/c001a9fa0ebb7b6354016265.ab",
+      "path_id": 1
+    },
+    {
+      "type": "AnimationClip",
+      "name": "A_actor_laevat_dialog_state_geticecream_loop",
+      "path_id": 2921133209254488440
+    }
+  ]
+}

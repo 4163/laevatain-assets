@@ -1,0 +1,16 @@
+{
+  "source_asset_path": "assets/beyond/arts/entity/actor/lady/laevat/materials/m_actor_laevat_iris_01.mat",
+  "bundle_container": "main/645ff322d4bb8babd6d79da2.ab",
+  "objects": [
+    {
+      "type": "Material",
+      "name": "M_actor_laevat_iris_01",
+      "path_id": -8456517856311349319
+    },
+    {
+      "type": "AssetBundle",
+      "name": "main/645ff322d4bb8babd6d79da2.ab",
+      "path_id": 1
+    }
+  ]
+}

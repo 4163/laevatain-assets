@@ -1,0 +1,39 @@
+{
+  "character": "Laevatain",
+  "alter_ego": "Surtr",
+  "lore_overview": "Directly linked to Operator Surtr from historical Rhodes Island records. Laevatain shares Surtr's Sarkaz lineage, fiery Arts manifestation, weapon affinities, and the haunting presence of the Twilight Flaming Giant.",
+  "narrative_tags": [
+    "c16",
+    "{c16-Surtr}",
+    "{c16-Flaming Giant}",
+    "c16phanlaevat"
+  ],
+  "key_dialogue_excerpts": [
+    {
+      "tag": "{c16-Surtr}",
+      "context": "Memory echo cutscene",
+      "line": "Voice of Surtr: 'From now on, you shall only follow one voice. Surtr's voice, my voice.'"
+    },
+    {
+      "tag": "{c16-Surtr}",
+      "context": "Endministrator dialogue",
+      "line": "What you saw is probably Laevatain, a reconvener with close ties to Surtr."
+    },
+    {
+      "tag": "{c16-Flaming Giant}",
+      "context": "Climax awakening battle",
+      "line": "The colossal avatar of flame materializes above the volcanic ridge, roaring in resonance with Laevatain's blade."
+    },
+    {
+      "tag": "Rhodes Island Protocol",
+      "context": "Confidential HR File CN_03",
+      "line": "Personnel are strictly prohibited from questioning Laevatain regarding Surtr or treating her as a mere facsimile of the historical Operator."
+    }
+  ],
+  "localized_table_occurrences": {
+    "en": 204,
+    "ja": 192,
+    "zh_cn": 173,
+    "ko": 206
+  }
+}

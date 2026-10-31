@@ -1,0 +1,16 @@
+{
+  "source_asset_path": "assets/beyond/arts/entity/actor/lady/laevat/animations/dialog/a_actor_laevat_dialog_single_fist.fbx##a_actor_laevat_dialog_single_fist",
+  "bundle_container": "main/d952d7cdb2a59084d994303a.ab",
+  "objects": [
+    {
+      "type": "AssetBundle",
+      "name": "main/d952d7cdb2a59084d994303a.ab",
+      "path_id": 1
+    },
+    {
+      "type": "AnimationClip",
+      "name": "A_actor_laevat_dialog_single_fist",
+      "path_id": 2742663027670120775
+    }
+  ]
+}

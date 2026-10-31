@@ -1,0 +1,16 @@
+{
+  "source_asset_path": "assets/beyond/dynamicassets/gameplay/npc/animatorcontroller/controllerdescriptor/laevat_layer_clothbase.asset",
+  "bundle_container": "main/8d2a685cf08bde458e9f8b10.ab",
+  "objects": [
+    {
+      "type": "MonoBehaviour",
+      "name": "laevat_layer_ClothBase",
+      "path_id": -1671656330533893167
+    },
+    {
+      "type": "AssetBundle",
+      "name": "main/8d2a685cf08bde458e9f8b10.ab",
+      "path_id": 1
+    }
+  ]
+}

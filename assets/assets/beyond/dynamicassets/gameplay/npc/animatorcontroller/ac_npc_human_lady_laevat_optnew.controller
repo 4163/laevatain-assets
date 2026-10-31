@@ -1,0 +1,16 @@
+{
+  "source_asset_path": "assets/beyond/dynamicassets/gameplay/npc/animatorcontroller/ac_npc_human_lady_laevat_optnew.controller",
+  "bundle_container": "main/9ef4cc8b1650563723b0dfa5.ab",
+  "objects": [
+    {
+      "type": "AssetBundle",
+      "name": "main/9ef4cc8b1650563723b0dfa5.ab",
+      "path_id": 1
+    },
+    {
+      "type": "AnimatorController",
+      "name": "AC_npc_human_lady_laevat_optNew",
+      "path_id": 3513593088002561637
+    }
+  ]
+}

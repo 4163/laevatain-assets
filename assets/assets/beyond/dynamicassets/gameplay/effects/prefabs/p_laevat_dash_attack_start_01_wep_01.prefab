@@ -1,0 +1,196 @@
+{
+  "source_asset_path": "assets/beyond/dynamicassets/gameplay/effects/prefabs/p_laevat_dash_attack_start_01_wep_01.prefab",
+  "bundle_container": "main/c683f59f0fcedb729edbdf4d.ab",
+  "objects": [
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -8712775787826649821
+    },
+    {
+      "type": "ParticleSystemRenderer",
+      "name": "",
+      "path_id": -8231555637125716701
+    },
+    {
+      "type": "GameObject",
+      "name": "chongji001",
+      "path_id": -7198622482145942237
+    },
+    {
+      "type": "ParticleSystem",
+      "name": "",
+      "path_id": -7138024157595769565
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -4709289316651703005
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -3814494300297566941
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -3703534437367683805
+    },
+    {
+      "type": "ParticleSystem",
+      "name": "",
+      "path_id": -3683338843554126557
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -3518619659428109021
+    },
+    {
+      "type": "ParticleSystem",
+      "name": "",
+      "path_id": -3338947581279279837
+    },
+    {
+      "type": "GameObject",
+      "name": "lizi002",
+      "path_id": -2382306721749867229
+    },
+    {
+      "type": "GameObject",
+      "name": "fire001",
+      "path_id": -2286888766291581661
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -1878394650356947677
+    },
+    {
+      "type": "ParticleSystem",
+      "name": "",
+      "path_id": -1601915251592927965
+    },
+    {
+      "type": "GameObject",
+      "name": "lizi001",
+      "path_id": -1569371721482574557
+    },
+    {
+      "type": "ParticleSystemRenderer",
+      "name": "",
+      "path_id": -1419195553381161693
+    },
+    {
+      "type": "GameObject",
+      "name": "lizi_fire003",
+      "path_id": -432584776875907805
+    },
+    {
+      "type": "AssetBundle",
+      "name": "main/c683f59f0fcedb729edbdf4d.ab",
+      "path_id": 1
+    },
+    {
+      "type": "ParticleSystemRenderer",
+      "name": "",
+      "path_id": 110239329296180515
+    },
+    {
+      "type": "GameObject",
+      "name": "Internal",
+      "path_id": 320022476958983459
+    },
+    {
+      "type": "GameObject",
+      "name": "lizi_fire004",
+      "path_id": 830473663760885027
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 845269554426930467
+    },
+    {
+      "type": "ParticleSystemRenderer",
+      "name": "",
+      "path_id": 876944827695424803
+    },
+    {
+      "type": "GameObject",
+      "name": "lizi_fire002",
+      "path_id": 1132049256323474723
+    },
+    {
+      "type": "ParticleSystem",
+      "name": "",
+      "path_id": 1891078194433942819
+    },
+    {
+      "type": "ParticleSystemRenderer",
+      "name": "",
+      "path_id": 2035714977275634979
+    },
+    {
+      "type": "ParticleSystem",
+      "name": "",
+      "path_id": 2814360547500287267
+    },
+    {
+      "type": "GameObject",
+      "name": "lizi_fire001",
+      "path_id": 2985553978907288867
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 3657872346820699427
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 3905317221252064547
+    },
+    {
+      "type": "ParticleSystem",
+      "name": "",
+      "path_id": 3915278549935056163
+    },
+    {
+      "type": "ParticleSystemRenderer",
+      "name": "",
+      "path_id": 4266033044329784611
+    },
+    {
+      "type": "ParticleSystemRenderer",
+      "name": "",
+      "path_id": 4905027696587040035
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 5526479980939961635
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 6235850963574842659
+    },
+    {
+      "type": "ParticleSystemRenderer",
+      "name": "",
+      "path_id": 6743300761064629539
+    },
+    {
+      "type": "GameObject",
+      "name": "P_laevat_dash_attack_start_01_wep_01",
+      "path_id": 7034437064372053283
+    },
+    {
+      "type": "ParticleSystem",
+      "name": "",
+      "path_id": 8079988718164960547
+    }
+  ]
+}

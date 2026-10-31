@@ -1,0 +1,16 @@
+{
+  "source_asset_path": "assets/beyond/arts/entity/actor/lady/laevat/animations/dialog/a_actor_laevat_dialog_single_power_attack.fbx",
+  "bundle_container": "main/655abc84b9308c352a340d13.ab",
+  "objects": [
+    {
+      "type": "AssetBundle",
+      "name": "main/655abc84b9308c352a340d13.ab",
+      "path_id": 1
+    },
+    {
+      "type": "AnimationClip",
+      "name": "A_actor_laevat_dialog_single_power_attack",
+      "path_id": 7014094178276399030
+    }
+  ]
+}

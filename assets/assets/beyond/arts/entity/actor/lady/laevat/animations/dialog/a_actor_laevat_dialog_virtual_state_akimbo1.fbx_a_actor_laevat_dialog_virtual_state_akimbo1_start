@@ -1,0 +1,26 @@
+{
+  "source_asset_path": "assets/beyond/arts/entity/actor/lady/laevat/animations/dialog/a_actor_laevat_dialog_virtual_state_akimbo1.fbx##a_actor_laevat_dialog_virtual_state_akimbo1_start",
+  "bundle_container": "main/2591124cfd397989b7860a89.ab",
+  "objects": [
+    {
+      "type": "AnimationClip",
+      "name": "A_actor_laevat_dialog_virtual_state_akimbo1_end",
+      "path_id": -8301695895261606614
+    },
+    {
+      "type": "AnimationClip",
+      "name": "A_actor_laevat_dialog_virtual_state_akimbo1_loop",
+      "path_id": -8125217225927226070
+    },
+    {
+      "type": "AnimationClip",
+      "name": "A_actor_laevat_dialog_virtual_state_akimbo1_start",
+      "path_id": -5387826509361574614
+    },
+    {
+      "type": "AssetBundle",
+      "name": "main/2591124cfd397989b7860a89.ab",
+      "path_id": 1
+    }
+  ]
+}

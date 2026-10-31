@@ -1,0 +1,16 @@
+{
+  "source_asset_path": "assets/beyond/dynamicassets/gameplay/npc/generated/bakedgpuanim/texture/t_actor_laevat_dialog_state_sitsword_loop_vat.exr",
+  "bundle_container": "main/47403e2bb57b8afdf0ae1573.ab",
+  "objects": [
+    {
+      "type": "AssetBundle",
+      "name": "main/47403e2bb57b8afdf0ae1573.ab",
+      "path_id": 1
+    },
+    {
+      "type": "Texture2D",
+      "name": "T_actor_laevat_dialog_state_sitsword_loop_VAT",
+      "path_id": 8997280601867948945
+    }
+  ]
+}

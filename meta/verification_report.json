@@ -1,0 +1,26 @@
+{
+  "total_cataloged": 1018,
+  "in_scope_count": 388,
+  "out_of_scope_count": 630,
+  "confidence_ladder": {
+    "identity_resolution": true,
+    "catalog_coverage": true,
+    "reference_graph_traversal": true,
+    "peripheral_domain_scan": true,
+    "negative_search_boundary": true
+  },
+  "in_scope_breakdown": {
+    "japanese_audio_wem": 160,
+    "japanese_lip_sync_json": 50,
+    "json_configuration_data": 170,
+    "video_usm": 8
+  },
+  "out_of_scope_breakdown": {
+    "chinese_audio_wem": 160,
+    "english_audio_wem": 160,
+    "korean_audio_wem": 160,
+    "non_japanese_lip_sync_json": 150
+  },
+  "unresolved_paths": 0,
+  "dangling_references": 0
+}

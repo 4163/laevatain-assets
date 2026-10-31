@@ -1,0 +1,74 @@
+{
+  "character_id": "chr_0016_laevat",
+  "combat_style": "Heat Striker / High-Speed Burst Swordplay",
+  "signature_mechanics": "Heat Infliction generation and absorption, Twilight flaming transformation",
+  "skills": {
+    "normal_attack": {
+      "name": "Twilight Blade Combo",
+      "configs": [
+        "chr_0016_laevat_attack1",
+        "attack2",
+        "attack3",
+        "attack4",
+        "attack5"
+      ],
+      "stages": 5,
+      "description": "5-stage continuous sword strike infusing blade with flame arts on terminal strike."
+    },
+    "battle_skill": {
+      "name": "Molten Thrust",
+      "configs": [
+        "chr_0016_laevat_normal_skill",
+        "chr_0016_laevat_normal_skill_projhit"
+      ],
+      "description": "Forward dash delivering an upward flame crescent, inflicting Heat status on targets."
+    },
+    "combo_skill": {
+      "name": "Cinder Surge",
+      "configs": [
+        "chr_0016_laevat_combo_skill",
+        "combo_skill_hit_self_projhit",
+        "combo_skill_indicator_projhit"
+      ],
+      "description": "Triggered on stagger or elemental reaction. Slams ground releasing cascading volcanic eruption."
+    },
+    "ultimate_skill": {
+      "name": "Twilight Awakening: Incineration",
+      "configs": [
+        "chr_0016_laevat_ultimate_skill",
+        "ult_attack1",
+        "ult_attack2",
+        "ult_attack3",
+        "ult_attack4",
+        "normal_skill_during_ult"
+      ],
+      "description": "Summons the towering Twilight flaming familiar, replacing normal strings with massive fiery cleaves and granting complete stagger immunity."
+    },
+    "passive_talent": {
+      "name": "Heat Assimilation",
+      "configs": [
+        "chr_0016_laevat_passive",
+        "chr_0016_laevat_absorb_projhit"
+      ],
+      "description": "Absorbs ambient Heat Inflictions on hit to empower next skill strike with amplified critical damage."
+    }
+  },
+  "buffs_tracked_count": 56,
+  "recommended_weapons": [
+    {
+      "id": "wpn_sword_0003",
+      "name": "Standard Endfield Issue Sword",
+      "role": "Default"
+    },
+    {
+      "id": "wpn_sword_0010",
+      "name": "Crimson Edge",
+      "role": "High Strength scaling"
+    },
+    {
+      "id": "wpn_sword_0012",
+      "name": "Twilight Brand",
+      "role": "High Agility scaling / Signature"
+    }
+  ]
+}

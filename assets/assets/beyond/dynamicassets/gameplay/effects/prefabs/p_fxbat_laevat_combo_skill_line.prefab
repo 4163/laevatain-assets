@@ -1,0 +1,101 @@
+{
+  "source_asset_path": "assets/beyond/dynamicassets/gameplay/effects/prefabs/p_fxbat_laevat_combo_skill_line.prefab",
+  "bundle_container": "main/194fed4b6836426d59ce6bc4.ab",
+  "objects": [
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -8227415113730329255
+    },
+    {
+      "type": "GameObject",
+      "name": "Line_1",
+      "path_id": -7607852615780502183
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -7208890559517657767
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -5462607257967495847
+    },
+    {
+      "type": "LineRenderer",
+      "name": "",
+      "path_id": -4176811157815069351
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -3876032109479037607
+    },
+    {
+      "type": "GameObject",
+      "name": "P_fxbat_laevat_combo_skill_line",
+      "path_id": -1856314893054479015
+    },
+    {
+      "type": "Material",
+      "name": "M_fx_laevat_hx_423",
+      "path_id": -917809839096037201
+    },
+    {
+      "type": "AssetBundle",
+      "name": "main/194fed4b6836426d59ce6bc4.ab",
+      "path_id": 1
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 1799992620963362137
+    },
+    {
+      "type": "GameObject",
+      "name": "Line_3",
+      "path_id": 2961343749252478297
+    },
+    {
+      "type": "AnimationClip",
+      "name": "A_fxbat_laevat_combo_skill_line",
+      "path_id": 3044805301813020020
+    },
+    {
+      "type": "Animator",
+      "name": "",
+      "path_id": 3749702922666210649
+    },
+    {
+      "type": "Material",
+      "name": "M_fx_laevat_hx_424",
+      "path_id": 4049593422890851686
+    },
+    {
+      "type": "LineRenderer",
+      "name": "",
+      "path_id": 4291474853685523801
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 4924162849333212505
+    },
+    {
+      "type": "GameObject",
+      "name": "Line_2",
+      "path_id": 5213671178991924569
+    },
+    {
+      "type": "LineRenderer",
+      "name": "",
+      "path_id": 5642572216286803289
+    },
+    {
+      "type": "Material",
+      "name": "M_fx_laevat_hx_441",
+      "path_id": 9175094905667060708
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "source_asset_path": "assets/beyond/dynamicassets/gamedata/common/camerashake/camera_shake_config_laevat_c16m4d5_elevator_weaker.asset",
+  "bundle_container": "main/d1895c6719789c38041b0a09.ab",
+  "objects": [
+    {
+      "type": "AssetBundle",
+      "name": "main/d1895c6719789c38041b0a09.ab",
+      "path_id": 1
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "camera_shake_config_laevat_c16m4d5_elevator_weaker",
+      "path_id": 7674280617684137954
+    }
+  ]
+}

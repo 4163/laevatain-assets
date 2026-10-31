@@ -1,0 +1,16 @@
+{
+  "source_asset_path": "assets/beyond/arts/entity/actor/lady/laevat/animations/dialog/a_actor_laevat_dialog_state_crouch_takenotes.fbx",
+  "bundle_container": "main/768ef67ad4f952d67df18f71.ab",
+  "objects": [
+    {
+      "type": "AssetBundle",
+      "name": "main/768ef67ad4f952d67df18f71.ab",
+      "path_id": 1
+    },
+    {
+      "type": "AnimationClip",
+      "name": "A_actor_laevat_dialog_state_crouch_takenotes_loop",
+      "path_id": 7803583390480005422
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "source_asset_path": "assets/beyond/dynamicassets/gamedata/skeletalmorph/skeletalmorphanim/morphanimation/data_facialmorph_anim_laevat_anim_battle_blown_start.asset",
+  "bundle_container": "main/5288b3e23c90708f79edbc99.ab",
+  "objects": [
+    {
+      "type": "MonoBehaviour",
+      "name": "data_facialmorph_anim_laevat_anim_battle_blown_start",
+      "path_id": -8693978663213980686
+    },
+    {
+      "type": "AssetBundle",
+      "name": "main/5288b3e23c90708f79edbc99.ab",
+      "path_id": 1
+    }
+  ]
+}

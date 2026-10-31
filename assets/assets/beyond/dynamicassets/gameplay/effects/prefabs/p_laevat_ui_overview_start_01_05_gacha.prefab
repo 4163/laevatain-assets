@@ -1,0 +1,151 @@
+{
+  "source_asset_path": "assets/beyond/dynamicassets/gameplay/effects/prefabs/p_laevat_ui_overview_start_01_05_gacha.prefab",
+  "bundle_container": "main/cad36ae20d99eac09208343d.ab",
+  "objects": [
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -8998483130184500640
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -8527573959311820192
+    },
+    {
+      "type": "SkinnedMeshRenderer",
+      "name": "",
+      "path_id": -7604026129932617120
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -7106442978132493728
+    },
+    {
+      "type": "GameObject",
+      "name": "S_widget_laevat_01_lod0",
+      "path_id": -7040262619873674656
+    },
+    {
+      "type": "GameObject",
+      "name": "Mesh_all",
+      "path_id": -6813505657370117536
+    },
+    {
+      "type": "GameObject",
+      "name": "Root",
+      "path_id": -6308556885650507168
+    },
+    {
+      "type": "GameObject",
+      "name": "suikuai_jnt",
+      "path_id": -6205744101188961696
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -6050877704404469152
+    },
+    {
+      "type": "Animator",
+      "name": "",
+      "path_id": -5402278886037325216
+    },
+    {
+      "type": "LODGroup",
+      "name": "",
+      "path_id": -3953302120907343264
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -3713318318625195424
+    },
+    {
+      "type": "GameObject",
+      "name": "steam",
+      "path_id": -3490542538329032096
+    },
+    {
+      "type": "GameObject",
+      "name": "S_widget_laevat_02_lod0",
+      "path_id": -2984035589676664224
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -1936409190888900000
+    },
+    {
+      "type": "SkinnedMeshRenderer",
+      "name": "",
+      "path_id": -1814420084670072224
+    },
+    {
+      "type": "GameObject",
+      "name": "P_widget_laevat_01",
+      "path_id": -1673343258198803872
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -1545594634643113376
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -1414122019599812000
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -419588657278616992
+    },
+    {
+      "type": "AssetBundle",
+      "name": "main/cad36ae20d99eac09208343d.ab",
+      "path_id": 1
+    },
+    {
+      "type": "ParticleSystemRenderer",
+      "name": "",
+      "path_id": 306515381008923232
+    },
+    {
+      "type": "GameObject",
+      "name": "lod0",
+      "path_id": 463336167436778080
+    },
+    {
+      "type": "GameObject",
+      "name": "P_laevat_ui_overview_start_01_05_gacha",
+      "path_id": 1786099369734765152
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 2301681305268451936
+    },
+    {
+      "type": "GameObject",
+      "name": "move_jnt",
+      "path_id": 2841746115717692000
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 3403341046439541344
+    },
+    {
+      "type": "ParticleSystem",
+      "name": "",
+      "path_id": 3954523362713467488
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 6598752577663990368
+    }
+  ]
+}

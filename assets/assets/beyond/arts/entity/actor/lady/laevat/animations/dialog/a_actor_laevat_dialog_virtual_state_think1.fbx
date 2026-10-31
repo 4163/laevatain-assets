@@ -1,0 +1,26 @@
+{
+  "source_asset_path": "assets/beyond/arts/entity/actor/lady/laevat/animations/dialog/a_actor_laevat_dialog_virtual_state_think1.fbx",
+  "bundle_container": "main/2de1963a27cfa0a8f330abbd.ab",
+  "objects": [
+    {
+      "type": "AnimationClip",
+      "name": "A_actor_laevat_dialog_virtual_state_think1_loop",
+      "path_id": -3002459806202711111
+    },
+    {
+      "type": "AnimationClip",
+      "name": "A_actor_laevat_dialog_virtual_state_think1_start",
+      "path_id": -1513567308795595847
+    },
+    {
+      "type": "AssetBundle",
+      "name": "main/2de1963a27cfa0a8f330abbd.ab",
+      "path_id": 1
+    },
+    {
+      "type": "AnimationClip",
+      "name": "A_actor_laevat_dialog_virtual_state_think1_end",
+      "path_id": 5147582030164210617
+    }
+  ]
+}

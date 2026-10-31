@@ -1,0 +1,16 @@
+{
+  "source_asset_path": "assets/beyond/arts/entity/actor/lady/laevat/animations/battle/a_actor_laevat_battle_normal_skill02.fbx##a_actor_laevat_battle_normal_skill02",
+  "bundle_container": "main/ae8bc496f4518a0bd1bc4ede.ab",
+  "objects": [
+    {
+      "type": "AssetBundle",
+      "name": "main/ae8bc496f4518a0bd1bc4ede.ab",
+      "path_id": 1
+    },
+    {
+      "type": "AnimationClip",
+      "name": "A_actor_laevat_battle_normal_skill02",
+      "path_id": 7393219621105242731
+    }
+  ]
+}

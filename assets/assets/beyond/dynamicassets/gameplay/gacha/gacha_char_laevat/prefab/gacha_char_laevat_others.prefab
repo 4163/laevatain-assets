@@ -1,0 +1,31 @@
+{
+  "source_asset_path": "assets/beyond/dynamicassets/gameplay/gacha/gacha_char_laevat/prefab/gacha_char_laevat_others.prefab",
+  "bundle_container": "main/58d2cde84cf98e618786c7bc.ab",
+  "objects": [
+    {
+      "type": "Animator",
+      "name": "",
+      "path_id": -7890727031376921203
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -7862049568497025651
+    },
+    {
+      "type": "GameObject",
+      "name": "gacha_char_laevat_Others",
+      "path_id": -601979695217197683
+    },
+    {
+      "type": "AssetBundle",
+      "name": "main/58d2cde84cf98e618786c7bc.ab",
+      "path_id": 1
+    },
+    {
+      "type": "PlayableDirector",
+      "name": "",
+      "path_id": 4973151000302828941
+    }
+  ]
+}

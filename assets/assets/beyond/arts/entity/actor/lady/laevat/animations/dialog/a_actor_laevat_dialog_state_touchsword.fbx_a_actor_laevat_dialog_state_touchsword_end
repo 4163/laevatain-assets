@@ -1,0 +1,26 @@
+{
+  "source_asset_path": "assets/beyond/arts/entity/actor/lady/laevat/animations/dialog/a_actor_laevat_dialog_state_touchsword.fbx##a_actor_laevat_dialog_state_touchsword_end",
+  "bundle_container": "main/34314cc924a247bc16047742.ab",
+  "objects": [
+    {
+      "type": "AnimationClip",
+      "name": "A_actor_laevat_dialog_state_touchsword_start",
+      "path_id": -3463777938572145838
+    },
+    {
+      "type": "AssetBundle",
+      "name": "main/34314cc924a247bc16047742.ab",
+      "path_id": 1
+    },
+    {
+      "type": "AnimationClip",
+      "name": "A_actor_laevat_dialog_state_touchsword_end",
+      "path_id": 2305283391375379282
+    },
+    {
+      "type": "AnimationClip",
+      "name": "A_actor_laevat_dialog_state_touchsword_loop",
+      "path_id": 4388984453839686482
+    }
+  ]
+}

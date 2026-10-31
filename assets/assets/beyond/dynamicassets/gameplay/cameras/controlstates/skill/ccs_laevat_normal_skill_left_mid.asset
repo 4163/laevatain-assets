@@ -1,0 +1,16 @@
+{
+  "source_asset_path": "assets/beyond/dynamicassets/gameplay/cameras/controlstates/skill/ccs_laevat_normal_skill_left_mid.asset",
+  "bundle_container": "main/77734ce374692db805aea05a.ab",
+  "objects": [
+    {
+      "type": "MonoBehaviour",
+      "name": "CCS_laevat_normal_skill_left_mid",
+      "path_id": -6830712149005787657
+    },
+    {
+      "type": "AssetBundle",
+      "name": "main/77734ce374692db805aea05a.ab",
+      "path_id": 1
+    }
+  ]
+}

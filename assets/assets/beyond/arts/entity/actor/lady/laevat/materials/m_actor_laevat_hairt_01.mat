@@ -1,0 +1,16 @@
+{
+  "source_asset_path": "assets/beyond/arts/entity/actor/lady/laevat/materials/m_actor_laevat_hairt_01.mat",
+  "bundle_container": "main/92bcb669d125f9040d8ae152.ab",
+  "objects": [
+    {
+      "type": "AssetBundle",
+      "name": "main/92bcb669d125f9040d8ae152.ab",
+      "path_id": 1
+    },
+    {
+      "type": "Material",
+      "name": "M_actor_laevat_hairt_01",
+      "path_id": 5956927190767358214
+    }
+  ]
+}

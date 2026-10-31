@@ -1,0 +1,16 @@
+{
+  "source_asset_path": "assets/beyond/dynamicassets/gameplay/npc/generated/bakedgpuanim/texture/t_actor_laevat_dialog_state_pointsword_loop_vat.exr",
+  "bundle_container": "main/39fdc46284ccfb3dc03ae302.ab",
+  "objects": [
+    {
+      "type": "AssetBundle",
+      "name": "main/39fdc46284ccfb3dc03ae302.ab",
+      "path_id": 1
+    },
+    {
+      "type": "Texture2D",
+      "name": "T_actor_laevat_dialog_state_pointsword_loop_VAT",
+      "path_id": 5468863502249235979
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "source_asset_path": "assets/beyond/dynamicassets/gameplay/npc/montagenew/humanoid/particular/lady/laevat/data_npc_montage_lady_laevat_laugh.asset",
+  "bundle_container": "main/b1441169c9009b4e2a18127c.ab",
+  "objects": [
+    {
+      "type": "MonoBehaviour",
+      "name": "data_npc_montage_lady_laevat_laugh",
+      "path_id": -6975289615663881926
+    },
+    {
+      "type": "AssetBundle",
+      "name": "main/b1441169c9009b4e2a18127c.ab",
+      "path_id": 1
+    }
+  ]
+}

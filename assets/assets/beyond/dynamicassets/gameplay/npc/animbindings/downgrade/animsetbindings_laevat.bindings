@@ -1,0 +1,16 @@
+{
+  "source_asset_path": "assets/beyond/dynamicassets/gameplay/npc/animbindings/downgrade/animsetbindings_laevat.bindings",
+  "bundle_container": "main/635eeb0d967459a9d572a687.ab",
+  "objects": [
+    {
+      "type": "AssetBundle",
+      "name": "main/635eeb0d967459a9d572a687.ab",
+      "path_id": 1
+    },
+    {
+      "type": "Unknown (298811568)",
+      "name": "animSetBindings_laevat",
+      "path_id": 1825199412625976057
+    }
+  ]
+}

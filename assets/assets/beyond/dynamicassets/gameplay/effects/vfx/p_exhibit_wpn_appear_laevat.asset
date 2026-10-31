@@ -1,0 +1,16 @@
+{
+  "source_asset_path": "assets/beyond/dynamicassets/gameplay/effects/vfx/p_exhibit_wpn_appear_laevat.asset",
+  "bundle_container": "main/f174fbb0dcddbe74a075ff9d.ab",
+  "objects": [
+    {
+      "type": "AssetBundle",
+      "name": "main/f174fbb0dcddbe74a075ff9d.ab",
+      "path_id": 1
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "P_exhibit_wpn_appear_laevat",
+      "path_id": 3877282715547265142
+    }
+  ]
+}

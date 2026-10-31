@@ -1,0 +1,16 @@
+{
+  "source_asset_path": "assets/beyond/arts/entity/actor/lady/laevat/animations/battle/a_actor_laevat_battle_attack_04.fbx",
+  "bundle_container": "main/915707565f9d4ab21ddd64fd.ab",
+  "objects": [
+    {
+      "type": "AnimationClip",
+      "name": "A_actor_laevat_battle_attack_04",
+      "path_id": -5601927629755405412
+    },
+    {
+      "type": "AssetBundle",
+      "name": "main/915707565f9d4ab21ddd64fd.ab",
+      "path_id": 1
+    }
+  ]
+}

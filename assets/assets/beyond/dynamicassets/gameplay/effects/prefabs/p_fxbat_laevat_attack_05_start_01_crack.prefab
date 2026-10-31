@@ -1,0 +1,121 @@
+{
+  "source_asset_path": "assets/beyond/dynamicassets/gameplay/effects/prefabs/p_fxbat_laevat_attack_05_start_01_crack.prefab",
+  "bundle_container": "main/c1ed9e1aea62bfc6497b9b9b.ab",
+  "objects": [
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -7806964234135667556
+    },
+    {
+      "type": "GameObject",
+      "name": "Fire001",
+      "path_id": -7141430007037428580
+    },
+    {
+      "type": "GameObject",
+      "name": "lizi001",
+      "path_id": -6294123156799095652
+    },
+    {
+      "type": "MeshFilter",
+      "name": "",
+      "path_id": -6082986303902319460
+    },
+    {
+      "type": "GameObject",
+      "name": "diban001",
+      "path_id": -5634362838439691108
+    },
+    {
+      "type": "GameObject",
+      "name": "Internal",
+      "path_id": -4638210817515914084
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -3145276018449056612
+    },
+    {
+      "type": "ParticleSystem",
+      "name": "",
+      "path_id": -1406745940120765284
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -1269254193841439588
+    },
+    {
+      "type": "GameObject",
+      "name": "P_fxbat_laevat_attack_05_start_01_crack",
+      "path_id": -626762295564501860
+    },
+    {
+      "type": "ParticleSystem",
+      "name": "",
+      "path_id": -617014547046335332
+    },
+    {
+      "type": "AssetBundle",
+      "name": "main/c1ed9e1aea62bfc6497b9b9b.ab",
+      "path_id": 1
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 64666851835837596
+    },
+    {
+      "type": "ParticleSystemRenderer",
+      "name": "",
+      "path_id": 828803622919732380
+    },
+    {
+      "type": "ParticleSystemRenderer",
+      "name": "",
+      "path_id": 1019328064103316636
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 3167718738250628252
+    },
+    {
+      "type": "MeshRenderer",
+      "name": "",
+      "path_id": 3599730709628583068
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 4029040233285024924
+    },
+    {
+      "type": "ParticleSystem",
+      "name": "",
+      "path_id": 4266859760782867612
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 5917245375766920348
+    },
+    {
+      "type": "Animator",
+      "name": "",
+      "path_id": 6050170015541230748
+    },
+    {
+      "type": "ParticleSystemRenderer",
+      "name": "",
+      "path_id": 6196611908453661852
+    },
+    {
+      "type": "GameObject",
+      "name": "smoke001",
+      "path_id": 6570468643177626780
+    }
+  ]
+}

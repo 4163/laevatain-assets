@@ -1,0 +1,16 @@
+{
+  "source_asset_path": "assets/beyond/arts/entity/actor/lady/laevat/animations/battle/a_actor_laevat_battle_skill_ult_cam.fbx##a_actor_laevat_battle_skill_ult_cam",
+  "bundle_container": "main/03100dbef5765c088cab11e0.ab",
+  "objects": [
+    {
+      "type": "AnimationClip",
+      "name": "A_actor_laevat_battle_skill_ult_cam",
+      "path_id": -4171811367946972600
+    },
+    {
+      "type": "AssetBundle",
+      "name": "main/03100dbef5765c088cab11e0.ab",
+      "path_id": 1
+    }
+  ]
+}

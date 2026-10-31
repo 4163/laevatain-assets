@@ -1,0 +1,16 @@
+{
+  "source_asset_path": "assets/beyond/dynamicassets/gameplay/cameras/controlstates/skill/ccs_laevat_power_attack_start.asset",
+  "bundle_container": "main/685d0e8be0df2b56f1e4429d.ab",
+  "objects": [
+    {
+      "type": "MonoBehaviour",
+      "name": "CCS_laevat_power_attack_start",
+      "path_id": -5819663219049455892
+    },
+    {
+      "type": "AssetBundle",
+      "name": "main/685d0e8be0df2b56f1e4429d.ab",
+      "path_id": 1
+    }
+  ]
+}

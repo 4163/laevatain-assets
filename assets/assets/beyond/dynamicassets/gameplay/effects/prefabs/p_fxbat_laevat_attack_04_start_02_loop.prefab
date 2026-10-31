@@ -1,0 +1,246 @@
+{
+  "source_asset_path": "assets/beyond/dynamicassets/gameplay/effects/prefabs/p_fxbat_laevat_attack_04_start_02_loop.prefab",
+  "bundle_container": "main/d55a3a704388d8ae66391dab.ab",
+  "objects": [
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -8841820092478840566
+    },
+    {
+      "type": "MeshRenderer",
+      "name": "",
+      "path_id": -7685300958334803702
+    },
+    {
+      "type": "MeshRenderer",
+      "name": "",
+      "path_id": -7300045057360256758
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -6306880931246366454
+    },
+    {
+      "type": "MeshRenderer",
+      "name": "",
+      "path_id": -6304105425023852278
+    },
+    {
+      "type": "AnimationClip",
+      "name": "P_laevat_attack_05_start_02_loop_loop",
+      "path_id": -6232232177883635607
+    },
+    {
+      "type": "ParticleSystem",
+      "name": "",
+      "path_id": -5183451240660655862
+    },
+    {
+      "type": "Texture2D",
+      "name": "T_fx_mask_hx_02_M",
+      "path_id": -4869578181883240015
+    },
+    {
+      "type": "MeshFilter",
+      "name": "",
+      "path_id": -4422942192389709558
+    },
+    {
+      "type": "Material",
+      "name": "M_fx_laevat_511_004",
+      "path_id": -4057037250788946580
+    },
+    {
+      "type": "AnimationClip",
+      "name": "P_laevat_attack_05_start_02_loop_start",
+      "path_id": -2615928681395067924
+    },
+    {
+      "type": "GameObject",
+      "name": "blend2",
+      "path_id": -2408804715708931830
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -2405364944431144694
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -1844146681421487862
+    },
+    {
+      "type": "Material",
+      "name": "M_fx_laevat_hx_104",
+      "path_id": -1715194998269651021
+    },
+    {
+      "type": "MeshFilter",
+      "name": "",
+      "path_id": -1436821432583446262
+    },
+    {
+      "type": "MeshFilter",
+      "name": "",
+      "path_id": -1194889824084287222
+    },
+    {
+      "type": "MeshFilter",
+      "name": "",
+      "path_id": -1191148117531614966
+    },
+    {
+      "type": "AssetBundle",
+      "name": "main/d55a3a704388d8ae66391dab.ab",
+      "path_id": 1
+    },
+    {
+      "type": "AnimationClip",
+      "name": "P_laevat_attack_05_start_02_loop_end",
+      "path_id": 353799926486270801
+    },
+    {
+      "type": "ParticleSystemRenderer",
+      "name": "",
+      "path_id": 762937249515184394
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 1097758081080959242
+    },
+    {
+      "type": "Animator",
+      "name": "",
+      "path_id": 1161664058557538570
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 1251564121126215946
+    },
+    {
+      "type": "MeshRenderer",
+      "name": "",
+      "path_id": 1400349944443773194
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 1658398603680293130
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 1851589428657004810
+    },
+    {
+      "type": "Mesh",
+      "name": "S_daoguang_wolfgd_512_Alpha",
+      "path_id": 2055201449810989668
+    },
+    {
+      "type": "GameObject",
+      "name": "tuowei4",
+      "path_id": 2946234755440779530
+    },
+    {
+      "type": "Mesh",
+      "name": "S_daoguang_wolfgd_501",
+      "path_id": 3113504324142602649
+    },
+    {
+      "type": "MeshFilter",
+      "name": "",
+      "path_id": 3289240393295667466
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 3290922090933788938
+    },
+    {
+      "type": "GameObject",
+      "name": "PC",
+      "path_id": 3414714433542627594
+    },
+    {
+      "type": "Material",
+      "name": "M_fx_laevat_hx_17",
+      "path_id": 3613204268991117952
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 4050434323536748810
+    },
+    {
+      "type": "Mesh",
+      "name": "S_daoguang_wolfgd_501",
+      "path_id": 4670831312086016909
+    },
+    {
+      "type": "Material",
+      "name": "M_fx_laevat_hx_26",
+      "path_id": 5081441309877025304
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 5296860580828750090
+    },
+    {
+      "type": "Material",
+      "name": "M_fx_laevat_hx_119",
+      "path_id": 5387759390465549190
+    },
+    {
+      "type": "GameObject",
+      "name": "tuowei2",
+      "path_id": 5781145294437359882
+    },
+    {
+      "type": "GameObject",
+      "name": "lizi",
+      "path_id": 6601171484347801866
+    },
+    {
+      "type": "GameObject",
+      "name": "P_fxbat_laevat_attack_04_start_02_loop",
+      "path_id": 7364121622019055882
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 7686409671294460170
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 7779331198459257098
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 8182488073969606922
+    },
+    {
+      "type": "MeshRenderer",
+      "name": "",
+      "path_id": 8331058776082882826
+    },
+    {
+      "type": "GameObject",
+      "name": "tuowei3",
+      "path_id": 8349205814045516042
+    },
+    {
+      "type": "GameObject",
+      "name": "add2",
+      "path_id": 8985099508709007626
+    }
+  ]
+}

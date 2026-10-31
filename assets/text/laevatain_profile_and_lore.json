@@ -1,0 +1,55 @@
+{
+  "character_id": "chr_0016_laevat",
+  "name": "Laevatain",
+  "alter_ego": "Surtr",
+  "assigned_alias": "Olga Randall (UWST Beacon DAU.14)",
+  "localized_names": {
+    "en": "Laevatain",
+    "ja": "レーヴァテイン",
+    "zh_cn": "莱万汀",
+    "zh_tw": "萊萬汀",
+    "ko": "레바테인"
+  },
+  "voice_actors": {
+    "ja": "Horie Yui (堀江由衣) [In scope]",
+    "en": "Kira Buckland [Out of scope, cataloged]",
+    "zh": "Yan Meme (阎么么) [Out of scope, cataloged]",
+    "ko": "Kum You-rim (金愈琳 / 김유림) [Out of scope, cataloged]"
+  },
+  "attributes": {
+    "race": "Sarkaz",
+    "element": "Fire (Heat Infliction / Flame Arts)",
+    "weapon_type": "Sword (1-handed sword)",
+    "rarity": 6,
+    "primary_attribute": "Strength (Type 41)",
+    "secondary_attribute": "Agility (Type 39)",
+    "resilience_factor": 0.091875,
+    "oripathy_status": "Negative (Non-infected)",
+    "arts_assimilation": "Extremely High (Flame manifestation)"
+  },
+  "profile_records": {
+    "CN_01": {
+      "title": "Basic Information and Arsenal Assessment",
+      "analyst": "Krad (Lead Arsenal Engineer)",
+      "summary": "Sarkaz female exhibiting negative Oripathy markers yet extraordinary Arts conductivity. Brought an anomalous annular ring structure upon arrival, which interfaces dynamically with her standard-issue sword."
+    },
+    "CN_02": {
+      "title": "Human Resources Summary",
+      "evaluator": "Martin Marvin Malen",
+      "summary": "Assigned under the direct authority of the Endministrator. Independent disposition, minimal factional alignment, and uncooperative toward conventional corporate hierarchies."
+    },
+    "CN_03": {
+      "title": "Rhodes Island Confidential Dispatch",
+      "origin": "Rhodes Island Special Archival Division",
+      "summary": "Recovered from the deep Originium Woods with complete polymnestic amnesia. Striking biological and psychological likeness to Operator Surtr from historical Terra records. Explicit directive issued: Under no circumstances should personnel compare her to Surtr unless initiated by Laevatain herself."
+    },
+    "CN_06": {
+      "title": "Field Deployment Record",
+      "operations": [
+        "Monitoring Station 34: Escort through the active volcanic caldera.",
+        "UWST Beacon DAU.14: Emergency reactor manual restart conducted under the undercover field alias 'Olga Randall'.",
+        "Freight Nexus MC-20: Hostile suppression and Aggelos rescue operation."
+      ]
+    }
+  }
+}

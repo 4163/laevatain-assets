@@ -1,0 +1,246 @@
+{
+  "source_asset_path": "assets/beyond/dynamicassets/gameplay/effects/prefabs/p_fxbat_laevat_normal_skill_buff_02.prefab",
+  "bundle_container": "main/a4b41392b57ebf25d3474a6d.ab",
+  "objects": [
+    {
+      "type": "ParticleSystemRenderer",
+      "name": "",
+      "path_id": -8986737347874361256
+    },
+    {
+      "type": "ParticleSystemRenderer",
+      "name": "",
+      "path_id": -8785170853932470184
+    },
+    {
+      "type": "ParticleSystemRenderer",
+      "name": "",
+      "path_id": -8738047434810757032
+    },
+    {
+      "type": "GameObject",
+      "name": "Smoke_01 (2)",
+      "path_id": -7728024480582766504
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -7720329196110450600
+    },
+    {
+      "type": "GameObject",
+      "name": "ring_add2 (4)",
+      "path_id": -7346245239903195048
+    },
+    {
+      "type": "GameObject",
+      "name": "ring_add2 (2)",
+      "path_id": -6738127689182187432
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -6158658525145239464
+    },
+    {
+      "type": "ParticleSystem",
+      "name": "",
+      "path_id": -5019496288995545000
+    },
+    {
+      "type": "ParticleSystem",
+      "name": "",
+      "path_id": -4976083327060119464
+    },
+    {
+      "type": "ParticleSystem",
+      "name": "",
+      "path_id": -4920195814968037288
+    },
+    {
+      "type": "GameObject",
+      "name": "glow",
+      "path_id": -4766650977740623784
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -4620920878871842728
+    },
+    {
+      "type": "ParticleSystemRenderer",
+      "name": "",
+      "path_id": -4350813854492889000
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -4348347508336398248
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -3551025928306528168
+    },
+    {
+      "type": "Material",
+      "name": "M_fx_laevat_hx_377",
+      "path_id": -3546237158071465423
+    },
+    {
+      "type": "GameObject",
+      "name": "kuosan001_di (1)",
+      "path_id": -3189356034897907624
+    },
+    {
+      "type": "GameObject",
+      "name": "p_flash01 (2)",
+      "path_id": -3004456725763559336
+    },
+    {
+      "type": "ParticleSystem",
+      "name": "",
+      "path_id": -2008876862360031144
+    },
+    {
+      "type": "ParticleSystemRenderer",
+      "name": "",
+      "path_id": -2007448692554436520
+    },
+    {
+      "type": "Material",
+      "name": "M_fx_laevat_hx_383",
+      "path_id": -1860229281375022283
+    },
+    {
+      "type": "ParticleSystem",
+      "name": "",
+      "path_id": -1833886717220982696
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -1082624298118516648
+    },
+    {
+      "type": "ParticleSystemRenderer",
+      "name": "",
+      "path_id": -963307202632191912
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -727801526501609384
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -698745870047678376
+    },
+    {
+      "type": "GameObject",
+      "name": "gd",
+      "path_id": -614641643206315944
+    },
+    {
+      "type": "ParticleSystemRenderer",
+      "name": "",
+      "path_id": -530246567037013928
+    },
+    {
+      "type": "AssetBundle",
+      "name": "main/a4b41392b57ebf25d3474a6d.ab",
+      "path_id": 1
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 354094531205754968
+    },
+    {
+      "type": "ParticleSystem",
+      "name": "",
+      "path_id": 579496202370576472
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 910276586205573208
+    },
+    {
+      "type": "ParticleSystem",
+      "name": "",
+      "path_id": 1632579306174509144
+    },
+    {
+      "type": "GameObject",
+      "name": "ring (1)",
+      "path_id": 1804976325788397656
+    },
+    {
+      "type": "GameObject",
+      "name": "lizi",
+      "path_id": 1950648468540977240
+    },
+    {
+      "type": "GameObject",
+      "name": "quan",
+      "path_id": 4403473082856206424
+    },
+    {
+      "type": "ParticleSystem",
+      "name": "",
+      "path_id": 4658561763344937048
+    },
+    {
+      "type": "ParticleSystem",
+      "name": "",
+      "path_id": 5976358584457195608
+    },
+    {
+      "type": "GameObject",
+      "name": "P_fxbat_laevat_normal_skill_buff_02",
+      "path_id": 6235779872051982424
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 6533257417366270040
+    },
+    {
+      "type": "ParticleSystemRenderer",
+      "name": "",
+      "path_id": 7581666829363605592
+    },
+    {
+      "type": "ParticleSystemRenderer",
+      "name": "",
+      "path_id": 7893297224232038488
+    },
+    {
+      "type": "ParticleSystemRenderer",
+      "name": "",
+      "path_id": 8027282264507314264
+    },
+    {
+      "type": "ParticleSystem",
+      "name": "",
+      "path_id": 8696860261441564760
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 8892725700398968920
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 9048237321118445656
+    },
+    {
+      "type": "GameObject",
+      "name": "p_flash01 (1)",
+      "path_id": 9095786712812318808
+    }
+  ]
+}

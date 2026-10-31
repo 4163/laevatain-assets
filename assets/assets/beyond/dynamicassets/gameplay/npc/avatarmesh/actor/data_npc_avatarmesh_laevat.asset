@@ -1,0 +1,16 @@
+{
+  "source_asset_path": "assets/beyond/dynamicassets/gameplay/npc/avatarmesh/actor/data_npc_avatarmesh_laevat.asset",
+  "bundle_container": "main/3eb3b8f7104e7fd5c52fa9af.ab",
+  "objects": [
+    {
+      "type": "AssetBundle",
+      "name": "main/3eb3b8f7104e7fd5c52fa9af.ab",
+      "path_id": 1
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "data_npc_avatarmesh_laevat",
+      "path_id": 6312991633575519101
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "source_asset_path": "assets/beyond/arts/entity/actor/lady/laevat/models/am_actor_laevat_onlybody_mask.mask",
+  "bundle_container": "main/fae733ed381c1177e603e6c7.ab",
+  "objects": [
+    {
+      "type": "AssetBundle",
+      "name": "main/fae733ed381c1177e603e6c7.ab",
+      "path_id": 1
+    },
+    {
+      "type": "AvatarMask",
+      "name": "AM_actor_laevat_onlybody_mask",
+      "path_id": 2191296633949269691
+    }
+  ]
+}

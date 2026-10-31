@@ -1,0 +1,16 @@
+{
+  "source_asset_path": "assets/beyond/dynamicassets/gameplay/effects/vfx/p_laevat_skill_ult_start_01_wep_04_asset.asset",
+  "bundle_container": "main/3f5d49a0a5c7eb77fefe6bc4.ab",
+  "objects": [
+    {
+      "type": "MonoBehaviour",
+      "name": "P_laevat_skill_ult_start_01_wep_04_asset",
+      "path_id": -8032818176596155083
+    },
+    {
+      "type": "AssetBundle",
+      "name": "main/3f5d49a0a5c7eb77fefe6bc4.ab",
+      "path_id": 1
+    }
+  ]
+}

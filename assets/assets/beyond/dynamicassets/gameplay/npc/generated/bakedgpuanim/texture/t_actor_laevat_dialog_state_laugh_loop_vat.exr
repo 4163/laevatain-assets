@@ -1,0 +1,16 @@
+{
+  "source_asset_path": "assets/beyond/dynamicassets/gameplay/npc/generated/bakedgpuanim/texture/t_actor_laevat_dialog_state_laugh_loop_vat.exr",
+  "bundle_container": "main/41c51ca647d6bb3060417e9d.ab",
+  "objects": [
+    {
+      "type": "Texture2D",
+      "name": "T_actor_laevat_dialog_state_laugh_loop_VAT",
+      "path_id": -5281651544532896038
+    },
+    {
+      "type": "AssetBundle",
+      "name": "main/41c51ca647d6bb3060417e9d.ab",
+      "path_id": 1
+    }
+  ]
+}

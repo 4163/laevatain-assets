@@ -1,0 +1,26 @@
+{
+  "source_asset_path": "assets/beyond/arts/entity/actor/lady/laevat/animations/dialog/a_actor_laevat_dialog_state_reachhand01.fbx##a_actor_laevat_dialog_state_reachhand01_start",
+  "bundle_container": "main/c8dbff15f473204f569d84a7.ab",
+  "objects": [
+    {
+      "type": "AnimationClip",
+      "name": "A_actor_laevat_dialog_state_reachhand01_start",
+      "path_id": -6115516080624974285
+    },
+    {
+      "type": "AnimationClip",
+      "name": "A_actor_laevat_dialog_state_reachhand01_loop",
+      "path_id": -3632101678828173773
+    },
+    {
+      "type": "AssetBundle",
+      "name": "main/c8dbff15f473204f569d84a7.ab",
+      "path_id": 1
+    },
+    {
+      "type": "AnimationClip",
+      "name": "A_actor_laevat_dialog_state_reachhand01_end",
+      "path_id": 582168795543619123
+    }
+  ]
+}

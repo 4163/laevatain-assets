@@ -1,0 +1,66 @@
+{
+  "source_asset_path": "assets/beyond/dynamicassets/gameplay/gacha/gacha_char_laevat/playable/gacha_char_laevat.playable",
+  "bundle_container": "main/bc6099f8bcce369825ff8286.ab",
+  "objects": [
+    {
+      "type": "MonoBehaviour",
+      "name": "ControlPlayableAsset",
+      "path_id": -9215528426662904585
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "Effect",
+      "path_id": -5848224020887421705
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "Actor",
+      "path_id": -4556036427301307145
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "Audio",
+      "path_id": -2236804151911105289
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "ControlPlayableAsset",
+      "path_id": -1817951139608904457
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "ControlPlayableAsset",
+      "path_id": -1202503740194997001
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "gacha_char_laevat",
+      "path_id": -353552886976856841
+    },
+    {
+      "type": "AssetBundle",
+      "name": "main/bc6099f8bcce369825ff8286.ab",
+      "path_id": 1
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "ControlPlayableAsset",
+      "path_id": 2853131259342044407
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "Others",
+      "path_id": 4928269465229212919
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "ControlPlayableAsset",
+      "path_id": 6020052583244250359
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "Light",
+      "path_id": 6644801784909151479
+    }
+  ]
+}

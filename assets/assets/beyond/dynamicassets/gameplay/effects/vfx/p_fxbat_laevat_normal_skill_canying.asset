@@ -1,0 +1,21 @@
+{
+  "source_asset_path": "assets/beyond/dynamicassets/gameplay/effects/vfx/p_fxbat_laevat_normal_skill_canying.asset",
+  "bundle_container": "main/e4eca5ff7bb7c388f1278b74.ab",
+  "objects": [
+    {
+      "type": "AssetBundle",
+      "name": "main/e4eca5ff7bb7c388f1278b74.ab",
+      "path_id": 1
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "P_fxbat_laevat_normal_skill_canying",
+      "path_id": 3447792695593104299
+    },
+    {
+      "type": "Material",
+      "name": "M_fx_laevat_hx_243",
+      "path_id": 4379755563972029176
+    }
+  ]
+}

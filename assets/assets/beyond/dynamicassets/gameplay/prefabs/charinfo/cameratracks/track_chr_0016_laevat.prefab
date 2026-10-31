@@ -1,0 +1,2021 @@
+{
+  "source_asset_path": "assets/beyond/dynamicassets/gameplay/prefabs/charinfo/cameratracks/track_chr_0016_laevat.prefab",
+  "bundle_container": "main/3804e55ea22675fc7fe961aa.ab",
+  "objects": [
+    {
+      "type": "GameObject",
+      "name": "weapon_equip",
+      "path_id": -9221641046322718090
+    },
+    {
+      "type": "GameObject",
+      "name": "cm",
+      "path_id": -9198665064229315978
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -9187490867993781642
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -9181651969457595786
+    },
+    {
+      "type": "GameObject",
+      "name": "lookat_weapon",
+      "path_id": -9141151679284913546
+    },
+    {
+      "type": "GameObject",
+      "name": "lookat_default",
+      "path_id": -9081230947048629642
+    },
+    {
+      "type": "GameObject",
+      "name": "formation_skillFocus",
+      "path_id": -9041264090445718922
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -8987574982885975434
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -8976939841995941258
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -8969545628949620106
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -8902075146109330826
+    },
+    {
+      "type": "GameObject",
+      "name": "equip_upgrade",
+      "path_id": -8866093843058730378
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -8836818073070740874
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -8829187269809022346
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -8810957856918545802
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -8810931825905771914
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -8734903419097458058
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -8725248468718396810
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -8666805097514214794
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -8523579039363376522
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -8518104602325165450
+    },
+    {
+      "type": "GameObject",
+      "name": "weapon_potential",
+      "path_id": -8469171490441143690
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -8448801199294195082
+    },
+    {
+      "type": "GameObject",
+      "name": "skillFocus_potential",
+      "path_id": -8384228006044575114
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -8324308108686337418
+    },
+    {
+      "type": "GameObject",
+      "name": "extra_cam_weapon_second",
+      "path_id": -8303178712259372426
+    },
+    {
+      "type": "GameObject",
+      "name": "volume_overview",
+      "path_id": -8260018751351498122
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -8234190960131319178
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -8233487446980830602
+    },
+    {
+      "type": "GameObject",
+      "name": "LookAtGroup",
+      "path_id": -8151269766080374154
+    },
+    {
+      "type": "GameObject",
+      "name": "Paths",
+      "path_id": -8045399144474355082
+    },
+    {
+      "type": "GameObject",
+      "name": "CharInfoLookAtTarget",
+      "path_id": -8038333688187921802
+    },
+    {
+      "type": "GameObject",
+      "name": "document_skill",
+      "path_id": -7877107929847309706
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -7872541094181283210
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -7792610578878834058
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -7784978969797731722
+    },
+    {
+      "type": "GameObject",
+      "name": "cm",
+      "path_id": -7761686664766432650
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -7745197055484568970
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -7743171236838122890
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -7701292947189081482
+    },
+    {
+      "type": "GameObject",
+      "name": "lookat_show_group",
+      "path_id": -7516802377407473034
+    },
+    {
+      "type": "GameObject",
+      "name": "equip_potential",
+      "path_id": -7462382108731188618
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -7404470579972285834
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -7397613807038047626
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -7384713613888660874
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -7322912645011744138
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -7186224711505487242
+    },
+    {
+      "type": "GameObject",
+      "name": "cm",
+      "path_id": -7181060491612464522
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -7141642756036765066
+    },
+    {
+      "type": "GameObject",
+      "name": "cm",
+      "path_id": -7118853782731498890
+    },
+    {
+      "type": "GameObject",
+      "name": "upgrade_skill",
+      "path_id": -6955382210877007242
+    },
+    {
+      "type": "GameObject",
+      "name": "overview_skill",
+      "path_id": -6922013393053754762
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -6914273729559995786
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -6879285781493458314
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -6865809583324800394
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -6790737590554994058
+    },
+    {
+      "type": "GameObject",
+      "name": "upgrade_potential",
+      "path_id": -6708816953732834698
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -6686879141257946506
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -6631871170834802058
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -6561482940291556746
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -6448446336485631370
+    },
+    {
+      "type": "GameObject",
+      "name": "equip_weapon",
+      "path_id": -6412632802917950858
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -6345445599240332682
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -6270546671422875018
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -6091081183730410890
+    },
+    {
+      "type": "GameObject",
+      "name": "vcam_equip",
+      "path_id": -6073033960470291850
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -6032455777735091594
+    },
+    {
+      "type": "GameObject",
+      "name": "equip_document",
+      "path_id": -5936232417857906058
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -5910710852203718026
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -5862510348759147914
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -5849710685927581066
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -5837591001300936074
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -5737228566509331850
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -5647129577556092298
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -5563061081223865738
+    },
+    {
+      "type": "GameObject",
+      "name": "cm",
+      "path_id": -5555426877069010314
+    },
+    {
+      "type": "GameObject",
+      "name": "upgrade_overview",
+      "path_id": -5522195462583494026
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -5519081432143570314
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -5473975295362409866
+    },
+    {
+      "type": "GameObject",
+      "name": "vcam_formation",
+      "path_id": -5461900546145068426
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -5395650470487008650
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -5379346849055712650
+    },
+    {
+      "type": "GameObject",
+      "name": "potential_document",
+      "path_id": -5330511019870922122
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -5325971715492488586
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -5227876419086329226
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -5226132416312780170
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -5205870768977552778
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -5166736961959765386
+    },
+    {
+      "type": "GameObject",
+      "name": "upgrade_weapon",
+      "path_id": -5150793161529173386
+    },
+    {
+      "type": "GameObject",
+      "name": "lookat_weaponsecond",
+      "path_id": -5092591091802449290
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -5082844041983370634
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -5069091176720442762
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -5019490331620156810
+    },
+    {
+      "type": "GameObject",
+      "name": "upgrade_skillFocus",
+      "path_id": -4957866617033270666
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -4948173091545818506
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -4911032580247659914
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -4890934978845222282
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -4886142629669381514
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -4823517595889575306
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -4818026175145452938
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -4755424639945418122
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -4752067443155674506
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -4647779243809121674
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -4594289888069363082
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -4565393908567057802
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -4490112634496427402
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -4478878658428741002
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -4457087124294935946
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -4425496085956601226
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -4416380473880880522
+    },
+    {
+      "type": "GameObject",
+      "name": "overview_upgrade",
+      "path_id": -4361577905716405642
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -4359557800833066378
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -4355429564893767050
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -4350644690370897290
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -4345134576089179530
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -4326979154324104586
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -4221566480829064586
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -4118158537786860938
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -4114824008163009930
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -4082849765678523786
+    },
+    {
+      "type": "GameObject",
+      "name": "vcam_skillFocus",
+      "path_id": -3966822039453705610
+    },
+    {
+      "type": "GameObject",
+      "name": "formation_potential",
+      "path_id": -3905341842590082442
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -3901209672273634698
+    },
+    {
+      "type": "GameObject",
+      "name": "equip_formation",
+      "path_id": -3900121128469144970
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -3896847847244637578
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -3838967854746903946
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -3824116394394592650
+    },
+    {
+      "type": "GameObject",
+      "name": "up_weapon",
+      "path_id": -3795192321438721418
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -3777789588298016138
+    },
+    {
+      "type": "GameObject",
+      "name": "weapon_upgrade",
+      "path_id": -3768036183808419210
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -3740429186901550474
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -3620323536150996362
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -3614117571759187338
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -3600506476585035146
+    },
+    {
+      "type": "GameObject",
+      "name": "skillFocus_overview",
+      "path_id": -3561126966376211850
+    },
+    {
+      "type": "GameObject",
+      "name": "lookat_equip_second",
+      "path_id": -3560194763548337546
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -3548472825623684490
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -3533191310482417034
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -3528725632198780298
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -3520574603153253770
+    },
+    {
+      "type": "GameObject",
+      "name": "overview_formation",
+      "path_id": -3500649280884581770
+    },
+    {
+      "type": "GameObject",
+      "name": "weapon_overview",
+      "path_id": -3434652848766199178
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -3378907518597145994
+    },
+    {
+      "type": "GameObject",
+      "name": "formation_equip",
+      "path_id": -3368032843370079626
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -3322264178062665098
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -3203684073649153418
+    },
+    {
+      "type": "GameObject",
+      "name": "skillFocus_equip",
+      "path_id": -3203573638548039050
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -3089333332034004362
+    },
+    {
+      "type": "GameObject",
+      "name": "volume_upgrade",
+      "path_id": -2982039254212421002
+    },
+    {
+      "type": "GameObject",
+      "name": "vcam_document",
+      "path_id": -2975789841763083658
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -2966593310654342538
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -2879207253671486858
+    },
+    {
+      "type": "GameObject",
+      "name": "weapon_document",
+      "path_id": -2828673179879089546
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -2622034518859064714
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -2566462105280980362
+    },
+    {
+      "type": "GameObject",
+      "name": "VolumeModifiers",
+      "path_id": -2505233685046764938
+    },
+    {
+      "type": "GameObject",
+      "name": "potential_formation",
+      "path_id": -2296353903889163658
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -2271268305668154762
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -2226534401067132298
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -2187610082968872330
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -2113275070395458954
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -2089114176177841546
+    },
+    {
+      "type": "GameObject",
+      "name": "formation_document",
+      "path_id": -1745540247310116234
+    },
+    {
+      "type": "GameObject",
+      "name": "CustomUp",
+      "path_id": -1675382412175353226
+    },
+    {
+      "type": "GameObject",
+      "name": "ExtraCams",
+      "path_id": -1649689163273741706
+    },
+    {
+      "type": "GameObject",
+      "name": "lookat_overview",
+      "path_id": -1643538371788547466
+    },
+    {
+      "type": "GameObject",
+      "name": "skillFocus_skill",
+      "path_id": -1581210957260531082
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -1401708554882065802
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -1389438095584273802
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -1359651659136574858
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -1354062875903534474
+    },
+    {
+      "type": "GameObject",
+      "name": "lookat_document",
+      "path_id": -1281543725277128074
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -1264990623686993290
+    },
+    {
+      "type": "GameObject",
+      "name": "potential_equip",
+      "path_id": -1231352012028257674
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -1172922450673542538
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -977719842900944266
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -944581718506939786
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -917420595358279050
+    },
+    {
+      "type": "GameObject",
+      "name": "document_formation",
+      "path_id": -778779731457353098
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -695469936223266186
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -680640608604530058
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -657243598007641482
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -490502815225292170
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -439602239073953162
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -427725905244595594
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -421894535887725962
+    },
+    {
+      "type": "GameObject",
+      "name": "extra_cam_equip_second",
+      "path_id": -312504205093447050
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -299847186858583434
+    },
+    {
+      "type": "GameObject",
+      "name": "skill_upgrade",
+      "path_id": -262037473927505290
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -258571989641930122
+    },
+    {
+      "type": "GameObject",
+      "name": "vcam_skill",
+      "path_id": -208609462940345738
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -56819130312435082
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -42460408468546954
+    },
+    {
+      "type": "AssetBundle",
+      "name": "main/3804e55ea22675fc7fe961aa.ab",
+      "path_id": 1
+    },
+    {
+      "type": "GameObject",
+      "name": "volume_skill",
+      "path_id": 101729725373078134
+    },
+    {
+      "type": "GameObject",
+      "name": "track_chr_0016_laevat",
+      "path_id": 110484163154598518
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 111303695490734710
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 238966616007760502
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 307681543645092470
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 368531167817685622
+    },
+    {
+      "type": "GameObject",
+      "name": "skill_skillFocus",
+      "path_id": 383979818385398390
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 415217739288205942
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 518732343759460982
+    },
+    {
+      "type": "GameObject",
+      "name": "skill_weapon",
+      "path_id": 572122359828896374
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 615496942655298166
+    },
+    {
+      "type": "GameObject",
+      "name": "lookat_show_near_second",
+      "path_id": 646392815478758006
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 653103241404471926
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 685890043967822454
+    },
+    {
+      "type": "GameObject",
+      "name": "cm",
+      "path_id": 727533894392076918
+    },
+    {
+      "type": "GameObject",
+      "name": "potential_overview",
+      "path_id": 731185237553764982
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 814840062673738358
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 829767931061787254
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 873150977126554230
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 904636911675628150
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 1011093337415211638
+    },
+    {
+      "type": "GameObject",
+      "name": "potential_upgrade",
+      "path_id": 1160422563518339702
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 1247720578182470262
+    },
+    {
+      "type": "GameObject",
+      "name": "lookat_skill",
+      "path_id": 1323268443352980086
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 1342543253250038390
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 1351099639357954678
+    },
+    {
+      "type": "GameObject",
+      "name": "weapon_formation",
+      "path_id": 1395368893984397942
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 1513642213226764918
+    },
+    {
+      "type": "GameObject",
+      "name": "formation_overview",
+      "path_id": 1566883148669508214
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 1603138691846625910
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 1650933537885117046
+    },
+    {
+      "type": "GameObject",
+      "name": "vcam_weapon",
+      "path_id": 1743183517633862262
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 1833587683072268918
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 1854596371496753782
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 1876379638382910070
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 1948207571840326262
+    },
+    {
+      "type": "GameObject",
+      "name": "overview_document",
+      "path_id": 1984375166077164150
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 1997977545823607414
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 2014450096568916598
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 2021445980266551926
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 2026527101338245750
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 2064298115277773430
+    },
+    {
+      "type": "GameObject",
+      "name": "volume_document",
+      "path_id": 2065109924690254454
+    },
+    {
+      "type": "GameObject",
+      "name": "volume_weapon",
+      "path_id": 2137932612531575414
+    },
+    {
+      "type": "GameObject",
+      "name": "lookat_equip",
+      "path_id": 2316999373543823990
+    },
+    {
+      "type": "GameObject",
+      "name": "overview_potential",
+      "path_id": 2347148171397356150
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 2392203005303118454
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 2435386701328341622
+    },
+    {
+      "type": "GameObject",
+      "name": "upgrade_equip",
+      "path_id": 2481526121456130678
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 2510744911440697974
+    },
+    {
+      "type": "GameObject",
+      "name": "skillFocus_document",
+      "path_id": 2532887923633281654
+    },
+    {
+      "type": "GameObject",
+      "name": "weapon_skillFocus",
+      "path_id": 2544504964709210742
+    },
+    {
+      "type": "GameObject",
+      "name": "document_overview",
+      "path_id": 2564993918622685814
+    },
+    {
+      "type": "GameObject",
+      "name": "volume_equip",
+      "path_id": 2656859380280580726
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 2799111538542697078
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 2814027631318784630
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 2885007055047219830
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 3017270909088225910
+    },
+    {
+      "type": "GameObject",
+      "name": "equip_skill",
+      "path_id": 3054138678174210678
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 3085288649810958966
+    },
+    {
+      "type": "GameObject",
+      "name": "formation_skill",
+      "path_id": 3122970848515185270
+    },
+    {
+      "type": "GameObject",
+      "name": "document_skillFocus",
+      "path_id": 3129677725201259126
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 3145146769610168950
+    },
+    {
+      "type": "GameObject",
+      "name": "DollyCart",
+      "path_id": 3193265803648555638
+    },
+    {
+      "type": "GameObject",
+      "name": "skill_equip",
+      "path_id": 3212266693487942262
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 3216670026258700918
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 3220256503635368566
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 3262776175370885750
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 3294536682724514422
+    },
+    {
+      "type": "GameObject",
+      "name": "document_weapon",
+      "path_id": 3302335287838628470
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 3314586928578419318
+    },
+    {
+      "type": "GameObject",
+      "name": "vcam_potential",
+      "path_id": 3391966943335799414
+    },
+    {
+      "type": "GameObject",
+      "name": "skillFocus_formation",
+      "path_id": 3397071568804239990
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 3402390842660084342
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 3407852469975571062
+    },
+    {
+      "type": "GameObject",
+      "name": "overview_skillFocus",
+      "path_id": 3440445181435107958
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 3471408410904222326
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 3476114566752492150
+    },
+    {
+      "type": "GameObject",
+      "name": "formation_upgrade",
+      "path_id": 3531769402278402678
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 3596489182396734070
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 3604164120572910198
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 3633799234068339318
+    },
+    {
+      "type": "GameObject",
+      "name": "potential_weapon",
+      "path_id": 3681668534536821366
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 3784690620034701942
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 3801432068162312822
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 3821863277165664886
+    },
+    {
+      "type": "Animation",
+      "name": "",
+      "path_id": 3857245044535450230
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 3869689472532732534
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 3959108201475791478
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 4017390119990844022
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 4023273039394560630
+    },
+    {
+      "type": "GameObject",
+      "name": "cm",
+      "path_id": 4045753169738127990
+    },
+    {
+      "type": "GameObject",
+      "name": "formation_weapon",
+      "path_id": 4139899335853398646
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 4178501220678163062
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 4243813889251859062
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 4268361821328890486
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 4273434972613106294
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 4308089420688251510
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 4319379164474563190
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 4367178954653817462
+    },
+    {
+      "type": "GameObject",
+      "name": "document_equip",
+      "path_id": 4410515196350356086
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 4474133004600400502
+    },
+    {
+      "type": "GameObject",
+      "name": "potential_skillFocus",
+      "path_id": 4539288396592634486
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 4633950660690762358
+    },
+    {
+      "type": "GameObject",
+      "name": "vcam_overview",
+      "path_id": 4695266835723770486
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 4954688909388339830
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 5013970515391470198
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 5018870911663331958
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 5163522175010265718
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 5176822039909096054
+    },
+    {
+      "type": "GameObject",
+      "name": "upgrade_formation",
+      "path_id": 5190372478295005814
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 5204152774359439990
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 5256520105223182966
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 5294646503367694966
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 5361865508496661110
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 5438991051323005558
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 5547967004850772598
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 5576997545172130422
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 5651420216696167030
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 5696044491772451446
+    },
+    {
+      "type": "GameObject",
+      "name": "lookat_weapon_ani",
+      "path_id": 5696114733184244342
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 5720153017687530102
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 5736661961873873526
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 5763403479992621686
+    },
+    {
+      "type": "GameObject",
+      "name": "weapon_skill",
+      "path_id": 5785967061240371830
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 5827621269706168950
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 5830781924857993846
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 5844321998810700406
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 5845933486912100982
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 5964883009867864694
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 5992399550072412790
+    },
+    {
+      "type": "GameObject",
+      "name": "cm",
+      "path_id": 6031494876126567030
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 6088223330513115766
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 6127971457133632118
+    },
+    {
+      "type": "GameObject",
+      "name": "skill_formation",
+      "path_id": 6230188644758051446
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 6249193996780821110
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 6327712536187689590
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 6341684961218386550
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 6376263274848180854
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 6464819065082665590
+    },
+    {
+      "type": "GameObject",
+      "name": "cm",
+      "path_id": 6466371740810599030
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 6467562584138635894
+    },
+    {
+      "type": "GameObject",
+      "name": "equip_skillFocus",
+      "path_id": 6509771505163295350
+    },
+    {
+      "type": "GameObject",
+      "name": "lookat_show_far_second",
+      "path_id": 6509816786136324726
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 6519645853316274806
+    },
+    {
+      "type": "GameObject",
+      "name": "vcam_upgrade",
+      "path_id": 6666073965793892982
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 6708385365488032374
+    },
+    {
+      "type": "GameObject",
+      "name": "upgrade_document",
+      "path_id": 6869381197395843702
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 6950342909027342966
+    },
+    {
+      "type": "GameObject",
+      "name": "equip_overview",
+      "path_id": 6991021970486057590
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 7012193389823384182
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 7015912062464547446
+    },
+    {
+      "type": "GameObject",
+      "name": "cm",
+      "path_id": 7034503954921478774
+    },
+    {
+      "type": "GameObject",
+      "name": "lookat_show_near",
+      "path_id": 7045074053606922870
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 7072933235790502518
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 7109902528031087222
+    },
+    {
+      "type": "GameObject",
+      "name": "cm",
+      "path_id": 7122422756674951798
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 7132893496892512886
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 7165957234974382710
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 7171920230525557366
+    },
+    {
+      "type": "GameObject",
+      "name": "skill_overview",
+      "path_id": 7178119969096915574
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 7245656361210075766
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 7390472990479538806
+    },
+    {
+      "type": "GameObject",
+      "name": "lookat_overview_ani",
+      "path_id": 7393472679092279926
+    },
+    {
+      "type": "GameObject",
+      "name": "skill_document",
+      "path_id": 7415545487036111478
+    },
+    {
+      "type": "GameObject",
+      "name": "potential_skill",
+      "path_id": 7424446333290732150
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 7476997012694424182
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 7520146369563974262
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 7531213737360218742
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 7559599329734089334
+    },
+    {
+      "type": "GameObject",
+      "name": "skillFocus_upgrade",
+      "path_id": 7591620222704147062
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 7609678494942288502
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 7654029356941236854
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 7768859675116624502
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 7771459717501016694
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 7835316008580799094
+    },
+    {
+      "type": "GameObject",
+      "name": "up_skill",
+      "path_id": 7916291074624051830
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 7936179240787303030
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 7945609782644693622
+    },
+    {
+      "type": "GameObject",
+      "name": "overview_weapon",
+      "path_id": 7958300322104662646
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 8006861386533558902
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 8018152134860200566
+    },
+    {
+      "type": "GameObject",
+      "name": "lookat_show_far",
+      "path_id": 8071049313457068662
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 8083664020943460982
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 8136123254377667190
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 8151190612503616118
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 8156815880354388598
+    },
+    {
+      "type": "GameObject",
+      "name": "overview_equip",
+      "path_id": 8177465415911398006
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 8262863907318061686
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 8326697474094324342
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 8431168112067205750
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 8431482971056626294
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 8461476047196838518
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 8544012925118175862
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 8563710595375553142
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 8575215200249764470
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 8580259942065166966
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 8606390629713894006
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 8609622577607793270
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 8618688585738607222
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 8693822964592925302
+    },
+    {
+      "type": "GameObject",
+      "name": "skillFocus_weapon",
+      "path_id": 8883774130687564406
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 8980637730393152118
+    },
+    {
+      "type": "GameObject",
+      "name": "document_upgrade",
+      "path_id": 9072541396319001206
+    },
+    {
+      "type": "GameObject",
+      "name": "skill_potential",
+      "path_id": 9093033746145598070
+    },
+    {
+      "type": "GameObject",
+      "name": "document_potential",
+      "path_id": 9109564826768366198
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 9136645014851476086
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 9155814301595196022
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 9168911148618078838
+    }
+  ]
+}

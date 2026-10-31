@@ -1,0 +1,16 @@
+{
+  "source_asset_path": "assets/beyond/dynamicassets/gamedata/skeletalmorph/skeletalmorphanim/morphanimation/data_facialmorph_anim_laevat_anim_walk_loop_sp_01.asset",
+  "bundle_container": "main/1de2b8e0459f8fb38e253725.ab",
+  "objects": [
+    {
+      "type": "AssetBundle",
+      "name": "main/1de2b8e0459f8fb38e253725.ab",
+      "path_id": 1
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "data_facialmorph_anim_laevat_anim_walk_loop_sp_01",
+      "path_id": 3443373526967059030
+    }
+  ]
+}

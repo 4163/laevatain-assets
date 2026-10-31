@@ -1,0 +1,81 @@
+{
+  "source_asset_path": "assets/beyond/dynamicassets/gameplay/effects/prefabs/p_fxbat_laevat_attack_05_crack.prefab",
+  "bundle_container": "main/394f70858f3484a70daaa3b6.ab",
+  "objects": [
+    {
+      "type": "Texture2D",
+      "name": "T_fx_laevat_02_D",
+      "path_id": -7038596008969483747
+    },
+    {
+      "type": "Material",
+      "name": "M_fx_laevat_hx_173",
+      "path_id": -6421591676378753725
+    },
+    {
+      "type": "MeshRenderer",
+      "name": "",
+      "path_id": -4720227889509121210
+    },
+    {
+      "type": "Animator",
+      "name": "",
+      "path_id": -2028895357398367418
+    },
+    {
+      "type": "AssetBundle",
+      "name": "main/394f70858f3484a70daaa3b6.ab",
+      "path_id": 1
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 1209105583020294982
+    },
+    {
+      "type": "MeshFilter",
+      "name": "",
+      "path_id": 1924138309333009222
+    },
+    {
+      "type": "AnimationClip",
+      "name": "A_fxbat_laevat_attack_05_crack",
+      "path_id": 2835142355862925120
+    },
+    {
+      "type": "GameObject",
+      "name": "PC",
+      "path_id": 4430331401069511494
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 5166787622306759494
+    },
+    {
+      "type": "GameObject",
+      "name": "P_fxbat_laevat_attack_05_crack",
+      "path_id": 6688832521052603206
+    },
+    {
+      "type": "GameObject",
+      "name": "dilie",
+      "path_id": 6912665986906637126
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 7203348915477136198
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 7390909956369007430
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 8483081802071524166
+    }
+  ]
+}

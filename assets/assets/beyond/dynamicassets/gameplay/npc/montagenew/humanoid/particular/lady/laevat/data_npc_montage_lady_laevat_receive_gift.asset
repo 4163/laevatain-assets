@@ -1,0 +1,16 @@
+{
+  "source_asset_path": "assets/beyond/dynamicassets/gameplay/npc/montagenew/humanoid/particular/lady/laevat/data_npc_montage_lady_laevat_receive_gift.asset",
+  "bundle_container": "main/7f3db21ee95ddbe3d1b40de6.ab",
+  "objects": [
+    {
+      "type": "MonoBehaviour",
+      "name": "data_npc_montage_lady_laevat_receive_gift",
+      "path_id": -277859807424684875
+    },
+    {
+      "type": "AssetBundle",
+      "name": "main/7f3db21ee95ddbe3d1b40de6.ab",
+      "path_id": 1
+    }
+  ]
+}

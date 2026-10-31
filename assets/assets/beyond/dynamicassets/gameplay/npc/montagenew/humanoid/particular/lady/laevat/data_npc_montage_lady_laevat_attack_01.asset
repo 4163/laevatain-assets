@@ -1,0 +1,16 @@
+{
+  "source_asset_path": "assets/beyond/dynamicassets/gameplay/npc/montagenew/humanoid/particular/lady/laevat/data_npc_montage_lady_laevat_attack_01.asset",
+  "bundle_container": "main/6d65381027c63ec8eb1383b4.ab",
+  "objects": [
+    {
+      "type": "MonoBehaviour",
+      "name": "data_npc_montage_lady_laevat_attack_01",
+      "path_id": -484693787167630871
+    },
+    {
+      "type": "AssetBundle",
+      "name": "main/6d65381027c63ec8eb1383b4.ab",
+      "path_id": 1
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "source_asset_path": "assets/beyond/dynamicassets/gameplay/npc/generated/bakedgpuanim/texture/t_actor_laevat_dialog_state_touchsword_loop_vat.exr",
+  "bundle_container": "main/b3ea84ab355b24c4a5a0d94e.ab",
+  "objects": [
+    {
+      "type": "AssetBundle",
+      "name": "main/b3ea84ab355b24c4a5a0d94e.ab",
+      "path_id": 1
+    },
+    {
+      "type": "Texture2D",
+      "name": "T_actor_laevat_dialog_state_touchsword_loop_VAT",
+      "path_id": 6416821673001564424
+    }
+  ]
+}

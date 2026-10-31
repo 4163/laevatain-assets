@@ -1,0 +1,16 @@
+{
+  "source_asset_path": "assets/beyond/dynamicassets/gameplay/npc/montagenew/humanoid/particular/lady/laevat/data_npc_montage_lady_laevat_idle.asset",
+  "bundle_container": "main/200a42602a8df5fc23703c8e.ab",
+  "objects": [
+    {
+      "type": "AssetBundle",
+      "name": "main/200a42602a8df5fc23703c8e.ab",
+      "path_id": 1
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "data_npc_montage_lady_laevat_idle",
+      "path_id": 8992068689405439338
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "source_asset_path": "assets/beyond/dynamicassets/gameplay/npc/montagenew/humanoid/particular/lady/laevat/virtual/data_npc_montage_lady_laevat_idle_talklefthand1.asset",
+  "bundle_container": "main/77874fcb35d1ab7f7401572d.ab",
+  "objects": [
+    {
+      "type": "AssetBundle",
+      "name": "main/77874fcb35d1ab7f7401572d.ab",
+      "path_id": 1
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "data_npc_montage_lady_laevat_idle_talklefthand1",
+      "path_id": 4714702827567602462
+    }
+  ]
+}

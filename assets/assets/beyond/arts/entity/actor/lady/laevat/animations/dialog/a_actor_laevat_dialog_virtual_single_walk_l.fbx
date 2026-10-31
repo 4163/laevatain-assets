@@ -1,0 +1,16 @@
+{
+  "source_asset_path": "assets/beyond/arts/entity/actor/lady/laevat/animations/dialog/a_actor_laevat_dialog_virtual_single_walk_l.fbx",
+  "bundle_container": "main/dfe17c1072167dbc1b8d1f54.ab",
+  "objects": [
+    {
+      "type": "AssetBundle",
+      "name": "main/dfe17c1072167dbc1b8d1f54.ab",
+      "path_id": 1
+    },
+    {
+      "type": "AnimationClip",
+      "name": "A_actor_laevat_dialog_virtual_single_walk_l",
+      "path_id": 1712582226961807111
+    }
+  ]
+}

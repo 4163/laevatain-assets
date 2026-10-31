@@ -1,0 +1,16 @@
+{
+  "source_asset_path": "assets/beyond/dynamicassets/gameplay/cameras/controlstates/skill/ccs_laevat_combo_skill_jump.asset",
+  "bundle_container": "main/ead231b33ec174a61aff492d.ab",
+  "objects": [
+    {
+      "type": "AssetBundle",
+      "name": "main/ead231b33ec174a61aff492d.ab",
+      "path_id": 1
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "CCS_laevat_combo_skill_jump",
+      "path_id": 5306811501007562205
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "source_asset_path": "assets/beyond/arts/entity/actor/lady/laevat/animations/3c/a_actor_laevat_walk_loop_entry.fbx##a_actor_laevat_walk_loop_entry_pose",
+  "bundle_container": "main/ac09d2f244e7548463cbf6ef.ab",
+  "objects": [
+    {
+      "type": "AnimationClip",
+      "name": "A_actor_laevat_walk_loop_entry",
+      "path_id": -8851075799681153680
+    },
+    {
+      "type": "AssetBundle",
+      "name": "main/ac09d2f244e7548463cbf6ef.ab",
+      "path_id": 1
+    },
+    {
+      "type": "AnimationClip",
+      "name": "A_actor_laevat_walk_loop_entry_pose",
+      "path_id": 6143695491068577136
+    }
+  ]
+}

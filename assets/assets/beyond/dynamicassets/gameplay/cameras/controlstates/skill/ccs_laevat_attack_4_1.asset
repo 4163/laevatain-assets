@@ -1,0 +1,16 @@
+{
+  "source_asset_path": "assets/beyond/dynamicassets/gameplay/cameras/controlstates/skill/ccs_laevat_attack_4_1.asset",
+  "bundle_container": "main/8d3493001a712fa7a09fa276.ab",
+  "objects": [
+    {
+      "type": "MonoBehaviour",
+      "name": "CCS_laevat_attack_4_1",
+      "path_id": -3322333001080368859
+    },
+    {
+      "type": "AssetBundle",
+      "name": "main/8d3493001a712fa7a09fa276.ab",
+      "path_id": 1
+    }
+  ]
+}

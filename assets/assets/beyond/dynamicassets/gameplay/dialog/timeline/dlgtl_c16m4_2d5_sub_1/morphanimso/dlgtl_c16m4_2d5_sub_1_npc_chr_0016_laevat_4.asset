@@ -1,0 +1,16 @@
+{
+  "source_asset_path": "assets/beyond/dynamicassets/gameplay/dialog/timeline/dlgtl_c16m4_2d5_sub_1/morphanimso/dlgtl_c16m4_2d5_sub_1_npc_chr_0016_laevat_4.asset",
+  "bundle_container": "main/c3949ef3e9de5a66a23e8d77.ab",
+  "objects": [
+    {
+      "type": "AssetBundle",
+      "name": "main/c3949ef3e9de5a66a23e8d77.ab",
+      "path_id": 1
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "dlgtl_c16m4_2d5_sub_1_npc_chr_0016_laevat_4",
+      "path_id": 2020490292087956658
+    }
+  ]
+}

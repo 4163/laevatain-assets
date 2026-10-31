@@ -1,0 +1,16 @@
+{
+  "source_asset_path": "assets/beyond/dynamicassets/gameplay/npc/montagenew/humanoid/particular/lady/laevat/virtual/data_npc_montage_lady_laevat_earphone.asset",
+  "bundle_container": "main/185c34120caa12be45b99dc3.ab",
+  "objects": [
+    {
+      "type": "AssetBundle",
+      "name": "main/185c34120caa12be45b99dc3.ab",
+      "path_id": 1
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "data_npc_montage_lady_laevat_earphone",
+      "path_id": 7708395316037465919
+    }
+  ]
+}

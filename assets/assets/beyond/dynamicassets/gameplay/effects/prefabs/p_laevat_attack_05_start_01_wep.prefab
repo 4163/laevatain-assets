@@ -1,0 +1,81 @@
+{
+  "source_asset_path": "assets/beyond/dynamicassets/gameplay/effects/prefabs/p_laevat_attack_05_start_01_wep.prefab",
+  "bundle_container": "main/7ecd51c214f937df6733103a.ab",
+  "objects": [
+    {
+      "type": "GameObject",
+      "name": "fire001",
+      "path_id": -5972030049036678236
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -4902114634552980572
+    },
+    {
+      "type": "ParticleSystem",
+      "name": "",
+      "path_id": -4250318365248533596
+    },
+    {
+      "type": "ParticleSystemRenderer",
+      "name": "",
+      "path_id": -3121762744040502364
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -2552530885890028636
+    },
+    {
+      "type": "AssetBundle",
+      "name": "main/7ecd51c214f937df6733103a.ab",
+      "path_id": 1
+    },
+    {
+      "type": "GameObject",
+      "name": "Internal",
+      "path_id": 1045037206710569892
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 1308504170771172260
+    },
+    {
+      "type": "ParticleSystem",
+      "name": "",
+      "path_id": 3823945224588872612
+    },
+    {
+      "type": "GameObject",
+      "name": "P_laevat_attack_05_start_01_wep",
+      "path_id": 4141248706869382052
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 5030696714808839076
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 5427910522259819428
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 7756383380941294500
+    },
+    {
+      "type": "ParticleSystemRenderer",
+      "name": "",
+      "path_id": 8143175811297758116
+    },
+    {
+      "type": "GameObject",
+      "name": "lizi (1)",
+      "path_id": 8156427656926645156
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "source_asset_path": "assets/beyond/arts/entity/actor/lady/laevat/animations/dialog/a_actor_laevat_dialog_virtual_single_idle_nod.fbx##a_actor_laevat_dialog_virtual_single_idle_nod",
+  "bundle_container": "main/03ab07db37477b52803af17e.ab",
+  "objects": [
+    {
+      "type": "AnimationClip",
+      "name": "A_actor_laevat_dialog_virtual_single_idle_nod",
+      "path_id": -3154785163554484828
+    },
+    {
+      "type": "AssetBundle",
+      "name": "main/03ab07db37477b52803af17e.ab",
+      "path_id": 1
+    }
+  ]
+}

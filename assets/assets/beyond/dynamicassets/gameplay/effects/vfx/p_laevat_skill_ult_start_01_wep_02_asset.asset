@@ -1,0 +1,36 @@
+{
+  "source_asset_path": "assets/beyond/dynamicassets/gameplay/effects/vfx/p_laevat_skill_ult_start_01_wep_02_asset.asset",
+  "bundle_container": "main/aae5b016519534d13d5b7c36.ab",
+  "objects": [
+    {
+      "type": "Texture2D",
+      "name": "T_fx_mask_525_M",
+      "path_id": -6270720934279672552
+    },
+    {
+      "type": "Texture2D",
+      "name": "T_fx_mask_530_M",
+      "path_id": -4098873064682570240
+    },
+    {
+      "type": "Material",
+      "name": "M_laevat_545_004",
+      "path_id": -2945415602288827620
+    },
+    {
+      "type": "AssetBundle",
+      "name": "main/aae5b016519534d13d5b7c36.ab",
+      "path_id": 1
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "P_laevat_skill_ult_start_01_wep_02_asset",
+      "path_id": 877129734715914466
+    },
+    {
+      "type": "Texture2D",
+      "name": "T_fx_mask_527_M",
+      "path_id": 6231223630283819674
+    }
+  ]
+}

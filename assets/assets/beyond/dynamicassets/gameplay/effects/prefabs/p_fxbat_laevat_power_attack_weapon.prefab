@@ -1,0 +1,121 @@
+{
+  "source_asset_path": "assets/beyond/dynamicassets/gameplay/effects/prefabs/p_fxbat_laevat_power_attack_weapon.prefab",
+  "bundle_container": "main/74cb0029a01ffa64b8f2ba38.ab",
+  "objects": [
+    {
+      "type": "GameObject",
+      "name": "Internal",
+      "path_id": -8152223896063280534
+    },
+    {
+      "type": "GameObject",
+      "name": "glow",
+      "path_id": -7953075205715428758
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -7735257867031905686
+    },
+    {
+      "type": "GameObject",
+      "name": "lizi001",
+      "path_id": -6199801881357092246
+    },
+    {
+      "type": "ParticleSystemRenderer",
+      "name": "",
+      "path_id": -6037522435016066454
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -5392611000648566166
+    },
+    {
+      "type": "GameObject",
+      "name": "P_fxbat_laevat_power_attack_weapon",
+      "path_id": -5092391632567043478
+    },
+    {
+      "type": "ParticleSystemRenderer",
+      "name": "",
+      "path_id": -4913250289063331222
+    },
+    {
+      "type": "ParticleSystem",
+      "name": "",
+      "path_id": -4472279359248303510
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -3804536951093626262
+    },
+    {
+      "type": "ParticleSystemRenderer",
+      "name": "",
+      "path_id": -1894039575287793046
+    },
+    {
+      "type": "GameObject",
+      "name": "fire2",
+      "path_id": -1565395834717635990
+    },
+    {
+      "type": "ParticleSystem",
+      "name": "",
+      "path_id": -353460729972753814
+    },
+    {
+      "type": "AssetBundle",
+      "name": "main/74cb0029a01ffa64b8f2ba38.ab",
+      "path_id": 1
+    },
+    {
+      "type": "ParticleSystem",
+      "name": "",
+      "path_id": 596712100462688874
+    },
+    {
+      "type": "GameObject",
+      "name": "fire",
+      "path_id": 1680108655784196714
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 3801607324878797418
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 5263878441299704426
+    },
+    {
+      "type": "ParticleSystemRenderer",
+      "name": "",
+      "path_id": 6774425321884711530
+    },
+    {
+      "type": "Material",
+      "name": "M_fx_laevat_hx_274",
+      "path_id": 6846929981924566135
+    },
+    {
+      "type": "ParticleSystem",
+      "name": "",
+      "path_id": 8032007282717391466
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 8110741170348653162
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 8174582056485157482
+    }
+  ]
+}

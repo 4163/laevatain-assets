@@ -1,0 +1,16 @@
+{
+  "source_asset_path": "assets/beyond/dynamicassets/gamedata/gameplayconfig/vfxconfig/enemy/vfx_character_laevat_wep_ring_asset.asset",
+  "bundle_container": "main/cb071da3a97101a5da313e3e.ab",
+  "objects": [
+    {
+      "type": "AssetBundle",
+      "name": "main/cb071da3a97101a5da313e3e.ab",
+      "path_id": 1
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "VFX_character_laevat_wep_ring_asset",
+      "path_id": 2938619570395891323
+    }
+  ]
+}

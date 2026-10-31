@@ -1,0 +1,16 @@
+{
+  "source_asset_path": "assets/beyond/dynamicassets/gameplay/npc/animation/humanoid/lady/data_npc_cpuanimdata_laevat.asset",
+  "bundle_container": "main/660cc9a3578a15952144df9b.ab",
+  "objects": [
+    {
+      "type": "AssetBundle",
+      "name": "main/660cc9a3578a15952144df9b.ab",
+      "path_id": 1
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "data_npc_cpuAnimData_laevat",
+      "path_id": 8599048397385602550
+    }
+  ]
+}

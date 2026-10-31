@@ -1,0 +1,61 @@
+{
+  "source_asset_path": "assets/beyond/dynamicassets/gameplay/effects/prefabs/p_fxbat_laevat_buff_trail_end.prefab",
+  "bundle_container": "main/d127d8a7215528d0db2bacbe.ab",
+  "objects": [
+    {
+      "type": "GameObject",
+      "name": "ring",
+      "path_id": -6219606878673555752
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -6072932338589094184
+    },
+    {
+      "type": "ParticleSystem",
+      "name": "",
+      "path_id": -4503731130013045032
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -2478911660930027816
+    },
+    {
+      "type": "AssetBundle",
+      "name": "main/d127d8a7215528d0db2bacbe.ab",
+      "path_id": 1
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 27255714743332568
+    },
+    {
+      "type": "GameObject",
+      "name": "Root",
+      "path_id": 2748694468024741592
+    },
+    {
+      "type": "Material",
+      "name": "M_fx_laevat_hx_430",
+      "path_id": 4062903450747610910
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 4642470512450875096
+    },
+    {
+      "type": "ParticleSystemRenderer",
+      "name": "",
+      "path_id": 5826007851410009816
+    },
+    {
+      "type": "GameObject",
+      "name": "P_fxbat_laevat_buff_trail_end",
+      "path_id": 7372698722982375128
+    }
+  ]
+}

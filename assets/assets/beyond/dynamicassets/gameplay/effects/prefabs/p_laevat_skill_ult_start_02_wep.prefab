@@ -1,0 +1,381 @@
+{
+  "source_asset_path": "assets/beyond/dynamicassets/gameplay/effects/prefabs/p_laevat_skill_ult_start_02_wep.prefab",
+  "bundle_container": "main/d3547f965f9da4fbddbd8c5d.ab",
+  "objects": [
+    {
+      "type": "ParticleSystemRenderer",
+      "name": "",
+      "path_id": -9027383662166984352
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -8281544788728727200
+    },
+    {
+      "type": "GameObject",
+      "name": "zha001",
+      "path_id": -8186920977706632864
+    },
+    {
+      "type": "ParticleSystemRenderer",
+      "name": "",
+      "path_id": -8130784261008836256
+    },
+    {
+      "type": "GameObject",
+      "name": "Smoke_01 (1)",
+      "path_id": -7526779193060083360
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -7353044878622049952
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -7262753166360102560
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -7259562868224411296
+    },
+    {
+      "type": "ParticleSystem",
+      "name": "",
+      "path_id": -6108828017707828896
+    },
+    {
+      "type": "ParticleSystemRenderer",
+      "name": "",
+      "path_id": -6083787045654742688
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -5998263177049786016
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -5955563749162534560
+    },
+    {
+      "type": "ParticleSystem",
+      "name": "",
+      "path_id": -5616016770519516832
+    },
+    {
+      "type": "GameObject",
+      "name": "guangci (1)",
+      "path_id": -5613057888718866080
+    },
+    {
+      "type": "ParticleSystemRenderer",
+      "name": "",
+      "path_id": -5551162485847606944
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -5482993182856824480
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -5463134323907675808
+    },
+    {
+      "type": "ParticleSystemRenderer",
+      "name": "",
+      "path_id": -5117187025112319648
+    },
+    {
+      "type": "ParticleSystem",
+      "name": "",
+      "path_id": -4598565751493478048
+    },
+    {
+      "type": "GameObject",
+      "name": "internal",
+      "path_id": -4310642027744380576
+    },
+    {
+      "type": "Material",
+      "name": "M_fx_laevat_hx_318",
+      "path_id": -4152976249730838771
+    },
+    {
+      "type": "GameObject",
+      "name": "huo1 (1)",
+      "path_id": -4018073849051203232
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -3990130129681958560
+    },
+    {
+      "type": "ParticleSystemRenderer",
+      "name": "",
+      "path_id": -3633515722416899744
+    },
+    {
+      "type": "GameObject",
+      "name": "quan001_di",
+      "path_id": -3560949505423361696
+    },
+    {
+      "type": "GameObject",
+      "name": "kuosan001",
+      "path_id": -3151652588468291232
+    },
+    {
+      "type": "ParticleSystem",
+      "name": "",
+      "path_id": -2909533103683454624
+    },
+    {
+      "type": "GameObject",
+      "name": "guangci001",
+      "path_id": -2445007242624485024
+    },
+    {
+      "type": "Material",
+      "name": "M_fx_laevat_hx_286",
+      "path_id": -2125745498873580807
+    },
+    {
+      "type": "ParticleSystem",
+      "name": "",
+      "path_id": -1775983941985814176
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -1524887835004946080
+    },
+    {
+      "type": "GameObject",
+      "name": "lizi1",
+      "path_id": -1079063561748399776
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -656071561120695968
+    },
+    {
+      "type": "ParticleSystem",
+      "name": "",
+      "path_id": -488373279126701728
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -437079081037252256
+    },
+    {
+      "type": "AssetBundle",
+      "name": "main/d3547f965f9da4fbddbd8c5d.ab",
+      "path_id": 1
+    },
+    {
+      "type": "ParticleSystemRenderer",
+      "name": "",
+      "path_id": 452419438381971808
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 574137733853296992
+    },
+    {
+      "type": "Material",
+      "name": "M_fx_laevat_hx_336",
+      "path_id": 837963725490783452
+    },
+    {
+      "type": "ParticleSystem",
+      "name": "",
+      "path_id": 852986032647846240
+    },
+    {
+      "type": "Material",
+      "name": "M_fx_laevat_hx_326",
+      "path_id": 1083508337409663913
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 1429789649753160032
+    },
+    {
+      "type": "GameObject",
+      "name": "lizi2",
+      "path_id": 1619522135802460512
+    },
+    {
+      "type": "Material",
+      "name": "M_fx_laevat_hx_303",
+      "path_id": 1682333553998123946
+    },
+    {
+      "type": "ParticleSystem",
+      "name": "",
+      "path_id": 2267998843210185056
+    },
+    {
+      "type": "GameObject",
+      "name": "ring",
+      "path_id": 2754006776212240736
+    },
+    {
+      "type": "ParticleSystemRenderer",
+      "name": "",
+      "path_id": 2763944008359033184
+    },
+    {
+      "type": "ParticleSystemRenderer",
+      "name": "",
+      "path_id": 2915829166576253280
+    },
+    {
+      "type": "Material",
+      "name": "M_fx_laevat_hx_324",
+      "path_id": 3068996368741394097
+    },
+    {
+      "type": "ParticleSystem",
+      "name": "",
+      "path_id": 3077767881927244128
+    },
+    {
+      "type": "GameObject",
+      "name": "P_laevat_skill_ult_start_02_wep",
+      "path_id": 3287198663674902880
+    },
+    {
+      "type": "GameObject",
+      "name": "trail3 (3)",
+      "path_id": 3748374709160261984
+    },
+    {
+      "type": "ParticleSystem",
+      "name": "",
+      "path_id": 3922821458089228640
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 4278222471745124704
+    },
+    {
+      "type": "ParticleSystemRenderer",
+      "name": "",
+      "path_id": 4383229951501023584
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 4493923420690004320
+    },
+    {
+      "type": "ParticleSystemRenderer",
+      "name": "",
+      "path_id": 4558628673098824032
+    },
+    {
+      "type": "ParticleSystem",
+      "name": "",
+      "path_id": 4594869366866983264
+    },
+    {
+      "type": "ParticleSystemRenderer",
+      "name": "",
+      "path_id": 4728742655446235488
+    },
+    {
+      "type": "GameObject",
+      "name": "lizi2 (1)",
+      "path_id": 4941767689538582880
+    },
+    {
+      "type": "GameObject",
+      "name": "blur_001",
+      "path_id": 5142202394075543904
+    },
+    {
+      "type": "ParticleSystemRenderer",
+      "name": "",
+      "path_id": 5789947064070977888
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 5983982994921830752
+    },
+    {
+      "type": "ParticleSystem",
+      "name": "",
+      "path_id": 6036106310761527648
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 6185463733814114656
+    },
+    {
+      "type": "GameObject",
+      "name": "p_fire (1)",
+      "path_id": 6206295734041590112
+    },
+    {
+      "type": "Material",
+      "name": "M_fx_laevat_hx_322",
+      "path_id": 6313930948189435853
+    },
+    {
+      "type": "ParticleSystem",
+      "name": "",
+      "path_id": 7097342729129310560
+    },
+    {
+      "type": "ParticleSystemRenderer",
+      "name": "",
+      "path_id": 7197516518520142176
+    },
+    {
+      "type": "ParticleSystem",
+      "name": "",
+      "path_id": 7275942422245161312
+    },
+    {
+      "type": "GameObject",
+      "name": "fire002 (1)",
+      "path_id": 7290230826335746400
+    },
+    {
+      "type": "GameObject",
+      "name": "huo2 (1)",
+      "path_id": 7310722138956839264
+    },
+    {
+      "type": "ParticleSystemRenderer",
+      "name": "",
+      "path_id": 7602047623810005344
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 7909123701303818592
+    },
+    {
+      "type": "ParticleSystem",
+      "name": "",
+      "path_id": 8737640923449932128
+    }
+  ]
+}

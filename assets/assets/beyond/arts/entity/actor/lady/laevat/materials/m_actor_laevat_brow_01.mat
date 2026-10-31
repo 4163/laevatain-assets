@@ -1,0 +1,16 @@
+{
+  "source_asset_path": "assets/beyond/arts/entity/actor/lady/laevat/materials/m_actor_laevat_brow_01.mat",
+  "bundle_container": "main/1d6dc2f788397d0105d9cc1f.ab",
+  "objects": [
+    {
+      "type": "AssetBundle",
+      "name": "main/1d6dc2f788397d0105d9cc1f.ab",
+      "path_id": 1
+    },
+    {
+      "type": "Material",
+      "name": "M_actor_laevat_brow_01",
+      "path_id": 6612372499946905045
+    }
+  ]
+}

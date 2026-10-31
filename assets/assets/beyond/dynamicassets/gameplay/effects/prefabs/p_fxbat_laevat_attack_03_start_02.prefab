@@ -1,0 +1,116 @@
+{
+  "source_asset_path": "assets/beyond/dynamicassets/gameplay/effects/prefabs/p_fxbat_laevat_attack_03_start_02.prefab",
+  "bundle_container": "main/25f92953d5b0c648815bab8f.ab",
+  "objects": [
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -8641154093804551512
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -8235201378904440152
+    },
+    {
+      "type": "GameObject",
+      "name": "lizi001 (3)",
+      "path_id": -7045102985549708632
+    },
+    {
+      "type": "ParticleSystem",
+      "name": "",
+      "path_id": -5608805033379495256
+    },
+    {
+      "type": "ParticleSystemRenderer",
+      "name": "",
+      "path_id": -5581269248087555416
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -4132116783541714264
+    },
+    {
+      "type": "GameObject",
+      "name": "niuqu001_light_player (1)",
+      "path_id": -4053795202703293784
+    },
+    {
+      "type": "ParticleSystemRenderer",
+      "name": "",
+      "path_id": -2575757378383641944
+    },
+    {
+      "type": "AssetBundle",
+      "name": "main/25f92953d5b0c648815bab8f.ab",
+      "path_id": 1
+    },
+    {
+      "type": "GameObject",
+      "name": "P_fxbat_laevat_attack_03_start_02",
+      "path_id": 1915837523037848232
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 2278171487338955432
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 2380911259307082408
+    },
+    {
+      "type": "GameObject",
+      "name": "PC",
+      "path_id": 2555858177553466024
+    },
+    {
+      "type": "ParticleSystemRenderer",
+      "name": "",
+      "path_id": 2749008331087610536
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 3215875060863337128
+    },
+    {
+      "type": "ParticleSystem",
+      "name": "",
+      "path_id": 3327150333622616744
+    },
+    {
+      "type": "GameObject",
+      "name": "blur",
+      "path_id": 3492733451809129128
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 3568968663624385192
+    },
+    {
+      "type": "ParticleSystem",
+      "name": "",
+      "path_id": 3633815674267828904
+    },
+    {
+      "type": "ParticleSystem",
+      "name": "",
+      "path_id": 3806377331570180776
+    },
+    {
+      "type": "GameObject",
+      "name": "Particle System",
+      "path_id": 7178466262082060968
+    },
+    {
+      "type": "ParticleSystemRenderer",
+      "name": "",
+      "path_id": 9160514040157176488
+    }
+  ]
+}

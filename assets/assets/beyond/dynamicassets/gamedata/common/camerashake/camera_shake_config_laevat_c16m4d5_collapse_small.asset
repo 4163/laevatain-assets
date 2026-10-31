@@ -1,0 +1,16 @@
+{
+  "source_asset_path": "assets/beyond/dynamicassets/gamedata/common/camerashake/camera_shake_config_laevat_c16m4d5_collapse_small.asset",
+  "bundle_container": "main/6f6493098101900e9ac480ac.ab",
+  "objects": [
+    {
+      "type": "MonoBehaviour",
+      "name": "camera_shake_config_laevat_c16m4d5_collapse_small",
+      "path_id": -1219249140141866597
+    },
+    {
+      "type": "AssetBundle",
+      "name": "main/6f6493098101900e9ac480ac.ab",
+      "path_id": 1
+    }
+  ]
+}

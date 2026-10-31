@@ -1,0 +1,16 @@
+{
+  "source_asset_path": "assets/beyond/dynamicassets/gamedata/projectile/data_projectile_chr_0016_laevat_absorb.asset",
+  "bundle_container": "main/e6a0698f5ae92f0bc083a8ed.ab",
+  "objects": [
+    {
+      "type": "AssetBundle",
+      "name": "main/e6a0698f5ae92f0bc083a8ed.ab",
+      "path_id": 1
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "data_projectile_chr_0016_laevat_absorb",
+      "path_id": 2344827605528438163
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "source_asset_path": "assets/beyond/arts/entity/actor/lady/laevat/animations/battle/a_actor_laevat_idle_to_battle.fbx##a_actor_laevat_idle_to_battle",
+  "bundle_container": "main/068932eb44721d595ec0b982.ab",
+  "objects": [
+    {
+      "type": "AnimationClip",
+      "name": "A_actor_laevat_idle_to_battle",
+      "path_id": -2030740367201090712
+    },
+    {
+      "type": "AssetBundle",
+      "name": "main/068932eb44721d595ec0b982.ab",
+      "path_id": 1
+    }
+  ]
+}

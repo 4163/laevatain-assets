@@ -1,0 +1,26 @@
+{
+  "source_asset_path": "assets/beyond/dynamicassets/gameplay/effects/prefabs/p_laevat_skill_ult_wep_01_fire_start_asset.prefab",
+  "bundle_container": "main/57d5b9a8ec53199dfe6caf56.ab",
+  "objects": [
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -2572072676805660137
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -2320844322179927529
+    },
+    {
+      "type": "GameObject",
+      "name": "P_laevat_skill_ult_wep_01_fire_start_asset",
+      "path_id": -1367335594189213161
+    },
+    {
+      "type": "AssetBundle",
+      "name": "main/57d5b9a8ec53199dfe6caf56.ab",
+      "path_id": 1
+    }
+  ]
+}

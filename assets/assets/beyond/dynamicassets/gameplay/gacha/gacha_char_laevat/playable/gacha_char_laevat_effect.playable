@@ -1,0 +1,146 @@
+{
+  "source_asset_path": "assets/beyond/dynamicassets/gameplay/gacha/gacha_char_laevat/playable/gacha_char_laevat_effect.playable",
+  "bundle_container": "main/29841d9b6e8350da24d696fc.ab",
+  "objects": [
+    {
+      "type": "MonoBehaviour",
+      "name": "Animation Track (3)",
+      "path_id": -9139437582318115248
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "AnimationPlayableAsset",
+      "path_id": -9079740942848498096
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "Control Track (7)",
+      "path_id": -9059728858336991664
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "ControlPlayableAsset",
+      "path_id": -8082168611890796976
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "Animation Track (2)",
+      "path_id": -6584446166331562416
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "Control Track (3)",
+      "path_id": -6030373414027729328
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "AnimationPlayableAsset",
+      "path_id": -5448159093214484912
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "Animation Track (4)",
+      "path_id": -4342574546317875632
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "Control Track",
+      "path_id": -4053577901126523312
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "ControlPlayableAsset",
+      "path_id": -3932700497366686128
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "ControlPlayableAsset",
+      "path_id": -3406596169731217840
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "ControlPlayableAsset",
+      "path_id": -3022752455344265648
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "Control Track (2)",
+      "path_id": -2902265196464118192
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "Control Track (4)",
+      "path_id": -2358810588448627120
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "AnimationPlayableAsset",
+      "path_id": -1621664111203850672
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "Control Track (5)",
+      "path_id": -1607053303692925360
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "AnimationPlayableAsset",
+      "path_id": -1588802996254022064
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "gacha_char_laevat_Effect",
+      "path_id": -1483994995491281328
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "Animation Track (1)",
+      "path_id": -1282250164457773488
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "ControlPlayableAsset",
+      "path_id": -726005848711633328
+    },
+    {
+      "type": "AssetBundle",
+      "name": "main/29841d9b6e8350da24d696fc.ab",
+      "path_id": 1
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "ControlPlayableAsset",
+      "path_id": 848672425734694480
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "Animation Track",
+      "path_id": 1209218715594647120
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "ControlPlayableAsset",
+      "path_id": 1283093900929984080
+    },
+    {
+      "type": "AnimationClip",
+      "name": "Recorded",
+      "path_id": 1688457000387864144
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "ControlPlayableAsset",
+      "path_id": 7006595469684041296
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "Control Track (6)",
+      "path_id": 8376180191298250320
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "Control Track (1)",
+      "path_id": 8438232678957180496
+    }
+  ]
+}

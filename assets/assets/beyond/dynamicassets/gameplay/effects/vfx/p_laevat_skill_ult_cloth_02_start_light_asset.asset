@@ -1,0 +1,26 @@
+{
+  "source_asset_path": "assets/beyond/dynamicassets/gameplay/effects/vfx/p_laevat_skill_ult_cloth_02_start_light_asset.asset",
+  "bundle_container": "main/7824d85894d02a39e8fefad1.ab",
+  "objects": [
+    {
+      "type": "AssetBundle",
+      "name": "main/7824d85894d02a39e8fefad1.ab",
+      "path_id": 1
+    },
+    {
+      "type": "Material",
+      "name": "M_laevat_547",
+      "path_id": 3974023176723847461
+    },
+    {
+      "type": "Texture2D",
+      "name": "T_fx_mask_529_M",
+      "path_id": 5130724213198404360
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "P_laevat_skill_ult_cloth_02_start_light_asset",
+      "path_id": 6851292708921703522
+    }
+  ]
+}

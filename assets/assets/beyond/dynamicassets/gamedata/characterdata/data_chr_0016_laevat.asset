@@ -1,0 +1,16 @@
+{
+  "source_asset_path": "assets/beyond/dynamicassets/gamedata/characterdata/data_chr_0016_laevat.asset",
+  "bundle_container": "main/3480b802bbb4510da10cecd9.ab",
+  "objects": [
+    {
+      "type": "AssetBundle",
+      "name": "main/3480b802bbb4510da10cecd9.ab",
+      "path_id": 1
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "data_chr_0016_laevat",
+      "path_id": 6206998929365279840
+    }
+  ]
+}

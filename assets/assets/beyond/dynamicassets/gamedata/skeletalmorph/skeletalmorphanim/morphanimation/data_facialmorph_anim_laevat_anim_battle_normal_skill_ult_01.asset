@@ -1,0 +1,16 @@
+{
+  "source_asset_path": "assets/beyond/dynamicassets/gamedata/skeletalmorph/skeletalmorphanim/morphanimation/data_facialmorph_anim_laevat_anim_battle_normal_skill_ult_01.asset",
+  "bundle_container": "main/c529b66d8bb8f6bfb1552594.ab",
+  "objects": [
+    {
+      "type": "MonoBehaviour",
+      "name": "data_facialmorph_anim_laevat_anim_battle_normal_skill_ult_01",
+      "path_id": -2884914923947088279
+    },
+    {
+      "type": "AssetBundle",
+      "name": "main/c529b66d8bb8f6bfb1552594.ab",
+      "path_id": 1
+    }
+  ]
+}

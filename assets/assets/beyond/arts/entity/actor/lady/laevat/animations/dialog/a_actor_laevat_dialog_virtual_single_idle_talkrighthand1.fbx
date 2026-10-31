@@ -1,0 +1,16 @@
+{
+  "source_asset_path": "assets/beyond/arts/entity/actor/lady/laevat/animations/dialog/a_actor_laevat_dialog_virtual_single_idle_talkrighthand1.fbx",
+  "bundle_container": "main/ab4923623a521c85eb5fc01e.ab",
+  "objects": [
+    {
+      "type": "AnimationClip",
+      "name": "A_actor_laevat_dialog_virtual_single_idle_talkrighthand1",
+      "path_id": -424330306500297664
+    },
+    {
+      "type": "AssetBundle",
+      "name": "main/ab4923623a521c85eb5fc01e.ab",
+      "path_id": 1
+    }
+  ]
+}

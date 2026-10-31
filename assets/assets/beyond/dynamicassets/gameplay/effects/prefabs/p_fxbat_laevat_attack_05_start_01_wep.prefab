@@ -1,0 +1,81 @@
+{
+  "source_asset_path": "assets/beyond/dynamicassets/gameplay/effects/prefabs/p_fxbat_laevat_attack_05_start_01_wep.prefab",
+  "bundle_container": "main/ecf326e6c62572bc3c602a22.ab",
+  "objects": [
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -8995045275706938885
+    },
+    {
+      "type": "GameObject",
+      "name": "P_fxbat_laevat_attack_05_start_01_wep",
+      "path_id": -7307787018424833541
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -7160170459120817669
+    },
+    {
+      "type": "ParticleSystem",
+      "name": "",
+      "path_id": -5187887437488477701
+    },
+    {
+      "type": "GameObject",
+      "name": "fire001",
+      "path_id": -4914998020670117381
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -3265402991728547333
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -2781801314014615045
+    },
+    {
+      "type": "ParticleSystemRenderer",
+      "name": "",
+      "path_id": -2259049181513012741
+    },
+    {
+      "type": "ParticleSystemRenderer",
+      "name": "",
+      "path_id": -1403330398634661381
+    },
+    {
+      "type": "GameObject",
+      "name": "lizi (1)",
+      "path_id": -1387724142593332741
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -763085722997708293
+    },
+    {
+      "type": "AssetBundle",
+      "name": "main/ecf326e6c62572bc3c602a22.ab",
+      "path_id": 1
+    },
+    {
+      "type": "ParticleSystem",
+      "name": "",
+      "path_id": 2095172930793810427
+    },
+    {
+      "type": "GameObject",
+      "name": "Internal",
+      "path_id": 8319277320844323323
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 9022635693437856251
+    }
+  ]
+}

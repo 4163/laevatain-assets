@@ -1,0 +1,16 @@
+{
+  "source_asset_path": "assets/beyond/dynamicassets/gameplay/npc/montagenew/humanoid/particular/lady/laevat/data_npc_montage_lady_laevat_push.asset",
+  "bundle_container": "main/7e52c5dcbfda50f96df18686.ab",
+  "objects": [
+    {
+      "type": "AssetBundle",
+      "name": "main/7e52c5dcbfda50f96df18686.ab",
+      "path_id": 1
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "data_npc_montage_lady_laevat_push",
+      "path_id": 4507511179703770949
+    }
+  ]
+}

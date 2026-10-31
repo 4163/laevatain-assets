@@ -1,0 +1,126 @@
+{
+  "source_asset_path": "assets/beyond/dynamicassets/gameplay/effects/prefabs/p_laevat_attack_ult_01_start_01_actor.prefab",
+  "bundle_container": "main/02792aeee500bbdf13e80017.ab",
+  "objects": [
+    {
+      "type": "ParticleSystemRenderer",
+      "name": "",
+      "path_id": -9216595598975174327
+    },
+    {
+      "type": "ParticleSystemRenderer",
+      "name": "",
+      "path_id": -8089592284069037751
+    },
+    {
+      "type": "ParticleSystem",
+      "name": "",
+      "path_id": -8064521866857809591
+    },
+    {
+      "type": "GameObject",
+      "name": "Internal",
+      "path_id": -7087251578173327031
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -6525573511951353527
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -6324194959114700471
+    },
+    {
+      "type": "GameObject",
+      "name": "daog001",
+      "path_id": -6125942108197947063
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -5296993796449437367
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -4871728210165434039
+    },
+    {
+      "type": "GameObject",
+      "name": "daog_light001",
+      "path_id": -3036990063517828791
+    },
+    {
+      "type": "ParticleSystem",
+      "name": "",
+      "path_id": -2667440456614282935
+    },
+    {
+      "type": "GameObject",
+      "name": "daog_wenli001",
+      "path_id": -2391095585212991159
+    },
+    {
+      "type": "GameObject",
+      "name": "daog_light002",
+      "path_id": -1632497391675180727
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -931797469475047095
+    },
+    {
+      "type": "AssetBundle",
+      "name": "main/02792aeee500bbdf13e80017.ab",
+      "path_id": 1
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 648215941676792137
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 974054877541759305
+    },
+    {
+      "type": "ParticleSystem",
+      "name": "",
+      "path_id": 2619636611538614601
+    },
+    {
+      "type": "GameObject",
+      "name": "fire001",
+      "path_id": 4262704685716863305
+    },
+    {
+      "type": "ParticleSystemRenderer",
+      "name": "",
+      "path_id": 4755033555696875849
+    },
+    {
+      "type": "GameObject",
+      "name": "P_laevat_attack_ult_01_start_01_actor",
+      "path_id": 5282017061237160265
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 5579870698865424713
+    },
+    {
+      "type": "ParticleSystemRenderer",
+      "name": "",
+      "path_id": 5894430839077206345
+    },
+    {
+      "type": "ParticleSystem",
+      "name": "",
+      "path_id": 6414320940885277001
+    }
+  ]
+}

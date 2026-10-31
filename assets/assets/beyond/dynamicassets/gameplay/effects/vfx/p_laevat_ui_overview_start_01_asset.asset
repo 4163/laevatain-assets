@@ -1,0 +1,16 @@
+{
+  "source_asset_path": "assets/beyond/dynamicassets/gameplay/effects/vfx/p_laevat_ui_overview_start_01_asset.asset",
+  "bundle_container": "main/ff980f832b598b66fc2411a7.ab",
+  "objects": [
+    {
+      "type": "MonoBehaviour",
+      "name": "P_laevat_ui_overview_start_01_asset",
+      "path_id": -8303830381197911811
+    },
+    {
+      "type": "AssetBundle",
+      "name": "main/ff980f832b598b66fc2411a7.ab",
+      "path_id": 1
+    }
+  ]
+}

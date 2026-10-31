@@ -1,0 +1,16 @@
+{
+  "source_asset_path": "assets/beyond/dynamicassets/gameplay/npc/montagenew/humanoid/particular/lady/laevat/virtual/data_npc_montage_lady_laevat_think1.asset",
+  "bundle_container": "main/8e9cd83d27fcecbb402b0a7b.ab",
+  "objects": [
+    {
+      "type": "MonoBehaviour",
+      "name": "data_npc_montage_lady_laevat_think1",
+      "path_id": -8162822621559467067
+    },
+    {
+      "type": "AssetBundle",
+      "name": "main/8e9cd83d27fcecbb402b0a7b.ab",
+      "path_id": 1
+    }
+  ]
+}

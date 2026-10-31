@@ -1,0 +1,16 @@
+{
+  "source_asset_path": "assets/beyond/dynamicassets/gameplay/guide/guide_laevat_dung01_rdg003_hint_ct.asset",
+  "bundle_container": "main/2a19aa8b0bbc6750780351be.ab",
+  "objects": [
+    {
+      "type": "AssetBundle",
+      "name": "main/2a19aa8b0bbc6750780351be.ab",
+      "path_id": 1
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "guide_laevat_dung01_rdg003_hint_ct",
+      "path_id": 9147169299808426933
+    }
+  ]
+}

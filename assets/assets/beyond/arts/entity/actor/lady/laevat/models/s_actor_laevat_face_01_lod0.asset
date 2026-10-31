@@ -1,0 +1,16 @@
+{
+  "source_asset_path": "assets/beyond/arts/entity/actor/lady/laevat/models/s_actor_laevat_face_01_lod0.asset",
+  "bundle_container": "main/37ccfff661847ee7e8849d61.ab",
+  "objects": [
+    {
+      "type": "AssetBundle",
+      "name": "main/37ccfff661847ee7e8849d61.ab",
+      "path_id": 1
+    },
+    {
+      "type": "Mesh",
+      "name": "S_actor_laevat_face_01_lod0",
+      "path_id": 2207560446947534677
+    }
+  ]
+}

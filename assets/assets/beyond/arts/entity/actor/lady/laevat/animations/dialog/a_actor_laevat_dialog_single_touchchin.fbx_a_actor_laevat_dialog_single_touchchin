@@ -1,0 +1,16 @@
+{
+  "source_asset_path": "assets/beyond/arts/entity/actor/lady/laevat/animations/dialog/a_actor_laevat_dialog_single_touchchin.fbx##a_actor_laevat_dialog_single_touchchin",
+  "bundle_container": "main/a3fe4e57b0f177036452ee2d.ab",
+  "objects": [
+    {
+      "type": "AnimationClip",
+      "name": "A_actor_laevat_dialog_single_touchchin",
+      "path_id": -3759405924624353982
+    },
+    {
+      "type": "AssetBundle",
+      "name": "main/a3fe4e57b0f177036452ee2d.ab",
+      "path_id": 1
+    }
+  ]
+}

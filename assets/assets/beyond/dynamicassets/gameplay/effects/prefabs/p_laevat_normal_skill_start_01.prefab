@@ -1,0 +1,561 @@
+{
+  "source_asset_path": "assets/beyond/dynamicassets/gameplay/effects/prefabs/p_laevat_normal_skill_start_01.prefab",
+  "bundle_container": "main/1603f84ab8d78be2c99c8060.ab",
+  "objects": [
+    {
+      "type": "GameObject",
+      "name": "2",
+      "path_id": -9119306149696992075
+    },
+    {
+      "type": "GameObject",
+      "name": "qiu",
+      "path_id": -9096724406191092555
+    },
+    {
+      "type": "MeshRenderer",
+      "name": "",
+      "path_id": -8851559913442538315
+    },
+    {
+      "type": "ParticleSystem",
+      "name": "",
+      "path_id": -8774831241786651467
+    },
+    {
+      "type": "ParticleSystemRenderer",
+      "name": "",
+      "path_id": -8639134922058330955
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -8488776300689388363
+    },
+    {
+      "type": "GameObject",
+      "name": "6",
+      "path_id": -8441838764301906763
+    },
+    {
+      "type": "GameObject",
+      "name": "hg_wind_z",
+      "path_id": -8352406801377096523
+    },
+    {
+      "type": "ParticleSystemRenderer",
+      "name": "",
+      "path_id": -7951362976214250315
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -7898767547456385867
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -7830100858609038155
+    },
+    {
+      "type": "GameObject",
+      "name": "hg_wind",
+      "path_id": -7722670047821132619
+    },
+    {
+      "type": "MeshRenderer",
+      "name": "",
+      "path_id": -7686892458842420043
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -7562720860084859723
+    },
+    {
+      "type": "ParticleSystemRenderer",
+      "name": "",
+      "path_id": -7489125328377836363
+    },
+    {
+      "type": "ParticleSystemRenderer",
+      "name": "",
+      "path_id": -7437395928760415051
+    },
+    {
+      "type": "GameObject",
+      "name": "1",
+      "path_id": -7259906217599333195
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -6979955868753687371
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -6918794204587062091
+    },
+    {
+      "type": "MeshRenderer",
+      "name": "",
+      "path_id": -6815651824770642763
+    },
+    {
+      "type": "GameObject",
+      "name": "glow",
+      "path_id": -6797804409164362571
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -6617145743403873099
+    },
+    {
+      "type": "GameObject",
+      "name": "fire2",
+      "path_id": -6238879278390473547
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -6216985130822497099
+    },
+    {
+      "type": "GameObject",
+      "name": "7",
+      "path_id": -6136473027149787979
+    },
+    {
+      "type": "ParticleSystemRenderer",
+      "name": "",
+      "path_id": -6067714598540243787
+    },
+    {
+      "type": "GameObject",
+      "name": "fire1",
+      "path_id": -5509025557053141835
+    },
+    {
+      "type": "GameObject",
+      "name": "gaoguang2",
+      "path_id": -5077746898077578059
+    },
+    {
+      "type": "GameObject",
+      "name": "P_laevat_normal_skill_start_01",
+      "path_id": -5055037888971502411
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -4818262134113465163
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -4745655752848339787
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -4635668979147502411
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -4535128593768543051
+    },
+    {
+      "type": "MeshRenderer",
+      "name": "",
+      "path_id": -4359950510211232587
+    },
+    {
+      "type": "GameObject",
+      "name": "blend",
+      "path_id": -4045743943755461451
+    },
+    {
+      "type": "ParticleSystem",
+      "name": "",
+      "path_id": -4000690769042109259
+    },
+    {
+      "type": "GameObject",
+      "name": "wenli2",
+      "path_id": -3726599375847256907
+    },
+    {
+      "type": "ParticleSystemRenderer",
+      "name": "",
+      "path_id": -3681093463677367115
+    },
+    {
+      "type": "ParticleSystemRenderer",
+      "name": "",
+      "path_id": -3604649007198991179
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -3343388346849850187
+    },
+    {
+      "type": "ParticleSystem",
+      "name": "",
+      "path_id": -3332854238997672779
+    },
+    {
+      "type": "GameObject",
+      "name": "niuqu",
+      "path_id": -3233546836102378315
+    },
+    {
+      "type": "MeshFilter",
+      "name": "",
+      "path_id": -3180810947168465739
+    },
+    {
+      "type": "ParticleSystemRenderer",
+      "name": "",
+      "path_id": -3113835706587181899
+    },
+    {
+      "type": "GameObject",
+      "name": "4",
+      "path_id": -2806553726216139595
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -2511994919909356363
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -2459489633028174667
+    },
+    {
+      "type": "ParticleSystemRenderer",
+      "name": "",
+      "path_id": -2427696404857123659
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -1968151571927429963
+    },
+    {
+      "type": "ParticleSystem",
+      "name": "",
+      "path_id": -1713635072357593931
+    },
+    {
+      "type": "ParticleSystem",
+      "name": "",
+      "path_id": -1118440474493875019
+    },
+    {
+      "type": "MeshRenderer",
+      "name": "",
+      "path_id": -1025566517516137291
+    },
+    {
+      "type": "ParticleSystem",
+      "name": "",
+      "path_id": -761927664375133003
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -326691660570587979
+    },
+    {
+      "type": "ParticleSystemRenderer",
+      "name": "",
+      "path_id": -179466191545725771
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -177439464557540171
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -63495091656225611
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -60891922440680267
+    },
+    {
+      "type": "AssetBundle",
+      "name": "main/1603f84ab8d78be2c99c8060.ab",
+      "path_id": 1
+    },
+    {
+      "type": "GameObject",
+      "name": "Smoke_01 (1)",
+      "path_id": 169726372081011893
+    },
+    {
+      "type": "MeshFilter",
+      "name": "",
+      "path_id": 451085729002458293
+    },
+    {
+      "type": "ParticleSystem",
+      "name": "",
+      "path_id": 866891904928615605
+    },
+    {
+      "type": "MeshRenderer",
+      "name": "",
+      "path_id": 1185891255617031349
+    },
+    {
+      "type": "GameObject",
+      "name": "Glow",
+      "path_id": 1675001142745205941
+    },
+    {
+      "type": "GameObject",
+      "name": "mesh",
+      "path_id": 1889560608386550965
+    },
+    {
+      "type": "GameObject",
+      "name": "hg_wind_rot",
+      "path_id": 1942345790263430325
+    },
+    {
+      "type": "GameObject",
+      "name": "zhongxin",
+      "path_id": 2311446111798004917
+    },
+    {
+      "type": "MeshFilter",
+      "name": "",
+      "path_id": 2485397656386702517
+    },
+    {
+      "type": "ParticleSystem",
+      "name": "",
+      "path_id": 2527156857166728373
+    },
+    {
+      "type": "ParticleSystemRenderer",
+      "name": "",
+      "path_id": 2637113320677084341
+    },
+    {
+      "type": "MeshFilter",
+      "name": "",
+      "path_id": 2792823817329872053
+    },
+    {
+      "type": "ParticleSystem",
+      "name": "",
+      "path_id": 2824194145689570485
+    },
+    {
+      "type": "GameObject",
+      "name": "daoguang_a2",
+      "path_id": 2884700252071169205
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 3264870387951439029
+    },
+    {
+      "type": "GameObject",
+      "name": "wenli",
+      "path_id": 3464233314989214901
+    },
+    {
+      "type": "MeshFilter",
+      "name": "",
+      "path_id": 3651067337430699189
+    },
+    {
+      "type": "GameObject",
+      "name": "lizi",
+      "path_id": 3846036952441719989
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 3982764955238960309
+    },
+    {
+      "type": "ParticleSystem",
+      "name": "",
+      "path_id": 4242034407529417909
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 4478417427217878197
+    },
+    {
+      "type": "MeshFilter",
+      "name": "",
+      "path_id": 4600644420935584949
+    },
+    {
+      "type": "MeshFilter",
+      "name": "",
+      "path_id": 4761797797616061621
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 5063308714463104181
+    },
+    {
+      "type": "MeshRenderer",
+      "name": "",
+      "path_id": 6085066375102500021
+    },
+    {
+      "type": "ParticleSystem",
+      "name": "",
+      "path_id": 6103918757772889269
+    },
+    {
+      "type": "MeshRenderer",
+      "name": "",
+      "path_id": 6112123716721609909
+    },
+    {
+      "type": "GameObject",
+      "name": "blur",
+      "path_id": 6210983330406108341
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 6224552191251352757
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 6288966654315695285
+    },
+    {
+      "type": "GameObject",
+      "name": "5",
+      "path_id": 6360788642638564533
+    },
+    {
+      "type": "ParticleSystem",
+      "name": "",
+      "path_id": 6367388505006312629
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 6415822317185764533
+    },
+    {
+      "type": "GameObject",
+      "name": "3",
+      "path_id": 6418901582382599349
+    },
+    {
+      "type": "ParticleSystemRenderer",
+      "name": "",
+      "path_id": 6683396322887765173
+    },
+    {
+      "type": "ParticleSystem",
+      "name": "",
+      "path_id": 6891401931014704309
+    },
+    {
+      "type": "GameObject",
+      "name": "light",
+      "path_id": 6906513781478558901
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 6972111401922825397
+    },
+    {
+      "type": "ParticleSystemRenderer",
+      "name": "",
+      "path_id": 7034736492178541749
+    },
+    {
+      "type": "GameObject",
+      "name": "shizi",
+      "path_id": 7376869029611801781
+    },
+    {
+      "type": "GameObject",
+      "name": "PC",
+      "path_id": 7426647209701444789
+    },
+    {
+      "type": "MeshFilter",
+      "name": "",
+      "path_id": 7459540656782019765
+    },
+    {
+      "type": "ParticleSystemRenderer",
+      "name": "",
+      "path_id": 7618616148347227317
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 7762844469108444341
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 7765608841252670645
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 7987909339452509365
+    },
+    {
+      "type": "ParticleSystem",
+      "name": "",
+      "path_id": 8059248471777512629
+    },
+    {
+      "type": "ParticleSystemRenderer",
+      "name": "",
+      "path_id": 8168789890845609141
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 8232587402402499765
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 8809024923670056117
+    },
+    {
+      "type": "ParticleSystem",
+      "name": "",
+      "path_id": 8812502444282776757
+    },
+    {
+      "type": "Animator",
+      "name": "",
+      "path_id": 8981385530903006389
+    }
+  ]
+}

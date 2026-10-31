@@ -1,0 +1,26 @@
+{
+  "source_asset_path": "assets/beyond/arts/entity/actor/lady/laevat/animations/dialog/a_actor_laevat_dialog_virtual_state_akimboright.fbx##a_actor_laevat_dialog_virtual_state_akimboright_loop",
+  "bundle_container": "main/c994700f2cdade6aaefb6d1e.ab",
+  "objects": [
+    {
+      "type": "AnimationClip",
+      "name": "A_actor_laevat_dialog_virtual_state_akimboright_start",
+      "path_id": -5904147369348506471
+    },
+    {
+      "type": "AssetBundle",
+      "name": "main/c994700f2cdade6aaefb6d1e.ab",
+      "path_id": 1
+    },
+    {
+      "type": "AnimationClip",
+      "name": "A_actor_laevat_dialog_virtual_state_akimboright_loop",
+      "path_id": 1216538117002288281
+    },
+    {
+      "type": "AnimationClip",
+      "name": "A_actor_laevat_dialog_virtual_state_akimboright_end",
+      "path_id": 2790742003820518553
+    }
+  ]
+}

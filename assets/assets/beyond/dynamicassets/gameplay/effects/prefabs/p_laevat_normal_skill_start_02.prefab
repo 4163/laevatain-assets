@@ -1,0 +1,66 @@
+{
+  "source_asset_path": "assets/beyond/dynamicassets/gameplay/effects/prefabs/p_laevat_normal_skill_start_02.prefab",
+  "bundle_container": "main/4840234062b4df7dfe93da5b.ab",
+  "objects": [
+    {
+      "type": "ParticleSystemRenderer",
+      "name": "",
+      "path_id": -8284590278499810238
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -6576376014427831230
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -4728632108453116862
+    },
+    {
+      "type": "ParticleSystem",
+      "name": "",
+      "path_id": -4034223031320820670
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -3811956988623895486
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -2154983999345572798
+    },
+    {
+      "type": "GameObject",
+      "name": "Particle System",
+      "path_id": -722245261975862206
+    },
+    {
+      "type": "AssetBundle",
+      "name": "main/4840234062b4df7dfe93da5b.ab",
+      "path_id": 1
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 1977142147191227458
+    },
+    {
+      "type": "Animator",
+      "name": "",
+      "path_id": 2292810936689771586
+    },
+    {
+      "type": "GameObject",
+      "name": "Root",
+      "path_id": 3630710161271374914
+    },
+    {
+      "type": "GameObject",
+      "name": "P_laevat_normal_skill_start_02",
+      "path_id": 4158686365107831874
+    }
+  ]
+}

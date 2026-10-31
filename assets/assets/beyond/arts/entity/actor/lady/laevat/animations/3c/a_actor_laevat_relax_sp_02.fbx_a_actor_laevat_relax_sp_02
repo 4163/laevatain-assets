@@ -1,0 +1,16 @@
+{
+  "source_asset_path": "assets/beyond/arts/entity/actor/lady/laevat/animations/3c/a_actor_laevat_relax_sp_02.fbx##a_actor_laevat_relax_sp_02",
+  "bundle_container": "main/9960a0976f46d4218c5e92ed.ab",
+  "objects": [
+    {
+      "type": "AssetBundle",
+      "name": "main/9960a0976f46d4218c5e92ed.ab",
+      "path_id": 1
+    },
+    {
+      "type": "AnimationClip",
+      "name": "A_actor_laevat_relax_sp_02",
+      "path_id": 2230123767448284937
+    }
+  ]
+}

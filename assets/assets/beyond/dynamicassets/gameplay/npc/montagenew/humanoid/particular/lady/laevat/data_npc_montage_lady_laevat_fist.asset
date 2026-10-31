@@ -1,0 +1,16 @@
+{
+  "source_asset_path": "assets/beyond/dynamicassets/gameplay/npc/montagenew/humanoid/particular/lady/laevat/data_npc_montage_lady_laevat_fist.asset",
+  "bundle_container": "main/e358130dbf0b4f82af303b76.ab",
+  "objects": [
+    {
+      "type": "AssetBundle",
+      "name": "main/e358130dbf0b4f82af303b76.ab",
+      "path_id": 1
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "data_npc_montage_lady_laevat_fist",
+      "path_id": 6896654014372894771
+    }
+  ]
+}

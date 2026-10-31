@@ -1,0 +1,166 @@
+{
+  "source_asset_path": "assets/beyond/dynamicassets/gameplay/effects/prefabs/p_laevat_ui_overview_start_01_02_gacha.prefab",
+  "bundle_container": "main/534e6312ad9aeaf559a6b6dd.ab",
+  "objects": [
+    {
+      "type": "ParticleSystem",
+      "name": "",
+      "path_id": -8619098148201035824
+    },
+    {
+      "type": "GameObject",
+      "name": "huoxing001 (1)",
+      "path_id": -8293076483843684400
+    },
+    {
+      "type": "ParticleSystem",
+      "name": "",
+      "path_id": -8113880151859394608
+    },
+    {
+      "type": "ParticleSystemRenderer",
+      "name": "",
+      "path_id": -7552531714901866544
+    },
+    {
+      "type": "GameObject",
+      "name": "yanjiang",
+      "path_id": -7181320742323681328
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -6326199392545273904
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -6092576843160156208
+    },
+    {
+      "type": "ParticleSystem",
+      "name": "",
+      "path_id": -5888235287907792944
+    },
+    {
+      "type": "ParticleSystem",
+      "name": "",
+      "path_id": -4595264290435823664
+    },
+    {
+      "type": "GameObject",
+      "name": "fire001 (2)",
+      "path_id": -4565017026443147312
+    },
+    {
+      "type": "GameObject",
+      "name": "fire001_blank (1)",
+      "path_id": -4545519952682940464
+    },
+    {
+      "type": "GameObject",
+      "name": "P_laevat_ui_overview_start_01_02_gacha",
+      "path_id": -2609849122046408752
+    },
+    {
+      "type": "ParticleSystemRenderer",
+      "name": "",
+      "path_id": -2303497467466479664
+    },
+    {
+      "type": "GameObject",
+      "name": "fire005_waiquan (1)",
+      "path_id": -1768406105114277936
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -796843706520172592
+    },
+    {
+      "type": "AssetBundle",
+      "name": "main/534e6312ad9aeaf559a6b6dd.ab",
+      "path_id": 1
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 210875934558259152
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 287829864395311056
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 430424532837402576
+    },
+    {
+      "type": "ParticleSystem",
+      "name": "",
+      "path_id": 945374011793803216
+    },
+    {
+      "type": "ParticleSystemRenderer",
+      "name": "",
+      "path_id": 963856445036824528
+    },
+    {
+      "type": "GameObject",
+      "name": "fire001 (1)",
+      "path_id": 1939171494817695696
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 2257686564203792336
+    },
+    {
+      "type": "ParticleSystemRenderer",
+      "name": "",
+      "path_id": 3082558039587030992
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 3349549668679616464
+    },
+    {
+      "type": "ParticleSystemRenderer",
+      "name": "",
+      "path_id": 3738299715178203088
+    },
+    {
+      "type": "ParticleSystemRenderer",
+      "name": "",
+      "path_id": 4086226797569902544
+    },
+    {
+      "type": "GameObject",
+      "name": "fire005_waiquan (2)",
+      "path_id": 4158837243820640208
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 5040425038516389840
+    },
+    {
+      "type": "ParticleSystem",
+      "name": "",
+      "path_id": 6717358646907635664
+    },
+    {
+      "type": "ParticleSystem",
+      "name": "",
+      "path_id": 7365298593083033552
+    },
+    {
+      "type": "ParticleSystemRenderer",
+      "name": "",
+      "path_id": 7966501702846515152
+    }
+  ]
+}

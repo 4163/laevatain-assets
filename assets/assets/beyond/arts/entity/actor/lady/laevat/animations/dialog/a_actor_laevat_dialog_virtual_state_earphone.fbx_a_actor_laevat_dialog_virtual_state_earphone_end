@@ -1,0 +1,26 @@
+{
+  "source_asset_path": "assets/beyond/arts/entity/actor/lady/laevat/animations/dialog/a_actor_laevat_dialog_virtual_state_earphone.fbx##a_actor_laevat_dialog_virtual_state_earphone_end",
+  "bundle_container": "main/1df9d9771be2ad784161190e.ab",
+  "objects": [
+    {
+      "type": "AnimationClip",
+      "name": "A_actor_laevat_dialog_virtual_state_earphone_end",
+      "path_id": -6750408815386151311
+    },
+    {
+      "type": "AnimationClip",
+      "name": "A_actor_laevat_dialog_virtual_state_earphone_start",
+      "path_id": -673489167494400399
+    },
+    {
+      "type": "AssetBundle",
+      "name": "main/1df9d9771be2ad784161190e.ab",
+      "path_id": 1
+    },
+    {
+      "type": "AnimationClip",
+      "name": "A_actor_laevat_dialog_virtual_state_earphone_loop",
+      "path_id": 5870665785951794801
+    }
+  ]
+}

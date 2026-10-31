@@ -1,0 +1,16 @@
+{
+  "source_asset_path": "assets/beyond/arts/entity/actor/lady/laevat/animations/dialog/a_actor_laevat_dialog_virtual_single_idle_shake.fbx",
+  "bundle_container": "main/1f974c22b49ae5b2b6b47e11.ab",
+  "objects": [
+    {
+      "type": "AnimationClip",
+      "name": "A_actor_laevat_dialog_virtual_single_idle_shake",
+      "path_id": -8603614913136205055
+    },
+    {
+      "type": "AssetBundle",
+      "name": "main/1f974c22b49ae5b2b6b47e11.ab",
+      "path_id": 1
+    }
+  ]
+}

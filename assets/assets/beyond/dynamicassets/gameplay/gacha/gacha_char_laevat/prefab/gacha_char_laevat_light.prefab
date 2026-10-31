@@ -1,0 +1,61 @@
+{
+  "source_asset_path": "assets/beyond/dynamicassets/gameplay/gacha/gacha_char_laevat/prefab/gacha_char_laevat_light.prefab",
+  "bundle_container": "main/be93cfea1eff5d4b54d89d13.ab",
+  "objects": [
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -7848611089037014322
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -7584743452878386482
+    },
+    {
+      "type": "Animator",
+      "name": "",
+      "path_id": -6783713760249918770
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -5257862272053425458
+    },
+    {
+      "type": "GameObject",
+      "name": "DofSync",
+      "path_id": -2319700120409945394
+    },
+    {
+      "type": "PlayableDirector",
+      "name": "",
+      "path_id": -1728306669106443570
+    },
+    {
+      "type": "AssetBundle",
+      "name": "main/be93cfea1eff5d4b54d89d13.ab",
+      "path_id": 1
+    },
+    {
+      "type": "Camera",
+      "name": "",
+      "path_id": 3482355088073083598
+    },
+    {
+      "type": "GameObject",
+      "name": "gacha_char_laevat_Light",
+      "path_id": 3588800373071858382
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 4110177643768695502
+    },
+    {
+      "type": "Animator",
+      "name": "",
+      "path_id": 4661426779489028814
+    }
+  ]
+}

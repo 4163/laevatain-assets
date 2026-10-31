@@ -1,0 +1,16 @@
+{
+  "source_asset_path": "assets/beyond/arts/entity/actor/lady/laevat/animations/interact/a_actor_laevat_interact_receive_gift.fbx##a_actor_laevat_interact_receive_gift",
+  "bundle_container": "main/fcce67acfc1b81223e533126.ab",
+  "objects": [
+    {
+      "type": "AnimationClip",
+      "name": "A_actor_laevat_interact_receive_gift",
+      "path_id": -9129104326811818417
+    },
+    {
+      "type": "AssetBundle",
+      "name": "main/fcce67acfc1b81223e533126.ab",
+      "path_id": 1
+    }
+  ]
+}

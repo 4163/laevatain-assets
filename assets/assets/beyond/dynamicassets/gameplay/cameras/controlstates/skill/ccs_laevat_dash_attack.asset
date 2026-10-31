@@ -1,0 +1,16 @@
+{
+  "source_asset_path": "assets/beyond/dynamicassets/gameplay/cameras/controlstates/skill/ccs_laevat_dash_attack.asset",
+  "bundle_container": "main/00950ad9f6edb9822af7f242.ab",
+  "objects": [
+    {
+      "type": "AssetBundle",
+      "name": "main/00950ad9f6edb9822af7f242.ab",
+      "path_id": 1
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "CCS_laevat_dash_attack",
+      "path_id": 2807752109253226486
+    }
+  ]
+}

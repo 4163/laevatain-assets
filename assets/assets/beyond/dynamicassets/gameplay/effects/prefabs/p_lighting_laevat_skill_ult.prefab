@@ -1,0 +1,331 @@
+{
+  "source_asset_path": "assets/beyond/dynamicassets/gameplay/effects/prefabs/p_lighting_laevat_skill_ult.prefab",
+  "bundle_container": "main/a91d36e4eed5623ab1720d43.ab",
+  "objects": [
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -9009733798854332186
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -8964057188749938458
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -8116844368155184922
+    },
+    {
+      "type": "GameObject",
+      "name": "lt_cam001_fill_01",
+      "path_id": -7617720700123156250
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -7107188371443552026
+    },
+    {
+      "type": "Light",
+      "name": "",
+      "path_id": -6634161345225035546
+    },
+    {
+      "type": "GameObject",
+      "name": "Global Volume",
+      "path_id": -6529663057414459162
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -6500609224190398234
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -6462570717015707418
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -6437823723570335514
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -6119336983263711002
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "Tonemapping",
+      "path_id": -5331238817793271232
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -5060627690905014042
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "Bloom",
+      "path_id": -3657796144282822080
+    },
+    {
+      "type": "GameObject",
+      "name": "lt_cam001_rim_02",
+      "path_id": -3594551347412274970
+    },
+    {
+      "type": "GameObject",
+      "name": "lt_cam001_rim_01",
+      "path_id": -3570622323265113882
+    },
+    {
+      "type": "Animator",
+      "name": "",
+      "path_id": -2212445837843173146
+    },
+    {
+      "type": "GameObject",
+      "name": "lt_cam001_Drim_01",
+      "path_id": -2032823354462441242
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -1741915234683457306
+    },
+    {
+      "type": "Light",
+      "name": "",
+      "path_id": -1542220704710790938
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -1321029388462264090
+    },
+    {
+      "type": "GameObject",
+      "name": "PostProcess",
+      "path_id": -854638026624339738
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "HGCharacterVolume",
+      "path_id": -674438021587494336
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -183735543799615258
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -96399541072170778
+    },
+    {
+      "type": "AssetBundle",
+      "name": "main/a91d36e4eed5623ab1720d43.ab",
+      "path_id": 1
+    },
+    {
+      "type": "Light",
+      "name": "",
+      "path_id": 135873792468578534
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "env_lighting_skill_ult",
+      "path_id": 276567832907717737
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 281838679606751462
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "Env_Migrated_gvp_laevat_skill_ult",
+      "path_id": 502292761959031174
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 1000762739457913062
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 1373843007477969126
+    },
+    {
+      "type": "GameObject",
+      "name": "lt_cam001_rim_02 (2)",
+      "path_id": 1432276932390744294
+    },
+    {
+      "type": "GameObject",
+      "name": "[\u81ea\u52a8\u751f\u6210] Global Volume (Migrated)",
+      "path_id": 1723273085808865510
+    },
+    {
+      "type": "Animator",
+      "name": "",
+      "path_id": 2016394653849088230
+    },
+    {
+      "type": "Animator",
+      "name": "",
+      "path_id": 2090999867597058278
+    },
+    {
+      "type": "GameObject",
+      "name": "Global Env Volume",
+      "path_id": 2219498498840588518
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 2563799602697990374
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 2580343497526931686
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 2625338569695752422
+    },
+    {
+      "type": "GameObject",
+      "name": "ENV",
+      "path_id": 3357573797025673446
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 3446705340268409062
+    },
+    {
+      "type": "GameObject",
+      "name": "Lighting",
+      "path_id": 3697143969981395174
+    },
+    {
+      "type": "GameObject",
+      "name": "lt_cam001_rim_02 (1)",
+      "path_id": 4047656956862001382
+    },
+    {
+      "type": "Animator",
+      "name": "",
+      "path_id": 4399952332726333670
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 4612115434311512294
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 4637234191534256358
+    },
+    {
+      "type": "GameObject",
+      "name": "P_lighting_laevat_skill_ult",
+      "path_id": 4909034382003007718
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "gvp_laevat_skill_ult",
+      "path_id": 5787001322825751104
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 6107785743674175718
+    },
+    {
+      "type": "Light",
+      "name": "",
+      "path_id": 6209979947978256614
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 6807643552713273574
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "Vignette",
+      "path_id": 6912400389413050944
+    },
+    {
+      "type": "AnimationClip",
+      "name": "P_lighting_laevat_skill_ult",
+      "path_id": 7118113877772954017
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 7525794246877638886
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "ShadowsMidtonesHighlights",
+      "path_id": 7756659936691984960
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 7941051741672173798
+    },
+    {
+      "type": "Light",
+      "name": "",
+      "path_id": 8054258000779997414
+    },
+    {
+      "type": "GameObject",
+      "name": "lt_cam001_Dkey_01",
+      "path_id": 8114402751575879910
+    },
+    {
+      "type": "Light",
+      "name": "",
+      "path_id": 8329107395173413094
+    },
+    {
+      "type": "GameObject",
+      "name": "lt_cam001_fill_01 (2)",
+      "path_id": 8471793897782374630
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 8673083614269075686
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "ColorAdjustments",
+      "path_id": 8719490375308253760
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 8749021417663295718
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "HGAutoExposure",
+      "path_id": 8984037976853027392
+    }
+  ]
+}

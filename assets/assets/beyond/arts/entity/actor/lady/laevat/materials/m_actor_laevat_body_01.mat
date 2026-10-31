@@ -1,0 +1,16 @@
+{
+  "source_asset_path": "assets/beyond/arts/entity/actor/lady/laevat/materials/m_actor_laevat_body_01.mat",
+  "bundle_container": "main/1fd5083486b06c6b54dcf609.ab",
+  "objects": [
+    {
+      "type": "AssetBundle",
+      "name": "main/1fd5083486b06c6b54dcf609.ab",
+      "path_id": 1
+    },
+    {
+      "type": "Material",
+      "name": "M_actor_laevat_body_01",
+      "path_id": 8365393416475432594
+    }
+  ]
+}

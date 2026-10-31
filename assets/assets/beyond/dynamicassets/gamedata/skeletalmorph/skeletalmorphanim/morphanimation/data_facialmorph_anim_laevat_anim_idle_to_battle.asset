@@ -1,0 +1,16 @@
+{
+  "source_asset_path": "assets/beyond/dynamicassets/gamedata/skeletalmorph/skeletalmorphanim/morphanimation/data_facialmorph_anim_laevat_anim_idle_to_battle.asset",
+  "bundle_container": "main/0968016a1bbc181ec585173f.ab",
+  "objects": [
+    {
+      "type": "AssetBundle",
+      "name": "main/0968016a1bbc181ec585173f.ab",
+      "path_id": 1
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "data_facialmorph_anim_laevat_anim_idle_to_battle",
+      "path_id": 4563106700106454808
+    }
+  ]
+}

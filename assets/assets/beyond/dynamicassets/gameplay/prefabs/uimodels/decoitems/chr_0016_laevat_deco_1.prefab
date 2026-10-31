@@ -1,0 +1,291 @@
+{
+  "source_asset_path": "assets/beyond/dynamicassets/gameplay/prefabs/uimodels/decoitems/chr_0016_laevat_deco_1.prefab",
+  "bundle_container": "main/05fbb3431f6b79666ac761b3.ab",
+  "objects": [
+    {
+      "type": "SkinnedMeshRenderer",
+      "name": "",
+      "path_id": -8956016888629027738
+    },
+    {
+      "type": "GameObject",
+      "name": "lod1",
+      "path_id": -7935098568463475610
+    },
+    {
+      "type": "SkinnedMeshRenderer",
+      "name": "",
+      "path_id": -7102882013883917210
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -6188235072603743130
+    },
+    {
+      "type": "SkinnedMeshRenderer",
+      "name": "",
+      "path_id": -5975016245021172634
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -5947448544943137690
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -4953553769713623962
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -4164542250642629530
+    },
+    {
+      "type": "GameObject",
+      "name": "S_widget_laevat_04_lod1",
+      "path_id": -4028439593531728794
+    },
+    {
+      "type": "GameObject",
+      "name": "bingqilin_move_jnt",
+      "path_id": -3848068687346131866
+    },
+    {
+      "type": "GameObject",
+      "name": "S_widget_laevat_05_lod3",
+      "path_id": -3647945175773143962
+    },
+    {
+      "type": "GameObject",
+      "name": "S_widget_laevat_05_lod1",
+      "path_id": -3432050712809825178
+    },
+    {
+      "type": "GameObject",
+      "name": "chr_0016_laevat_deco_1",
+      "path_id": -3325684822642647962
+    },
+    {
+      "type": "GameObject",
+      "name": "lod0",
+      "path_id": -3270436771210257306
+    },
+    {
+      "type": "GameObject",
+      "name": "S_widget_laevat_05_lod0",
+      "path_id": -3148923658071368602
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -2980000558633182106
+    },
+    {
+      "type": "SkinnedMeshRenderer",
+      "name": "",
+      "path_id": -2737605223752131482
+    },
+    {
+      "type": "GameObject",
+      "name": "S_widget_laevat_03_lod2",
+      "path_id": -2380740355505841050
+    },
+    {
+      "type": "GameObject",
+      "name": "lod2",
+      "path_id": -1808723510031279002
+    },
+    {
+      "type": "SkinnedMeshRenderer",
+      "name": "",
+      "path_id": -1574730342578447258
+    },
+    {
+      "type": "GameObject",
+      "name": "S_widget_laevat_03_lod0",
+      "path_id": -1232765128494539674
+    },
+    {
+      "type": "GameObject",
+      "name": "S_widget_laevat_03_lod1",
+      "path_id": -1148220616069145498
+    },
+    {
+      "type": "GameObject",
+      "name": "Mesh_all",
+      "path_id": -1096995497709724570
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -821271974991291290
+    },
+    {
+      "type": "SkinnedMeshRenderer",
+      "name": "",
+      "path_id": -766858490418226074
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -346806553685517210
+    },
+    {
+      "type": "AssetBundle",
+      "name": "main/05fbb3431f6b79666ac761b3.ab",
+      "path_id": 1
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 367726000075775078
+    },
+    {
+      "type": "GameObject",
+      "name": "S_widget_laevat_04_lod2",
+      "path_id": 373194350743854182
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 732980331144420454
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 763734898077080678
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 857940813965630566
+    },
+    {
+      "type": "Animator",
+      "name": "",
+      "path_id": 891917212102499430
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 1123459259463310438
+    },
+    {
+      "type": "GameObject",
+      "name": "S_widget_laevat_05_lod2",
+      "path_id": 1179370003033758822
+    },
+    {
+      "type": "SkinnedMeshRenderer",
+      "name": "",
+      "path_id": 1348244040685722726
+    },
+    {
+      "type": "LODGroup",
+      "name": "",
+      "path_id": 1403098177183947878
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 2707621672323456102
+    },
+    {
+      "type": "GameObject",
+      "name": "S_widget_laevat_04_lod0",
+      "path_id": 2718757421196975206
+    },
+    {
+      "type": "GameObject",
+      "name": "S_widget_laevat_03_lod3",
+      "path_id": 2780802783012723814
+    },
+    {
+      "type": "SkinnedMeshRenderer",
+      "name": "",
+      "path_id": 2988717181742423142
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 3525956944810876006
+    },
+    {
+      "type": "GameObject",
+      "name": "S_widget_laevat_04_lod3",
+      "path_id": 3719490085159246950
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 3838493717925403750
+    },
+    {
+      "type": "GameObject",
+      "name": "Root",
+      "path_id": 4793465075422010470
+    },
+    {
+      "type": "SkinnedMeshRenderer",
+      "name": "",
+      "path_id": 4806501087258025062
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 4885370761299303526
+    },
+    {
+      "type": "GameObject",
+      "name": "yingtao_move_jnt",
+      "path_id": 5684997205035785318
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 5908019362225003622
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 5973260895578168422
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 6089058338516114534
+    },
+    {
+      "type": "SkinnedMeshRenderer",
+      "name": "",
+      "path_id": 6135968013657840742
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 6850191083757116518
+    },
+    {
+      "type": "SkinnedMeshRenderer",
+      "name": "",
+      "path_id": 7555549445329788006
+    },
+    {
+      "type": "GameObject",
+      "name": "lod3",
+      "path_id": 7749867143380278374
+    },
+    {
+      "type": "SkinnedMeshRenderer",
+      "name": "",
+      "path_id": 7771750013986937958
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 9146771129657334886
+    }
+  ]
+}

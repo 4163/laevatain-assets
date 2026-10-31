@@ -1,0 +1,16 @@
+{
+  "source_asset_path": "assets/beyond/dynamicassets/gameplay/npc/montagenew/humanoid/particular/lady/laevat/data_npc_montage_lady_laevat_reminder.asset",
+  "bundle_container": "main/8d4cea4188c7a0cee347b485.ab",
+  "objects": [
+    {
+      "type": "AssetBundle",
+      "name": "main/8d4cea4188c7a0cee347b485.ab",
+      "path_id": 1
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "data_npc_montage_lady_laevat_reminder",
+      "path_id": 860650519877089547
+    }
+  ]
+}

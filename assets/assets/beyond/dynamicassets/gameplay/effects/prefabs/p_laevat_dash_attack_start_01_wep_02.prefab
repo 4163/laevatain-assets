@@ -1,0 +1,56 @@
+{
+  "source_asset_path": "assets/beyond/dynamicassets/gameplay/effects/prefabs/p_laevat_dash_attack_start_01_wep_02.prefab",
+  "bundle_container": "main/5d042c851ab4c1b1eb159578.ab",
+  "objects": [
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -8879947472643313636
+    },
+    {
+      "type": "GameObject",
+      "name": "Internal",
+      "path_id": -3410974883723366372
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -2260066225739812836
+    },
+    {
+      "type": "AssetBundle",
+      "name": "main/5d042c851ab4c1b1eb159578.ab",
+      "path_id": 1
+    },
+    {
+      "type": "GameObject",
+      "name": "fire001",
+      "path_id": 435707824836947996
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 1680011433101209628
+    },
+    {
+      "type": "ParticleSystemRenderer",
+      "name": "",
+      "path_id": 4150487569414991900
+    },
+    {
+      "type": "GameObject",
+      "name": "P_laevat_dash_attack_start_01_wep_02",
+      "path_id": 4815092758352146460
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 6787060576338227228
+    },
+    {
+      "type": "ParticleSystem",
+      "name": "",
+      "path_id": 7173849179652141084
+    }
+  ]
+}

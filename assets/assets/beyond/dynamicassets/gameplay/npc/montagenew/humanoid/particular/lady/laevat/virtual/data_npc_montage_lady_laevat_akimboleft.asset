@@ -1,0 +1,16 @@
+{
+  "source_asset_path": "assets/beyond/dynamicassets/gameplay/npc/montagenew/humanoid/particular/lady/laevat/virtual/data_npc_montage_lady_laevat_akimboleft.asset",
+  "bundle_container": "main/9d9cd000ae87658db4a11b79.ab",
+  "objects": [
+    {
+      "type": "AssetBundle",
+      "name": "main/9d9cd000ae87658db4a11b79.ab",
+      "path_id": 1
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "data_npc_montage_lady_laevat_akimboleft",
+      "path_id": 2519367013471182361
+    }
+  ]
+}

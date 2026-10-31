@@ -1,0 +1,16 @@
+{
+  "source_asset_path": "assets/beyond/dynamicassets/gameplay/npc/animatorcontroller/controllerdescriptor/laevat_layer_clothopen.asset",
+  "bundle_container": "main/bec160b7e97c3dee1acb0e09.ab",
+  "objects": [
+    {
+      "type": "AssetBundle",
+      "name": "main/bec160b7e97c3dee1acb0e09.ab",
+      "path_id": 1
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "laevat_layer_ClothOpen",
+      "path_id": 6719957567153483666
+    }
+  ]
+}

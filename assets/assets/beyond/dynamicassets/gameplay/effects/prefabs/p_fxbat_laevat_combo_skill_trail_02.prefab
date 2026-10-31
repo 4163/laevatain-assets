@@ -1,0 +1,166 @@
+{
+  "source_asset_path": "assets/beyond/dynamicassets/gameplay/effects/prefabs/p_fxbat_laevat_combo_skill_trail_02.prefab",
+  "bundle_container": "main/aec6407a039e3679810210f7.ab",
+  "objects": [
+    {
+      "type": "Material",
+      "name": "M_fx_laevat_hx_267",
+      "path_id": -8182646240204525090
+    },
+    {
+      "type": "MeshRenderer",
+      "name": "",
+      "path_id": -6700134297286028979
+    },
+    {
+      "type": "Animator",
+      "name": "",
+      "path_id": -6061714856680500915
+    },
+    {
+      "type": "ParticleSystem",
+      "name": "",
+      "path_id": -6004115739048750771
+    },
+    {
+      "type": "MeshFilter",
+      "name": "",
+      "path_id": -5860692221799050931
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -5556707638750424755
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -4518183028521512627
+    },
+    {
+      "type": "MeshFilter",
+      "name": "",
+      "path_id": -3760710520839679667
+    },
+    {
+      "type": "GameObject",
+      "name": "lizi2 (2)",
+      "path_id": -3037255650058055347
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": -2836481958696922803
+    },
+    {
+      "type": "GameObject",
+      "name": "quan",
+      "path_id": -2352005504930033331
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -1986113429252091571
+    },
+    {
+      "type": "GameObject",
+      "name": "PC",
+      "path_id": -1674009870212345523
+    },
+    {
+      "type": "GameObject",
+      "name": "lizi",
+      "path_id": -37380917569728179
+    },
+    {
+      "type": "AssetBundle",
+      "name": "main/aec6407a039e3679810210f7.ab",
+      "path_id": 1
+    },
+    {
+      "type": "ParticleSystemRenderer",
+      "name": "",
+      "path_id": 482481974672740685
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 491712997474881869
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 727763759213367629
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 801955193929978189
+    },
+    {
+      "type": "ParticleSystem",
+      "name": "",
+      "path_id": 2358929183323967821
+    },
+    {
+      "type": "GameObject",
+      "name": "P_fxbat_laevat_combo_skill_trail_02",
+      "path_id": 2716171161775034701
+    },
+    {
+      "type": "Material",
+      "name": "M_fx_laevat_hx_265",
+      "path_id": 3731481977260085765
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 3786536711594496333
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 3982284551461130573
+    },
+    {
+      "type": "GameObject",
+      "name": "SMOKE",
+      "path_id": 4130587139397046605
+    },
+    {
+      "type": "ParticleSystem",
+      "name": "",
+      "path_id": 4552616160432607565
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 6897016211283890509
+    },
+    {
+      "type": "ParticleSystemRenderer",
+      "name": "",
+      "path_id": 6962205367424438605
+    },
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": 7497804130134446413
+    },
+    {
+      "type": "MeshRenderer",
+      "name": "",
+      "path_id": 7680405249294782797
+    },
+    {
+      "type": "GameObject",
+      "name": "dilie_quan",
+      "path_id": 7783947532199383373
+    },
+    {
+      "type": "ParticleSystemRenderer",
+      "name": "",
+      "path_id": 8352818399941153101
+    }
+  ]
+}

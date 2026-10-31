@@ -1,0 +1,26 @@
+{
+  "source_asset_path": "assets/beyond/dynamicassets/gameplay/effects/prefabs/p_fxbat_laevat_power_attack_asset.prefab",
+  "bundle_container": "main/e075cad11a064b5a7a76cf55.ab",
+  "objects": [
+    {
+      "type": "Transform",
+      "name": "",
+      "path_id": -2585962074980131695
+    },
+    {
+      "type": "GameObject",
+      "name": "P_fxbat_laevat_power_attack_asset",
+      "path_id": -2110989022611809135
+    },
+    {
+      "type": "AssetBundle",
+      "name": "main/e075cad11a064b5a7a76cf55.ab",
+      "path_id": 1
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "",
+      "path_id": 5150594763359411345
+    }
+  ]
+}

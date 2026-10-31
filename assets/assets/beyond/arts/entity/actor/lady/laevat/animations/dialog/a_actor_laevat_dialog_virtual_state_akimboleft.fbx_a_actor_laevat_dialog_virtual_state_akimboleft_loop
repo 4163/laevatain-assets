@@ -1,0 +1,26 @@
+{
+  "source_asset_path": "assets/beyond/arts/entity/actor/lady/laevat/animations/dialog/a_actor_laevat_dialog_virtual_state_akimboleft.fbx##a_actor_laevat_dialog_virtual_state_akimboleft_loop",
+  "bundle_container": "main/96428f89f70912f4bad195bf.ab",
+  "objects": [
+    {
+      "type": "AnimationClip",
+      "name": "A_actor_laevat_dialog_virtual_state_akimboleft_end",
+      "path_id": -6678731970448810816
+    },
+    {
+      "type": "AnimationClip",
+      "name": "A_actor_laevat_dialog_virtual_state_akimboleft_loop",
+      "path_id": -5534052962399511360
+    },
+    {
+      "type": "AssetBundle",
+      "name": "main/96428f89f70912f4bad195bf.ab",
+      "path_id": 1
+    },
+    {
+      "type": "AnimationClip",
+      "name": "A_actor_laevat_dialog_virtual_state_akimboleft_start",
+      "path_id": 8717986282137951424
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "source_asset_path": "assets/beyond/dynamicassets/gameplay/gacha/gacha_char_laevat/playable/gacha_char_laevat_actor.playable",
+  "bundle_container": "main/c1baf333461fb7d3b0e1f7c5.ab",
+  "objects": [
+    {
+      "type": "MonoBehaviour",
+      "name": "AnimationPlayableAsset",
+      "path_id": -7852698395691343852
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "AnimationPlayableAsset",
+      "path_id": -6447048341357813740
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "gacha_char_laevat_Actor",
+      "path_id": -6341112938672906220
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "AnimationPlayableAsset",
+      "path_id": -6201029750899761132
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "AnimationPlayableAsset",
+      "path_id": -5676577881465053164
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "AnimationPlayableAsset",
+      "path_id": -3189524809469616108
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "Animation Track",
+      "path_id": -1573233569730224108
+    },
+    {
+      "type": "AssetBundle",
+      "name": "main/c1baf333461fb7d3b0e1f7c5.ab",
+      "path_id": 1
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "Loop Track",
+      "path_id": 1770145993730334740
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "Animation Track (1)",
+      "path_id": 4538653833243566100
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "LoopPlayableClip",
+      "path_id": 8668653578080854036
+    }
+  ]
+}

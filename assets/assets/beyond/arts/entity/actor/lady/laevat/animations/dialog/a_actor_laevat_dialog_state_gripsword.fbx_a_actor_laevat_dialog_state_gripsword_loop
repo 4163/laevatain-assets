@@ -1,0 +1,21 @@
+{
+  "source_asset_path": "assets/beyond/arts/entity/actor/lady/laevat/animations/dialog/a_actor_laevat_dialog_state_gripsword.fbx##a_actor_laevat_dialog_state_gripsword_loop",
+  "bundle_container": "main/45d6f4972350c841cecd8cd7.ab",
+  "objects": [
+    {
+      "type": "AnimationClip",
+      "name": "A_actor_laevat_dialog_state_gripsword_start",
+      "path_id": -6169548679299857308
+    },
+    {
+      "type": "AnimationClip",
+      "name": "A_actor_laevat_dialog_state_gripsword_loop",
+      "path_id": -2481859392982154140
+    },
+    {
+      "type": "AssetBundle",
+      "name": "main/45d6f4972350c841cecd8cd7.ab",
+      "path_id": 1
+    }
+  ]
+}

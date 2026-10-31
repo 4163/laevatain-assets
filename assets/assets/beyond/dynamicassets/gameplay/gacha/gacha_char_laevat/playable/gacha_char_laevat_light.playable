@@ -1,0 +1,41 @@
+{
+  "source_asset_path": "assets/beyond/dynamicassets/gameplay/gacha/gacha_char_laevat/playable/gacha_char_laevat_light.playable",
+  "bundle_container": "main/d8b0ecc1304fb071caf0cd1d.ab",
+  "objects": [
+    {
+      "type": "MonoBehaviour",
+      "name": "DOF INF",
+      "path_id": -5479211913842612572
+    },
+    {
+      "type": "AssetBundle",
+      "name": "main/d8b0ecc1304fb071caf0cd1d.ab",
+      "path_id": 1
+    },
+    {
+      "type": "AnimationClip",
+      "name": "DOF INF",
+      "path_id": 3182601002090407588
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "A_actor_laevat_gacha_cam",
+      "path_id": 3397179841553409700
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "Camera DOF",
+      "path_id": 4843079196884903588
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "gacha_char_laevat_Light",
+      "path_id": 7473005795823363748
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "DOF Override",
+      "path_id": 8383289918670677668
+    }
+  ]
+}

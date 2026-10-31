@@ -1,0 +1,16 @@
+{
+  "source_asset_path": "assets/beyond/dynamicassets/gameplay/npc/animatorcontroller/controllerdescriptor/laevat_layer_lookatbody.asset",
+  "bundle_container": "main/10bc58c00afe124ee7600eeb.ab",
+  "objects": [
+    {
+      "type": "AssetBundle",
+      "name": "main/10bc58c00afe124ee7600eeb.ab",
+      "path_id": 1
+    },
+    {
+      "type": "MonoBehaviour",
+      "name": "laevat_layer_lookatBody",
+      "path_id": 1115799307868689783
+    }
+  ]
+}

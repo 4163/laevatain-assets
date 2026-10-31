@@ -1,0 +1,16 @@
+{
+  "source_asset_path": "assets/beyond/dynamicassets/gameplay/npc/animatorcontroller/testhelperanimator/testhelperanimator3c/ac_3c_lady_laevat_test_helper.controller",
+  "bundle_container": "main/5dfa1b1b26de89b43b7709d7.ab",
+  "objects": [
+    {
+      "type": "AssetBundle",
+      "name": "main/5dfa1b1b26de89b43b7709d7.ab",
+      "path_id": 1
+    },
+    {
+      "type": "AnimatorController",
+      "name": "AC_3c_lady_laevat_test_helper",
+      "path_id": 830075452288847211
+    }
+  ]
+}
