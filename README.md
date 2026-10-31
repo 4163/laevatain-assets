@@ -46,8 +46,8 @@ Full technical details, cluster bindings, and runtime blueprints are documented 
 | REA | Reverse engineering framework, MCP server, archive inspection, and pipeline automation | [morluto/rea](https://github.com/morluto/rea) |
 | Custom extraction tooling | Proprietary VFS container decompression, bundle cipher decryption, and stream demuxing | [tools/](tools/) |
 | EndfieldStudio | Reverse engineering toolset for Arknights: Endfield AssetBundles | [EIHRTeam/EndfieldStudio](https://github.com/EIHRTeam/EndfieldStudio) |
-| AnimeStudio CLI | Core Unity AssetBundle deserialization engine | [Razmoth/AnimeStudio](https://github.com/Razmoth/AnimeStudio) |
-| UnityPy | Python Unity AssetBundle parsing library | [HearthSim/UnityPy](https://github.com/HearthSim/UnityPy) |
+| AnimeStudio CLI | Core Unity AssetBundle deserialization engine | [Escartem/AnimeStudio](https://github.com/Escartem/AnimeStudio) |
+| UnityPy | Python Unity AssetBundle parsing library | [K0lb3/UnityPy](https://github.com/K0lb3/UnityPy) |
 | vgmstream | Wwise WEM audio decoding and browser WebAssembly audio playback | [vgmstream/vgmstream](https://github.com/vgmstream/vgmstream) |
 
 ## Disclaimer
