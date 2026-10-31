@@ -44,11 +44,17 @@ Full technical details, cluster bindings, and runtime blueprints are documented 
 | Tool | Role | Repository / Reference |
 |---|---|---|
 | REA | Reverse engineering framework, MCP server, archive inspection, and pipeline automation | [morluto/rea](https://github.com/morluto/rea) |
-| AnimeStudio CLI (BatchBundleUnpacker) | Unity AssetBundle extraction and asset deserialization | [Razmoth/AnimeStudio](https://github.com/Razmoth/AnimeStudio) |
-| UnityPy | Python Unity AssetBundle geometry, texture, and animation unpacking | [HearthSim/UnityPy](https://github.com/HearthSim/UnityPy) |
-| endfield_vfs | Custom VFS / BLC chunk container decompression and extraction | [Endfield Research](https://github.com/4163/i-asset-extraction) |
+| endfield_vfs | Virtual File System (`.blc`/`.chk`) parser and ChaCha20 chunk block decryptor | [tools/endfield_vfs.py](tools/endfield_vfs.py) |
+| endfield_bundle_crypto | Unity AssetBundle header XOR and SBox decryption | [tools/endfield_bundle_crypto.py](tools/endfield_bundle_crypto.py) |
+| BatchBundleUnpacker | Multi-threaded batch bundle unpacker wrapper built for AnimeStudio engine | [tools/BatchBundleUnpacker.cs](tools/BatchBundleUnpacker.cs) |
+| UnityPy Deserializer | Automated extraction of 3D meshes (OBJ/FBX), textures (PNG), and animations | [tools/deserialize_assets.py](tools/deserialize_assets.py) |
+| CRI USM Demuxer | CRI Sofdec USM video stream demuxing into VP9 IVF and H.264 MP4 conversion | [tools/process_usm.py](tools/process_usm.py) |
+| SparkBuffer | SparkBuffer / FlatBuffer schema-less binary decoder for `.bytes` game data tables | [tools/SparkBuffer.cs](tools/SparkBuffer.cs) |
+| Wwise PCK Extractor | Audiokinetic Wwise PCK container parser and `.wem` audio stream extractor | [tools/pck_extractor.py](tools/pck_extractor.py) |
+| EndfieldStudio | Reverse engineering toolset for Arknights: Endfield AssetBundles | [EIHRTeam/EndfieldStudio](https://github.com/EIHRTeam/EndfieldStudio) |
+| AnimeStudio CLI | Core Unity AssetBundle deserialization engine | [Razmoth/AnimeStudio](https://github.com/Razmoth/AnimeStudio) |
+| UnityPy | Python Unity AssetBundle parsing library | [HearthSim/UnityPy](https://github.com/HearthSim/UnityPy) |
 | vgmstream | Wwise WEM audio decoding and browser WebAssembly audio playback | [vgmstream/vgmstream](https://github.com/vgmstream/vgmstream) |
-| CRI USM Demuxer | CRI Sofdec USM video stream demuxing into VP9 IVF and H.264 conversion | Proprietary CRI demuxer specification |
 
 ## Disclaimer
 
