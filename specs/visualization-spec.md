@@ -11,7 +11,7 @@ Stage: Stage 4 Presentation and visualization specification
 
 This document defines the technical presentation and visualization blueprint for all 1,591 Category B compound assets and transform-dependent Category A media established during Stage 3. It provides structural specifications for 3D character geometry, skeletal rigs, PBR material bindings, animation controller mapping, particle VFX prefabs, and recommended runtime engines.
 
-Standalone media (902 audio tracks, 131 UI textures, 24 video files, and 4 structured text dossiers) function independently in [`assets/audio/`](assets/audio), [`assets/textures/`](assets/textures), [`assets/videos/`](assets/videos), and [`assets/text/`](assets/text). In contrast, the compound assets detailed below depend on specific engine scene graphs, shader pipelines, or animation controller state machines to render correctly.
+Standalone media (902 audio tracks, 131 UI textures, 24 video files, and 4 structured text dossiers) function independently in `assets/audio/`, `assets/textures/`, `assets/videos/`, and `assets/text/`. In contrast, the compound assets detailed below depend on specific engine scene graphs, shader pipelines, or animation controller state machines to render correctly.
 
 ---
 
@@ -19,7 +19,7 @@ Standalone media (902 audio tracks, 131 UI textures, 24 video files, and 4 struc
 
 ### Cluster 1: Laevatain 3D character mesh, skeletal rig, and LOD tiers
 
-The primary character geometry and skeletal bindings reside under [`assets/beyond/arts/entity/actor/lady/laevat/`](assets/beyond/arts/entity/actor/lady/laevat/):
+The primary character geometry and skeletal bindings reside under `assets/beyond/arts/entity/actor/lady/laevat/`:
 
 #### Mesh structure and polygon allocation
 The character model is divided into modular mesh components across 4 discrete level of detail (LOD) tiers:
@@ -55,7 +55,7 @@ The model uses Hypergryph's 68-node Humanoid Lady skeleton rig:
 
 ### Cluster 2: Character 3D surface textures and PBR channel maps
 
-Surface definitions in [`assets/beyond/arts/entity/actor/lady/laevat/textures/`](assets/beyond/arts/entity/actor/lady/laevat/textures/) require multi-channel PBR decoding:
+Surface definitions in `assets/beyond/arts/entity/actor/lady/laevat/textures/` require multi-channel PBR decoding:
 
 #### Diffuse albedo maps (`*_d.tga.png`)
 - `t_actor_laevat_body_01_d.tga.png` (2048x2048): Base skin tone, torso attire, and combat boot diffuse albedo.
@@ -82,7 +82,7 @@ Channel-packed RGBA textures defining surface material responses:
 
 ### Cluster 3: Character animation library and locomotion suites
 
-The animation library comprises 328 animation tracks (`.anim` and `.fbx_*` clips) in [`assets/beyond/arts/`](assets/beyond/arts/):
+The animation library comprises 328 animation tracks (`.anim` and `.fbx_*` clips) in `assets/beyond/arts/`:
 
 #### Locomotion and stance tracks
 - Idle stances: `a_actor_laevat_idle_loop_entry`, `a_actor_laevat_dialog_state_idle_loop`.
@@ -104,7 +104,7 @@ The animation library comprises 328 animation tracks (`.anim` and `.fbx_*` clips
 
 ### Cluster 4: Material graphs and stylized PBR shader bindings
 
-20 material definition files (`.mat`) in [`assets/beyond/arts/`](assets/beyond/arts/) govern surface shading:
+20 material definition files (`.mat`) in `assets/beyond/arts/` govern surface shading:
 
 #### Character body material
 - Binds `_MainTex` to `t_actor_laevat_body_01_d.tga.png`.
@@ -144,7 +144,7 @@ Physics configurations are defined in `Data/Json/NPC/PrefabInfo/npc_chr_0016_lae
 
 ### Cluster 6: Combat VFX particle systems and flame prefabs
 
-204 Unity gameplay prefabs in [`assets/beyond/dynamicassets/gameplay/effects/prefabs/`](assets/beyond/dynamicassets/gameplay/effects/prefabs/):
+204 Unity gameplay prefabs in `assets/beyond/dynamicassets/gameplay/effects/prefabs/`:
 
 - **Flame blade trail:** Ribbon mesh emitter driven by sword root and tip locators (`Socket_Weapon_R_Tip`, `Socket_Weapon_R_Root`).
 - **Volcanic ground fissure:** Quad mesh particles sampling `t_fx_laevat_01_d.png` and noise displacement masks to simulate cracked earth lava flows.
@@ -154,7 +154,7 @@ Physics configurations are defined in `Data/Json/NPC/PrefabInfo/npc_chr_0016_lae
 
 ### Cluster 7: Pre-patch base divergence prefabs
 
-53 pre-patch flame effect prefabs in [`assets/divergence/pre_patch_base/`](assets/divergence/pre_patch_base/):
+53 pre-patch flame effect prefabs in `assets/divergence/pre_patch_base/`:
 
 - **Assets:** Original pre-rework base shipping configurations for:
   - `p_laevat_normal_skill_start_01`
@@ -168,7 +168,7 @@ Physics configurations are defined in `Data/Json/NPC/PrefabInfo/npc_chr_0016_lae
 
 ### Cluster 8: Core data tables, behavior configs, and lip-sync visemes
 
-Data tables in [`Data/TableCfg/`](assets/Data/TableCfg/) and configs in [`Data/Json/`](assets/Data/Json/):
+Data tables in `Data/TableCfg/` and configs in `Data/Json/`:
 
 - **SparkBuffer tables:** Binary character parameters, growth tables, weapon recommendation tables, and localized dialogue strings.
 - **Behavior trees:** 56 buff parameters, 33 skill execution trees, and interaction montage state transitions.
@@ -214,7 +214,7 @@ Godot 4 provides open-source native importing:
 
 ## 4. Transform-dependent standalone graphics
 
-Specialized standalone textures in [`assets/textures/`](assets/textures) require presentation transforms to render outside the engine:
+Specialized standalone textures in `assets/textures/` require presentation transforms to render outside the engine:
 
 ### 4.1 Character remote portrait icon
 - **Source file:** `assets/textures/portraits_and_branding/charremoteicon700_icon_chr_0016_laevat.png`

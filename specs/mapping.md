@@ -203,7 +203,7 @@ An exhaustive audit across physical client packages (`StreamingAssets/` vs. `Per
 - **Visual models, textures, animations:** 0 purges. All 2,281 asset references in `manifest.hgmmap` remain present across base and patched distributions.
 - **External timeline confirmation:** Debuted at global launch (January 22, 2026) as the launch rate-up banner with permanent story quest content. Zero limited-time festival content or delisted skins have been pruned.
 
-For complete itemized tables, container hashes, and external corroboration details, see [specs/divergence-audit.md](specs/divergence-audit.md).
+For complete itemized tables, container hashes, and external corroboration details, see [divergence-audit.md](divergence-audit.md).
 
 ### Confidence ladder verification
 - **Identity resolution:** Verified across EN, JP, CN, KR, alter ego (Surtr), internal ID (`chr_0016_laevat`), short slug (`laevat`), chapter tag (`c16`), and assigned alias ("Olga Randall").

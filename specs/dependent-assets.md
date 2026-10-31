@@ -9,39 +9,39 @@ Stage: Stage 3 Asset Categorization
 
 ## 1. Asset categorization summary and accounting
 
-In Stage 3 of the pipeline, all 2,652 assets extracted into [`assets/`](assets) were audited and partitioned into two categories without duplicating files across separate directories:
+In Stage 3 of the pipeline, all 2,652 assets extracted into `assets/` were audited and partitioned into two categories without duplicating files across separate directories:
 
-- **Category A (Standalone assets organized in-place):** 1,061 files (108.36 MB) functioning independently without runtime dependencies. These were relocated into structured directories under [`assets/audio/`](assets/audio), [`assets/textures/`](assets/textures), [`assets/videos/`](assets/videos), and [`assets/text/`](assets/text).
+- **Category A (Standalone assets organized in-place):** 1,061 files (108.36 MB) functioning independently without runtime dependencies. These were relocated into structured directories under `assets/audio/`, `assets/textures/`, `assets/videos/`, and `assets/text/`.
 - **Category B (Dependent and compound assets preserved in original structure):** 1,591 files (179.13 MB) comprising multi-file assemblies (3D meshes, skeleton rigs, PBR texture maps, materials, cloth configs, animation clips, particle prefabs, and game tables) that require runtime engine graphs. These remain anchored in their original extracted package hierarchy to preserve relative file linkages.
 
 ### Accounting ledger
 
 | Category | Domain | Files | Formats | Location in assets |
 |---|---|---|---|---|
-| **Category A** | Audio | 902 | `.wem` | [`assets/audio/`](assets/audio) |
-| **Category A** | Graphics | 131 | `.png` | [`assets/textures/`](assets/textures) |
-| **Category A** | Video and Streams | 24 | `.usm`, `.mp4`, `.png` | [`assets/videos/`](assets/videos) |
-| **Category A** | Structured Text and Dossiers | 4 | `.json` | [`assets/text/`](assets/text) |
-| **Category B** | 3D Meshes and LOD Tiers | 142 | `.obj`, `.fbx` | [`assets/beyond/arts/entity/actor/lady/laevat/`](assets/beyond/arts) |
-| **Category B** | Character Animations | 328 | `.anim`, `.fbx_*` | [`assets/beyond/arts/`](assets/beyond/arts) |
-| **Category B** | Gameplay and VFX Prefabs | 204 | `.prefab` | [`assets/beyond/dynamicassets/gameplay/effects/prefabs/`](assets/beyond/dynamicassets) |
-| **Category B** | Pre-Patch Divergence Prefabs | 53 | `.prefab` | [`assets/divergence/pre_patch_base/`](assets/divergence/pre_patch_base) |
-| **Category B** | Scriptable Objects and Assets | 457 | `.asset` | [`assets/beyond/dynamicassets/`](assets/beyond/dynamicassets) |
-| **Category B** | Behavior and NPC Configs | 226 | `.json` | [`assets/Data/Json/`](assets/Data/Json) |
-| **Category B** | 3D Model and VFX Textures | 38 | `.png` | [`assets/beyond/arts/`](assets/beyond/arts) |
-| **Category B** | Environment Cubemaps | 39 | `.exr` | [`assets/beyond/dynamicassets/`](assets/beyond/dynamicassets) |
-| **Category B** | Materials and Shaders | 20 | `.mat` | [`assets/beyond/arts/`](assets/beyond/arts) |
-| **Category B** | Animator Controllers | 10 | `.controller` | [`assets/beyond/dynamicassets/`](assets/beyond/dynamicassets) |
-| **Category B** | Core Data Tables | 10 | `.bytes` | [`assets/Data/TableCfg/`](assets/Data/TableCfg) |
-| **Category B** | Playable Timelines | 6 | `.playable` | [`assets/beyond/dynamicassets/`](assets/beyond/dynamicassets) |
-| **Category B** | Physics and Mask Bindings | 2 | `.mask`, `.bindings` | [`assets/beyond/arts/`](assets/beyond/arts) |
+| **Category A** | Audio | 902 | `.wem` | `assets/audio/` |
+| **Category A** | Graphics | 131 | `.png` | `assets/textures/` |
+| **Category A** | Video and Streams | 24 | `.usm`, `.mp4`, `.png` | `assets/videos/` |
+| **Category A** | Structured Text and Dossiers | 4 | `.json` | `assets/text/` |
+| **Category B** | 3D Meshes and LOD Tiers | 142 | `.obj`, `.fbx` | `assets/beyond/arts/entity/actor/lady/laevat/` |
+| **Category B** | Character Animations | 328 | `.anim`, `.fbx_*` | `assets/beyond/arts/` |
+| **Category B** | Gameplay and VFX Prefabs | 204 | `.prefab` | `assets/beyond/dynamicassets/gameplay/effects/prefabs/` |
+| **Category B** | Pre-Patch Divergence Prefabs | 53 | `.prefab` | `assets/divergence/pre_patch_base/` |
+| **Category B** | Scriptable Objects and Assets | 457 | `.asset` | `assets/beyond/dynamicassets/` |
+| **Category B** | Behavior and NPC Configs | 226 | `.json` | `assets/Data/Json/` |
+| **Category B** | 3D Model and VFX Textures | 38 | `.png` | `assets/beyond/arts/` |
+| **Category B** | Environment Cubemaps | 39 | `.exr` | `assets/beyond/dynamicassets/` |
+| **Category B** | Materials and Shaders | 20 | `.mat` | `assets/beyond/arts/` |
+| **Category B** | Animator Controllers | 10 | `.controller` | `assets/beyond/dynamicassets/` |
+| **Category B** | Core Data Tables | 10 | `.bytes` | `assets/Data/TableCfg/` |
+| **Category B** | Playable Timelines | 6 | `.playable` | `assets/beyond/dynamicassets/` |
+| **Category B** | Physics and Mask Bindings | 2 | `.mask`, `.bindings` | `assets/beyond/arts/` |
 | **Total Inventory** | | **2,652** | | |
 
 ---
 
 ## 2. Pre-organization directory trace
 
-To retain complete provenance after in-place reorganization, the state of the initial mirrored extraction was recorded prior to moving standalone files. The full machine-readable audit is preserved in [`meta/pre_cleaning_snapshot.json`](meta/pre_cleaning_snapshot.json).
+To retain complete provenance after in-place reorganization, the state of the initial mirrored extraction was recorded prior to moving standalone files. The full machine-readable audit is preserved in `meta/pre_cleaning_snapshot.json`.
 
 ### Initial extraction metrics
 
@@ -69,7 +69,7 @@ To retain complete provenance after in-place reorganization, the state of the in
 
 ## 3. Provenance ledger
 
-Every standalone file relocated out of its initial package directory is recorded in [`meta/provenance_ledger.json`](meta/provenance_ledger.json). The ledger tracks original extraction paths, destination paths, file sizes, and cryptographic SHA-256 hashes.
+Every standalone file relocated out of its initial package directory is recorded in `meta/provenance_ledger.json`. The ledger tracks original extraction paths, destination paths, file sizes, and cryptographic SHA-256 hashes.
 
 ### Relocation summary
 
@@ -99,54 +99,54 @@ Every standalone file relocated out of its initial package directory is recorded
 
 Category A assets require no runtime skeletal rigs, material binders, or scene dependency graphs to play, view, or render.
 
-### 4.1 Audio ([`assets/audio/`](assets/audio))
+### 4.1 Audio (`assets/audio/`)
 
 902 playable Wwise `.wem` audio tracks (43.07 MB) voiced by Horie Yui (堀江由衣), organized into 6 functional dialogue domains:
 
-- [`assets/audio/combat_and_cues/`](assets/audio/combat_and_cues): 138 files. Normal skill invocations, combo skill callouts, ultimate skill activation chants, out-of-battle idle remarks, defeat grunts, and level-up voice recordings.
-- [`assets/audio/common_extra/`](assets/audio/common_extra): 28 files. Interactive overworld dialogue, greetings, and system notifications.
-- [`assets/audio/narrative_c16m1/`](assets/audio/narrative_c16m1): 168 files. Chapter 16 Act 1 story quest dialogue, radio communications, and memory resonance scenes.
-- [`assets/audio/narrative_c16m2/`](assets/audio/narrative_c16m2): 178 files. Chapter 16 Act 2 story quest dialogue and field communications.
-- [`assets/audio/narrative_c16m3/`](assets/audio/narrative_c16m3): 202 files. Chapter 16 Act 3 climax dialogue during the volcanic basin crossing.
-- [`assets/audio/narrative_c16m4/`](assets/audio/narrative_c16m4): 188 files. Chapter 16 Act 4 story conclusion and awakening dialogue.
+- `assets/audio/combat_and_cues/`: 138 files. Normal skill invocations, combo skill callouts, ultimate skill activation chants, out-of-battle idle remarks, defeat grunts, and level-up voice recordings.
+- `assets/audio/common_extra/`: 28 files. Interactive overworld dialogue, greetings, and system notifications.
+- `assets/audio/narrative_c16m1/`: 168 files. Chapter 16 Act 1 story quest dialogue, radio communications, and memory resonance scenes.
+- `assets/audio/narrative_c16m2/`: 178 files. Chapter 16 Act 2 story quest dialogue and field communications.
+- `assets/audio/narrative_c16m3/`: 202 files. Chapter 16 Act 3 climax dialogue during the volcanic basin crossing.
+- `assets/audio/narrative_c16m4/`: 188 files. Chapter 16 Act 4 story conclusion and awakening dialogue.
 
-### 4.2 Videos and streams ([`assets/videos/`](assets/videos))
+### 4.2 Videos and streams (`assets/videos/`)
 
 24 media files (18.66 MB) providing cutscenes, combat demonstrations, and UI snapshot animations:
 
-- [`assets/videos/guides/`](assets/videos/guides): 21 files (7 CRI USM video payloads, 7 demuxed MP4 web streams, and 7 high-resolution PNG thumbnails) demonstrating combat trails, plunge attacks, combo skills, and ultimate execution.
-- [`assets/videos/ui_snapshots/`](assets/videos/ui_snapshots): 3 files (1 CRI USM video, 1 MP4 stream, 1 PNG thumbnail) rendering Laevatain's interactive UI snapshot showcase animation.
+- `assets/videos/guides/`: 21 files (7 CRI USM video payloads, 7 demuxed MP4 web streams, and 7 high-resolution PNG thumbnails) demonstrating combat trails, plunge attacks, combo skills, and ultimate execution.
+- `assets/videos/ui_snapshots/`: 3 files (1 CRI USM video, 1 MP4 stream, 1 PNG thumbnail) rendering Laevatain's interactive UI snapshot showcase animation.
 
-### 4.3 Graphics ([`assets/textures/`](assets/textures))
+### 4.3 Graphics (`assets/textures/`)
 
 131 standalone UI textures and branding graphics (18.57 MB) organized into 7 categories:
 
-- [`assets/textures/portraits_and_branding/`](assets/textures/portraits_and_branding): 9 files. Full-resolution remote portrait icons (696x647 px), circular chat heads, battle icons, and character info background banners.
-- [`assets/textures/gacha_and_recruitment/`](assets/textures/gacha_and_recruitment): 59 files. Launch rate-up recruitment pool illustrations, character card cutouts, backdrop flame elements, weapon banner strips, and localized recruitment title badges across 13 client languages.
-- [`assets/textures/skills_and_talents/`](assets/textures/skills_and_talents): 14 files. Combat skill icons, combo line badges, and passive potential status indicators.
-- [`assets/textures/sns_and_snapshots/`](assets/textures/sns_and_snapshots): 3 files. In-game messenger SNS photos and snapshot camera emblems.
-- [`assets/textures/item_and_topic_icons/`](assets/textures/item_and_topic_icons): 16 files. Potential upgrade tokens, AP supply rations, quest achievement medals, and customized business card theme backdrops.
-- [`assets/textures/guide_and_loading_slides/`](assets/textures/guide_and_loading_slides): 12 files. High-resolution dungeon loading splash art and combat guide diagrams.
-- [`assets/textures/activity_and_events/`](assets/textures/activity_and_events): 18 files. Special sign-in event cards, calendar cell states, and completion emblems.
+- `assets/textures/portraits_and_branding/`: 9 files. Full-resolution remote portrait icons (696x647 px), circular chat heads, battle icons, and character info background banners.
+- `assets/textures/gacha_and_recruitment/`: 59 files. Launch rate-up recruitment pool illustrations, character card cutouts, backdrop flame elements, weapon banner strips, and localized recruitment title badges across 13 client languages.
+- `assets/textures/skills_and_talents/`: 14 files. Combat skill icons, combo line badges, and passive potential status indicators.
+- `assets/textures/sns_and_snapshots/`: 3 files. In-game messenger SNS photos and snapshot camera emblems.
+- `assets/textures/item_and_topic_icons/`: 16 files. Potential upgrade tokens, AP supply rations, quest achievement medals, and customized business card theme backdrops.
+- `assets/textures/guide_and_loading_slides/`: 12 files. High-resolution dungeon loading splash art and combat guide diagrams.
+- `assets/textures/activity_and_events/`: 18 files. Special sign-in event cards, calendar cell states, and completion emblems.
 
-### 4.4 Structured text ([`assets/text/`](assets/text))
+### 4.4 Structured text (`assets/text/`)
 
 4 comprehensive JSON dossiers documenting biographical data, voiceline transcript registries, combat mechanics, and alter ego cross-references:
 
-- [`assets/text/laevatain_profile_and_lore.json`](assets/text/laevatain_profile_and_lore.json): Biographical identity registry, Sarkaz heritage, Arts assimilation metrics, Krad arsenal report on the annular weapon ring, and official HR records CN_01 through CN_06 (including the undercover assignment as "Olga Randall" at UWST Beacon DAU.14).
-- [`assets/text/laevatain_voiceline_registry.json`](assets/text/laevatain_voiceline_registry.json): Exhaustive index of all 902 Japanese voicelines, categorizing trigger contexts across combat, profile, common extra, and Chapter 16 narrative acts.
-- [`assets/text/laevatain_skills_and_combat_stats.json`](assets/text/laevatain_skills_and_combat_stats.json): Numerical attributes, growth coefficients, 33 combat skill definitions (normal combo 1-5, plunge, battle skill, combo skill, ultimate skill, Heat absorption passive), 56 status buff configurations, and recommended signature swords.
-- [`assets/text/surtr_narrative_cross_references.json`](assets/text/surtr_narrative_cross_references.json): Text records and dialogue scripts across 10 localized languages linking Laevatain to original Arknights Surtr and the Twilight Flaming Giant.
+- `assets/text/laevatain_profile_and_lore.json`: Biographical identity registry, Sarkaz heritage, Arts assimilation metrics, Krad arsenal report on the annular weapon ring, and official HR records CN_01 through CN_06 (including the undercover assignment as "Olga Randall" at UWST Beacon DAU.14).
+- `assets/text/laevatain_voiceline_registry.json`: Exhaustive index of all 902 Japanese voicelines, categorizing trigger contexts across combat, profile, common extra, and Chapter 16 narrative acts.
+- `assets/text/laevatain_skills_and_combat_stats.json`: Numerical attributes, growth coefficients, 33 combat skill definitions (normal combo 1-5, plunge, battle skill, combo skill, ultimate skill, Heat absorption passive), 56 status buff configurations, and recommended signature swords.
+- `assets/text/surtr_narrative_cross_references.json`: Text records and dialogue scripts across 10 localized languages linking Laevatain to original Arknights Surtr and the Twilight Flaming Giant.
 
 ---
 
 ## 5. Category B: Dependent and compound assets inventory
 
-Category B assets require runtime skeletal hierarchies, shader parameters, or engine component bindings. They remain anchored in their original extracted package relative paths under [`assets/`](assets).
+Category B assets require runtime skeletal hierarchies, shader parameters, or engine component bindings. They remain anchored in their original extracted package relative paths under `assets/`.
 
 ### Cluster 1: Laevatain 3D character mesh, skeletal rig, and LOD tiers
 
-Located in [`assets/beyond/arts/entity/actor/lady/laevat/`](assets/beyond/arts/entity/actor/lady/laevat/):
+Located in `assets/beyond/arts/entity/actor/lady/laevat/`:
 
 - **Geometry meshes (148 files across `.obj` and `.fbx`):**
   - Torso and body geometry: Decimated across 4 LOD tiers (LOD0 through LOD3).
@@ -156,7 +156,7 @@ Located in [`assets/beyond/arts/entity/actor/lady/laevat/`](assets/beyond/arts/e
 
 ### Cluster 2: Character 3D surface textures and PBR maps
 
-33 image files providing surface responses for Laevatain's 3D model in [`assets/beyond/arts/entity/actor/lady/laevat/textures/`](assets/beyond/arts/entity/actor/lady/laevat/textures/):
+33 image files providing surface responses for Laevatain's 3D model in `assets/beyond/arts/entity/actor/lady/laevat/textures/`:
 
 - **Diffuse maps (`*_d.tga.png`):** Albedo color maps for body, hair, clothing, and weapon ring.
 - **Normal maps (`*_n.tga.png`):** Tangent-space normal maps for fabric creases, leather straps, and metallic engravings.
@@ -165,7 +165,7 @@ Located in [`assets/beyond/arts/entity/actor/lady/laevat/`](assets/beyond/arts/e
 
 ### Cluster 3: Character animation sequences and montages
 
-328 animation tracks (`.anim` and `.fbx_*` clips) in [`assets/beyond/arts/`](assets/beyond/arts/):
+328 animation tracks (`.anim` and `.fbx_*` clips) in `assets/beyond/arts/`:
 
 - **Locomotion:** Idle stances, walk loops, run entries, combat dash cycles, and posture transitions.
 - **Combat combos:** 5-stage sword combo attacks, aerial plunge start/loop/land, combo skill releases, and ultimate skill execution.
@@ -174,34 +174,34 @@ Located in [`assets/beyond/arts/entity/actor/lady/laevat/`](assets/beyond/arts/e
 
 ### Cluster 4: Material definitions and shader configurations
 
-20 material definition files (`.mat`) in [`assets/beyond/arts/`](assets/beyond/arts/):
+20 material definition files (`.mat`) in `assets/beyond/arts/`:
 
 - **Character materials:** Binds diffuse albedo, normal bumps, emissive channels, and PBR smoothness masks to Endfield's custom stylized PBR shader.
 - **Render states:** Defines stencil buffer values, depth testing biases, and two-sided face culling modes for hair alpha cards and cloak linings.
 
 ### Cluster 5: Skeletal physics, cloth simulation, and dynamic hair
 
-Configuration files and bindings in [`assets/beyond/arts/`](assets/beyond/arts/) and [`Data/Json/NPC/PrefabInfo/`](assets/Data/Json/NPC/PrefabInfo/):
+Configuration files and bindings in `assets/beyond/arts/` and `Data/Json/NPC/PrefabInfo/`:
 
 - **Cloth simulation:** Secondary physics solver driving mantle flow, skirt movement, and hair physics (`hasCloth: true`).
 - **Bone bindings:** Capsule colliders preventing skirt and hair mesh interpenetration with leg and shoulder meshes during high-speed combat dashes.
 
 ### Cluster 6: Combat VFX particle systems and flame prefabs
 
-204 Unity gameplay prefabs (`.prefab`) in [`assets/beyond/dynamicassets/gameplay/effects/prefabs/`](assets/beyond/dynamicassets/gameplay/effects/prefabs/) and 5 particle textures:
+204 Unity gameplay prefabs (`.prefab`) in `assets/beyond/dynamicassets/gameplay/effects/prefabs/` and 5 particle textures:
 
 - **Particle prefabs:** Flame bursts, molten impact rings, volcanic ground fissures, and blade heat trails.
 - **Ultimate avatar familiar:** VFX prefabs and timeline director tracks invoking the colossal Twilight Flaming Giant during her ultimate state.
 
 ### Cluster 7: Pre-patch base divergence prefabs
 
-53 pre-patch flame effect prefabs in [`assets/divergence/pre_patch_base/`](assets/divergence/pre_patch_base/):
+53 pre-patch flame effect prefabs in `assets/divergence/pre_patch_base/`:
 
 - **Preserved assets:** Unpacked from the shipping base client (`StreamingAssets/VFS/7064D8E2/7064D8E2.blc`) to preserve the pre-rework flame effect configurations (`p_laevat_normal_skill_start_01`, `p_fxbat_laevat_combo_skill_hit`, `p_fxbat_laevat_combo_skill_hit_02`, `p_fxbat_laevat_normal_skill_start_01`, `p_fxbat_laevat_attack_04_crack`) and their constituent hierarchies for comparative analysis.
 
 ### Cluster 8: Core game configuration tables and behavior JSONs
 
-Tables in [`Data/TableCfg/`](assets/Data/TableCfg/) and configs in [`Data/Json/`](assets/Data/Json/):
+Tables in `Data/TableCfg/` and configs in `Data/Json/`:
 
 - **Data tables:** SparkBuffer binary tables (`CharacterTable.bytes`, `CharGrowthTable.bytes`, `DialogTextTable.bytes`, `TextTable.bytes`, localized `I18nTextTable_*.bytes`).
 - **Behavior configs:** 56 combat buff JSONs, 33 skill parameter JSONs, and NPC interaction perform scripts.
@@ -232,7 +232,7 @@ Media organized in `assets/textures/` requiring presentation compensation to ren
 
 ## 7. Stage 3 verification and next steps
 
-- **Integrity verification:** All 2,652 assets are verified on disk, with 100% of the 2,626 in-scope records passing the parity gate in [`meta/manifest.json`](meta/manifest.json).
-- **Provenance tracking:** Complete pre-organization snapshot is preserved in [`meta/pre_cleaning_snapshot.json`](meta/pre_cleaning_snapshot.json), and all 1,057 relocated files are tracked in [`meta/provenance_ledger.json`](meta/provenance_ledger.json).
-- **Interactive gallery:** Updated to Stage 3 with categorized audio, video modal playback, and organized texture groups on [`https://4163.github.io/laevatain-assets`](https://4163.github.io/laevatain-assets).
-- **Readiness for Stage 4:** This specification completes the clustering and material linkage foundation required for [`specs/visualization-spec.md`](specs/visualization-spec.md).
+- **Integrity verification:** All 2,652 assets are verified on disk, with 100% of the 2,626 in-scope records passing the parity gate in `meta/manifest.json`.
+- **Provenance tracking:** Complete pre-organization snapshot is preserved in `meta/pre_cleaning_snapshot.json`, and all 1,057 relocated files are tracked in `meta/provenance_ledger.json`.
+- **Interactive gallery:** Updated to Stage 3 with categorized audio, video modal playback, and organized texture groups on https://4163.github.io/laevatain-assets.
+- **Readiness for Stage 4:** This specification completes the clustering and material linkage foundation required for [visualization-spec.md](visualization-spec.md).
