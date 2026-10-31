@@ -199,7 +199,7 @@ An exhaustive audit across physical client packages (`StreamingAssets/` vs. `Per
 
 - **Audio purges (33 legacy clips):** 33 standalone combat and action vocalization clips (`_sv`) cataloged in the historical pre-launch index were purged from production packages. They were replaced by the modern combat callout (`au_btl_*`) and dialogue (`au_dlg_commvo_*`) framework.
 - **Production audio coverage:** 902 Japanese voicelines voiced by Horie Yui extracted into `assets/` (160 core character lines + 742 Chapter 16 narrative dialogue lines across `c16m1` through `c16m4`), providing 100% extracted coverage of all available Horie Yui audio.
-- **Physical package divergence:** 5 flame effect prefabs were updated in `7064D8E2.blc` during Beta Test II. Both the production patched versions and 53 base shipping pre-patch prefabs (extracted into `assets/divergence/pre_patch_base/`) are cataloged on disk.
+- **Physical package divergence:** 5 flame effect prefabs were updated in `7064D8E2.blc` between base packages and subsequent patch updates. Both the production patched versions and 53 base shipping pre-patch prefabs (extracted into `assets/divergence/pre_patch_base/`) are cataloged on disk.
 - **Visual models, textures, animations:** 0 purges. All 2,281 asset references in `manifest.hgmmap` remain present across base and patched distributions.
 - **External timeline confirmation:** Debuted at global launch (January 22, 2026) as the launch rate-up banner with permanent story quest content. Zero limited-time festival content or delisted skins have been pruned.
 

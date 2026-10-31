@@ -31191,173 +31191,173 @@
     }
   },
   "divergence": {
-    "historical_version_audited": "Arknights: Endfield v1.3 / Beta Index (beyond.map)",
+    "historical_version_audited": "Arknights: Endfield v1.3 index (beyond.map)",
     "purged_assets_count": 33,
     "purged_assets": [
       {
         "name": "chr_0016_laevat_combat_attack01_sv",
         "category": "Action & Combat Vocalization",
-        "cause": "Legacy Technical Test / Beta action callout purged by Gryphline upon migration to modern dialogue (au_dlg_commvo_*) and combat systems."
+        "cause": "Legacy development action callout purged by Gryphline upon migration to modern dialogue (au_dlg_commvo_*) and combat systems."
       },
       {
         "name": "chr_0016_laevat_combat_attack02_sv",
         "category": "Action & Combat Vocalization",
-        "cause": "Legacy Technical Test / Beta action callout purged by Gryphline upon migration to modern dialogue (au_dlg_commvo_*) and combat systems."
+        "cause": "Legacy development action callout purged by Gryphline upon migration to modern dialogue (au_dlg_commvo_*) and combat systems."
       },
       {
         "name": "chr_0016_laevat_combat_attack03_sv",
         "category": "Action & Combat Vocalization",
-        "cause": "Legacy Technical Test / Beta action callout purged by Gryphline upon migration to modern dialogue (au_dlg_commvo_*) and combat systems."
+        "cause": "Legacy development action callout purged by Gryphline upon migration to modern dialogue (au_dlg_commvo_*) and combat systems."
       },
       {
         "name": "chr_0016_laevat_combat_attack04_sv",
         "category": "Action & Combat Vocalization",
-        "cause": "Legacy Technical Test / Beta action callout purged by Gryphline upon migration to modern dialogue (au_dlg_commvo_*) and combat systems."
+        "cause": "Legacy development action callout purged by Gryphline upon migration to modern dialogue (au_dlg_commvo_*) and combat systems."
       },
       {
         "name": "chr_0016_laevat_combat_attack_backup01_sv",
         "category": "Action & Combat Vocalization",
-        "cause": "Legacy Technical Test / Beta action callout purged by Gryphline upon migration to modern dialogue (au_dlg_commvo_*) and combat systems."
+        "cause": "Legacy development action callout purged by Gryphline upon migration to modern dialogue (au_dlg_commvo_*) and combat systems."
       },
       {
         "name": "chr_0016_laevat_combat_attack_backup02_sv",
         "category": "Action & Combat Vocalization",
-        "cause": "Legacy Technical Test / Beta action callout purged by Gryphline upon migration to modern dialogue (au_dlg_commvo_*) and combat systems."
+        "cause": "Legacy development action callout purged by Gryphline upon migration to modern dialogue (au_dlg_commvo_*) and combat systems."
       },
       {
         "name": "chr_0016_laevat_combat_attack_backup03_sv",
         "category": "Action & Combat Vocalization",
-        "cause": "Legacy Technical Test / Beta action callout purged by Gryphline upon migration to modern dialogue (au_dlg_commvo_*) and combat systems."
+        "cause": "Legacy development action callout purged by Gryphline upon migration to modern dialogue (au_dlg_commvo_*) and combat systems."
       },
       {
         "name": "chr_0016_laevat_combat_attack_fall_sv",
         "category": "Action & Combat Vocalization",
-        "cause": "Legacy Technical Test / Beta action callout purged by Gryphline upon migration to modern dialogue (au_dlg_commvo_*) and combat systems."
+        "cause": "Legacy development action callout purged by Gryphline upon migration to modern dialogue (au_dlg_commvo_*) and combat systems."
       },
       {
         "name": "chr_0016_laevat_combat_attack_last_sv",
         "category": "Action & Combat Vocalization",
-        "cause": "Legacy Technical Test / Beta action callout purged by Gryphline upon migration to modern dialogue (au_dlg_commvo_*) and combat systems."
+        "cause": "Legacy development action callout purged by Gryphline upon migration to modern dialogue (au_dlg_commvo_*) and combat systems."
       },
       {
         "name": "chr_0016_laevat_combat_attack_rise_sv",
         "category": "Action & Combat Vocalization",
-        "cause": "Legacy Technical Test / Beta action callout purged by Gryphline upon migration to modern dialogue (au_dlg_commvo_*) and combat systems."
+        "cause": "Legacy development action callout purged by Gryphline upon migration to modern dialogue (au_dlg_commvo_*) and combat systems."
       },
       {
         "name": "chr_0016_laevat_combat_attack_sv_heavy",
         "category": "Action & Combat Vocalization",
-        "cause": "Legacy Technical Test / Beta action callout purged by Gryphline upon migration to modern dialogue (au_dlg_commvo_*) and combat systems."
+        "cause": "Legacy development action callout purged by Gryphline upon migration to modern dialogue (au_dlg_commvo_*) and combat systems."
       },
       {
         "name": "chr_0016_laevat_combat_attack_sv_light",
         "category": "Action & Combat Vocalization",
-        "cause": "Legacy Technical Test / Beta action callout purged by Gryphline upon migration to modern dialogue (au_dlg_commvo_*) and combat systems."
+        "cause": "Legacy development action callout purged by Gryphline upon migration to modern dialogue (au_dlg_commvo_*) and combat systems."
       },
       {
         "name": "chr_0016_laevat_combat_attack_sv_medium",
         "category": "Action & Combat Vocalization",
-        "cause": "Legacy Technical Test / Beta action callout purged by Gryphline upon migration to modern dialogue (au_dlg_commvo_*) and combat systems."
+        "cause": "Legacy development action callout purged by Gryphline upon migration to modern dialogue (au_dlg_commvo_*) and combat systems."
       },
       {
         "name": "chr_0016_laevat_combat_hurt_sv_heavy",
         "category": "Action & Combat Vocalization",
-        "cause": "Legacy Technical Test / Beta action callout purged by Gryphline upon migration to modern dialogue (au_dlg_commvo_*) and combat systems."
+        "cause": "Legacy development action callout purged by Gryphline upon migration to modern dialogue (au_dlg_commvo_*) and combat systems."
       },
       {
         "name": "chr_0016_laevat_combat_hurt_sv_light",
         "category": "Action & Combat Vocalization",
-        "cause": "Legacy Technical Test / Beta action callout purged by Gryphline upon migration to modern dialogue (au_dlg_commvo_*) and combat systems."
+        "cause": "Legacy development action callout purged by Gryphline upon migration to modern dialogue (au_dlg_commvo_*) and combat systems."
       },
       {
         "name": "chr_0016_laevat_combat_hurt_sv_nor",
         "category": "Action & Combat Vocalization",
-        "cause": "Legacy Technical Test / Beta action callout purged by Gryphline upon migration to modern dialogue (au_dlg_commvo_*) and combat systems."
+        "cause": "Legacy development action callout purged by Gryphline upon migration to modern dialogue (au_dlg_commvo_*) and combat systems."
       },
       {
         "name": "chr_0016_laevat_combat_skill_nor_extra_sv",
         "category": "Action & Combat Vocalization",
-        "cause": "Legacy Technical Test / Beta action callout purged by Gryphline upon migration to modern dialogue (au_dlg_commvo_*) and combat systems."
+        "cause": "Legacy development action callout purged by Gryphline upon migration to modern dialogue (au_dlg_commvo_*) and combat systems."
       },
       {
         "name": "chr_0016_laevat_combat_skill_nor_sv",
         "category": "Action & Combat Vocalization",
-        "cause": "Legacy Technical Test / Beta action callout purged by Gryphline upon migration to modern dialogue (au_dlg_commvo_*) and combat systems."
+        "cause": "Legacy development action callout purged by Gryphline upon migration to modern dialogue (au_dlg_commvo_*) and combat systems."
       },
       {
         "name": "chr_0016_laevat_combat_ult_attack01_sv",
         "category": "Action & Combat Vocalization",
-        "cause": "Legacy Technical Test / Beta action callout purged by Gryphline upon migration to modern dialogue (au_dlg_commvo_*) and combat systems."
+        "cause": "Legacy development action callout purged by Gryphline upon migration to modern dialogue (au_dlg_commvo_*) and combat systems."
       },
       {
         "name": "chr_0016_laevat_combat_ult_attack02_sv",
         "category": "Action & Combat Vocalization",
-        "cause": "Legacy Technical Test / Beta action callout purged by Gryphline upon migration to modern dialogue (au_dlg_commvo_*) and combat systems."
+        "cause": "Legacy development action callout purged by Gryphline upon migration to modern dialogue (au_dlg_commvo_*) and combat systems."
       },
       {
         "name": "chr_0016_laevat_combat_ult_attack03_sv",
         "category": "Action & Combat Vocalization",
-        "cause": "Legacy Technical Test / Beta action callout purged by Gryphline upon migration to modern dialogue (au_dlg_commvo_*) and combat systems."
+        "cause": "Legacy development action callout purged by Gryphline upon migration to modern dialogue (au_dlg_commvo_*) and combat systems."
       },
       {
         "name": "chr_0016_laevat_combat_ult_attack_last_sv",
         "category": "Action & Combat Vocalization",
-        "cause": "Legacy Technical Test / Beta action callout purged by Gryphline upon migration to modern dialogue (au_dlg_commvo_*) and combat systems."
+        "cause": "Legacy development action callout purged by Gryphline upon migration to modern dialogue (au_dlg_commvo_*) and combat systems."
       },
       {
         "name": "chr_0016_laevat_explocomm_switch_sv",
         "category": "Action & Combat Vocalization",
-        "cause": "Legacy Technical Test / Beta action callout purged by Gryphline upon migration to modern dialogue (au_dlg_commvo_*) and combat systems."
+        "cause": "Legacy development action callout purged by Gryphline upon migration to modern dialogue (au_dlg_commvo_*) and combat systems."
       },
       {
         "name": "chr_0016_laevat_idlespecial_react01_sv",
         "category": "Action & Combat Vocalization",
-        "cause": "Legacy Technical Test / Beta action callout purged by Gryphline upon migration to modern dialogue (au_dlg_commvo_*) and combat systems."
+        "cause": "Legacy development action callout purged by Gryphline upon migration to modern dialogue (au_dlg_commvo_*) and combat systems."
       },
       {
         "name": "chr_0016_laevat_idlespecial_relax01_sv",
         "category": "Action & Combat Vocalization",
-        "cause": "Legacy Technical Test / Beta action callout purged by Gryphline upon migration to modern dialogue (au_dlg_commvo_*) and combat systems."
+        "cause": "Legacy development action callout purged by Gryphline upon migration to modern dialogue (au_dlg_commvo_*) and combat systems."
       },
       {
         "name": "chr_0016_laevat_idlespecial_relax02_sv",
         "category": "Action & Combat Vocalization",
-        "cause": "Legacy Technical Test / Beta action callout purged by Gryphline upon migration to modern dialogue (au_dlg_commvo_*) and combat systems."
+        "cause": "Legacy development action callout purged by Gryphline upon migration to modern dialogue (au_dlg_commvo_*) and combat systems."
       },
       {
         "name": "chr_0016_laevat_action_dash_start_sv",
         "category": "Action & Combat Vocalization",
-        "cause": "Legacy Technical Test / Beta action callout purged by Gryphline upon migration to modern dialogue (au_dlg_commvo_*) and combat systems."
+        "cause": "Legacy development action callout purged by Gryphline upon migration to modern dialogue (au_dlg_commvo_*) and combat systems."
       },
       {
         "name": "chr_0016_laevat_action_dodge_sv",
         "category": "Action & Combat Vocalization",
-        "cause": "Legacy Technical Test / Beta action callout purged by Gryphline upon migration to modern dialogue (au_dlg_commvo_*) and combat systems."
+        "cause": "Legacy development action callout purged by Gryphline upon migration to modern dialogue (au_dlg_commvo_*) and combat systems."
       },
       {
         "name": "chr_0016_laevat_action_jump_nor_sv",
         "category": "Action & Combat Vocalization",
-        "cause": "Legacy Technical Test / Beta action callout purged by Gryphline upon migration to modern dialogue (au_dlg_commvo_*) and combat systems."
+        "cause": "Legacy development action callout purged by Gryphline upon migration to modern dialogue (au_dlg_commvo_*) and combat systems."
       },
       {
         "name": "chr_0016_laevat_action_jump_running_sv",
         "category": "Action & Combat Vocalization",
-        "cause": "Legacy Technical Test / Beta action callout purged by Gryphline upon migration to modern dialogue (au_dlg_commvo_*) and combat systems."
+        "cause": "Legacy development action callout purged by Gryphline upon migration to modern dialogue (au_dlg_commvo_*) and combat systems."
       },
       {
         "name": "chr_0016_laevat_action_land_high_sv",
         "category": "Action & Combat Vocalization",
-        "cause": "Legacy Technical Test / Beta action callout purged by Gryphline upon migration to modern dialogue (au_dlg_commvo_*) and combat systems."
+        "cause": "Legacy development action callout purged by Gryphline upon migration to modern dialogue (au_dlg_commvo_*) and combat systems."
       },
       {
         "name": "chr_0016_laevat_action_land_nor_sv",
         "category": "Action & Combat Vocalization",
-        "cause": "Legacy Technical Test / Beta action callout purged by Gryphline upon migration to modern dialogue (au_dlg_commvo_*) and combat systems."
+        "cause": "Legacy development action callout purged by Gryphline upon migration to modern dialogue (au_dlg_commvo_*) and combat systems."
       },
       {
         "name": "chr_0016_laevat_action_throw_sv",
         "category": "Action & Combat Vocalization",
-        "cause": "Legacy Technical Test / Beta action callout purged by Gryphline upon migration to modern dialogue (au_dlg_commvo_*) and combat systems."
+        "cause": "Legacy development action callout purged by Gryphline upon migration to modern dialogue (au_dlg_commvo_*) and combat systems."
       }
     ],
     "modified_bundles_count": 5,

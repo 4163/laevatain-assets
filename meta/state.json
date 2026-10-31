@@ -111,7 +111,7 @@
     }
   },
   "divergence_audit": {
-    "historical_version_audited": "Arknights: Endfield v1.3 / Beta Index (beyond.map)",
+    "historical_version_audited": "Arknights: Endfield v1.3 index (beyond.map)",
     "purged_assets_count": 33,
     "purged_assets_list": [
       "chr_0016_laevat_combat_attack01_sv",
@@ -148,7 +148,7 @@
       "chr_0016_laevat_action_land_nor_sv",
       "chr_0016_laevat_action_throw_sv"
     ],
-    "cause": "Legacy Technical Test / Beta vocalizations purged by Gryphline in production distribution; verified absent from all 1,298 chunk packages on disk."
+    "cause": "Legacy development vocalizations purged by Gryphline in production distribution; verified absent from all 1,298 chunk packages on disk."
   },
   "stage_3_metrics": {
     "category_a_standalone_files": 1061,

@@ -1,6 +1,6 @@
 # Laevatain / Surtr (Arknights: Endfield)
 
-Extracted game assets, technical specifications, and interactive visual confirmation gallery for **Laevatain** (`chr_0016_laevat` / alter ego **Surtr**) from **Arknights: Endfield** (PC Client, Beta Test II with historical base client divergence audit).
+Extracted game assets, technical specifications, and interactive visual confirmation gallery for **Laevatain** (`chr_0016_laevat` / alter ego **Surtr**) from **Arknights: Endfield** (v1.6.3 client with base package divergence audit).
 
 ## Pipeline and reproduction
 
@@ -35,7 +35,7 @@ Total verified assets on disk: **2,652 files** (274.42 MB).
 - **Skeletal hierarchy:** 85-node humanoid skeletal rig mapped to Unity humanoid standards (`Bip001` -> `Pelvis` -> `Spine` -> `Spine1` -> `Spine2` -> `Neck` -> `Head`).
 - **Material parameters:** Stylized PBR multi-channel surface pipeline binding albedo diffuse (`_BaseMap`), metallic-roughness-AO-subsurface packed map (`_MaskMap`: R=Metallic, G=Roughness, B=AO, A=Subsurface), stepped cel-shading light ramp (`_RampMap`), anisotropic hair specular (`_HairSpecMap`), and procedural inverted hull outline passes (`_OutlineWidth`: 0.0015).
 - **Audio architecture:** Audiokinetic Wwise dynamic XOR/ChaCha20 encrypted streams decoded via 64-bit Wwise sound ID seeds. All 902 Japanese voicelines voiced by Horie Yui (堀江由衣) across combat cues, hub interactions, and Chapter 16 narrative episodes.
-- **Historical divergence:** Includes 53 base-client flame particle effect prefabs in `assets/divergence/pre_patch_base/` compared against production revisions, and documents the permanent deprecation of 33 legacy Alpha test `_sv` clips.
+- **Historical divergence:** Includes 53 base-client flame particle effect prefabs in `assets/divergence/pre_patch_base/` compared against production revisions, and documents the deprecation of 33 legacy development action clips (`_sv`).
 
 Full technical details, cluster bindings, and runtime blueprints are documented in [specs/visualization-spec.md](specs/visualization-spec.md).
 

@@ -1,6 +1,6 @@
 # Proprietary and custom extraction tooling
 
-This directory contains custom utilities and scripts created for extracting, decrypting, and parsing assets from **Arknights: Endfield** (PC Client, Beta Test II).
+This directory contains custom utilities and scripts created for extracting, decrypting, and parsing assets from **Arknights: Endfield** (v1.6.3).
 
 ## Tool inventory
 

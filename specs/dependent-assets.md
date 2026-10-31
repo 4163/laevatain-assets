@@ -1,7 +1,7 @@
 # Dependent and compound assets specification: Laevatain (Surtr)
 
 Project: [laevatain-assets](https://github.com/4163/laevatain-assets)  
-Client target: Arknights: Endfield (PC Client)  
+Client target: Arknights: Endfield (PC Client v1.6.3)  
 Entity: Laevatain / Surtr (`chr_0016_laevat`)  
 Stage: Stage 3 Asset Categorization
 

@@ -1,7 +1,7 @@
 # Presentation and visualization specification: Laevatain (Surtr)
 
 Project: [laevatain-assets](https://github.com/4163/laevatain-assets)  
-Client target: Arknights: Endfield (PC Client)  
+Client target: Arknights: Endfield (PC Client v1.6.3)  
 Entity: Laevatain / Surtr (`chr_0016_laevat`)  
 Stage: Stage 4 Presentation and visualization specification
 
@@ -162,7 +162,7 @@ Physics configurations are defined in `Data/Json/NPC/PrefabInfo/npc_chr_0016_lae
   - `p_fxbat_laevat_combo_skill_hit_02`
   - `p_fxbat_laevat_normal_skill_start_01`
   - `p_fxbat_laevat_attack_04_crack`
-- **Divergence analysis:** In Beta Test II, Gryphline reduced particle emission density by 18% and accelerated flame dissipation curves to eliminate screen clutter during 4-operator cooperative combat.
+- **Divergence analysis:** In client patch updates, Gryphline reduced particle emission density by 18% and accelerated flame dissipation curves to eliminate screen clutter during 4-operator cooperative combat.
 
 ---
 

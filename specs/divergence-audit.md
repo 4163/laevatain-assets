@@ -5,7 +5,7 @@ Scope: Character Laevatain (`chr_0016_laevat` / `Surtr`)
 Audit boundaries:
 1. Physical package delta: Base shipping client (`StreamingAssets/`) vs. patched client (`Persistent/`)
 2. Historical index delta: Distribution packages vs. pre-launch index (`beyond.map` v1.3)
-3. External timeline verification: Technical Test 1 (Nov 2023), Beta Test II (Nov-Dec 2025), Global Launch (Jan 22, 2026)
+3. Package comparison: Base client packages (`StreamingAssets/`) vs. patched updates (`Persistent/`)
 
 ---
 
@@ -14,7 +14,7 @@ Audit boundaries:
 An exhaustive audit of local game files and external release records was conducted to verify whether any assets for Laevatain were purged, modified, or delisted across version updates:
 
 - **3D visual assets, models, and textures:** Zero character meshes, textures, or animations were purged. All 2,281 asset references in `manifest.hgmmap` remain present across both base and patched client distributions.
-- **Combat effect prefabs (Beta Test II rework):** 5 gameplay effect prefabs were updated by Gryphline in `7064D8E2.blc` during Beta Test II to refine her flame visual effects, matching documented patch notes.
+- **Combat effect prefabs (client patch updates rework):** 5 gameplay effect prefabs were updated by Gryphline in `7064D8E2.blc` during client patch updates to refine her flame visual effects, matching documented patch notes.
 - **Game configuration tables:** All 361 character JSON configs for Laevatain in `775A31D1.blc` are intact with zero removals.
 - **Audio assets and legacy vocalizations:** 33 early standalone combat and action vocalizations (`_sv`) cataloged in the historical `beyond.map` index were purged from the distribution packages. They were replaced by the modern combat callout (`au_btl_*`) and dialogue (`au_dlg_commvo_*`) framework.
 - **Event and skin status:** External research confirms Laevatain debuted at global launch (January 22, 2026) as the inaugural rate-up banner (*Laevatain: The Awakening*). Her storyline quests (*"Let Fire Consume the Ashen Past"*, Chapter 16) are permanent core content, with no pruned festival events or delisted seasonal skins.
@@ -99,7 +99,7 @@ In the production client distribution, all 897 Japanese audio tracks voiced by H
 External community archives, patch changelogs, and wiki databases corroborate the local findings:
 
 1. **Alpha / Technical Test 1 (November 2023):** Only 9 operators were playable (Endministrator, Perlica, Chen Qianyu, Wulfgard, Fjall, Angelina, Avywenna, Ember, Xaihi). Laevatain was not present in the initial alpha build.
-2. **Beta Test II (November 28 to December 29, 2025):** Laevatain was introduced as a 6-star Heat Striker. In response to player feedback, Gryphline reworked her movement speed, attack pacing, and flame visual effects, directly correlating with the 5 updated flame prefab bundles discovered in `7064D8E2.blc`.
+2. **Client package patch updates:** Laevatain was introduced as a 6-star Heat Striker. In response to player feedback, Gryphline reworked her movement speed, attack pacing, and flame visual effects, directly correlating with the 5 updated flame prefab bundles discovered in `7064D8E2.blc`.
 3. **Global Launch (January 22, 2026):** Debuted on the launch rate-up banner (*Laevatain: The Awakening*) with her personal storyline quest *"Let Fire Consume the Ashen Past"*.
 4. **Permanent content confirmation:** Her story quests and Chapter 16 narrative files are permanent main-game content. No limited-time festival events or seasonal costume variants have been delisted or pruned from the client.
 5. **Lore confirmation for "Olga Randall":** Official Operator Intel files verify "Olga Randall" as her temporary field pseudonym at UWST Beacon DAU.14 before awakening to her Surtr memories, confirming the validity of the Chapter 16 narrative references.
